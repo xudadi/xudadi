@@ -21,8 +21,7 @@ def get_link_info(feed_url, num):
     for entrie in feed_entries[0: all_number]:
         title = entrie["title"]
         link = entrie["link"]
-        # result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
-        result += f"\n<a href='{link}' target='_blank'>[{title}]</a>\n"  # 使用f-string优化字符串连接
+        result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
         
     
     return result
