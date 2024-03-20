@@ -22,7 +22,7 @@ def get_link_info(feed_url, num):
         title = entrie["title"]
         link = entrie["link"]
         # result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
-        result = result + "\n" + "<a href="(" + link + ")" target="_blank">[" + title + "]</a>" + "\n"
+        result = result + "\n"+<a href='{link}' target='_blank'> + "[" + title + "](" + link + ")" + "\n"
         
     
     return result
