@@ -21,8 +21,7 @@ def get_link_info(feed_url, num):
     for entrie in feed_entries[0: all_number]:
         title = entrie["title"]
         link = entrie["link"]
-        # result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
-        result = result + "\n" + "[" + title + "](" + link + " 'target="_blank")" + "\n"
+        result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
     
     return result
     
