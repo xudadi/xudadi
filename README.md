@@ -1,6 +1,10 @@
 ### xudadi: 一个热衷开源事业的程序员 👋
 
 ![xudadi](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=xudadi)
+![VISITOR+COUNT](https://komarev.com/ghpvc/?username=xudadi&label=VISITOR+COUNT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xudadi)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xudadi&locale=zh_Hans)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/xudadi/xudadi/main/assets/github-contribution-grid-snake.svg)
 
 
 ---start---
@@ -20,14 +24,3 @@
 [undefined (重庆市人社局-事业单位及其他考试)](https://rlsbj.cq.gov.cn/zwxx_182/sydw/202402/t20240219_12934187.html)
 
 ---end---
-
-
-![VISITOR+COUNT](https://komarev.com/ghpvc/?username=xudadi&label=VISITOR+COUNT)
-
-[![liubiantao's github stats](https://github-readme-stats.vercel.app/api?username=xudadi&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xudadi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xudadi&locale=zh_Hans)](https://git.io/streak-stats)
-
-![](https://raw.githubusercontent.com/xudadi/xudadi/main/assets/github-contribution-grid-snake.svg)
