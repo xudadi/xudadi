@@ -5,7 +5,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-03-20 14:32:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-03-20 14:39:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
 
@@ -13,11 +13,11 @@
 
 [密码保护：使用微博作为图床](https://www.xudadi.com/read/1167.html)
 
-[Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
+[undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1843505)
 
-[如果不能赚更多钱，那就锻炼身体，多活几年](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
+[事业单位公开招聘 (重庆市人社局-事业单位公开招聘)](https://rlsbj.cq.gov.cn/zwxx_182/sydw/202403/t20240313_13033555.html)
 
-[Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
+[undefined (重庆市人社局-事业单位及其他考试)](https://rlsbj.cq.gov.cn/zwxx_182/sydw/202402/t20240219_12934187.html)
 
 ---end---
 
