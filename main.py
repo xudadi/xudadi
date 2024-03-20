@@ -21,7 +21,9 @@ def get_link_info(feed_url, num):
     for entrie in feed_entries[0: all_number]:
         title = entrie["title"]
         link = entrie["link"]
-        result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
+        # result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
+        result = result + "\n" + "<a href="(" + link + ")" target="_blank">[" + title + "]</a>" + "\n"
+        
     
     return result
     
@@ -29,14 +31,8 @@ def get_link_info(feed_url, num):
 
 
 
-
-
-
-
 def main():
 
-
-    
     xudadi_info =  get_link_info("https://www.xudadi.com/feed/?allow=zhaoolee", 3)
     print(xudadi_info)
     garss_info =  get_link_info("https://xudadi.cn/feeds/all.xml", 3)
