@@ -37,10 +37,10 @@ def main():
 
 
     
-    v2fy_info =  get_link_info("https://www.xudadi.com/feed/?allow=zhaoolee", 3)
-    print(v2fy_info)
-    fangyuanxiaozhan_info =  get_link_info("https://fangyuanxiaozhan.com/feed/", 3)
-    print(fangyuanxiaozhan_info)
+    xudadi_info =  get_link_info("https://www.xudadi.com/feed/?allow=zhaoolee", 3)
+    print(xudadi_info)
+    garss_info =  get_link_info("https://xudadi.cn/feeds/all.xml", 3)
+    print(garss_info)
 
     insert_info = v2fy_info + fangyuanxiaozhan_info
 
