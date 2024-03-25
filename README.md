@@ -9,9 +9,15 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-03-26 01:30:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-03-26 01:36:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1848910)
+[密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
+
+[win7/win10/win11打印机共享修复](https://www.xudadi.com/read/1185.html)
+
+[密码保护：使用微博作为图床](https://www.xudadi.com/read/1167.html)
+
+[undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1850092)
 
 [事业单位公开招聘 (重庆市人社局-事业单位公开招聘)](https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202403/t20240322_13059671.html)
 
