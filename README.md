@@ -9,7 +9,13 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-03-26 14:55:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-03-26 15:12:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
+
+[win7/win10/win11打印机共享修复](https://www.xudadi.com/read/1185.html)
+
+[密码保护：使用微博作为图床](https://www.xudadi.com/read/1167.html)
 
 [undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1850847)
 
