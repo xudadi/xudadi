@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-04-17 01:28:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-04-17 01:38:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
 
@@ -17,10 +17,10 @@
 
 [密码保护：使用微博作为图床](https://www.xudadi.com/read/1167.html)
 
-[undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1877518)
+[undefined (重庆市公考雷达)](https://www.gongkaoleida.com/article/1878580)
 
 [事业单位公开招聘 (重庆市人社局-事业单位公开招聘)](https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202404/t20240409_13118450.html)
 
-[undefined (重庆市人社局-事业单位及其他考试)](https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202404/t20240402_13100339.html)
+[undefined (重庆市人社局-事业单位及其他考试)](https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202404/t20240416_13134869.html)
 
 ---end---
