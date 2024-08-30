@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-08-31 01:31:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-08-31 01:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
 
@@ -21,6 +21,6 @@
 
 [undefined (重庆市国有资产监督管理委员会-国企招聘)](https://xudadi.github.io/feeds/all.xml)
 
-[undefined (重庆粉笔招考)](https://xudadi.github.io/feeds/all.xml)
+[undefined (读书博客)](https://xudadi.github.io/feeds/all.xml)
 
 ---end---
