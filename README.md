@@ -9,12 +9,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-24 10:37:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-24 11:04:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [密码保护：免费下载百度文库的办法](https://www.xudadi.com/read/1193.html)
 
 [win7/win10/win11打印机共享修复](https://www.xudadi.com/read/1185.html)
 
 [密码保护：使用微博作为图床](https://www.xudadi.com/read/1167.html)
+
+[undefined (重庆市公考雷达)](https://xudadi.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会-国企招聘)](https://xudadi.github.io/feeds/all.xml)
+
+[undefined (读书博客)](https://xudadi.github.io/feeds/all.xml)
 
 ---end---
