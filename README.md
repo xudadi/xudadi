@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-29 02:24:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-29 02:44:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市荣昌区消防救援局政府专职消防员招录公告](https://www.gongkaoleida.com/article/2173310)
 
+[长沙男子兼职主播月入3毛还被骂"土鳖" 公司回应](https://m.163.com/news/article/JFK9B1S3053469LG.html)
+
+[“老虎”受审一个月后 继任者被控收了6043万](https://m.163.com/news/article/JFK0BITI055040N3.html)
+
 [四川峨眉山景区内发生一起交通事故致3死2伤](https://m.163.com/news/article/JFK2326T0001899O.html)
-
-[浙江省长王浩接任省委书记 曾骑共享单车暗访](https://m.163.com/news/article/JFK0TKQ5055040N3.html)
-
-[王浩任浙江省委书记 易炼红不再担任](https://m.163.com/news/article/JFJV0VQI0001899O.html)
 
 ---end---
