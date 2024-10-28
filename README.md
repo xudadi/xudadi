@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-28 20:35:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-28 21:12:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆商务职业学院2024年招聘非在编工作人员招聘公告](https://www.gongkaoleida.com/article/2171624)
+[重庆市荣昌区消防救援局政府专职消防员招录公告](https://www.gongkaoleida.com/article/2173310)
 
-[村支书疑系爱马仕皮带开豪车慰问村民引关注 当地回应](https://m.163.com/news/article/JFJDUJU3053469LG.html)
+[四川峨眉山景区内发生一起交通事故致3死2伤](https://m.163.com/news/article/JFK2326T0001899O.html)
 
-[4岁男孩离开酒店第二天确诊川崎病 家长:装修气味很大](https://m.163.com/news/article/JFGOBIHH0512DU6N.html)
+[浙江省长王浩接任省委书记 曾骑共享单车暗访](https://m.163.com/news/article/JFK0TKQ5055040N3.html)
 
-["江苏第一位农民副县长"上警方通告 多年前就曾被举报](https://m.163.com/news/article/JFJATFVP053469M5.html)
+[王浩任浙江省委书记 易炼红不再担任](https://m.163.com/news/article/JFJV0VQI0001899O.html)
 
 ---end---
