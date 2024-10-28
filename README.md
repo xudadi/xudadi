@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-28 14:26:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-28 14:46:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市公安局辅警岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2171609)
+[派往重庆商务职业学院2024年招聘非在编工作人员招聘公告](https://www.gongkaoleida.com/article/2171624)
 
-[2024国谈首日多款罕见病药进场 恒瑞、诺华等药企现身](https://m.163.com/news/article/JFHOTVMK05198CJN.html)
+[村支书疑系爱马仕皮带开豪车慰问村民引关注 当地回应](https://m.163.com/news/article/JFJDUJU3053469LG.html)
 
-[大学生排百米长队吃"浙江锅盔" 背后故事令人泪目](https://m.163.com/news/article/JFHR88JP051492LM.html)
+[4岁男孩离开酒店第二天确诊川崎病 家长:装修气味很大](https://m.163.com/news/article/JFGOBIHH0512DU6N.html)
 
-[江西一小区底楼被改建成"祠堂" 当地最新回应](https://m.163.com/news/article/JFHJJOTU0530JPVV.html)
+["江苏第一位农民副县长"上警方通告 多年前就曾被举报](https://m.163.com/news/article/JFJATFVP053469M5.html)
 
 ---end---
