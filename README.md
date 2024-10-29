@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-29 14:25:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-29 14:47:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市荣昌区消防救援局政府专职消防员招录公告](https://www.gongkaoleida.com/article/2173310)
+[重庆大学高端装备机械传动全国重点实验室机器人研究所劳务派遣技术人员招聘启事](https://www.gongkaoleida.com/article/2174022)
 
 [神十九航天员乘组计划于明年4月下旬或5月上旬返回](https://m.163.com/news/article/JFLFPCKQ0001899O.html)
 
