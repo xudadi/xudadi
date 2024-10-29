@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-29 07:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-29 09:21:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市荣昌区消防救援局政府专职消防员招录公告](https://www.gongkaoleida.com/article/2173310)
 
-[长沙男子兼职主播月入3毛还被骂"土鳖" 公司回应](https://m.163.com/news/article/JFK9B1S3053469LG.html)
+[神十九航天员乘组计划于明年4月下旬或5月上旬返回](https://m.163.com/news/article/JFLFPCKQ0001899O.html)
 
-[“老虎”受审一个月后 继任者被控收了6043万](https://m.163.com/news/article/JFK0BITI055040N3.html)
+[航天员王浩泽是中国目前唯一女航天飞行工程师](https://m.163.com/news/article/JFLFFRHU05346RC6.html)
 
-[四川峨眉山景区内发生一起交通事故致3死2伤](https://m.163.com/news/article/JFK2326T0001899O.html)
+[航天员宋令东将是中国首个飞天的"90后"男航天员](https://m.163.com/news/article/JFLFFQTB05346RC6.html)
 
 ---end---
