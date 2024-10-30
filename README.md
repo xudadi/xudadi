@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-30 16:45:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-30 17:18:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学高端装备机械传动全国重点实验室机器人研究所劳务派遣技术人员招聘启事](https://www.gongkaoleida.com/article/2174022)
+[重庆玖翕盛友企业管理服务有限公司招聘简章](https://www.gongkaoleida.com/article/2175607)
 
-[神十九发射成功 两名"90后"出发前"嘴角根本压不住"](https://m.163.com/news/article/JFNUJMHA055040N3.html)
+[太空全家福来了 神十八、神十九航天员拍下"天宫"合影](https://m.163.com/news/article/JFOH5NRT000189PS.html)
 
-[刘世锦回应"10万亿刺激计划"：刺激是有代价的](https://m.163.com/news/article/JFMSMCU40519DDQ2.html)
+[辽宁葫芦岛市一轿车与火车相撞 已致2死6伤](https://m.163.com/news/article/JFOGGTEG0001899N.html)
 
-[90后要上天：女航天员王浩泽对镜头比心](https://m.163.com/news/article/JFNDOB8V000189PS.html)
+[赖清德称未来将完成11艘1000吨级以上舰船 国台办回应](https://m.163.com/news/article/JFOA726Q0514R9OJ.html)
 
 ---end---
