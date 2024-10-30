@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-30 20:34:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-30 21:11:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆玖翕盛友企业管理服务有限公司招聘简章](https://www.gongkaoleida.com/article/2175607)
+[垫江县县属国有企业2024年公开考试招聘工作人员公告](https://www.gongkaoleida.com/article/2176413)
 
-[太空全家福来了 神十八、神十九航天员拍下"天宫"合影](https://m.163.com/news/article/JFOH5NRT000189PS.html)
+[3位干部任厅级新职：1位跨省履新 1位“80后”](https://m.163.com/news/article/JFP5MPQI0530JPVV.html)
 
-[辽宁葫芦岛市一轿车与火车相撞 已致2死6伤](https://m.163.com/news/article/JFOGGTEG0001899N.html)
+[6位干部拟任厅级新职：1位“85后” 3位女干部](https://m.163.com/news/article/JFJK1C5N055040N3.html)
 
-[赖清德称未来将完成11艘1000吨级以上舰船 国台办回应](https://m.163.com/news/article/JFOA726Q0514R9OJ.html)
+[任上被拿下的公安厅副厅长获刑 法院对其酌情从重处罚](https://m.163.com/news/article/JFP33CC0051482MP.html)
 
 ---end---
