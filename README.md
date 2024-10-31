@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-31 14:24:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-31 14:45:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[垫江县县属国有企业2024年公开考试招聘工作人员公告](https://www.gongkaoleida.com/article/2176413)
+[派往重庆市涪陵区规划和自然资源局招聘启事](https://www.gongkaoleida.com/article/2176756)
 
-[浙江野猪猎人每个月有近20天在狩猎：每年倒贴几十万](https://m.163.com/news/article/JFPM0KQ5055040N3.html)
+[媒体：超50名厅局级干部密集交流任职 三分之一是博士](https://m.163.com/news/article/JFQNFPUS0530JPVV.html)
 
-[中央纪委书记李希动员部署 透露中央巡视新任务](https://m.163.com/news/article/JFPI4N7E051482MP.html)
+[成都华西医院附近商铺突发火灾 医院：已收治至少24人](https://m.163.com/news/article/JFR6R3TG0001899O.html)
 
-[官方调查"副局长从厕所跳窗逃离"](https://m.163.com/news/article/JFP66K8B051492T3.html)
+[奥沙利文通过优才计划成为香港居民](https://m.163.com/news/article/JFR4I07J0001899O.html)
 
 ---end---
