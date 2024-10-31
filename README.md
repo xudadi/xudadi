@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-10-31 20:34:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-10-31 21:05:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市涪陵区规划和自然资源局招聘启事](https://www.gongkaoleida.com/article/2176756)
+[重庆大学光电工程学院视觉检测和精密测量团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2177565)
 
-[媒体：超50名厅局级干部密集交流任职 三分之一是博士](https://m.163.com/news/article/JFQNFPUS0530JPVV.html)
+[华为前三季度利润为628.7亿元](https://m.163.com/news/article/JFRR4B6R0534A4SC.html)
 
-[成都华西医院附近商铺突发火灾 医院：已收治至少24人](https://m.163.com/news/article/JFR6R3TG0001899O.html)
+[女子患重症想退3万多元课时费 中公教育拒不履行:没钱](https://m.163.com/news/article/JFRLQSVF0514R9P4.html)
 
-[奥沙利文通过优才计划成为香港居民](https://m.163.com/news/article/JFR4I07J0001899O.html)
+[姚明回应辞任篮协主席:希望为新班子留完整的奥运周期](https://m.163.com/news/article/JFRKT8IU0001899O.html)
 
 ---end---
