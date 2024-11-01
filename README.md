@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-02 02:23:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-02 02:43:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2179380)
 
+[四川一公务员突发疾病抢救超48小时死亡 不被认定工伤](https://m.163.com/news/article/JFU0TPU3053469LG.html)
+
 [女副省长任上落马后 曾先后任两省税务局长的老公被查](https://m.163.com/news/article/JFUDL89K05129QAF.html)
 
-[26年受贿2.2亿的副部级受审 曾泄露证券市场重磅消息](https://m.163.com/news/article/JFUCOGRP055040N3.html)
-
-[央企招聘"混入"不符条件院校人员 官方：工作人员失误](https://m.163.com/news/article/JFUA1KLL055690HN.html)
+[媒体：小西天景区像"惊弓之鸟" 克扣保安工资疑被捅破](https://m.163.com/news/article/JFUCOQIL0550A0OW.html)
 
 ---end---
