@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-01 07:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-01 09:25:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学光电工程学院视觉检测和精密测量团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2177565)
 
-[华为前三季度利润为628.7亿元](https://m.163.com/news/article/JFRR4B6R0534A4SC.html)
+[从县长贪到副部级 65岁官员受审：非法倒卖土地使用权](https://m.163.com/news/article/JFRT0C5G055040N3.html)
 
-[女子患重症想退3万多元课时费 中公教育拒不履行:没钱](https://m.163.com/news/article/JFRLQSVF0514R9P4.html)
+[华为公布前三季度业绩 任正非：还不能说华为能活下来](https://m.163.com/news/article/JFT2PTFR0530WJIN.html)
 
-[姚明回应辞任篮协主席:希望为新班子留完整的奥运周期](https://m.163.com/news/article/JFRKT8IU0001899O.html)
+[耿爽：美代表或又要就乌问题甩锅中国 我索性主动出击](https://m.163.com/news/article/JFT364NF0001899O.html)
 
 ---end---
