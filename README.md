@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-02 07:51:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-02 09:18:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市永川区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2179380)
+[重庆市永川区教育事业单位面向2025年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2179381)
+
+[四川长虹已收到苏宁易购2.85亿元代偿款 剩余4055万元](https://m.163.com/news/article/JFUFA5GQ051492T3.html)
 
 [四川一公务员突发疾病抢救超48小时死亡 不被认定工伤](https://m.163.com/news/article/JFU0TPU3053469LG.html)
 
 [女副省长任上落马后 曾先后任两省税务局长的老公被查](https://m.163.com/news/article/JFUDL89K05129QAF.html)
-
-[媒体：小西天景区像"惊弓之鸟" 克扣保安工资疑被捅破](https://m.163.com/news/article/JFUCOQIL0550A0OW.html)
 
 ---end---
