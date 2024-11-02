@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-02 14:23:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-02 14:44:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区教育事业单位面向2025年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2179381)
 
-[四川长虹已收到苏宁易购2.85亿元代偿款 剩余4055万元](https://m.163.com/news/article/JFUFA5GQ051492T3.html)
+[A股130亿市值龙头现内斗：公章作废 总经理突遭解雇](https://m.163.com/news/article/JG08OE4C0512B07B.html)
 
-[四川一公务员突发疾病抢救超48小时死亡 不被认定工伤](https://m.163.com/news/article/JFU0TPU3053469LG.html)
+[中国首次开展双航母演练 专家：效果并非是简单"1+1"](https://m.163.com/news/article/JFTTTVVE0514R9P4.html)
 
-[女副省长任上落马后 曾先后任两省税务局长的老公被查](https://m.163.com/news/article/JFUDL89K05129QAF.html)
+[合肥市12315热线：三只羊已全额缴纳6894万罚款](https://m.163.com/news/article/JG0775720534A4SC.html)
 
 ---end---
