@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-03 07:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-03 09:24:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [关于重庆三峡医药高等专科学校选拔任用部分科级干部的工作方案](https://www.gongkaoleida.com/article/2179815)
 
-[开国元勋任弼时二女儿逝世享年89岁 于长征途中出生](https://m.163.com/news/article/JG131QRP053469LG.html)
+[再战萨巴伦卡遗憾失利 郑钦文：已找到调整方向](https://m.163.com/news/article/JG28F9BI000189PS.html)
 
-[问界M9追尾后冲入车流 赛力斯:人驾状态 电门开度100%](https://m.163.com/news/article/JG0LJCAT0514R9P4.html)
+[履新浙江省委书记后 王浩前往嘉兴南湖红船等地学习](https://m.163.com/news/article/JG18MP080514R9P4.html)
 
-[患病女子坐轮椅回乡认亲 其36年前被人贩子用麻袋套走](https://m.163.com/news/article/JG0KGKLO051492T3.html)
+[湖南一村民违建2000平米房屋 镇长等十多名干部受处分](https://m.163.com/news/article/JG0VLFAC0514R9P4.html)
 
 ---end---
