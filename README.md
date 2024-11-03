@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-03 20:31:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-03 21:01:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [关于重庆三峡医药高等专科学校选拔任用部分科级干部的工作方案](https://www.gongkaoleida.com/article/2179815)
 
-[4个多月没见面 97岁妻子化妆烫发到医院看望98岁丈夫](https://m.163.com/news/article/JG2T88F70001899O.html)
+[四川16岁少年疑被骗往缅北 父亲称网友让他"背货赚钱"](https://m.163.com/news/article/JG3GJRQP051492T3.html)
 
-[重庆18岁少年瞿霄宇"蝉联"阿里巴巴全球数学竞赛金奖](https://m.163.com/news/article/JG2PI8JT053469M5.html)
+[五位干部履任厅级新职 其中有一位“80后”](https://m.163.com/news/article/JG3GG2N00530JPVV.html)
 
-[江西上饶市万年县委原书记毛奇严重违纪违法被开除党籍、开除公职](https://m.163.com/news/article/JG2QVDG6000189PS.html)
+[外国男子云南跳伞被传开伞失败坠落 景区：开伞成功了](https://m.163.com/news/article/JG3BCGHO053469LG.html)
 
 ---end---
