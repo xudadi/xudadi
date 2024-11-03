@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-03 14:25:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-03 14:44:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [关于重庆三峡医药高等专科学校选拔任用部分科级干部的工作方案](https://www.gongkaoleida.com/article/2179815)
 
-[再战萨巴伦卡遗憾失利 郑钦文：已找到调整方向](https://m.163.com/news/article/JG28F9BI000189PS.html)
+[4个多月没见面 97岁妻子化妆烫发到医院看望98岁丈夫](https://m.163.com/news/article/JG2T88F70001899O.html)
 
-[履新浙江省委书记后 王浩前往嘉兴南湖红船等地学习](https://m.163.com/news/article/JG18MP080514R9P4.html)
+[重庆18岁少年瞿霄宇"蝉联"阿里巴巴全球数学竞赛金奖](https://m.163.com/news/article/JG2PI8JT053469M5.html)
 
-[湖南一村民违建2000平米房屋 镇长等十多名干部受处分](https://m.163.com/news/article/JG0VLFAC0514R9P4.html)
+[江西上饶市万年县委原书记毛奇严重违纪违法被开除党籍、开除公职](https://m.163.com/news/article/JG2QVDG6000189PS.html)
 
 ---end---
