@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-04 20:35:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-04 21:12:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲智造科技有限公司关于招聘客户质量工程师岗位的公告](https://www.gongkaoleida.com/article/2180106)
+[重庆市璧山区事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2181587)
 
 [男子穿仿制辅警制服闯红灯后欲殴打交警 被立案侦查](https://m.163.com/news/article/JG5BT6CF0001899O.html)
 
