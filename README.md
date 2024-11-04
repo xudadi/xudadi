@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-04 07:51:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-04 09:21:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [关于重庆三峡医药高等专科学校选拔任用部分科级干部的工作方案](https://www.gongkaoleida.com/article/2179815)
 
-[四川16岁少年疑被骗往缅北 父亲称网友让他"背货赚钱"](https://m.163.com/news/article/JG3GJRQP051492T3.html)
+[数千大学生夜骑开封 多个共享单车运营方回应](https://m.163.com/news/article/JG4ONP3U0001899O.html)
 
-[五位干部履任厅级新职 其中有一位“80后”](https://m.163.com/news/article/JG3GG2N00530JPVV.html)
+[暴雨又来 海南：全力实现"不死人少伤人少损失"的目标](https://m.163.com/news/article/JG3VAG820512B07B.html)
 
-[外国男子云南跳伞被传开伞失败坠落 景区：开伞成功了](https://m.163.com/news/article/JG3BCGHO053469LG.html)
+[广州楼市新政满月 9人的中介门店收佣300多万](https://m.163.com/news/article/JG3GJT4405129QAF.html)
 
 ---end---
