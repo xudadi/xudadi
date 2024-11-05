@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-06 02:22:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-06 02:43:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市开州区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2183367)
 
-[货拉拉司机被开罚单后将交警撞倒 警方通报](https://m.163.com/news/article/JG8F924L0534A4SC.html)
+[柳州“烂尾轻轨”被拆背后：当年规划线路都未开通](https://m.163.com/news/article/JG8Q21E7051492T3.html)
 
-[广东一渣土车撞坏劳斯莱斯被判全责 目击者发声](https://m.163.com/news/article/JG8BLA970001899O.html)
+[“芒果TV”APP广告疑引导用户给陌生人充话费](https://m.163.com/news/article/JG8P28DP051492T3.html)
 
-[北京马拉松组委会就奖牌印错Logo致歉:将重新寄送奖牌](https://m.163.com/news/article/JG89V3VA0534A4SC.html)
+[字节跳动通报：辞退103人 11人涉嫌犯罪被立案](https://m.163.com/news/article/JG8OT0MJ0512B07B.html)
 
 ---end---
