@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-05 20:32:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-05 21:03:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[石桥铺小学诚聘语文、英语、体育教师公告(合同制)](https://www.gongkaoleida.com/article/2182534)
+[重庆市开州区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2183367)
 
-[16岁少年疑被骗往缅北 父亲收蹊跷信息：你儿子很安全](https://m.163.com/news/article/JG6GBBJJ051492T3.html)
+[货拉拉司机被开罚单后将交警撞倒 警方通报](https://m.163.com/news/article/JG8F924L0534A4SC.html)
 
-[歼-20+歼-35A 中国空军将同时装备两款隐身战机](https://m.163.com/news/article/JG7J0SLH0001899O.html)
+[广东一渣土车撞坏劳斯莱斯被判全责 目击者发声](https://m.163.com/news/article/JG8BLA970001899O.html)
 
-[人民空军重磅发布 歼35A将亮相中国航展](https://m.163.com/news/article/JG7IMK3J0001899O.html)
+[北京马拉松组委会就奖牌印错Logo致歉:将重新寄送奖牌](https://m.163.com/news/article/JG89V3VA0534A4SC.html)
 
 ---end---
