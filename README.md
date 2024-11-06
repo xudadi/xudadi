@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-06 14:24:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-06 14:44:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市开州区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2183367)
+[重庆大学高端装备机械传动全国重点实验室招聘劳务派遣工作人员启事](https://www.gongkaoleida.com/article/2184027)
 
 [柳州“烂尾轻轨”被拆背后：当年规划线路都未开通](https://m.163.com/news/article/JG8Q21E7051492T3.html)
 
