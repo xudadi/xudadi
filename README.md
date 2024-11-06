@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-06 20:34:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-06 21:04:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学高端装备机械传动全国重点实验室招聘劳务派遣工作人员启事](https://www.gongkaoleida.com/article/2184027)
+[重庆龙湖两山物业服务有限公司公开招聘工作人员简章](https://www.gongkaoleida.com/article/2184722)
 
-[柳州“烂尾轻轨”被拆背后：当年规划线路都未开通](https://m.163.com/news/article/JG8Q21E7051492T3.html)
+[陆克华或因"广阳岛事件"被查 次日另外两人也落马](https://m.163.com/news/article/JGAJD3BD0514R9P4.html)
 
-[“芒果TV”APP广告疑引导用户给陌生人充话费](https://m.163.com/news/article/JG8P28DP051492T3.html)
+[江苏富豪获刑：4年前身家110亿元 如今公司股权也不保](https://m.163.com/news/article/JG97I0OJ0512B07B.html)
 
-[字节跳动通报：辞退103人 11人涉嫌犯罪被立案](https://m.163.com/news/article/JG8OT0MJ0512B07B.html)
+[无锡虹桥医院因骗保案被罚款5895万 执业许可证被吊销](https://m.163.com/news/article/JGAE0P9P0514R9P4.html)
 
 ---end---
