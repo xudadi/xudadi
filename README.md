@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-07 07:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-07 09:18:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆龙湖两山物业服务有限公司公开招聘工作人员简章](https://www.gongkaoleida.com/article/2184722)
+[国航股份重庆分公司2025年高校毕业生校园招聘简章](https://www.gongkaoleida.com/article/2185093)
 
 [陆克华或因"广阳岛事件"被查 次日另外两人也落马](https://m.163.com/news/article/JGAJD3BD0514R9P4.html)
 
