@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-07 20:33:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-07 21:03:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工商大学数学与统计学院关于选聘经济统计系主任、副主任的通知](https://www.gongkaoleida.com/article/2185372)
+[重庆市北碚区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2186301)
 
-[哈尔滨涉黑副局长婚内出轨现任 疑3人谈判时前妻遭枪杀](https://m.163.com/news/article/JGCMVAI60534A4SC.html)
+[问界M7事故车主公布鉴定报告称数据被修改 赛力斯回应](https://m.163.com/news/article/JGDSUCGJ051492T3.html)
 
-[男子出狱8个月又因"少服刑1年"被羁押 专家：十分罕见](https://m.163.com/news/article/JGD222VU0514BE2Q.html)
+[月薪3万的90后"北漂"回乡卖腊味 辞职后退了600多个群](https://m.163.com/news/article/JGDE50LC051492T3.html)
 
-[女子漏接电话遭市监所工作人员辱骂"狗东西" 官方通报](https://m.163.com/news/article/JGD0DRNO053469LG.html)
+[17岁参加工作的女厅官被开除党籍：产生恶劣社会影响](https://m.163.com/news/article/JGDJK8J00512D3VJ.html)
 
 ---end---
