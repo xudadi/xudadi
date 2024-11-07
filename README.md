@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-08 02:22:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-08 02:42:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市北碚区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2186301)
 
-[问界M7事故车主公布鉴定报告称数据被修改 赛力斯回应](https://m.163.com/news/article/JGDSUCGJ051492T3.html)
+[就读人大一年后 因热血演讲被网暴的湖南女孩最新发声](https://m.163.com/news/article/JGE0QTVM053469LG.html)
 
-[月薪3万的90后"北漂"回乡卖腊味 辞职后退了600多个群](https://m.163.com/news/article/JGDE50LC051492T3.html)
+[柳州市委原书记郑俊康获刑 任上遗留的烂尾工程已开拆](https://m.163.com/news/article/JGE007100514R9P4.html)
 
-[17岁参加工作的女厅官被开除党籍：产生恶劣社会影响](https://m.163.com/news/article/JGDJK8J00512D3VJ.html)
+[恒大楼盘烂尾3年"泡在水里" 宁波政府推进"异地换房"](https://m.163.com/news/article/JGDTBCFF0512B07B.html)
 
 ---end---
