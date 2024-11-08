@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-08 20:33:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-08 21:03:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市气象部门2025年度公开招聘应届毕业生公告](https://www.gongkaoleida.com/article/2187010)
+[重庆公司所属基层企业面向华电系统内、外公开招聘的公告](https://www.gongkaoleida.com/article/2187852)
 
-[陕西失踪24年女子确定遇害：嫌疑人未被批捕 家属发声](https://m.163.com/news/article/JGFII6N90530JPVV.html)
+[打出化债"组合拳" 财政部长：政府还有较大举债空间](https://m.163.com/news/article/JGG9M3K2051482MP.html)
 
-[退休3年被查的戴道晋被诉：大搞数字政绩、家族式腐败](https://m.163.com/news/article/JGFF4B620530JPVV.html)
+[医院院长贪腐细节披露：1名药商14年送了740多万回扣](https://m.163.com/news/article/JGG86F730514D3UH.html)
 
-[郑钦文下个对手克雷吉茨科娃:容易被忽视的大满贯冠军](https://m.163.com/news/article/JGFE0D610514R9P4.html)
+[中央巡视后 中国建设银行原副行长章更生被查](https://m.163.com/news/article/JGG6MH1L051482MP.html)
 
 ---end---
