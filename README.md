@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-08 14:24:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-08 14:44:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市北碚区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2186301)
+[重庆市气象部门2025年度公开招聘应届毕业生公告](https://www.gongkaoleida.com/article/2187010)
 
-[就读人大一年后 因热血演讲被网暴的湖南女孩最新发声](https://m.163.com/news/article/JGE0QTVM053469LG.html)
+[陕西失踪24年女子确定遇害：嫌疑人未被批捕 家属发声](https://m.163.com/news/article/JGFII6N90530JPVV.html)
 
-[柳州市委原书记郑俊康获刑 任上遗留的烂尾工程已开拆](https://m.163.com/news/article/JGE007100514R9P4.html)
+[退休3年被查的戴道晋被诉：大搞数字政绩、家族式腐败](https://m.163.com/news/article/JGFF4B620530JPVV.html)
 
-[恒大楼盘烂尾3年"泡在水里" 宁波政府推进"异地换房"](https://m.163.com/news/article/JGDTBCFF0512B07B.html)
+[郑钦文下个对手克雷吉茨科娃:容易被忽视的大满贯冠军](https://m.163.com/news/article/JGFE0D610514R9P4.html)
 
 ---end---
