@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-10 02:20:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-10 02:40:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆公司所属基层企业面向华电系统内、外公开招聘的公告](https://www.gongkaoleida.com/article/2187852)
 
-[自称"与县领导关系好" 退休干部收两百万未办事被起诉](https://m.163.com/news/article/JGGAKF260514R9P4.html)
+[祝卫福被双开：搞政治投机 阻止他人揭发检举](https://m.163.com/news/article/JGJ9S91M0512D3VJ.html)
 
-[重庆多名官员疑涉涉广阳岛开发被查：号称投资超百亿](https://m.163.com/news/article/JGIJ1N0U053469LG.html)
+[电梯提示"生命仅一次"引人不适 物业回应](https://m.163.com/news/article/JGGFBUAJ0514CRLH.html)
 
-[郑州共享单车平台发布联合公告：超区骑行将强制锁车](https://m.163.com/news/article/JGIIMI9E0001899O.html)
+[女子试岗第一天被暗示“陪睡”涉事公司总经理被处罚](https://m.163.com/news/article/JGJ7IEL30001899O.html)
 
 ---end---
