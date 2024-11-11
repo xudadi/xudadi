@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-11 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-11 09:19:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆公司所属基层企业面向华电系统内、外公开招聘的公告](https://www.gongkaoleida.com/article/2187852)
+[重庆九洲隆瓴科技有限公司关于招聘软件开发工程师等岗位的公告](https://www.gongkaoleida.com/article/2188546)
 
 [浙江省卫健委回应“鼓励有条件家庭生四孩”：不采纳](https://m.163.com/news/article/JGLOPKGV0514R9P4.html)
 
