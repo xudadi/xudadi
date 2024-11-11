@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-12 02:22:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-12 02:42:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市江北区新村国兴小学校2025年优秀教师招聘](https://www.gongkaoleida.com/article/2189397)
 
-[女浴室暗藏摄像头 羽毛球馆负责人被控制](https://m.163.com/news/article/JGNRGO6E05129QAF.html)
+[早恋男生被女生家长扇耳光后失联 已溺水身亡](https://m.163.com/news/article/JGOEIJBU0001899O.html)
 
-[70岁女厅官被开除党籍：违规向领导干部赠送钱款](https://m.163.com/news/article/JGNN93KG0514R9P4.html)
+[前亚洲首富、香港著名实业家吕志和去世 享年95岁](https://m.163.com/news/article/JGODG1P30001899O.html)
 
-[无人空中航母首次亮相珠海航展 能携带大量小型无人机](https://m.163.com/news/article/JGNS8F3A0001899O.html)
+[珠海体育中心发生恶性撞人事件 有医院接收20多名伤者](https://m.163.com/news/article/JGOCDP7H0001899O.html)
 
 ---end---
