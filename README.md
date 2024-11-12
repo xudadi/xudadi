@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-13 02:23:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-13 02:42:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学绿色智能制造研究所劳务派遣制科研助理招聘启事](https://www.gongkaoleida.com/article/2191806)
+[渝北区龙溪小学校招聘启事](https://www.gongkaoleida.com/article/2191883)
 
-[珠海驾车撞人案43名伤者正在全力救治 情况披露](https://m.163.com/news/article/JGQOS34A0001899O.html)
+[任上落马的高奕奕被双开：虚构任职履历 诬告纪检干部](https://m.163.com/news/article/JGQR9QRN05129QAF.html)
 
-[河北省委常委、常务副省长张成中任唐山市委书记](https://m.163.com/news/article/JGQMJKOA0514R9P4.html)
+[女生疑18岁卖卵19岁代孕流产 官方调查](https://m.163.com/news/article/JGQSB9R30534A4SC.html)
 
-[珠海驾车撞人案致35死 广东书记：十分震惊、十分痛心](https://m.163.com/news/article/JGQMC0RO0001899O.html)
+[70岁副部级"老虎"被判死缓 原主政地曾发生腐败窝案](https://m.163.com/news/article/JGQPEP8C055040N3.html)
 
 ---end---
