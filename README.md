@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-12 20:34:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-12 21:05:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区实验外国语学校2024年教师招聘公告](https://www.gongkaoleida.com/article/2190962)
+[重庆大学绿色智能制造研究所劳务派遣制科研助理招聘启事](https://www.gongkaoleida.com/article/2191806)
 
-[发型师晓华走红 房东:与其签了10年合同房租1400元/月](https://m.163.com/news/article/JGPCUJGR053469LG.html)
+[珠海驾车撞人案43名伤者正在全力救治 情况披露](https://m.163.com/news/article/JGQOS34A0001899O.html)
 
-[目击者：珠海撞人司机直接冲向人群](https://m.163.com/news/article/JGODMT980514R9P4.html)
+[河北省委常委、常务副省长张成中任唐山市委书记](https://m.163.com/news/article/JGQMJKOA0514R9P4.html)
 
-[早恋男生被女生家长扇耳光后失联 已溺水身亡](https://m.163.com/news/article/JGOEIJBU0001899O.html)
+[珠海驾车撞人案致35死 广东书记：十分震惊、十分痛心](https://m.163.com/news/article/JGQMC0RO0001899O.html)
 
 ---end---
