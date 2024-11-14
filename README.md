@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-15 02:24:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-15 02:45:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区保安服务有限公司派往重庆市铜梁区市民服务和营商环境促进中心综合窗口办事人员招聘公告](https://www.gongkaoleida.com/article/2194704)
 
-[多地发文整治"新形象工程"：有地方倒查近8年盆景](https://m.163.com/news/article/JGVSIMVD05129QAF.html)
+[食用油散装运输强制性国标发布 明年2月1日正式实施](https://m.163.com/news/article/JH05KJRB000189PS.html)
 
-[看珠海航展称我们中国强被批 台前海军舰长：这是事实](https://m.163.com/news/article/JGVHHPLN0514R9OJ.html)
+[三亚市教育局局长被举报毕业论文涉抄袭 西南大学回应](https://m.163.com/news/article/JH04E740053469LG.html)
 
-[张红力11年敛财1.77亿：骗取博士学位 免费乘私人飞机](https://m.163.com/news/article/JGVJRDQ90530M570.html)
+["65岁以上免费滑雪"活动引热议 涉事雪场:5年前就推过](https://m.163.com/news/article/JH03EP100514D3UH.html)
 
 ---end---
