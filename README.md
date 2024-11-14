@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-14 14:25:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-14 14:45:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至重庆水务集团下属公司工作人员招聘启事](https://www.gongkaoleida.com/article/2192598)
+[重庆市杨家坪中学2024年杨中办公室文员招聘公告](https://www.gongkaoleida.com/article/2194047)
 
-[杜撰"弟弟辍学卖苹果供北大哥哥读书"视频 博主被处罚](https://m.163.com/news/article/JGT0ESQC051492T3.html)
+[实探李子柒学艺的漆器厂：做一个漆碗就需三个月](https://m.163.com/news/article/JGTLACMK053469LG.html)
 
-[山东男生每周"走读"澳大利亚留学：3个多月往返12趟](https://m.163.com/news/article/JGTDNNQ8051492T3.html)
+[杜文龙:红旗-19公开亮相 说明我们对其实力已非常自信](https://m.163.com/news/article/JGTNPFDB053469LG.html)
 
-[曾毓群：若特朗普"开绿灯" 宁德时代将考虑赴美建厂](https://m.163.com/news/article/JGSOP59K0534A4SC.html)
+[美女文旅局长卖大米后70岁老农火了 每天接200个电话](https://m.163.com/news/article/JGUK975J0514D9AO.html)
 
 ---end---
