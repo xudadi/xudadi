@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-15 20:35:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-15 21:11:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[嘉陵特装2025校园招聘公告](https://www.gongkaoleida.com/article/2195283)
+[重庆大学国家卓越工程师学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2196271)
 
-[新华社记者被打、手机被抢 曾写文致青海省副省长落马](https://m.163.com/news/article/JH021H35053469LG.html)
+[徐州"宝马致1死7伤案"退回补侦](https://m.163.com/news/article/JH1UTQ7F0514R9P4.html)
 
-[35岁杭州女子查出"砒霜"中毒 全身上下变黑肠子都黑了](https://m.163.com/news/article/JH1EHMEL0530JPVV.html)
+[证监会原发行监管部副主任李筱强被查](https://m.163.com/news/article/JH20A4BT0001899O.html)
 
-[11岁男孩爬火车头遭电击全身烧伤 家长：车站围墙太低](https://m.163.com/news/article/JH1FF70J0530JPVV.html)
+[国足抵达厦门备战日本 超4万张球票悉数售罄](https://m.163.com/news/article/JH1TAG1B0514R9P4.html)
 
 ---end---
