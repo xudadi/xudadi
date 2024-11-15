@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-15 14:28:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-15 14:49:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铜梁区保安服务有限公司派往重庆市铜梁区市民服务和营商环境促进中心综合窗口办事人员招聘公告](https://www.gongkaoleida.com/article/2194704)
+[嘉陵特装2025校园招聘公告](https://www.gongkaoleida.com/article/2195283)
 
-[食用油散装运输强制性国标发布 明年2月1日正式实施](https://m.163.com/news/article/JH05KJRB000189PS.html)
+[新华社记者被打、手机被抢 曾写文致青海省副省长落马](https://m.163.com/news/article/JH021H35053469LG.html)
 
-[三亚市教育局局长被举报毕业论文涉抄袭 西南大学回应](https://m.163.com/news/article/JH04E740053469LG.html)
+[35岁杭州女子查出"砒霜"中毒 全身上下变黑肠子都黑了](https://m.163.com/news/article/JH1EHMEL0530JPVV.html)
 
-["65岁以上免费滑雪"活动引热议 涉事雪场:5年前就推过](https://m.163.com/news/article/JH03EP100514D3UH.html)
+[11岁男孩爬火车头遭电击全身烧伤 家长：车站围墙太低](https://m.163.com/news/article/JH1FF70J0530JPVV.html)
 
 ---end---
