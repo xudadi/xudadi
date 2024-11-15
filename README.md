@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-16 02:24:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-16 02:45:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学国家卓越工程师学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2196271)
 
-[徐州"宝马致1死7伤案"退回补侦](https://m.163.com/news/article/JH1UTQ7F0514R9P4.html)
+[台渔船在泉州近海违规作业 依法处置后船长已返台](https://m.163.com/news/article/JH2HUC58000189PS.html)
 
-[证监会原发行监管部副主任李筱强被查](https://m.163.com/news/article/JH20A4BT0001899O.html)
+[国企回应招中学毕业生当总监](https://m.163.com/news/article/JH2H79GF0514R9OJ.html)
 
-[国足抵达厦门备战日本 超4万张球票悉数售罄](https://m.163.com/news/article/JH1TAG1B0514R9P4.html)
+[王亚民被查 曾主管故宫经营和文创](https://m.163.com/news/article/JH29RJ79051482MP.html)
 
 ---end---
