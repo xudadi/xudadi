@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-17 02:22:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-17 02:42:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学国家卓越工程师学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2196271)
+[重庆市渝北区保安服务有限责任公司2024年公开招聘物业项目工作人员简章](https://www.gongkaoleida.com/article/2196737)
+
+[珠海驾车撞人致35死嫌犯被批捕](https://m.163.com/news/article/JH5769JM0001899O.html)
+
+[基层干部拼搏30年升任局长 不到半年收下2万"感谢费"](https://m.163.com/news/article/JH4U5P9L0514D3UH.html)
 
 [自己被提拔、丈夫工作调动后 女厅官为表感谢送69.5万](https://m.163.com/news/article/JH4OMCB70530WJIN.html)
-
-[下属农贸市场被指违规收数万元的入场定位费 国企呼应](https://m.163.com/news/article/JH4T095R0514R9P4.html)
-
-[43岁卡车司机去世:卡友接力送车"回家" 家里有3个孩子](https://m.163.com/news/article/JH4QTUU0053469LG.html)
 
 ---end---
