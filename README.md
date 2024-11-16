@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-16 20:32:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-16 21:03:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学国家卓越工程师学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2196271)
 
-[张家界市桑植县一民房发生火灾致7人遇难](https://m.163.com/news/article/JH43TNVL0001899N.html)
+[自己被提拔、丈夫工作调动后 女厅官为表感谢送69.5万](https://m.163.com/news/article/JH4OMCB70530WJIN.html)
 
-[白酒名字带"郎"被罚2亿 贵州三酒协发声：震惊遗憾](https://m.163.com/news/article/JH2K14730519DTSV.html)
+[下属农贸市场被指违规收数万元的入场定位费 国企呼应](https://m.163.com/news/article/JH4T095R0514R9P4.html)
 
-[餐厅违规销售拍黄瓜赚34元被罚5万 司法局介入后撤销](https://m.163.com/news/article/JH1LDNRL05129QAF.html)
+[43岁卡车司机去世:卡友接力送车"回家" 家里有3个孩子](https://m.163.com/news/article/JH4QTUU0053469LG.html)
 
 ---end---
