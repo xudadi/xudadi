@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-17 20:32:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-17 21:03:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市渝北区保安服务有限责任公司2024年公开招聘物业项目工作人员简章](https://www.gongkaoleida.com/article/2196737)
 
-[28楼业主在外立面开墙搭梯：若有火灾方便逃跑](https://m.163.com/news/article/JH5C150U051492T3.html)
+[村道上新换井盖"一碰就碎" 施工方：用便宜的过渡一下](https://m.163.com/news/article/JH7GC4JB053469LG.html)
 
-[小伙独自划艇从四川漂到上海 全程3500公里历时118天](https://m.163.com/news/article/JH4MS2AG051492T3.html)
+[多地推进新能源公交车换电池 部分县市因老化问题停运](https://m.163.com/news/article/JH6RJ9BD0514R9P4.html)
 
-[小伙疑被骗去缅甸失联5个月 家属:一直给他手机充话费](https://m.163.com/news/article/JH5BM592051492LM.html)
+[大牛股子公司花2600万元买房 卖家是实控人旗下开发商](https://m.163.com/news/article/JH7C7BK60512B07B.html)
 
 ---end---
