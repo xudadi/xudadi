@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-18 20:37:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-18 21:14:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆十八中两江实验中学招聘2025年优秀大学毕业生](https://www.gongkaoleida.com/article/2196999)
+[重庆市铜梁区保安服务有限公司关于公开招聘安保人员(机关单位)的启事](https://www.gongkaoleida.com/article/2198491)
 
-[月薪14000元空姐遭停飞17年 国航被裁决赔百万后起诉](https://m.163.com/news/article/JH8VH01G053469LG.html)
+[被东北虎咬伤村民左手保住了 无截肢风险](https://m.163.com/news/article/JHA53TPC053469LG.html)
 
-[精神疾病女子发病期捐42万 家人:基金会只想退三分之一](https://m.163.com/news/article/JH8VGVHR053469LG.html)
+[天津"东方公主"号游轮起火 负责人：预计春节前后开放](https://m.163.com/news/article/JHA40IMS051492T3.html)
 
-[山西一公安局发反诈公开信留哈尔滨电话 被指照搬原文](https://m.163.com/news/article/JH8TQ3MB053469LG.html)
+[被老虎咬伤村民手臂大概保不住 当地：曾发现老虎足迹](https://m.163.com/news/article/JHA2437D0530JPVV.html)
 
 ---end---
