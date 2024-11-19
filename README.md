@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-19 14:25:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-19 14:46:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国网重庆市电力公司2025年高校毕业生招聘公告(第一批)](https://www.gongkaoleida.com/article/2198691)
+[天圣制药集团股份有限公司招聘简章](https://www.gongkaoleida.com/article/2199378)
 
-[到西双版纳过冬的"麦子阿姨"：我的心太大 想周游全国](https://m.163.com/news/article/JHBHJPIQ0514D3UH.html)
+[大牯牛山夜爬游客被指"纵火烧山" 目击者发声](https://m.163.com/news/article/JHC1VTAC053469M5.html)
 
-[投资20亿的大庸古城如今成"空城" 商户集体抵制付租金](https://m.163.com/news/article/JHBH5HML0514R9P4.html)
+[广东陆丰多个乡镇出现海水倒灌 官方:未来2天减少外出](https://m.163.com/news/article/JHC2IHMS053469LG.html)
 
-[政策暖风频吹下 多地积极部署支持上市公司并购重组](https://m.163.com/news/article/JHBBP38C05198CJN.html)
+[浙江诸暨重大刑案54岁嫌犯在逃 村民：他杀妻并碎尸](https://m.163.com/news/article/JHBQJJIE053469LG.html)
 
 ---end---
