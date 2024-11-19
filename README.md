@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-19 20:36:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-19 21:13:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[天圣制药集团股份有限公司招聘简章](https://www.gongkaoleida.com/article/2199378)
+[重庆两江新区云锦小学校招聘公告](https://www.gongkaoleida.com/article/2199873)
 
-[大牯牛山夜爬游客被指"纵火烧山" 目击者发声](https://m.163.com/news/article/JHC1VTAC053469M5.html)
+[济南一公办学校10元配餐简陋孩子吃不饱 校方回应](https://m.163.com/news/article/JHCN25QM053469LG.html)
 
-[广东陆丰多个乡镇出现海水倒灌 官方:未来2天减少外出](https://m.163.com/news/article/JHC2IHMS053469LG.html)
+[知名车企疑裁撤上海分公司所有员工 赔偿金至今未到账](https://m.163.com/news/article/JHCM9E0G0512B07B.html)
 
-[浙江诸暨重大刑案54岁嫌犯在逃 村民：他杀妻并碎尸](https://m.163.com/news/article/JHBQJJIE053469LG.html)
+[广州将在全市收购90平以下存量房](https://m.163.com/news/article/JHC3K1QM0534A4SC.html)
 
 ---end---
