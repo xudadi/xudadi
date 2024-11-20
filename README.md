@@ -9,11 +9,11 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-20 20:35:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-20 21:13:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万盛经开区事业单位面向万盛经开区2024年服务期满且考核合格“三支一扶”人员公开招聘工作人员公告](https://www.gongkaoleida.com/article/2200531)
+[重庆医科大学附属儿童医院基因组稳定性与人类疾病平台实验技术人员招聘启事](https://www.gongkaoleida.com/article/2201769)
 
-[知名博主"何同学"被指抄袭他人项目代码 原作者发声](https://m.163.com/news/article/JHEK6J1E053469M5.html)
+[未婚女子分手20年后前男友突然出现在房本 房管局回应](https://m.163.com/news/article/JHENG39U053469LG.html)
 
 [银行主管获缓刑：挪用1866万赌球 曾赢900万无法提现](https://m.163.com/news/article/JHCVR15C05199DKK.html)
 
