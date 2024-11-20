@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-21 02:25:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-21 02:46:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属儿童医院基因组稳定性与人类疾病平台实验技术人员招聘启事](https://www.gongkaoleida.com/article/2201769)
+[重庆发展资产经营有限公司2024年下半年公开招聘简章](https://www.gongkaoleida.com/article/2201905)
 
-[未婚女子分手20年后前男友突然出现在房本 房管局回应](https://m.163.com/news/article/JHENG39U053469LG.html)
+[四川一"公益组织"跑路 初步统计涉案金额已超过千万元](https://m.163.com/news/article/JHFAV6RE0514BE2Q.html)
 
-[银行主管获缓刑：挪用1866万赌球 曾赢900万无法提现](https://m.163.com/news/article/JHCVR15C05199DKK.html)
+[陕西一女子疑遭丈夫灌面汤呛死 警方：案件已移送起诉](https://m.163.com/news/article/JHFL3H9R051492T3.html)
 
-[酒店偷拍直播成产业链层层分利：装1个摄像头可赚上万](https://m.163.com/news/article/JHE35KP80514D3J0.html)
+[钟睒睒：做绿瓶纯净水是为了名誉 绿瓶水不建议长期喝](https://m.163.com/news/article/JHF01L960530JPVV.html)
 
 ---end---
