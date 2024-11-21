@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-21 19:51:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-21 20:36:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南政法大学人事处校内招聘启事](https://www.gongkaoleida.com/article/2202427)
+[重庆市大足区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2203256)
 
-[WTT福冈总决赛：孙颖莎爆冷无缘女单八强](https://m.163.com/news/article/JHH6JU48053469LG.html)
+[阿里成立电商事业群 蒋凡任CEO](https://m.163.com/news/article/JHHMASUJ05198CJN.html)
 
-[法学生买淡干海参发现含糖量超标 起诉商家获十倍赔偿](https://m.163.com/news/article/JHH2SAB90514R9KQ.html)
+[退休7年的厅官被公诉:下属同日任上落马 继任者也被查](https://m.163.com/news/article/JHHM1NRV055040N3.html)
 
-[官方回应"凶手出狱当天在逝者家附近摆宴席":现场制止](https://m.163.com/news/article/JHH050QP051492T3.html)
+[多辆小米SU7自动泊车撞墙撞柱 官方:系统BUG承担维修](https://m.163.com/news/article/JHHH0F9O055690HN.html)
 
 ---end---
