@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-21 14:26:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-21 14:47:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆发展资产经营有限公司2024年下半年公开招聘简章](https://www.gongkaoleida.com/article/2201905)
+[西南政法大学人事处校内招聘启事](https://www.gongkaoleida.com/article/2202427)
 
-[四川一"公益组织"跑路 初步统计涉案金额已超过千万元](https://m.163.com/news/article/JHFAV6RE0514BE2Q.html)
+[WTT福冈总决赛：孙颖莎爆冷无缘女单八强](https://m.163.com/news/article/JHH6JU48053469LG.html)
 
-[陕西一女子疑遭丈夫灌面汤呛死 警方：案件已移送起诉](https://m.163.com/news/article/JHFL3H9R051492T3.html)
+[法学生买淡干海参发现含糖量超标 起诉商家获十倍赔偿](https://m.163.com/news/article/JHH2SAB90514R9KQ.html)
 
-[钟睒睒：做绿瓶纯净水是为了名誉 绿瓶水不建议长期喝](https://m.163.com/news/article/JHF01L960530JPVV.html)
+[官方回应"凶手出狱当天在逝者家附近摆宴席":现场制止](https://m.163.com/news/article/JHH050QP051492T3.html)
 
 ---end---
