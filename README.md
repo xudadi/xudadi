@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-21 15:16:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-21 15:38:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [西南政法大学人事处校内招聘启事](https://www.gongkaoleida.com/article/2202427)
 
