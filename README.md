@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-22 20:35:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-22 21:12:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川长虹民生物流股份有限公司关于招聘现场监装岗位的公告](https://www.gongkaoleida.com/article/2204036)
+[重庆大学工程科教战略研究中心面向校内招聘启事](https://www.gongkaoleida.com/article/2204866)
 
-[上海女子住精神卫生中心8年 父亲去世母亲失联难出院](https://m.163.com/news/article/JHIBN224051492T3.html)
+[男子求助如何打开亡父遗留14年手机 上千人留言提建议](https://m.163.com/news/article/JHJNB7HJ053469M5.html)
 
-[国家开发银行原副行长李吉平涉嫌受贿被提起公诉](https://m.163.com/news/article/JHJE0OG5000189PS.html)
+[恩波格斗回应王宝强工作室:被哄骗签下更换内容协议](https://m.163.com/news/article/JHJT11PK0001899O.html)
 
-[男子骑车撞上供热管道身亡：曾回家休息 几小时后送医](https://m.163.com/news/article/JHJC66VR053469LG.html)
+[被指“偷工减料态度还差”ABC品牌创始人鞠躬致歉](https://m.163.com/news/article/JHJQ69830534A4SC.html)
 
 ---end---
