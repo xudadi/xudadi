@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-23 20:32:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-23 21:03:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学工程科教战略研究中心面向校内招聘启事](https://www.gongkaoleida.com/article/2204866)
 
-[官方回应"潮州大量商户关门"传闻：只有个别几家商户](https://m.163.com/news/article/JHM6J24T0001899O.html)
+[蒋凡归来接管5千亿命脉 业内人士:说明阿里已无人可用](https://m.163.com/news/article/JHKR5ELD051994KN.html)
 
-[称旺仔牛奶喝出异物当事人否认“摆拍”](https://m.163.com/news/article/JHM1EQ1P051492T3.html)
+[30余亩农田修路被毁 当地官员称没义务向记者汇报情况](https://m.163.com/news/article/JHMHSD96053469LG.html)
 
-[儿子考760分病危 好转后父母向2.8万网友退回58万捐款](https://m.163.com/news/article/JHM5259Q053469LG.html)
+[浙大回应"贫困生晒国内外旅游照"：取消其受资助资格](https://m.163.com/news/article/JHMH7UGB0534A4SC.html)
 
 ---end---
