@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-25 14:27:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-25 14:48:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学工程科教战略研究中心面向校内招聘启事](https://www.gongkaoleida.com/article/2204866)
+[悦城小学2024年秋期美术教师招聘简章](https://www.gongkaoleida.com/article/2205634)
 
-[前体操冠军陷"擦边"风波 背后签约MCN公司公开](https://m.163.com/news/article/JHQ2FEL8051492T3.html)
+[大陆高校师生将访台 参访行程披露](https://m.163.com/news/article/JHRBANIK0514R9OJ.html)
 
-[上海3处场馆车库空着也不给停 300多辆车被挤到马路上](https://m.163.com/news/article/JHQPJ42F055040N3.html)
+[广告牌坠落致3死:去年已发现锈蚀严重 城管检查走过场](https://m.163.com/news/article/JHREOU1D0514R9P4.html)
 
-[警方：派出所副所长踢打小学生被撤职 向家属赔礼道歉](https://m.163.com/news/article/JHP1H07T0001899O.html)
+[两省一部迎来新任领导成员 58岁中将任海军副司令员](https://m.163.com/news/article/JHRES1R3055040N3.html)
 
 ---end---
