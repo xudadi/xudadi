@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-25 07:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-25 09:24:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学工程科教战略研究中心面向校内招聘启事](https://www.gongkaoleida.com/article/2204866)
 
-[男孩当"卧底"主动进入"特训学校" 被教官带到床边威胁](https://m.163.com/news/article/JHOJOQ960512DU6N.html)
+[前体操冠军陷"擦边"风波 背后签约MCN公司公开](https://m.163.com/news/article/JHQ2FEL8051492T3.html)
 
-[广东知名健身机构关门倒闭 有人剩近10万元未消费](https://m.163.com/news/article/JHNG3QMN0512B07B.html)
+[上海3处场馆车库空着也不给停 300多辆车被挤到马路上](https://m.163.com/news/article/JHQPJ42F055040N3.html)
 
-[王楚钦：张本智和的状态在顶点](https://m.163.com/news/article/JHOLAIEH0001899O.html)
+[警方：派出所副所长踢打小学生被撤职 向家属赔礼道歉](https://m.163.com/news/article/JHP1H07T0001899O.html)
 
 ---end---
