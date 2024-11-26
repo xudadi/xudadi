@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-26 20:36:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-26 21:15:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大足高新技术产业开发区管理委员会公开招聘派遣制工作人员的招聘简章](https://www.gongkaoleida.com/article/2208142)
+[重庆大学工业CT无损检测教育部工程研究中心主任招聘启事](https://www.gongkaoleida.com/article/2208619)
 
-[商场年消费百万的情侣被LV柜姐翻白眼:不知她在牛什么](https://m.163.com/news/article/JHS936IB0514R9OJ.html)
+[苏州任命两名博士副市长 其中一人具有博导身份](https://m.163.com/news/article/JHUHKBQ20530JPVV.html)
 
-[女儿洗澡时下体出血确诊患罕见病 家长：无药可医](https://m.163.com/news/article/JHRS97QK0514R9P4.html)
+[墨西哥总统称墨不是中国产品转口美国的途径 中方回应](https://m.163.com/news/article/JHUMEI8N0001899O.html)
 
-[一份白粥200元店长称用依云水煮的 市监部门回应](https://m.163.com/news/article/JHSDO3JS0514BE2Q.html)
+[派出所副所长打学生牵出校园欺凌传闻 当地成立工作组](https://m.163.com/news/article/JHUHRT3705129QAF.html)
 
 ---end---
