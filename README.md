@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-26 07:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-26 09:24:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市兴盈光电科技有限公司招聘简章](https://www.gongkaoleida.com/article/2207233)
+[重庆医科大学附属永川医院以劳务派遣形式招聘2名专职科研人员的公告](https://www.gongkaoleida.com/article/2207549)
 
 [大陆高校师生将访台 参访行程披露](https://m.163.com/news/article/JHRBANIK0514R9OJ.html)
 
