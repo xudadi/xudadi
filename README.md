@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-26 14:26:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-26 14:47:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属永川医院以劳务派遣形式招聘2名专职科研人员的公告](https://www.gongkaoleida.com/article/2207549)
+[重庆大足高新技术产业开发区管理委员会公开招聘派遣制工作人员的招聘简章](https://www.gongkaoleida.com/article/2208142)
 
-[大陆高校师生将访台 参访行程披露](https://m.163.com/news/article/JHRBANIK0514R9OJ.html)
+[商场年消费百万的情侣被LV柜姐翻白眼:不知她在牛什么](https://m.163.com/news/article/JHS936IB0514R9OJ.html)
 
-[广告牌坠落致3死:去年已发现锈蚀严重 城管检查走过场](https://m.163.com/news/article/JHREOU1D0514R9P4.html)
+[女儿洗澡时下体出血确诊患罕见病 家长：无药可医](https://m.163.com/news/article/JHRS97QK0514R9P4.html)
 
-[两省一部迎来新任领导成员 58岁中将任海军副司令员](https://m.163.com/news/article/JHRES1R3055040N3.html)
+[一份白粥200元店长称用依云水煮的 市监部门回应](https://m.163.com/news/article/JHSDO3JS0514BE2Q.html)
 
 ---end---
