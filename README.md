@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-27 02:25:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-27 02:45:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学工业CT无损检测教育部工程研究中心主任招聘启事](https://www.gongkaoleida.com/article/2208619)
 
-[苏州任命两名博士副市长 其中一人具有博导身份](https://m.163.com/news/article/JHUHKBQ20530JPVV.html)
+[两名"金融虎"一个无期一个死缓:毕业后曾一同入职央行](https://m.163.com/news/article/JHUP4NCD05129QAF.html)
 
-[墨西哥总统称墨不是中国产品转口美国的途径 中方回应](https://m.163.com/news/article/JHUMEI8N0001899O.html)
+[殡仪馆被指用炖盅当骨灰瓮 当地民政局：剩余同款弃用](https://m.163.com/news/article/JHUNJUM5053469LG.html)
 
-[派出所副所长打学生牵出校园欺凌传闻 当地成立工作组](https://m.163.com/news/article/JHUHRT3705129QAF.html)
+[76岁老人遭野猪攻击身亡 当地称撵野猪4人系自发组织](https://m.163.com/news/article/JHUNM3LU051492T3.html)
 
 ---end---
