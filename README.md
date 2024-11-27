@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-27 14:26:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-27 14:48:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲智造科技有限公司关于招聘激光焊接工艺工程师岗位等的公告](https://www.gongkaoleida.com/article/2209131)
+[重庆大学生物流变科学与技术教育部重点实验室主任招聘启事](https://www.gongkaoleida.com/article/2209425)
 
-[两名"金融虎"一个无期一个死缓:毕业后曾一同入职央行](https://m.163.com/news/article/JHUP4NCD05129QAF.html)
+[买房“免息垫首付”暴雷：深莞10余个楼盘卷入](https://m.163.com/news/article/JHV21RQ90512B07B.html)
 
-[殡仪馆被指用炖盅当骨灰瓮 当地民政局：剩余同款弃用](https://m.163.com/news/article/JHUNJUM5053469LG.html)
+[女孩被老师砸伤头骨案二次开庭 母亲：孩子已重新上学](https://m.163.com/news/article/JI06KQ40053469LG.html)
 
-[76岁老人遭野猪攻击身亡 当地称撵野猪4人系自发组织](https://m.163.com/news/article/JHUNM3LU051492T3.html)
+[教师在宿舍离世：教龄17年14年都在带高三](https://m.163.com/news/article/JI04CN2G00019B3E.html)
 
 ---end---
