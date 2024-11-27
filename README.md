@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-27 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-27 20:37:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学生物流变科学与技术教育部重点实验室主任招聘启事](https://www.gongkaoleida.com/article/2209425)
+[重庆市涪陵区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2210155)
 
-[买房“免息垫首付”暴雷：深莞10余个楼盘卷入](https://m.163.com/news/article/JHV21RQ90512B07B.html)
+[致15死44伤火灾事故调查报告公布 南京表态](https://m.163.com/news/article/JI196EVQ0514R9OJ.html)
 
-[女孩被老师砸伤头骨案二次开庭 母亲：孩子已重新上学](https://m.163.com/news/article/JI06KQ40053469LG.html)
+[赵金云被撤销全国政协委员资格 夫妻俩此前先后落马](https://m.163.com/news/article/JI19RQKF051482MP.html)
 
-[教师在宿舍离世：教龄17年14年都在带高三](https://m.163.com/news/article/JI04CN2G00019B3E.html)
+[向保时捷维权货拉拉司机最新发声：达成和解 不再回应](https://m.163.com/news/article/JI18P8EJ0512B07B.html)
 
 ---end---
