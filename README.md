@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-27 07:50:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-27 09:25:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学工业CT无损检测教育部工程研究中心主任招聘启事](https://www.gongkaoleida.com/article/2208619)
+[重庆九洲智造科技有限公司关于招聘激光焊接工艺工程师岗位等的公告](https://www.gongkaoleida.com/article/2209131)
 
 [两名"金融虎"一个无期一个死缓:毕业后曾一同入职央行](https://m.163.com/news/article/JHUP4NCD05129QAF.html)
 
