@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-28 02:25:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-28 02:46:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区教育事业单位面向2025届高校毕业生赴外公开招聘工作人员公告](https://www.gongkaoleida.com/article/2210155)
+[人和中学招聘非编物理教师公告](https://www.gongkaoleida.com/article/2210463)
 
-[致15死44伤火灾事故调查报告公布 南京表态](https://m.163.com/news/article/JI196EVQ0514R9OJ.html)
+[男子醉驾致2死3伤案再次庭审 肇事者被鉴定有酒精依赖](https://m.163.com/news/article/JI1K65JJ0514R9P4.html)
 
-[赵金云被撤销全国政协委员资格 夫妻俩此前先后落马](https://m.163.com/news/article/JI19RQKF051482MP.html)
+[25岁奥斯卡被指已回国办理归化手续 还有2人基本确认](https://m.163.com/news/article/JI1C1BP30530JPVV.html)
 
-[向保时捷维权货拉拉司机最新发声：达成和解 不再回应](https://m.163.com/news/article/JI18P8EJ0512B07B.html)
+[黄巍履新：17岁被保送清华 曾是全国最年轻正厅级干部](https://m.163.com/news/article/JI1FFCTO0530JPVV.html)
 
 ---end---
