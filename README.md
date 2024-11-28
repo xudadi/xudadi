@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-28 14:26:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-28 14:48:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆邮电大学2024年下半年公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2210570)
+[重庆电力高等专科学校2024年第三批合同制员工招聘简章](https://www.gongkaoleida.com/article/2211013)
 
-[男子醉驾致2死3伤案再次庭审 肇事者被鉴定有酒精依赖](https://m.163.com/news/article/JI1K65JJ0514R9P4.html)
+[《变形计》王境泽称靠“真香”版权年入百万](https://m.163.com/news/article/JI1R37VL0512B07B.html)
 
-[25岁奥斯卡被指已回国办理归化手续 还有2人基本确认](https://m.163.com/news/article/JI1C1BP30530JPVV.html)
+[老人住三甲医院单间10多年未出院  院方回应](https://m.163.com/news/article/JI2RQQCS0514R9P4.html)
 
-[黄巍履新：17岁被保送清华 曾是全国最年轻正厅级干部](https://m.163.com/news/article/JI1FFCTO0530JPVV.html)
+[新增91种药品 新版国家医保药品目录公布](https://m.163.com/news/article/JI2SIT1O000189PS.html)
 
 ---end---
