@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-28 20:37:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-28 21:15:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆电力高等专科学校2024年第三批合同制员工招聘简章](https://www.gongkaoleida.com/article/2211013)
+[重庆兴农融资担保集团有限公司关于对所持重庆三峡银行股权专项审计的选聘公告](https://www.gongkaoleida.com/article/2211747)
 
-[《变形计》王境泽称靠“真香”版权年入百万](https://m.163.com/news/article/JI1R37VL0512B07B.html)
+[国家级经开区"一把手"任上被查 此前连续5任书记落马](https://m.163.com/news/article/JI3MDVJ90512B07B.html)
 
-[老人住三甲医院单间10多年未出院  院方回应](https://m.163.com/news/article/JI2RQQCS0514R9P4.html)
+[嘎玛泽登任西藏自治区代理主席](https://m.163.com/news/article/JI3LRAMF0001899O.html)
 
-[新增91种药品 新版国家医保药品目录公布](https://m.163.com/news/article/JI2SIT1O000189PS.html)
+[南部战区位中国黄岩岛领海周边海空域开展战备警巡](https://m.163.com/news/article/JI3KOFFB0001899O.html)
 
 ---end---
