@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-28 07:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-28 09:24:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[人和中学招聘非编物理教师公告](https://www.gongkaoleida.com/article/2210463)
+[重庆邮电大学2024年下半年公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2210570)
 
 [男子醉驾致2死3伤案再次庭审 肇事者被鉴定有酒精依赖](https://m.163.com/news/article/JI1K65JJ0514R9P4.html)
 
