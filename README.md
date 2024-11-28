@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-29 02:24:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-29 02:45:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆兴农融资担保集团有限公司关于对所持重庆三峡银行股权专项审计的选聘公告](https://www.gongkaoleida.com/article/2211747)
 
-[国家级经开区"一把手"任上被查 此前连续5任书记落马](https://m.163.com/news/article/JI3MDVJ90512B07B.html)
+[这五个省市，同日任命副省（市）长](https://m.163.com/news/article/JI41AOU4053469LG.html)
 
-[嘎玛泽登任西藏自治区代理主席](https://m.163.com/news/article/JI3LRAMF0001899O.html)
+[官方证实OPPO杭州全球总部停工 总用地规模近5万平米](https://m.163.com/news/article/JI41VMTK0512B07B.html)
 
-[南部战区位中国黄岩岛领海周边海空域开展战备警巡](https://m.163.com/news/article/JI3KOFFB0001899O.html)
+[涉嫌严重违纪 中央军委委员苗华被停职检查](https://m.163.com/news/article/JI3U0JHE000189PS.html)
 
 ---end---
