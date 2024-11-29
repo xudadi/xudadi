@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-29 14:26:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-29 14:48:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室谢鹏教授课题组招聘公告](https://www.gongkaoleida.com/article/2211902)
+[两江新区人才发展集团标注类岗位代理招聘简章](https://www.gongkaoleida.com/article/2212329)
 
-[这五个省市，同日任命副省（市）长](https://m.163.com/news/article/JI41AOU4053469LG.html)
+[山东一金店疑被抢劫损失千万 派出所：正调查](https://m.163.com/news/article/JI5LRF970001899O.html)
 
-[官方证实OPPO杭州全球总部停工 总用地规模近5万平米](https://m.163.com/news/article/JI41VMTK0512B07B.html)
+[访台清华校花引台媒赞"神仙妹妹"](https://m.163.com/news/article/JI5FLVTQ0550B6IS.html)
 
-[涉嫌严重违纪 中央军委委员苗华被停职检查](https://m.163.com/news/article/JI3U0JHE000189PS.html)
+[2025年总台春晚主题、主标识发布](https://m.163.com/news/article/JI5KCM440534A4SC.html)
 
 ---end---
