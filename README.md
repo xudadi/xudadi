@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-30 02:24:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-30 02:45:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市事业单位2024年第四季度公开招聘工作人员公告汇总](https://www.gongkaoleida.com/article/2212910)
 
-[京津沪等九省市试点允许设立外商独资医院 条件公布](https://m.163.com/news/article/JI6DVF9R0514R9OJ.html)
+[百亩永久农田被违规改种景观草皮 省委书记暗访到地头](https://m.163.com/news/article/JI6MIO3B051482MP.html)
 
-[上海将修订"沪牌"拍卖规定：连缴1年社保或个税可参拍](https://m.163.com/news/article/JI67R36M0001899O.html)
+[东方白鹳在成都遭枪击、捕捉 3名嫌犯均获刑](https://m.163.com/news/article/JI6JVUD6051492T3.html)
 
-[财评中心"一把手"把下属当私人管家：帮买纸巾办寿宴](https://m.163.com/news/article/JI5R33JH0514D3UH.html)
+[43位志愿军英烈长眠沈阳陵园:有烈士后代找到爷爷名字](https://m.163.com/news/article/JI6KL56F053469LG.html)
 
 ---end---
