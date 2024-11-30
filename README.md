@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-01 02:22:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-01 02:43:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市江北区江北嘴实验学校教师招聘公告](https://www.gongkaoleida.com/article/2213603)
 
 [网友登报向百度前副总裁璩静道歉：编造虚假不实信息](https://m.163.com/news/article/JI8LLIUH051492T3.html)
 
-[河南一副镇长开套牌车被发现后打人 官方通报](https://m.163.com/news/article/JI90E7UV0534A4SC.html)
+[台军严重缺人 志愿役官兵同比去年"蒸发"掉11个联兵营](https://m.163.com/news/article/JI91IFU5055040N3.html)
 
-[90后富豪花4500万买一根香蕉吃 曾连3次放巴菲特鸽子](https://m.163.com/news/article/JI8VG5EH0550A0OW.html)
+[河南一副镇长开套牌车被发现后打人 官方通报](https://m.163.com/news/article/JI90E7UV0534A4SC.html)
 
 ---end---
