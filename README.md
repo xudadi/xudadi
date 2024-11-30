@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-11-30 14:24:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-11-30 14:44:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市事业单位2024年第四季度公开招聘工作人员公告汇总](https://www.gongkaoleida.com/article/2212910)
+[重庆市江北区江北嘴实验学校教师招聘公告](https://www.gongkaoleida.com/article/2213603)
 
-[百亩永久农田被违规改种景观草皮 省委书记暗访到地头](https://m.163.com/news/article/JI6MIO3B051482MP.html)
+[涉案80余万 山东两金店同一天被抢均已告破](https://m.163.com/news/article/JI814BOR0001899O.html)
 
-[东方白鹳在成都遭枪击、捕捉 3名嫌犯均获刑](https://m.163.com/news/article/JI6JVUD6051492T3.html)
+[吐槽学校没钱建宿舍中学生已复课](https://m.163.com/news/article/JI68FTGI051492T3.html)
 
-[43位志愿军英烈长眠沈阳陵园:有烈士后代找到爷爷名字](https://m.163.com/news/article/JI6KL56F053469LG.html)
+[天津上空神秘绿光形状像根葱 官方揭秘](https://m.163.com/news/article/JI7NNUHU0514D3UH.html)
 
 ---end---
