@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-03 02:25:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-03 02:47:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区经济和信息化委员会2024年公开招聘编外派遣人员简章](https://www.gongkaoleida.com/article/2214948)
+[国网重庆市电力公司2025年高校毕业生招聘考试(第一批)安排公告](https://www.gongkaoleida.com/article/2215666)
 
 [立陶宛要求中国外交人员限期离境 外交部回应](https://m.163.com/news/article/JIDLEMCO0534A4SC.html)
 
