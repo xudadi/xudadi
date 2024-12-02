@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-02 20:38:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-02 21:16:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往北碚区公安分局辅警招聘公告](https://www.gongkaoleida.com/article/2214517)
+[渝北区经济和信息化委员会2024年公开招聘编外派遣人员简章](https://www.gongkaoleida.com/article/2214948)
+
+[立陶宛要求中国外交人员限期离境 外交部回应](https://m.163.com/news/article/JIDLEMCO0534A4SC.html)
+
+[路遇起火车辆 "卖鱼哥"不顾满车的鱼虾泼出一吨水救火](https://m.163.com/news/article/JIDDHESM053469LG.html)
 
 [夫妻相隔一周落马后 女副省长被免职](https://m.163.com/news/article/JIDI03BG055040N3.html)
-
-[没有关卡和奖励 博主将去世奶奶做进掌机游戏看哭网友](https://m.163.com/news/article/JIDBJ86B053469M5.html)
-
-[拿到退休证1个多月 佘克冰被查](https://m.163.com/news/article/JIDC7KEO0512D3VJ.html)
 
 ---end---
