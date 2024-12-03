@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-03 14:27:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-03 14:49:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区经济和信息化委员会2024年公开招聘编外派遣人员简章](https://www.gongkaoleida.com/article/2214948)
+[重庆大学附属江津医院招聘启事(导医2名)](https://www.gongkaoleida.com/article/2216149)
 
-[露营时酒精爆燃一家三口烧伤 目击者：突然"轰"的一声](https://m.163.com/news/article/JIE9RQAV0530JPVV.html)
+[男子扛5米长鱼竿触高压线身亡 家属起诉供电企业索赔](https://m.163.com/news/article/JIG4GFJ3051492T3.html)
 
-[环球:优衣库董事长表态遭渲染后 BBC又"碰瓷"新疆番茄](https://m.163.com/news/article/JIEMAV3L0514R9OJ.html)
+[多省份开启县市区主官大面积调整](https://m.163.com/news/article/JIG0QKBT0514R9P4.html)
 
-[体育总局棋牌中心主任朱国平被免 任内爆发王天一丑闻](https://m.163.com/news/article/JIEAUCH405199DKK.html)
+[山西孝义一政府工程项目投资2.83亿 设计费就超500万](https://m.163.com/news/article/JIFSJTKF053469M5.html)
 
 ---end---
