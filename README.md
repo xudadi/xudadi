@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-03 07:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-03 09:26:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国网重庆市电力公司2025年高校毕业生招聘考试(第一批)安排公告](https://www.gongkaoleida.com/article/2215666)
+[渝北区经济和信息化委员会2024年公开招聘编外派遣人员简章](https://www.gongkaoleida.com/article/2214948)
 
-[立陶宛要求中国外交人员限期离境 外交部回应](https://m.163.com/news/article/JIDLEMCO0534A4SC.html)
+[露营时酒精爆燃一家三口烧伤 目击者：突然"轰"的一声](https://m.163.com/news/article/JIE9RQAV0530JPVV.html)
 
-[路遇起火车辆 "卖鱼哥"不顾满车的鱼虾泼出一吨水救火](https://m.163.com/news/article/JIDDHESM053469LG.html)
+[环球:优衣库董事长表态遭渲染后 BBC又"碰瓷"新疆番茄](https://m.163.com/news/article/JIEMAV3L0514R9OJ.html)
 
-[夫妻相隔一周落马后 女副省长被免职](https://m.163.com/news/article/JIDI03BG055040N3.html)
+[体育总局棋牌中心主任朱国平被免 任内爆发王天一丑闻](https://m.163.com/news/article/JIEAUCH405199DKK.html)
 
 ---end---
