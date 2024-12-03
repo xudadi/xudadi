@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-04 02:23:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-04 02:45:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市荣昌区事业单位2024年第四季度考核招聘紧缺优秀人才公告](https://www.gongkaoleida.com/article/2217214)
-
-[菲律宾侵闯中国鲎藤礁画面公开:渔船呈现"编队化"特征](https://m.163.com/news/article/JIG4RORH0514R9OJ.html)
 
 [男子扛5米长鱼竿触高压线身亡 家属起诉供电企业索赔](https://m.163.com/news/article/JIG4GFJ3051492T3.html)
 
 [多省份开启县市区主官大面积调整](https://m.163.com/news/article/JIG0QKBT0514R9P4.html)
+
+[山西孝义一政府工程项目投资2.83亿 设计费就超500万](https://m.163.com/news/article/JIFSJTKF053469M5.html)
 
 ---end---
