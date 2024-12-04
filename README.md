@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-04 20:37:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-04 21:15:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学核能技术创新研究院(筹)劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2217888)
+[重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2218669)
 
 [朱汉桥被双开：与不法商人深度利益捆绑 前任也已落马](https://m.163.com/news/article/JIIHQ7U0051492T3.html)
 
