@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-05 20:37:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-05 21:15:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2218669)
+[重庆大学国家卓越工程师学院劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2219852)
 
-[200多斤的野猪闯进村民家中 被特警当场击毙](https://m.163.com/news/article/JIIDK4GE053469LG.html)
+[网友质疑画室老师提前泄露美术联考题 官方调查](https://m.163.com/news/article/JILP875K053469LG.html)
 
-[朱汉桥被双开：与不法商人深度利益捆绑 前任也已落马](https://m.163.com/news/article/JIIHQ7U0051492T3.html)
+[“70后”正厅级官员进京履新 此前在海南工作](https://m.163.com/news/article/JILJN5AS055040N3.html)
 
-[中储粮一项目发生拆除倒塌事故：致6死1伤 1人仍被困](https://m.163.com/news/article/JIIF9KJJ0001899O.html)
+[低俗网红被封禁15天遭网友质疑"处罚太轻" 快手回应](https://m.163.com/news/article/JILI0A0F0530JPVV.html)
 
 ---end---
