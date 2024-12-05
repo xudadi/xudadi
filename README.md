@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-05 14:26:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-05 14:48:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2218669)
+
+[200多斤的野猪闯进村民家中 被特警当场击毙](https://m.163.com/news/article/JIIDK4GE053469LG.html)
 
 [朱汉桥被双开：与不法商人深度利益捆绑 前任也已落马](https://m.163.com/news/article/JIIHQ7U0051492T3.html)
 
 [中储粮一项目发生拆除倒塌事故：致6死1伤 1人仍被困](https://m.163.com/news/article/JIIF9KJJ0001899O.html)
-
-[网友喊话巢湖博物馆"你家文物发霉了" 博物馆最新回应](https://m.163.com/news/article/JIG23MLL053469KC.html)
 
 ---end---
