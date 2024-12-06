@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-06 15:19:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-06 15:37:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2220649)
 
