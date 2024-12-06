@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-06 14:27:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-06 14:49:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学国家卓越工程师学院劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2219852)
+[派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2220649)
 
-[3年关超300家超市 跟胖东来学"放手"的步步高未见好转](https://m.163.com/news/article/JILTI5RP0530KP1K.html)
+[女硕士患精神疾病失踪十余年已生两娃 知情人发声](https://m.163.com/news/article/JILTJQQP0512D3VJ.html)
 
-[网友质疑画室老师提前泄露美术联考题 官方调查](https://m.163.com/news/article/JILP875K053469LG.html)
+[货车司机遇检查坠桥身亡 郑州通报：严重超限超载](https://m.163.com/news/article/JINJPKCV0534A4SC.html)
 
-[“70后”正厅级官员进京履新 此前在海南工作](https://m.163.com/news/article/JILJN5AS055040N3.html)
+[海南省委常委、海口市委书记罗增斌被查](https://m.163.com/news/article/JINJ4GRK0001899N.html)
 
 ---end---
