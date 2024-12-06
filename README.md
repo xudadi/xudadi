@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-07 02:25:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-07 02:47:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市云阳县教育事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2221666)
 
+[知名连锁餐饮品牌牛肉菜品使用猪肉制作 总部回应](https://m.163.com/news/article/JIO872PS055690HN.html)
+
+[湖北省中医院否认"拒诊HIV患者":为其开药并提示就诊](https://m.163.com/news/article/JIOFIJU405129QAF.html)
+
 [朱泽宇操纵通润装备等23只股票 被证监会罚没近3500万](https://m.163.com/news/article/JIOETQM30001899O.html)
-
-[熊孩子弄坏价值10多万元的乐器 有艺考生无奈弃考](https://m.163.com/news/article/JIOEIE1S053469LG.html)
-
-[中共中央批准 周立伟任山东省委常委](https://m.163.com/news/article/JIODAPMB0530JPVV.html)
 
 ---end---
