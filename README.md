@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-06 20:36:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-06 21:14:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2220649)
+[重庆市云阳县教育事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2221666)
 
-[女硕士患精神疾病失踪十余年已生两娃 知情人发声](https://m.163.com/news/article/JILTJQQP0512D3VJ.html)
+[朱泽宇操纵通润装备等23只股票 被证监会罚没近3500万](https://m.163.com/news/article/JIOETQM30001899O.html)
 
-[货车司机遇检查坠桥身亡 郑州通报：严重超限超载](https://m.163.com/news/article/JINJPKCV0534A4SC.html)
+[熊孩子弄坏价值10多万元的乐器 有艺考生无奈弃考](https://m.163.com/news/article/JIOEIE1S053469LG.html)
 
-[海南省委常委、海口市委书记罗增斌被查](https://m.163.com/news/article/JINJ4GRK0001899N.html)
+[中共中央批准 周立伟任山东省委常委](https://m.163.com/news/article/JIODAPMB0530JPVV.html)
 
 ---end---
