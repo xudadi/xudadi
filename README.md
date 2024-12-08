@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-08 07:50:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-08 09:39:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市云阳县教育事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2221666)
 
-[小学没毕业的男子靠灌香肠在杭州买房 最多1天卖4千斤](https://m.163.com/news/article/JIQMIGEO0514R9OJ.html)
+[涉嫌非法禁锢15岁女孩 新加坡22岁中国留学生否认有罪](https://m.163.com/news/article/JIQN0TNG0530JPVV.html)
 
-[北京一别墅漏水4年没找到漏点 开发商:不符合退房条件](https://m.163.com/news/article/JINJOV8A0514D3J0.html)
+[候补中央委员陈永奇已任江西省委副书记](https://m.163.com/news/article/JISB7ISA0530M570.html)
 
-["祁天道"第二次被封 多个千万级网红此前曾为其引流](https://m.163.com/news/article/JIQUS028053469M5.html)
+[7岁女孩失踪26年 家属怀疑其被爷爷家邻居卖给玩把戏的](https://m.163.com/news/article/JIOQKQ93053469LG.html)
 
 ---end---
