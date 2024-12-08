@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-08 20:34:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-08 21:05:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市云阳县教育事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2221666)
 
-[山东威海一冷库发生火灾 9人遇难](https://m.163.com/news/article/JISHH60V000189PS.html)
+[砂糖橘今年涨价近三成 有的售价13元/斤](https://m.163.com/news/article/JIQUA3Q5051492T3.html)
 
-[涉嫌非法禁锢15岁女孩 新加坡22岁中国留学生否认有罪](https://m.163.com/news/article/JIQN0TNG0530JPVV.html)
+[记者出身副部被查 系年内唯一任上落马省会城市一把手](https://m.163.com/news/article/JITF1AUR0530WJTO.html)
 
-[候补中央委员陈永奇已任江西省委副书记](https://m.163.com/news/article/JISB7ISA0530M570.html)
+[网友钓到条"带编码"的鱼好奇能不能吃 鱼的出处找到了](https://m.163.com/news/article/JITGDADP0514R9OJ.html)
 
 ---end---
