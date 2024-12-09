@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-09 14:27:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-09 14:50:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市云阳县教育事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2221666)
+[重庆高速资产经营管理有限公司招聘公告](https://www.gongkaoleida.com/article/2222513)
 
-[吴泽桐履新 国内"80后"地级市市长有望增至5位](https://m.163.com/news/article/JITSJNQB0514R9P4.html)
+[蔡国强烟花秀约600架无人机坠海 观众直呼 "意难平"](https://m.163.com/news/article/JIVAN3910514D3UH.html)
 
-[战斗英雄原明逝世 曾带敢死队13分钟拔掉敌人2个据点](https://m.163.com/news/article/JISNH79V0514R9P4.html)
+[琼瑶留10亿版权费 儿媳发10字声明](https://m.163.com/news/article/JIV9M91S0514R9OJ.html)
 
-[2个月内2次公示 35岁的郑超升正处1个月后再拟任新职](https://m.163.com/news/article/JITQMPFG0512D3VJ.html)
+[家暴相关电话录音、短信、视听资料……家庭暴力证据标准明确](https://m.163.com/news/article/JIV8KK21000189PS.html)
 
 ---end---
