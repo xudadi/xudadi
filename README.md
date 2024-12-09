@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-09 20:38:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-09 21:17:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆高速资产经营管理有限公司招聘公告](https://www.gongkaoleida.com/article/2222513)
+[重庆西永产业发展有限公司2024年公开招聘工作人员简章](https://www.gongkaoleida.com/article/2223971)
 
-[蔡国强烟花秀约600架无人机坠海 观众直呼 "意难平"](https://m.163.com/news/article/JIVAN3910514D3UH.html)
+[中央政治局会议定调明年经济工作 首提"超常规"三个字](https://m.163.com/news/article/JJ063AFG0519DDQ2.html)
 
-[琼瑶留10亿版权费 儿媳发10字声明](https://m.163.com/news/article/JIV9M91S0514R9OJ.html)
+[涉嫌违反反垄断法 英伟达被市场监管总局立案调查](https://m.163.com/news/article/JJ07GANF000189PS.html)
 
-[家暴相关电话录音、短信、视听资料……家庭暴力证据标准明确](https://m.163.com/news/article/JIV8KK21000189PS.html)
+[公司被指假冒抖音开招商会"圈钱" 4年4次被列异常名录](https://m.163.com/news/article/JJ05GI4J0514R9P4.html)
 
 ---end---
