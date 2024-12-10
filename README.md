@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-10 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-10 20:38:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位面向潼南区2024年服务期满且考核合格“三支一扶”人员公开招聘工作人员公告](https://www.gongkaoleida.com/article/2224612)
+[某国有大型商业银行数字化风控中心（重庆）招聘启事](https://www.gongkaoleida.com/article/2225093)
 
-[乘客在航班上突发疾病经抢救无效死亡 机场救护发声](https://m.163.com/news/article/JJ204KJN053469LG.html)
+[中纪委"打虎"三连发 其中一人被指长期对其子失管失教](https://m.163.com/news/article/JJ2LMOFA0534A4SC.html)
 
-[走失13年女硕士的"收留者"：办过酒席 没有拘禁她](https://m.163.com/news/article/JJ1T96TN053469LG.html)
+[在西藏工作47年的吴英杰被双开：助长贪腐问题滋长](https://m.163.com/news/article/JJ2JQRMN05129QAF.html)
 
-[《甄嬛传》变枪战戏 广电总局出手整治AI魔改](https://m.163.com/news/article/JJ1UPQN8053469LG.html)
+[大学食堂档口疑因拒涨价被同行威胁后关门 校方回应](https://m.163.com/news/article/JJ2HO194053469LG.html)
 
 ---end---
