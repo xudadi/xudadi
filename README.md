@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-10 07:51:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-10 09:27:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆西永产业发展有限公司2024年公开招聘工作人员简章](https://www.gongkaoleida.com/article/2223971)
 
-[小米公布首款SUV车型海报图 雷军解释提早公示原因](https://m.163.com/news/article/JJ0FTFCN0534A4SC.html)
+[海信回应裁员传闻：均为不实猜测](https://m.163.com/news/article/JJ1J9RJA0534A4SC.html)
 
-[670亿元芯片EDA龙头发布公告 实控人变更为知名央企](https://m.163.com/news/article/JJ0ESOOR0512B07B.html)
+[中央政治局会议出现多个"首次" 7位专家详解](https://m.163.com/news/article/JJ0KAE4I0512B07B.html)
 
-[50位老人参加9.9元公园一日游被扔路边淋雨 官方介入](https://m.163.com/news/article/JJ0COK6A0514R9OJ.html)
+[走失13年女硕士"被收留"引关注 男方堂哥否认将她囚禁](https://m.163.com/news/article/JJ0HH1MF053469LG.html)
 
 ---end---
