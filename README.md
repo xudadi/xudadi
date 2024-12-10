@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-11 02:26:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-11 02:48:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [某国有大型商业银行数字化风控中心（重庆）招聘启事](https://www.gongkaoleida.com/article/2225093)
 
-[中纪委"打虎"三连发 其中一人被指长期对其子失管失教](https://m.163.com/news/article/JJ2LMOFA0534A4SC.html)
+[“贪”字当选台湾2024年度代表字](https://m.163.com/news/article/JJ325OSI05346RC6.html)
 
-[在西藏工作47年的吴英杰被双开：助长贪腐问题滋长](https://m.163.com/news/article/JJ2JQRMN05129QAF.html)
+[中药厂报警 福建四名公职人员因生产销售"八宝丹"获刑](https://m.163.com/news/article/JJ31L5K3051492T3.html)
 
-[大学食堂档口疑因拒涨价被同行威胁后关门 校方回应](https://m.163.com/news/article/JJ2HO194053469LG.html)
+[华尔街"神秘资金"布局中国资产 12天已浮盈10亿](https://m.163.com/news/article/JJ2J0TPU0512B07B.html)
 
 ---end---
