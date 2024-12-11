@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-11 07:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-11 09:26:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[某国有大型商业银行数字化风控中心（重庆）招聘启事](https://www.gongkaoleida.com/article/2225093)
+[第六建筑设计院实习生岗位招聘启事](https://www.gongkaoleida.com/article/2225641)
 
 [“贪”字当选台湾2024年度代表字](https://m.163.com/news/article/JJ325OSI05346RC6.html)
 
