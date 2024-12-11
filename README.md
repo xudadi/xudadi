@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-11 14:27:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-11 14:49:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[第六建筑设计院实习生岗位招聘启事](https://www.gongkaoleida.com/article/2225641)
+[重庆飞驶特人力资源管理有限公司往某机关单位招聘启事](https://www.gongkaoleida.com/article/2226060)
 
-[“贪”字当选台湾2024年度代表字](https://m.163.com/news/article/JJ325OSI05346RC6.html)
+[云南一居委会原主任涉黑被判25年 官方公布案情](https://m.163.com/news/article/JJ48C9D5053469LG.html)
 
-[中药厂报警 福建四名公职人员因生产销售"八宝丹"获刑](https://m.163.com/news/article/JJ31L5K3051492T3.html)
+[老人花费近万元贴膏药后入院 儿子：医院下病危通知书](https://m.163.com/news/article/JJ41N6P5053469LG.html)
 
-[华尔街"神秘资金"布局中国资产 12天已浮盈10亿](https://m.163.com/news/article/JJ2J0TPU0512B07B.html)
+[百万粉丝女博主未带证件回民宿被拒 保安扬言"砍了你"](https://m.163.com/news/article/JJ3AJJ7G051492T3.html)
 
 ---end---
