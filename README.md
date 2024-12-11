@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-12 02:26:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-12 02:48:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学编外聘用人员招聘简章(2024年第11轮)](https://www.gongkaoleida.com/article/2226288)
 
-[62岁"老虎"获刑：造成严重政治危害 老同事刚被双开](https://m.163.com/news/article/JJ576E8D055040N3.html)
+[老人"放生"大米惹争议 当事人：是米坏了 想拿去喂鱼](https://m.163.com/news/article/JJ5HA95C053469LG.html)
 
-[深圳高层住宅起火初判因燃气爆炸 坠楼人员被120拉走](https://m.163.com/news/article/JJ55JADD0512D3VJ.html)
+[被妻子指责"不拿钱回来" 国企高管帮妻子"拉业务"获刑](https://m.163.com/news/article/JJ5G344K051492T3.html)
 
-[恒大清盘人安迈已接管许家印私人飞机 寻求挂牌出售](https://m.163.com/news/article/JJ51OIHB05198CJN.html)
+[深圳消防通报：住宅楼爆炸明火已扑灭 事故致1人死亡](https://m.163.com/news/article/JJ5E1ALQ0001899O.html)
 
 ---end---
