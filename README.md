@@ -9,14 +9,14 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-11 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-11 20:37:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司往某机关单位招聘启事](https://www.gongkaoleida.com/article/2226060)
+[重庆医科大学编外聘用人员招聘简章(2024年第11轮)](https://www.gongkaoleida.com/article/2226288)
 
-[云南一居委会原主任涉黑被判25年 官方公布案情](https://m.163.com/news/article/JJ48C9D5053469LG.html)
+[62岁"老虎"获刑：造成严重政治危害 老同事刚被双开](https://m.163.com/news/article/JJ576E8D055040N3.html)
 
-[老人花费近万元贴膏药后入院 儿子：医院下病危通知书](https://m.163.com/news/article/JJ41N6P5053469LG.html)
+[深圳高层住宅起火初判因燃气爆炸 坠楼人员被120拉走](https://m.163.com/news/article/JJ55JADD0512D3VJ.html)
 
-[百万粉丝女博主未带证件回民宿被拒 保安扬言"砍了你"](https://m.163.com/news/article/JJ3AJJ7G051492T3.html)
+[恒大清盘人安迈已接管许家印私人飞机 寻求挂牌出售](https://m.163.com/news/article/JJ51OIHB05198CJN.html)
 
 ---end---
