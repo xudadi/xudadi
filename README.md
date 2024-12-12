@@ -13,11 +13,11 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-12 20:37:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-12 21:15:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市云阳县事业单位2024年第四季度面向2024届公费师范生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2227802)
+[重庆国隆农业科技产业发展集团有限公司2024年公开招聘工作人员简章](https://www.gongkaoleida.com/article/2228454)
 
-[极越内部人士:夏一平仍在公司办公 正寻求融资](https://m.163.com/news/article/JJ794D3H0514R9P4.html)
+[湖北一架大型救援无人机坠毁起火](https://m.163.com/news/article/JJ79I65C0001899O.html)
 
 [80后爸爸辅导儿子作业气到心肌梗死](https://m.163.com/news/article/JJ722NCT0530JPVV.html)
 
