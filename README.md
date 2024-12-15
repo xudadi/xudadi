@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-16 02:23:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-16 02:44:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市工艺美术学校教务员招聘公告](https://www.gongkaoleida.com/article/2230476)
 
-[贵州一村庄陆续发生30多处地面塌陷:煤矿长期开采诱发](https://m.163.com/news/article/JJES6F07055040N3.html)
+[国务院考核巡查组暗访海南：问题众多、隐患重重](https://m.163.com/news/article/JJFE53DJ0530M570.html)
 
-[4位干部拟任厅级新职 3位拟升正厅](https://m.163.com/news/article/JJEQ47U80530JPVV.html)
+[男子骗76名幼教工作者超800万"开幼儿园" 结果钱没了](https://m.163.com/news/article/JJFFNK5Q053469LG.html)
 
-[主播们为引流上演奇葩吃播：有人吞下白花花的2斤肥肉](https://m.163.com/news/article/JJA7N7VN0530WJIN.html)
+[46万买的理想汽车行驶中突然熄火升级系统 车主吓坏](https://m.163.com/news/article/JJFIMGI900019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[4位厅干（拟）履新 其中有2位女干部](https://m.163.com/news/article/JJEDA6EN0530JPVV.html)
+[湖北一大桥发生多车事故 有车坠桥起火](https://m.163.com/news/article/JJFQ183D0001899O.html)
 
 ---end---
