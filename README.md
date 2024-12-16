@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-17 02:26:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-17 02:47:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司大足分公司招聘派往大足区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2232210)
 
-[男子为农机买柴油被罚3万:决定申诉](https://m.163.com/news/article/JJHQK30L053469LG.html)
+[高校领导疑买酒赊账9万 卖家要账时发病死亡](https://m.163.com/news/article/JJI50RG80530JPVV.html)
 
-[今年已有9名正部级官员落马](https://m.163.com/news/article/JJHUQ1D0053469LG.html)
+[男子被相亲对象骗48万：家属是请的演员 女方已婚已育](https://m.163.com/news/article/JJIFPKJO00019B3E.html)
 
-[前11月一般公共预算收入同比下降0.6%](https://m.163.com/news/article/JJHU6C1A0001899O.html)
+[在建高铁被举报施工材料不合格 公司回应](https://m.163.com/news/article/JJIDMGAI000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[外交部回应美国38辆主战坦克抵台](https://m.163.com/news/article/JJHS162C0001899O.html)
+[教师赌博被警方罚款10年后被教育局记过:要求倒查10年](https://m.163.com/news/article/JJI5K29T053469LG.html)
 
 ---end---
