@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-18 02:26:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-18 02:48:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市巴南区教育事业单位面向2025届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2234467)
 
-[为找回3公里以内乘客 昆明出租车开始自发降低起步价](https://m.163.com/news/article/JJKQNRGP0514BE2Q.html)
+[用时9个多小时 神十九乘组再次刷新出舱活动时长纪录](https://m.163.com/news/article/JJL3Q4G40534A4SC.html)
 
-[汇源发文称员工被镇政府人员殴打 当地称已成立调查组](https://m.163.com/news/article/JJKQGPU60514R9P4.html)
+[浙大一教师被指伪造邀请函 致多名学生被英国拒签10年](https://m.163.com/news/article/JJL29S8V053469LG.html)
 
-[搞权钱交易的杨荣森被处理：二次被查 曾"逃逸式"辞职](https://m.163.com/news/article/JJKNS6VI0530M570.html)
+[55岁白族高官被双开 曾任职地云南曲靖1年8名厅官落马](https://m.163.com/news/article/JJL0GL0305129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贵州茅台回应拆股建议：将审慎决策](https://m.163.com/news/article/JJKMKES90514R9P4.html)
+[今年已有9名正部级干部被查：6人系在政协岗位上落马](https://m.163.com/news/article/JJKVG832055040N3.html)
 
 ---end---
