@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-17 20:37:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-17 21:16:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学经济与工商管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2233159)
+[重庆市巴南区教育事业单位面向2025届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2234467)
 
-[全国散打季军称遭多名运动员围殴 官方回应](https://m.163.com/news/article/JJK6N5V8053469LG.html)
+[为找回3公里以内乘客 昆明出租车开始自发降低起步价](https://m.163.com/news/article/JJKQNRGP0514BE2Q.html)
 
-[湖南一高校回应“学校保安疑似虐狗”：流浪狗攻击人](https://m.163.com/news/article/JJK2JPVB053469LG.html)
+[汇源发文称员工被镇政府人员殴打 当地称已成立调查组](https://m.163.com/news/article/JJKQGPU60514R9P4.html)
 
-[NBA唯一的中国球员 重伤后被裁了](https://m.163.com/news/article/JJK07JLE0514BE2Q.html)
+[搞权钱交易的杨荣森被处理：二次被查 曾"逃逸式"辞职](https://m.163.com/news/article/JJKNS6VI0530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[长沙一游乐园马戏演员空中坠落 曾发生摩托车相撞事故](https://m.163.com/news/article/JJK02E91053469M5.html)
+[贵州茅台回应拆股建议：将审慎决策](https://m.163.com/news/article/JJKMKES90514R9P4.html)
 
 ---end---
