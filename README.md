@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-17 07:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-17 09:26:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司招聘派往大足区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2232210)
+[派往大足区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2232925)
 
-[高校领导疑买酒赊账9万 卖家要账时发病死亡](https://m.163.com/news/article/JJI50RG80530JPVV.html)
+["存款特种兵"再现江湖:有人花100路费 多存出上万利息](https://m.163.com/news/article/JJHVTLLU0512D3VJ.html)
 
-[男子被相亲对象骗48万：家属是请的演员 女方已婚已育](https://m.163.com/news/article/JJIFPKJO00019B3E.html)
+[又一正部级"老虎"任上被查 十多天前还公开出席活动](https://m.163.com/news/article/JJIMRTFI0530JPVV.html)
 
-[在建高铁被举报施工材料不合格 公司回应](https://m.163.com/news/article/JJIDMGAI000189PS.html)
+[母亲发布儿子自尽前监控：离婚后前夫不让带走儿子](https://m.163.com/news/article/JJIGMBG9051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[教师赌博被警方罚款10年后被教育局记过:要求倒查10年](https://m.163.com/news/article/JJI5K29T053469LG.html)
+[高校领导疑买酒赊账9万 卖家要账时发病死亡](https://m.163.com/news/article/JJI50RG80530JPVV.html)
 
 ---end---
