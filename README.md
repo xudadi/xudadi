@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-17 14:26:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-17 14:48:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往大足区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2232925)
+[重庆大学经济与工商管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2233159)
 
-["存款特种兵"再现江湖:有人花100路费 多存出上万利息](https://m.163.com/news/article/JJHVTLLU0512D3VJ.html)
+[全国散打季军称遭多名运动员围殴 官方回应](https://m.163.com/news/article/JJK6N5V8053469LG.html)
 
-[又一正部级"老虎"任上被查 十多天前还公开出席活动](https://m.163.com/news/article/JJIMRTFI0530JPVV.html)
+[湖南一高校回应“学校保安疑似虐狗”：流浪狗攻击人](https://m.163.com/news/article/JJK2JPVB053469LG.html)
 
-[母亲发布儿子自尽前监控：离婚后前夫不让带走儿子](https://m.163.com/news/article/JJIGMBG9051492T3.html)
+[NBA唯一的中国球员 重伤后被裁了](https://m.163.com/news/article/JJK07JLE0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高校领导疑买酒赊账9万 卖家要账时发病死亡](https://m.163.com/news/article/JJI50RG80530JPVV.html)
+[长沙一游乐园马戏演员空中坠落 曾发生摩托车相撞事故](https://m.163.com/news/article/JJK02E91053469M5.html)
 
 ---end---
