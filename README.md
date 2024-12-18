@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-19 02:25:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-19 02:46:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [金凤实验室刘勇教授课题组招聘公告](https://www.gongkaoleida.com/article/2235690)
 
-[年底跨城存款再起 有银行表示3年期利率2.7%已无额度](https://m.163.com/news/article/JJNDJJ1V05198CJN.html)
+[中印边界问题特别代表在北京会晤 取得6点共识](https://m.163.com/news/article/JJNJRDQC0001899O.html)
 
-[校园十佳歌手大赛亚军疑因不满结果怒摔奖杯 校方回应](https://m.163.com/news/article/JJMKOFHM053469KC.html)
+[重庆"棒棒父子"14年后在故地再拍合照：儿子即将高考](https://m.163.com/news/article/JJMVETD3051492T3.html)
 
-[70后代省长刘捷表态：说了就干、定了就办、办就办好](https://m.163.com/news/article/JJNABOHO0001899O.html)
+[浙大多名学生被英国拒签10年 背后牵出两名神秘"老师"](https://m.163.com/news/article/JJNFL3M00550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[6年来首次 iPhone17背部设计或将大换代](https://m.163.com/news/article/JJN9HPD0053469LG.html)
+[奇瑞汽车内部人士辟谣"借壳安凯客车登陆A股"：假消息](https://m.163.com/news/article/JJNGQNPO053469LG.html)
 
 ---end---
