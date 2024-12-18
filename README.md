@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-18 14:25:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-18 14:46:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巴南区教育事业单位面向2025届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2234467)
+[育才幼儿园招聘公告](https://www.gongkaoleida.com/article/2234835)
 
-[用时9个多小时 神十九乘组再次刷新出舱活动时长纪录](https://m.163.com/news/article/JJL3Q4G40534A4SC.html)
+[四川多地按下野猪猎捕"暂停键" 林业局：缺钱缺枪缺人](https://m.163.com/news/article/JJKEN3O00514D3UH.html)
 
-[浙大一教师被指伪造邀请函 致多名学生被英国拒签10年](https://m.163.com/news/article/JJL29S8V053469LG.html)
+[湖北一教师上山遭电击身亡：鞋底被击穿 腿上烧出大坑](https://m.163.com/news/article/JJM9L3B60512D3VJ.html)
 
-[55岁白族高官被双开 曾任职地云南曲靖1年8名厅官落马](https://m.163.com/news/article/JJL0GL0305129QAF.html)
+[男子买彩票获千万元大奖被冒领 对方4套房产已被冻结](https://m.163.com/news/article/JJMIREQ8053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[今年已有9名正部级干部被查：6人系在政协岗位上落马](https://m.163.com/news/article/JJKVG832055040N3.html)
+["数智家校"不付费就无法查孩子成绩 涉事学校回应](https://m.163.com/news/article/JJL1AUKR0534A4SC.html)
 
 ---end---
