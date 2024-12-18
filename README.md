@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-18 20:36:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-18 21:13:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[育才幼儿园招聘公告](https://www.gongkaoleida.com/article/2234835)
+[金凤实验室刘勇教授课题组招聘公告](https://www.gongkaoleida.com/article/2235690)
 
-[四川多地按下野猪猎捕"暂停键" 林业局：缺钱缺枪缺人](https://m.163.com/news/article/JJKEN3O00514D3UH.html)
+[年底跨城存款再起 有银行表示3年期利率2.7%已无额度](https://m.163.com/news/article/JJNDJJ1V05198CJN.html)
 
-[湖北一教师上山遭电击身亡：鞋底被击穿 腿上烧出大坑](https://m.163.com/news/article/JJM9L3B60512D3VJ.html)
+[校园十佳歌手大赛亚军疑因不满结果怒摔奖杯 校方回应](https://m.163.com/news/article/JJMKOFHM053469KC.html)
 
-[男子买彩票获千万元大奖被冒领 对方4套房产已被冻结](https://m.163.com/news/article/JJMIREQ8053469LG.html)
+[70后代省长刘捷表态：说了就干、定了就办、办就办好](https://m.163.com/news/article/JJNABOHO0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["数智家校"不付费就无法查孩子成绩 涉事学校回应](https://m.163.com/news/article/JJL1AUKR0534A4SC.html)
+[6年来首次 iPhone17背部设计或将大换代](https://m.163.com/news/article/JJN9HPD0053469LG.html)
 
 ---end---
