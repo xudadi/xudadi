@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-19 20:36:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-19 21:13:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2236391)
+[重庆市妇幼保健院(重庆医科大学附属妇女儿童医院)科研助理招聘](https://www.gongkaoleida.com/article/2237534)
 
-[驻法大使卢沙野将离任 曾在电视辩论就俄乌冲突表态](https://m.163.com/news/article/JJP4S3NG05129QAF.html)
+[2斤羽毛球能做5件羽绒服 商户大量收购二手羽毛球](https://m.163.com/news/article/JJP1FDK4053469LG.html)
 
-[媒体：马英九带团参访哈尔滨 原来有重要目的](https://m.163.com/news/article/JJOS09T90550A0OW.html)
+[余华英拐卖17名儿童案二审宣判：维持一审死刑判决](https://m.163.com/news/article/JJPBPH6I000189PS.html)
 
-[80后女干部履新副市长 当地党政主要领导近期调整](https://m.163.com/news/article/JJP3QNR2055040N3.html)
+[起底药王谷"抗癌中心"幕后推手：靠"喊冤"吸粉上千万](https://m.163.com/news/article/JJOOFGLT0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[民营经济促进法草案将于本周审议](https://m.163.com/news/article/JJP3BNTB000189PS.html)
+[直播间放出"跳楼价"2万元甩卖极越汽车 门店员工回应](https://m.163.com/news/article/JJP09682053469LG.html)
 
 ---end---
