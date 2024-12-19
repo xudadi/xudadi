@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-19 14:26:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-19 14:46:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室刘勇教授课题组招聘公告](https://www.gongkaoleida.com/article/2235690)
+[重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2236391)
 
-[中印边界问题特别代表在北京会晤 取得6点共识](https://m.163.com/news/article/JJNJRDQC0001899O.html)
+[驻法大使卢沙野将离任 曾在电视辩论就俄乌冲突表态](https://m.163.com/news/article/JJP4S3NG05129QAF.html)
 
-[重庆"棒棒父子"14年后在故地再拍合照：儿子即将高考](https://m.163.com/news/article/JJMVETD3051492T3.html)
+[媒体：马英九带团参访哈尔滨 原来有重要目的](https://m.163.com/news/article/JJOS09T90550A0OW.html)
 
-[浙大多名学生被英国拒签10年 背后牵出两名神秘"老师"](https://m.163.com/news/article/JJNFL3M00550A0OW.html)
+[80后女干部履新副市长 当地党政主要领导近期调整](https://m.163.com/news/article/JJP3QNR2055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[奇瑞汽车内部人士辟谣"借壳安凯客车登陆A股"：假消息](https://m.163.com/news/article/JJNGQNPO053469LG.html)
+[民营经济促进法草案将于本周审议](https://m.163.com/news/article/JJP3BNTB000189PS.html)
 
 ---end---
