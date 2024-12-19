@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-19 19:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-19 20:36:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2236391)
 
