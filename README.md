@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-20 20:33:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-20 21:03:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区人才发展集团2024年第四季度公开招聘劳务派遣人员简章](https://www.gongkaoleida.com/article/2238241)
+[重庆蓝盾电子技术有限责任公司招聘简章](https://www.gongkaoleida.com/article/2239169)
 
-["最强县级市"女市长职务拟调整 前任已调任外地](https://m.163.com/news/article/JJQBUCUD0530JPVV.html)
+[公开王楚钦隐私的医护被扣除奖金](https://m.163.com/news/article/JJS9RPME0001899O.html)
 
-[老太拐卖17娃获死刑：当场腿软落泪 求生欲望非常强烈](https://m.163.com/news/article/JJRHM99Q053469LG.html)
+[受贿5.26亿余元 青岛市政协原党组书记汲斌昌被判死缓](https://m.163.com/news/article/JJS96314000189PS.html)
 
-[武汉一公厕用“凹凸”分辨男女 网友：令人不适](https://m.163.com/news/article/JJQBK3GR05149PH8.html)
+[58岁男子醉驾“老头乐”肇事 未追究刑责](https://m.163.com/news/article/JJS835720001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[12月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/JJRDOE2E05198CJN.html)
+[294人报考"掏粪"岗位 事业单位回应](https://m.163.com/news/article/JJRL8A0C053469LG.html)
 
 ---end---
