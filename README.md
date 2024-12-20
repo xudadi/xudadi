@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-20 14:24:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-20 14:44:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市妇幼保健院(重庆医科大学附属妇女儿童医院)科研助理招聘](https://www.gongkaoleida.com/article/2237534)
+[两江新区人才发展集团2024年第四季度公开招聘劳务派遣人员简章](https://www.gongkaoleida.com/article/2238241)
 
-[一家3口驾车坠入冰河车内有孕妇 救援人员讲述细节](https://m.163.com/news/article/JJPTINH800019SNS.html)
+["最强县级市"女市长职务拟调整 前任已调任外地](https://m.163.com/news/article/JJQBUCUD0530JPVV.html)
 
-[75岁厅官被公诉 投案次月其市长儿子离世](https://m.163.com/news/article/JJPQCVMP051492T3.html)
+[老太拐卖17娃获死刑：当场腿软落泪 求生欲望非常强烈](https://m.163.com/news/article/JJRHM99Q053469LG.html)
 
-[荣耀回应"有国资背景股东退出"](https://m.163.com/news/article/JJQ01PMS0001899O.html)
+[武汉一公厕用“凹凸”分辨男女 网友：令人不适](https://m.163.com/news/article/JJQBK3GR05149PH8.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[取消公摊后物业费、税费咋算 专家：也应按套内面积计](https://m.163.com/news/article/JJPU1TV40519DDQ2.html)
+[12月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/JJRDOE2E05198CJN.html)
 
 ---end---
