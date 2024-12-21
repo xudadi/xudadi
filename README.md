@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-21 07:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-21 09:18:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆蓝盾电子技术有限责任公司招聘简章](https://www.gongkaoleida.com/article/2239169)
 
-[官场“商界大佬”落马：上午补觉下午健身](https://m.163.com/news/article/JJS0U8R20001899O.html)
+[歌手韦唯回应"消失"10年：在泰国遇车祸整个脊柱断了](https://m.163.com/news/article/JJSIF1PD053469LG.html)
 
-[公开王楚钦隐私的医护被扣除奖金](https://m.163.com/news/article/JJS9RPME0001899O.html)
+[网购6克黄金结果收到2000克金砖 女子吓懵:手都是冷的](https://m.163.com/news/article/JJSRMSIL053469LG.html)
 
-[受贿5.26亿余元 青岛市政协原党组书记汲斌昌被判死缓](https://m.163.com/news/article/JJS96314000189PS.html)
+[三百多名游客到机场被告知没买机票 海南省旅文厅回应](https://m.163.com/news/article/JJTQ7TLO0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[58岁男子醉驾“老头乐”肇事 未追究刑责](https://m.163.com/news/article/JJS835720001899O.html)
+[高校女老师拿下健身模特世界冠军：公选课每学期爆满](https://m.163.com/news/article/JJRT4IEP05149L32.html)
 
 ---end---
