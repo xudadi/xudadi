@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-21 14:22:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-21 14:41:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆蓝盾电子技术有限责任公司招聘简章](https://www.gongkaoleida.com/article/2239169)
 
-[歌手韦唯回应"消失"10年：在泰国遇车祸整个脊柱断了](https://m.163.com/news/article/JJSIF1PD053469LG.html)
+[300名飞三亚游客到机场发现没有买票 涉事旅行社发声](https://m.163.com/news/article/JJU4EHE805129QAF.html)
 
-[网购6克黄金结果收到2000克金砖 女子吓懵:手都是冷的](https://m.163.com/news/article/JJSRMSIL053469LG.html)
+[俄商品馆遍地开花 关联企业：开店不算房租起步价30万](https://m.163.com/news/article/JJUG9LN9051492T3.html)
 
-[三百多名游客到机场被告知没买机票 海南省旅文厅回应](https://m.163.com/news/article/JJTQ7TLO0534A4SC.html)
+[房企欠费400万业主拒缴物业费 杭州一小区物业不干了](https://m.163.com/news/article/JJU8EMQT0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高校女老师拿下健身模特世界冠军：公选课每学期爆满](https://m.163.com/news/article/JJRT4IEP05149L32.html)
+[中纪委周末"打虎" 大唐集团原总经理寇伟落马](https://m.163.com/news/article/JJU85SLT051482MP.html)
 
 ---end---
