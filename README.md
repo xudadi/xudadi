@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-22 14:22:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-22 14:42:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学附属第一医院公开招聘妇科主任的通知](https://www.gongkaoleida.com/article/2239436)
 
-[中央经济工作会议后 总理首次赴地方调研](https://m.163.com/news/article/JJVBENHP051482MP.html)
+[上海地铁列车被塔吊砸中 乘客：撞击的瞬间以为要脱轨](https://m.163.com/news/article/JK0TG8ES053469LG.html)
 
-[女子读研8年获学位证11天被作废 起诉同济二审仍被驳](https://m.163.com/news/article/JJVN9FEE053469LG.html)
+[县林草局套取六千多万腐蚀百余名公职人员 3人已被查](https://m.163.com/news/article/JK0QQ65K0514R9P4.html)
 
-[疯牛乱冲乱撞疑撞伤骑电瓶车者 海南民警果断开枪击毙](https://m.163.com/news/article/JJVN9G8J053469LG.html)
+[上海地铁：11号线遭外部塔吊施工侵入 列车受损](https://m.163.com/news/article/JK0M909L0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[9人销售"问题泥鳅"被抓：药残超10倍 涉案金额超7千万](https://m.163.com/news/article/JJVCMCHN0514R9P4.html)
+["超300名游客飞三亚无机票"最新进展：公司正陆续退款](https://m.163.com/news/article/JJVID1IR0514D3UH.html)
 
 ---end---
