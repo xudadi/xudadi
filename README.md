@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-23 02:21:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-23 02:40:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学附属第一医院公开招聘妇科主任的通知](https://www.gongkaoleida.com/article/2239436)
 
-[上海地铁列车被塔吊砸中 乘客：撞击的瞬间以为要脱轨](https://m.163.com/news/article/JK0TG8ES053469LG.html)
+[13楼住户遭"厨余炸弹"袭击 残羹剩饭炸开花](https://m.163.com/news/article/JK1ORL58053469LG.html)
 
-[县林草局套取六千多万腐蚀百余名公职人员 3人已被查](https://m.163.com/news/article/JK0QQ65K0514R9P4.html)
+[安徽绩溪县长回应"县政府门前开夜市"](https://m.163.com/news/article/JK1FDCBE0514R9P4.html)
 
-[上海地铁：11号线遭外部塔吊施工侵入 列车受损](https://m.163.com/news/article/JK0M909L0534A4SC.html)
+[TVB视帝创办公司上市 宣布"将淡出娱乐圈"](https://m.163.com/news/article/JJVI21570512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["超300名游客飞三亚无机票"最新进展：公司正陆续退款](https://m.163.com/news/article/JJVID1IR0514D3UH.html)
+[云南4人一氧化碳中毒窒息1人死亡 4人均为缅甸籍](https://m.163.com/news/article/JK1KRUVU0001899O.html)
 
 ---end---
