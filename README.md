@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-23 14:25:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-23 14:45:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院2024年第三批非事业编制工作人员招聘简章](https://www.gongkaoleida.com/article/2239664)
+[派往重庆工商大学学术期刊社综合办公室人员招聘公告](https://www.gongkaoleida.com/article/2240133)
 
-[区长被举报与他人妻子在车内疑发生关系 新消息披露](https://m.163.com/news/article/JK1VP10O0514R9P4.html)
+[特大跨境电诈案幕后"金主"获无期：勾结缅北地方武装](https://m.163.com/news/article/JK3C66730514R9OJ.html)
 
-[13楼住户遭"厨余炸弹"袭击 残羹剩饭炸开花](https://m.163.com/news/article/JK1ORL58053469LG.html)
+[二手车商在网红车行买3台车 卖出后又被车行员工开走](https://m.163.com/news/article/JK1G8O3M053469LG.html)
 
-[安徽绩溪县长回应"县政府门前开夜市"](https://m.163.com/news/article/JK1FDCBE0514R9P4.html)
+[官方叫停整改盲目“造景”项目700余个](https://m.163.com/news/article/JK37J07B0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[TVB视帝创办公司上市 宣布"将淡出娱乐圈"](https://m.163.com/news/article/JJVI21570512B07B.html)
+[北大教授因女儿痛经决定研发新药 已完成临床二期试验](https://m.163.com/news/article/JK35TVLC0512D3VJ.html)
 
 ---end---
