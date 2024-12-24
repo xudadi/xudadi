@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-25 02:22:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-25 02:42:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆空港人力资源管理有限公司现招聘飞机客舱保洁预备人员](https://www.gongkaoleida.com/article/2242933)
 
-[2024珠海马拉松取消举办，组委会：报名费15个工作日全额原路退回](https://m.163.com/news/article/JK67L1C20001899O.html)
+[女子看高血压被查出怀孕34周 从确诊到生娃仅花4小时](https://m.163.com/news/article/JK5P2CJI00019SNS.html)
 
-[曲江文旅多名高管同日辞职 公司疑被"自己人"欠十多亿](https://m.163.com/news/article/JK65GHGR0519DFFO.html)
+[解清帅直播带货已成"主业" 父亲计划过户一套婚房给他](https://m.163.com/news/article/JK71DOP9053469LG.html)
 
-[可可西里一只网红狼被货车压死 公园：不要再投喂食物](https://m.163.com/news/article/JK5VO00O053469M5.html)
+[10岁男孩在学校"失踪"被关在厕所一整晚 家长纠结](https://m.163.com/news/article/JK6RBIFU053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["吉林一家三口开车坠江"最新进展：车辆被打捞出江面](https://m.163.com/news/article/JK64I0H20001899O.html)
+[夫妻拿到2000多万搬迁款 拒绝执行还偷偷买房被判刑](https://m.163.com/news/article/JK74P16O051492LM.html)
 
 ---end---
