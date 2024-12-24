@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-24 14:24:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-24 14:44:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市益源捷科技有限公司招聘简章](https://www.gongkaoleida.com/article/2241122)
+[重庆飞驶特人力资源管理有限公司派往重庆市弘禹水利咨询有限公司招聘启事](https://www.gongkaoleida.com/article/2241969)
 
-[市民打球时猝死 羽毛球馆因未配置AED被判赔偿20万](https://m.163.com/news/article/JK4C9EBQ053469LG.html)
+[曲江文旅多名高管同日辞职 公司疑被"自己人"欠十多亿](https://m.163.com/news/article/JK65GHGR0519DFFO.html)
 
-[女子家中生子后开出生证明被要求做亲子鉴定 医院发声](https://m.163.com/news/article/JK4IM0VQ05129QAF.html)
+[可可西里一只网红狼被货车压死 公园：不要再投喂食物](https://m.163.com/news/article/JK5VO00O053469M5.html)
 
-[陈伟升任新职 曾因"教科书式"处置突发事件获赞接地气](https://m.163.com/news/article/JK4JUN7G0530M570.html)
+["吉林一家三口开车坠江"最新进展：车辆被打捞出江面](https://m.163.com/news/article/JK64I0H20001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国黄金原董事长陈雄伟落马 家中搜出大量黄金珠宝](https://m.163.com/news/article/JK4DC0G00519DDQ2.html)
+[全国财政工作会议：明年适当提高退休人员基本养老金](https://m.163.com/news/article/JK61PB8K0001899O.html)
 
 ---end---
