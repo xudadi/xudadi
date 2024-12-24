@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-24 07:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-24 09:19:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市益源捷科技有限公司招聘简章](https://www.gongkaoleida.com/article/2241122)
 
-[瑞幸咖啡喝出疑似蟑螂异物 客服：全面核查中](https://m.163.com/news/article/JK4B5Q150550B6IS.html)
+[市民打球时猝死 羽毛球馆因未配置AED被判赔偿20万](https://m.163.com/news/article/JK4C9EBQ053469LG.html)
 
-[游客在海边要拖走鲸豚类动物尸体 当地回应](https://m.163.com/news/article/JK49NE30053469LG.html)
+[女子家中生子后开出生证明被要求做亲子鉴定 医院发声](https://m.163.com/news/article/JK4IM0VQ05129QAF.html)
 
-[大妈轻信"客服" 银行账户被转走48万并进入债券市场](https://m.163.com/news/article/JK46LU49051492T3.html)
+[陈伟升任新职 曾因"教科书式"处置突发事件获赞接地气](https://m.163.com/news/article/JK4JUN7G0530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贵州省委政法委原副书记被判死缓 曾在专题片哭泣认错](https://m.163.com/news/article/JK46LTU4051492T3.html)
+[中国黄金原董事长陈雄伟落马 家中搜出大量黄金珠宝](https://m.163.com/news/article/JK4DC0G00519DDQ2.html)
 
 ---end---
