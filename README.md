@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-25 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-25 20:33:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆空港人力资源管理有限公司现招聘飞机客舱保洁预备人员](https://www.gongkaoleida.com/article/2242933)
+[重庆市丰都县事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2244693)
 
-[学者称大陆4年内不会制定统一台湾时间表 国台办回应](https://m.163.com/news/article/JK8L2Q5800019B3E.html)
+[赖清德提名的"大法官" 史无前例遭民进党党团全面封杀](https://m.163.com/news/article/JK9AJQPK0001899O.html)
 
-[24岁小伙上班6天误触辐射源 右手持续腐烂即将截肢](https://m.163.com/news/article/JK8JBRFK0514R9OJ.html)
+[69岁"老虎"被判死缓 19年间受贿4.31亿](https://m.163.com/news/article/JK988LQM055040N3.html)
 
-[紧跟"一线"步伐"强二线"房价齐涨 杭州房价涨幅领跑](https://m.163.com/news/article/JK8FBSIM0519DDQ2.html)
+[十四届全国人大常委会第十三次会议在京闭幕](https://m.163.com/news/article/JK96K9I50001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[神秘义乌老板在杭州扫货多套法拍房 已豪掷6300多万](https://m.163.com/news/article/JK8G7F7L053469LG.html)
+[宗馥莉改革又一"刀" 娃哈哈运行逾30年企业班车停运](https://m.163.com/news/article/JK8R4RPD0519APGA.html)
 
 ---end---
