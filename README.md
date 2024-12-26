@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-26 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-26 09:19:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市丰都县事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2244693)
 
-[因投喂走红的野生动物们：喀纳斯小狐狸死在雪地里](https://m.163.com/news/article/JK91AI71053469M5.html)
+[徐翔又有新消息 价值超16亿元的股权将被拍卖](https://m.163.com/news/article/JKAQAA9C0512B07B.html)
 
-[赖清德提名的"大法官" 史无前例遭民进党党团全面封杀](https://m.163.com/news/article/JK9AJQPK0001899O.html)
+["2年被家暴16次"当事人：男方在庭上称记不清施暴过程](https://m.163.com/news/article/JKA0VIKG0550B6IS.html)
 
-[69岁"老虎"被判死缓 19年间受贿4.31亿](https://m.163.com/news/article/JK988LQM055040N3.html)
+[落马局长10年收116万 被考察谈话时称"自己绝对干净"](https://m.163.com/news/article/JK91C5560530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[十四届全国人大常委会第十三次会议在京闭幕](https://m.163.com/news/article/JK96K9I50001899O.html)
+[女子不满16岁时遭表姑父拐卖 20余年后欲追责遭撤案](https://m.163.com/news/article/JK9H4AD9051492T3.html)
 
 ---end---
