@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-27 20:33:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-27 21:03:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆沙磁人力资源管理有限公司派往重庆市公安局沙坪坝区分局辅警岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2246456)
+[重庆工贸职业技术学院2024年第三批非事业编制全职人员招聘公告](https://www.gongkaoleida.com/article/2247655)
 
-[老太卖羊肉获利180元被罚10万：我家困难 他们罚太重](https://m.163.com/news/article/JKDCJQ4Q00019B3E.html)
+[珠海驾车撞人致35死案宣判 被告人被判处死刑](https://m.163.com/news/article/JKEKBNM5000189PS.html)
 
-[中国"最简陋机场"爆改 曾被调侃"一把U型锁就能关门"](https://m.163.com/news/article/JKCGLSNR0512B07B.html)
+[中纪委网站通报次日 65岁"老虎"杨子兴被逮捕](https://m.163.com/news/article/JKEDJUOT055040N3.html)
 
-[四川舰创新应用电磁弹射和阻拦技术](https://m.163.com/news/article/JKDITE38000189PS.html)
+["女子2年家暴16次"案前夫未被判死刑 法院释疑](https://m.163.com/news/article/JKECQDOC0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国海军076两栖攻击舰首舰下水 命名为四川舰](https://m.163.com/news/article/JKDIHB1G000189PS.html)
+[国家发改委正式设立低空经济发展司](https://m.163.com/news/article/JKE7DPHF0534A4SC.html)
 
 ---end---
