@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-27 14:24:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-27 14:44:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆公司所属基层企业面向华电系统内外公开招聘的公告](https://www.gongkaoleida.com/article/2246274)
+[重庆沙磁人力资源管理有限公司派往重庆市公安局沙坪坝区分局辅警岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2246456)
 
-[媒体:柯文哲被起诉没有贪污罪 对赖当局而言是"硬伤"](https://m.163.com/news/article/JKBI64MU05199DKK.html)
+[老太卖羊肉获利180元被罚10万：我家困难 他们罚太重](https://m.163.com/news/article/JKDCJQ4Q00019B3E.html)
 
-[特斯拉199元摆件迅速售空 二手市场大量上架炒至600元](https://m.163.com/news/article/JKBOH2E90514D3UH.html)
+[中国"最简陋机场"爆改 曾被调侃"一把U型锁就能关门"](https://m.163.com/news/article/JKCGLSNR0512B07B.html)
 
-[学生退学遇"提灯定损" 撕掉几张纸要赔1000元](https://m.163.com/news/article/JKCAEBB3051492T3.html)
+[四川舰创新应用电磁弹射和阻拦技术](https://m.163.com/news/article/JKDITE38000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[千亿央企迎新总裁：技术型官员出身 基本月薪11.53万](https://m.163.com/news/article/JKC0DPB10519APGA.html)
+[中国海军076两栖攻击舰首舰下水 命名为四川舰](https://m.163.com/news/article/JKDIHB1G000189PS.html)
 
 ---end---
