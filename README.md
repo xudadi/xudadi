@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-28 02:22:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-28 02:42:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工贸职业技术学院2024年第三批非事业编制全职人员招聘公告](https://www.gongkaoleida.com/article/2247655)
+[重庆对外经贸集团选聘简章](https://www.gongkaoleida.com/article/2247742)
 
-[珠海驾车撞人致35死案宣判 被告人被判处死刑](https://m.163.com/news/article/JKEKBNM5000189PS.html)
+[国内牛肉价格连跌12个月创5年来新低 商务部启动调查](https://m.163.com/news/article/JKEL4P570512B07B.html)
 
-[中纪委网站通报次日 65岁"老虎"杨子兴被逮捕](https://m.163.com/news/article/JKEDJUOT055040N3.html)
+[自导自演"发现摄像头" 网红"影子不会说谎"等35人被抓](https://m.163.com/news/article/JKEQ0JOK000189PS.html)
 
-["女子2年家暴16次"案前夫未被判死刑 法院释疑](https://m.163.com/news/article/JKECQDOC0001899O.html)
+[军事专家：四川舰将会把海空作战能力发挥到新的高度](https://m.163.com/news/article/JKE88T50051497H3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国家发改委正式设立低空经济发展司](https://m.163.com/news/article/JKE7DPHF0534A4SC.html)
+["内鬼"商黎光被判无期：曾在纪委工作26年 受贿上亿](https://m.163.com/news/article/JKEDJUN4055040N3.html)
 
 ---end---
