@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-29 02:21:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-29 02:40:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆对外经贸集团选聘简章](https://www.gongkaoleida.com/article/2247742)
 
-[41岁体育老师病逝 400多名学生送别:200名从外地赶来](https://m.163.com/news/article/JKGO20UL0514R9OJ.html)
+[老人死后留下数百万遗产 上海推新规处理无人继承遗产](https://m.163.com/news/article/JKH2P2OT055040N3.html)
 
-["最强县级市"昆山迎来首位女书记 曾坐地铁到上海考察](https://m.163.com/news/article/JKGK6EDF055040N3.html)
+[60岁周家斌周末被查 不满29岁就被提为副处级](https://m.163.com/news/article/JKH9BSOT0001899O.html)
 
-[男子借2253元20多年未还 法院帮两债主要回1.1万本息](https://m.163.com/news/article/JKGE7Q8F051492T3.html)
+[72岁老人拍短剧意外走红：曾是工程师 日薪能达千元](https://m.163.com/news/article/JKGKUDKB053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湘潭市委原书记调岗4个月后 主动交代问题](https://m.163.com/news/article/JKG8006I0530JPVV.html)
+[距他出狱只剩3天 警方发现扒手竟是24年前杀人案主犯](https://m.163.com/news/article/JKGQF5SM0514R9P4.html)
 
 ---end---
