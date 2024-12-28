@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-28 20:31:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-28 21:01:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆对外经贸集团选聘简章](https://www.gongkaoleida.com/article/2247742)
 
-[国内牛肉价格连跌12个月创5年来新低 商务部启动调查](https://m.163.com/news/article/JKEL4P570512B07B.html)
+[41岁体育老师病逝 400多名学生送别:200名从外地赶来](https://m.163.com/news/article/JKGO20UL0514R9OJ.html)
 
-[自导自演"发现摄像头" 网红"影子不会说谎"等35人被抓](https://m.163.com/news/article/JKEQ0JOK000189PS.html)
+["最强县级市"昆山迎来首位女书记 曾坐地铁到上海考察](https://m.163.com/news/article/JKGK6EDF055040N3.html)
 
-[军事专家：四川舰将会把海空作战能力发挥到新的高度](https://m.163.com/news/article/JKE88T50051497H3.html)
+[男子借2253元20多年未还 法院帮两债主要回1.1万本息](https://m.163.com/news/article/JKGE7Q8F051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["内鬼"商黎光被判无期：曾在纪委工作26年 受贿上亿](https://m.163.com/news/article/JKEDJUN4055040N3.html)
+[湘潭市委原书记调岗4个月后 主动交代问题](https://m.163.com/news/article/JKG8006I0530JPVV.html)
 
 ---end---
