@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-30 02:21:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-30 02:40:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆对外经贸集团选聘简章](https://www.gongkaoleida.com/article/2247742)
 
-[76岁老人独自骑行千里去看长江大桥:明年想去看天安门](https://m.163.com/news/article/JKJBQ500053469LG.html)
+[两位券商员工违规炒股挨罚：一位亏77万另一位亏18万](https://m.163.com/news/article/JKJUN0T305198CJN.html)
 
-[樊振东被指"硬刚"WTT 业内人士：费力"签到"不如退出](https://m.163.com/news/article/JKJ2NHD2053469M5.html)
+[前任官宣被查1天后 桂林新书记到岗](https://m.163.com/news/article/JKJLTD5E0530M570.html)
 
-[作家罗聪明履新省委巡视组组长 发表文学作品300万字](https://m.163.com/news/article/JKJ8O9TL0530M570.html)
+[开封"王婆"称走红后生活没啥不同:衣服还穿三五十块的](https://m.163.com/news/article/JKJOOJRL0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[公司就"松花江"商标发起百起诉讼 全网销量不足三百件](https://m.163.com/news/article/JKJ555CC053469LG.html)
+[学校被指给学生吃垃圾桶剩菜 本溪市政府负责人被约谈](https://m.163.com/news/article/JKJP16V0000189PS.html)
 
 ---end---
