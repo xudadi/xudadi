@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-30 20:34:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-30 21:03:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司派往重庆两江新区物业管理有限公司招聘简章](https://www.gongkaoleida.com/article/2248731)
+[重庆市巫山县事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2249858)
 
-[24岁小伙上班6天遭受核辐射:右手将截肢 或有癌变风险](https://m.163.com/news/article/JKKVGFE1053469LG.html)
+[58岁村干部被刺死 行凶村民曾称修路挖了自家坟](https://m.163.com/news/article/JKLNMLLP053469M5.html)
 
-[缅北明家犯罪集团案39人被提起公诉](https://m.163.com/news/article/JKL5JSEN000189PS.html)
+[姐妹悬赏50万为父追凶案一审宣判 肇事者被判13年](https://m.163.com/news/article/JKLLADU70001899N.html)
 
-[媒体：四川舰被称"无人机航母" 能让无人机弹射升空](https://m.163.com/news/article/JKKTNA020514R9OJ.html)
+[缅北明家犯罪集团覆灭：家主畏罪自杀 曾给孙女支招](https://m.163.com/news/article/JKLLAE7O053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[哈尔滨警花走红：长相酷似景甜 一天四五十人要合照](https://m.163.com/news/article/JKL01BM7053469LG.html)
+[原打算乘坐失事韩国客机的中国游客：考虑坐船回国](https://m.163.com/news/article/JKJB6DIT0514D3UH.html)
 
 ---end---
