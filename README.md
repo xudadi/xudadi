@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-30 14:25:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-30 14:45:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆对外经贸集团选聘简章](https://www.gongkaoleida.com/article/2247742)
+[重庆两江新区人才发展集团有限公司派往重庆两江新区物业管理有限公司招聘简章](https://www.gongkaoleida.com/article/2248731)
 
-[两位券商员工违规炒股挨罚：一位亏77万另一位亏18万](https://m.163.com/news/article/JKJUN0T305198CJN.html)
+[24岁小伙上班6天遭受核辐射:右手将截肢 或有癌变风险](https://m.163.com/news/article/JKKVGFE1053469LG.html)
 
-[前任官宣被查1天后 桂林新书记到岗](https://m.163.com/news/article/JKJLTD5E0530M570.html)
+[缅北明家犯罪集团案39人被提起公诉](https://m.163.com/news/article/JKL5JSEN000189PS.html)
 
-[开封"王婆"称走红后生活没啥不同:衣服还穿三五十块的](https://m.163.com/news/article/JKJOOJRL0530JPVV.html)
+[媒体：四川舰被称"无人机航母" 能让无人机弹射升空](https://m.163.com/news/article/JKKTNA020514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[学校被指给学生吃垃圾桶剩菜 本溪市政府负责人被约谈](https://m.163.com/news/article/JKJP16V0000189PS.html)
+[哈尔滨警花走红：长相酷似景甜 一天四五十人要合照](https://m.163.com/news/article/JKL01BM7053469LG.html)
 
 ---end---
