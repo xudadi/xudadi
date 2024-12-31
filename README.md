@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-31 07:50:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-31 09:19:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市巫山县事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2249858)
 
-[58岁村干部被刺死 行凶村民曾称修路挖了自家坟](https://m.163.com/news/article/JKLNMLLP053469M5.html)
+[6连跌停后国美通讯锁定退市：黄光裕仍是实控人](https://m.163.com/news/article/JKMQN8UH0512B07B.html)
 
-[姐妹悬赏50万为父追凶案一审宣判 肇事者被判13年](https://m.163.com/news/article/JKLLADU70001899N.html)
+[中央财办韩文秀：要适时降准、降息](https://m.163.com/news/article/JKNI2A8H05198CJN.html)
 
-[缅北明家犯罪集团覆灭：家主畏罪自杀 曾给孙女支招](https://m.163.com/news/article/JKLLAE7O053469LG.html)
+[江苏区县主官密集调整："最强县级市"昆山首迎女书记](https://m.163.com/news/article/JKNHNKNS0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[原打算乘坐失事韩国客机的中国游客：考虑坐船回国](https://m.163.com/news/article/JKJB6DIT0514D3UH.html)
+[鄂尔多斯通报“羊绒制品虚标羊绒含量”：已立案调查](https://m.163.com/news/article/JKMIM3I10534A4SC.html)
 
 ---end---
