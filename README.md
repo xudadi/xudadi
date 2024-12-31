@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-31 20:33:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-31 21:02:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学输变电装备技术全国重点实验室劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2250620)
+[重庆市铜梁区保安服务有限公司派往重庆市铜梁区公安局警务辅助岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2251632)
 
-[中国证监会扩大互换便利参与机构范围](https://m.163.com/news/article/JKO6545T0001899O.html)
+[中国乒乓球协会回应马龙樊振东陈梦退出世界排名](https://m.163.com/news/article/JKOH33AH0534A4SC.html)
 
-[独子贷款数百万买房后去世 母亲要求解除合同退还首付](https://m.163.com/news/article/JKO2CO02051492T3.html)
+[多家银行补发高管去年工资，有人补发近270万](https://m.163.com/news/article/JKOEBPLB051492T3.html)
 
-[大搞权钱交易 中央宣传部原副部长张建春被决定逮捕](https://m.163.com/news/article/JKNR3C3I051795VD.html)
+[2024年A股收官：沪指全年涨12.67% 四大行均涨超40%](https://m.163.com/news/article/JKOCUP5E0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山东女孩获得世界小姐中国区总冠军：参加选美是意外](https://m.163.com/news/article/JKJPLM240530JPVV.html)
+[男子深夜穿越秦岭太白山失联多日 景区：系非法穿越](https://m.163.com/news/article/JKO4SOVP0514R9OJ.html)
 
 ---end---
