@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2024-12-31 14:24:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2024-12-31 14:44:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巫山县事业单位2024年第四季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2249858)
+[重庆大学输变电装备技术全国重点实验室劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2250620)
 
-[6连跌停后国美通讯锁定退市：黄光裕仍是实控人](https://m.163.com/news/article/JKMQN8UH0512B07B.html)
+[中国证监会扩大互换便利参与机构范围](https://m.163.com/news/article/JKO6545T0001899O.html)
 
-[中央财办韩文秀：要适时降准、降息](https://m.163.com/news/article/JKNI2A8H05198CJN.html)
+[独子贷款数百万买房后去世 母亲要求解除合同退还首付](https://m.163.com/news/article/JKO2CO02051492T3.html)
 
-[江苏区县主官密集调整："最强县级市"昆山首迎女书记](https://m.163.com/news/article/JKNHNKNS0001899O.html)
+[大搞权钱交易 中央宣传部原副部长张建春被决定逮捕](https://m.163.com/news/article/JKNR3C3I051795VD.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[鄂尔多斯通报“羊绒制品虚标羊绒含量”：已立案调查](https://m.163.com/news/article/JKMIM3I10534A4SC.html)
+[山东女孩获得世界小姐中国区总冠军：参加选美是意外](https://m.163.com/news/article/JKJPLM240530JPVV.html)
 
 ---end---
