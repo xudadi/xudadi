@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-01 20:33:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-01 21:02:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区保安服务有限公司派往重庆市铜梁区公安局警务辅助岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2251632)
 
+[2025年起实施 弹性退休办法来了](https://m.163.com/news/article/JKQU8GQS0001899O.html)
+
+[张海迪有新职 受聘担任康复大学名誉校长](https://m.163.com/news/article/JKQR8UPJ0530M570.html)
+
 [女子跨年夜卖气球赚6523元：成本价2元 售价10至40元](https://m.163.com/news/article/JKQPTKRE0514D3UH.html)
-
-[格力发布公告 拟派发55.22亿元现金红利](https://m.163.com/news/article/JKQNJ4KT0001899O.html)
-
-[盒马车厘子被指用J级冒充3J级 客服：供应商贴错标签](https://m.163.com/news/article/JKOHPMNL055690HN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国家统计局：今年将继续组织开展劳动力调查](https://m.163.com/news/article/JKQEOKUM0512D3VJ.html)
+[格力发布公告 拟派发55.22亿元现金红利](https://m.163.com/news/article/JKQNJ4KT0001899O.html)
 
 ---end---
