@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-01 07:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-01 09:25:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区保安服务有限公司派往重庆市铜梁区公安局警务辅助岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2251632)
 
-[中国乒乓球协会回应马龙樊振东陈梦退出世界排名](https://m.163.com/news/article/JKOH33AH0534A4SC.html)
+[浙江高校"学霸健身团"火了：做科研与健身都贵在坚持](https://m.163.com/news/article/JKOG2T1D053469LG.html)
 
-[多家银行补发高管去年工资，有人补发近270万](https://m.163.com/news/article/JKOEBPLB051492T3.html)
+[樊振东1-3不敌王楚钦 赛后首度回应退出世界排名决定](https://m.163.com/news/article/JKPEUKET053469LG.html)
 
-[2024年A股收官：沪指全年涨12.67% 四大行均涨超40%](https://m.163.com/news/article/JKOCUP5E0001899O.html)
+["杀熊救妻"男子与年长11岁妻子相守30年：没时间害怕](https://m.163.com/news/article/JKP6E3CL051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子深夜穿越秦岭太白山失联多日 景区：系非法穿越](https://m.163.com/news/article/JKO4SOVP0514R9OJ.html)
+[主动"围猎"他人、自行脱党 张天强被党内除名](https://m.163.com/news/article/JKOJ9BQN051482MP.html)
 
 ---end---
