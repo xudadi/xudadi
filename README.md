@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-02 14:24:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-02 14:44:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铜梁区保安服务有限公司派往重庆市铜梁区公安局警务辅助岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2251632)
+[云创中学招聘合同制学科优秀教师4名](https://www.gongkaoleida.com/article/2252488)
 
-[2025年起实施 弹性退休办法来了](https://m.163.com/news/article/JKQU8GQS0001899O.html)
+[苹果突然降价最高立省800元 客服回应"能否退差价"](https://m.163.com/news/article/JKTBVGER0512B07B.html)
 
-[张海迪有新职 受聘担任康复大学名誉校长](https://m.163.com/news/article/JKQR8UPJ0530M570.html)
+[湖南衡阳发生滑翔伞坠落事故 官方：致2人死亡 正调查](https://m.163.com/news/article/JKT8VF90053469LG.html)
 
-[女子跨年夜卖气球赚6523元：成本价2元 售价10至40元](https://m.163.com/news/article/JKQPTKRE0514D3UH.html)
+[医务人员被指参与婴儿买卖 山西大同成立联合调查组](https://m.163.com/news/article/JKT912HI000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[格力发布公告 拟派发55.22亿元现金红利](https://m.163.com/news/article/JKQNJ4KT0001899O.html)
+[农民开皮卡给收割机打柴油被罚3万：已收到全部退款](https://m.163.com/news/article/JKT7H7FQ0001899O.html)
 
 ---end---
