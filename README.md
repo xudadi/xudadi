@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-03 19:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-03 20:33:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北幼儿园(新城园)招聘启事](https://www.gongkaoleida.com/article/2253485)
+[重庆市科学技术研究院面向海内外诚聘优秀博士人才](https://www.gongkaoleida.com/article/2254205)
 
 [太二酸菜鱼被罚：门店的筷子上检出阴离子合成洗涤剂](https://m.163.com/news/article/JKVUDTKH0512B07B.html)
 
