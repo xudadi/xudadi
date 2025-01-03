@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-03 14:24:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-03 14:44:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[关于派往长寿区城市管理综合行政执法支队工作人员的招聘公告](https://www.gongkaoleida.com/article/2253327)
+[重庆市渝北幼儿园(新城园)招聘启事](https://www.gongkaoleida.com/article/2253485)
 
-[20岁男生做战术装备获万元奖学金 曾受邀参观珠海航展](https://m.163.com/news/article/JKU0J5RM053469M5.html)
+[太二酸菜鱼被罚：门店的筷子上检出阴离子合成洗涤剂](https://m.163.com/news/article/JKVUDTKH0512B07B.html)
 
-[离任还不到一年丁雄军被查 曾是茅台史上最年轻掌门人](https://m.163.com/news/article/JKTPPC190530KP1K.html)
+[民航局回应近期外航安全事故：全面排查治理隐患](https://m.163.com/news/article/JKVM2UJ60514R9OJ.html)
 
-[烧伤妈妈两个月后首露面容 此前获网友捐款140万救治](https://m.163.com/news/article/JKT61LG5053469LG.html)
+[国家发改委：将实施手机等数码产品购新补贴](https://m.163.com/news/article/JKVKI6MF0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[父亲出海遇碰撞死亡女儿悬赏50万追凶 撞船者获刑13年](https://m.163.com/news/article/JKRM2L8Q051492T3.html)
+[茅台掀反腐风暴：5年来3任董事长落马 23名高管已被查](https://m.163.com/news/article/JKVJJDR50534A4SC.html)
 
 ---end---
