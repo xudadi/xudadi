@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-05 14:23:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-05 14:42:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市科学技术研究院面向海内外诚聘优秀博士人才](https://www.gongkaoleida.com/article/2254205)
+[重庆市南华中学诚聘优秀教师公告](https://www.gongkaoleida.com/article/2255040)
 
-[5位干部任正厅级新职 其中2人在重庆任区委书记](https://m.163.com/news/article/JL3MS9810530JPVV.html)
+[西安一网红冰瀑冰挂坠落致1人受伤 当地回应](https://m.163.com/news/article/JL4O7QA5053469M5.html)
 
-[春节将近多地现"抢金"热潮：有人排队8小时爆买10万元](https://m.163.com/news/article/JL0Q8N9D0530KP1K.html)
+[多地保时捷线下门店被指关闭](https://m.163.com/news/article/JL4MVK8U0550QIIP.html)
 
-[社保局人员受贿2575万通过快手等打赏860万 获刑18年](https://m.163.com/news/article/JL0C7SPU051492T3.html)
+[80后女村干部递补为省委委员 曾主动放弃城里高薪职位](https://m.163.com/news/article/JL4M8EUI0530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[副区长搭档网红主播卖房被赞专业：目前已有104套认购](https://m.163.com/news/article/JL0T396P0530JPVV.html)
+[四省区党委书记履新 调研首站信息公开](https://m.163.com/news/article/JL40R0K70514R9P4.html)
 
 ---end---
