@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-06 02:21:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-06 02:40:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市南华中学诚聘优秀教师公告](https://www.gongkaoleida.com/article/2255040)
 
-[七旬男子冬泳被困冰下后遇难 遗体已被打捞上岸](https://m.163.com/news/article/JL5MGSVE0001899O.html)
+[截留挪用资金 贪官将个人收款二维码放在缴费窗口](https://m.163.com/news/article/JL5SAQNJ000189PS.html)
 
-[3岁幼童被碾压身亡 驾驶员疑在看手机](https://m.163.com/news/article/JL5N0H0U051492T3.html)
+[小学后勤主任贪污学生餐费 一毛一毛回扣贪了23万](https://m.163.com/news/article/JL5RKPAB000189PS.html)
 
-[30年烘焙老店遭挤兑 公司：被造谣 已报警](https://m.163.com/news/article/JL5IHK5C0001899O.html)
+[总台《2025年春节联欢晚会》进行首次彩排](https://m.163.com/news/article/JL5PEO4C000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子打造人设骗15名粉丝314万获刑](https://m.163.com/news/article/JL59881C051492T3.html)
+[七旬男子冬泳被困冰下后遇难 遗体已被打捞上岸](https://m.163.com/news/article/JL5MGSVE0001899O.html)
 
 ---end---
