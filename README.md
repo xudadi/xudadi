@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-06 14:26:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-06 14:46:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南华中学诚聘优秀教师公告](https://www.gongkaoleida.com/article/2255040)
+[渝北区五星路小学2025年春临聘教师招聘简章](https://www.gongkaoleida.com/article/2255417)
 
-[截留挪用资金 贪官将个人收款二维码放在缴费窗口](https://m.163.com/news/article/JL5SAQNJ000189PS.html)
+[男星去泰缅边境拍戏失联超60小时 登上热搜第一](https://m.163.com/news/article/JL77JP350550HXM1.html)
 
-[小学后勤主任贪污学生餐费 一毛一毛回扣贪了23万](https://m.163.com/news/article/JL5RKPAB000189PS.html)
+[贵州高院用四个“极”描述余华英罪行严重](https://m.163.com/news/article/JL79HFEM0001899O.html)
 
-[总台《2025年春节联欢晚会》进行首次彩排](https://m.163.com/news/article/JL5PEO4C000189PS.html)
+[江西货车撞上丧事人群致20死19伤 整改报告发布](https://m.163.com/news/article/JL78QIND0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[七旬男子冬泳被困冰下后遇难 遗体已被打捞上岸](https://m.163.com/news/article/JL5MGSVE0001899O.html)
+[落马局长被商人围猎 受贿后每次都退回一两捆聊以慰藉](https://m.163.com/news/article/JL6GP3HH0514R9P4.html)
 
 ---end---
