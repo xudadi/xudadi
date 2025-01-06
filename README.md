@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-06 20:35:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-06 21:05:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区五星路小学2025年春临聘教师招聘简章](https://www.gongkaoleida.com/article/2255417)
+[四川仪表工业学校2025年招聘超市工作人员简章](https://www.gongkaoleida.com/article/2256270)
 
-[男星去泰缅边境拍戏失联超60小时 登上热搜第一](https://m.163.com/news/article/JL77JP350550HXM1.html)
+[小伙登太白山失联9天后独自走出 急救站：恐面临截肢风险](https://m.163.com/news/article/JL86IBSF051492T3.html)
 
-[贵州高院用四个“极”描述余华英罪行严重](https://m.163.com/news/article/JL79HFEM0001899O.html)
+[新能源商用车一"险"难求:车主称保费越来越贵险企喊亏](https://m.163.com/news/article/JL83GUQO0512B07B.html)
 
-[江西货车撞上丧事人群致20死19伤 整改报告发布](https://m.163.com/news/article/JL78QIND0514R9P4.html)
+[长春用消费券抵工资公司负责人被约谈](https://m.163.com/news/article/JL834BD10001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[落马局长被商人围猎 受贿后每次都退回一两捆聊以慰藉](https://m.163.com/news/article/JL6GP3HH0514R9P4.html)
+[演员王星疑在泰缅边境失联 上海警方已立案](https://m.163.com/news/article/JL8099J30001899O.html)
 
 ---end---
