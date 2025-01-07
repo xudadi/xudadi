@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-07 14:25:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-07 14:45:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川仪表工业学校2025年招聘超市工作人员简章](https://www.gongkaoleida.com/article/2256270)
+[西南政法大学科研处校内招聘启事](https://www.gongkaoleida.com/article/2257211)
 
-[集采落选企业：3分钱的阿司匹林我做不到](https://m.163.com/news/article/JL87J4R905199DKK.html)
+[1岁多幼童高烧爸爸取外卖药 被保安"教育"还贴罚单](https://m.163.com/news/article/JL9T00AO00019B3E.html)
 
-[上海豪宅火爆：最快十几秒卖一套 全款买房比例不小](https://m.163.com/news/article/JL8HAB4O0512B07B.html)
+[中国地震局针对西藏定日县地震启动二级应急服务响应](https://m.163.com/news/article/JLA3AK0V00018AOQ.html)
 
-[出租车司机说"崔书记"说得很难听：正事不干 天天打牌](https://m.163.com/news/article/JL8HR4R9051482MP.html)
+[泰国警方证实：在缅甸境内找到失联中国男演员王星](https://m.163.com/news/article/JLA2VOBP051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[车管所民警4年受贿165万：排队送钱的车托都怨声载道](https://m.163.com/news/article/JL8GV8OE0530WJIN.html)
+[近期流感高发99%为甲流 专家提醒：48小时内吃药最佳](https://m.163.com/news/article/JLA0PI53000189PS.html)
 
 ---end---
