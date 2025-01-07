@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-07 20:35:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-07 21:05:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南政法大学科研处校内招聘启事](https://www.gongkaoleida.com/article/2257211)
+[重庆医科大学附属第二医院关于2025年重医附二院骨科(关节外科)实验员(编外)招聘启事](https://www.gongkaoleida.com/article/2257716)
 
-[1岁多幼童高烧爸爸取外卖药 被保安"教育"还贴罚单](https://m.163.com/news/article/JL9T00AO00019B3E.html)
+[中共中央、国务院关于深化养老服务改革发展的意见](https://m.163.com/news/article/JLAOL5SO0001899O.html)
 
-[中国地震局针对西藏定日县地震启动二级应急服务响应](https://m.163.com/news/article/JLA3AK0V00018AOQ.html)
+[离奇坠海事故牵出杀妻骗保大案 女方家人不知两人已婚](https://m.163.com/news/article/JLAN8LO90514R9OJ.html)
 
-[泰国警方证实：在缅甸境内找到失联中国男演员王星](https://m.163.com/news/article/JLA2VOBP051492T3.html)
+[西藏日喀则市举行新闻发布会 现场为遇难者默哀](https://m.163.com/news/article/JLAHNIPF000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[近期流感高发99%为甲流 专家提醒：48小时内吃药最佳](https://m.163.com/news/article/JLA0PI53000189PS.html)
+[专家：此次地震为拉萨地块的一次能量释放](https://m.163.com/news/article/JLA8RGUC000189PS.html)
 
 ---end---
