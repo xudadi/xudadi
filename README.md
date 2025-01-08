@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-08 20:34:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-08 21:04:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学计算机学院科研团队劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2258282)
+[渝北区空港新城小学校2025年春期临聘教师招聘简章](https://www.gongkaoleida.com/article/2259459)
 
-[演员王星获救后受访 称泰国挺安全 ：有机会还会再来](https://m.163.com/news/article/JLB3AMLS0001899O.html)
+[男篮运动员张兴亮被禁赛：把女友装行李箱里带进宿舍](https://m.163.com/news/article/JLDETJQ80001899N.html)
 
-[孙志刚贪腐几乎从不亲自经手 妻子朋友成孙家"代言人"](https://m.163.com/news/article/JLB0D5OG0514R9OJ.html)
+[上海12345收到大量投诉：俄罗斯商品馆售卖三无产品](https://m.163.com/news/article/JLDCBD58055040N3.html)
 
-[地震时背同学撤离男生获重奖 学校：品质比成绩更重要](https://m.163.com/news/article/JLAVR8BN0514R9P4.html)
+[知情人否认缅甸电诈公司收200万赎金:系受压放走王星](https://m.163.com/news/article/JLD650M50001899N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[房子里专设夹层藏匿赃款 三甲医院院长收2亿余元回扣](https://m.163.com/news/article/JLB0D3TH0514R9OJ.html)
+[12306购票高峰期三天"崩"两次 官方回应](https://m.163.com/news/article/JLCRVT0J0534A4SC.html)
 
 ---end---
