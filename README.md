@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-08 14:24:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-08 14:44:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属第二医院关于2025年重医附二院骨科(关节外科)实验员(编外)招聘启事](https://www.gongkaoleida.com/article/2257716)
+[重庆大学计算机学院科研团队劳务派遣工程师招聘启事](https://www.gongkaoleida.com/article/2258282)
 
 [演员王星获救后受访 称泰国挺安全 ：有机会还会再来](https://m.163.com/news/article/JLB3AMLS0001899O.html)
 
