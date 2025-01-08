@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-09 02:24:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-09 02:44:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区空港新城小学校2025年春期临聘教师招聘简章](https://www.gongkaoleida.com/article/2259459)
 
-[男篮运动员张兴亮被禁赛：把女友装行李箱里带进宿舍](https://m.163.com/news/article/JLDETJQ80001899N.html)
+[评审专家发句"今天阳光明媚" 40分钟内公司电话就来了](https://m.163.com/news/article/JLDLD91O0530WJIN.html)
 
-[上海12345收到大量投诉：俄罗斯商品馆售卖三无产品](https://m.163.com/news/article/JLDCBD58055040N3.html)
+[单忠德已任国家航天局局长](https://m.163.com/news/article/JLDLPOD80534A4SC.html)
 
-[知情人否认缅甸电诈公司收200万赎金:系受压放走王星](https://m.163.com/news/article/JLD650M50001899N.html)
+[贪官遇"保姆式围猎"：商人记下尺码选购衣物 陪吃陪玩](https://m.163.com/news/article/JLDK85O50534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[12306购票高峰期三天"崩"两次 官方回应](https://m.163.com/news/article/JLCRVT0J0534A4SC.html)
+[外媒称比亚迪巴西工厂施工方涉嫌非法招工 外交部回应](https://m.163.com/news/article/JLD3ERO905198CJN.html)
 
 ---end---
