@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-09 20:34:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-09 21:04:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中共重庆市合川区委统战部公开招聘非在编人员简章](https://www.gongkaoleida.com/article/2259608)
+[渝北区环雅小学校招聘启事](https://www.gongkaoleida.com/article/2260702)
 
-[收刘强东万元红包是否缴税 官方：个人发的不征税](https://m.163.com/news/article/JLF29U4M0514R9P4.html)
+[涌入上海的韩国年轻人：为吃羊肉串排队到凌晨](https://m.163.com/news/article/JLFTDN68053469M5.html)
 
-[App崩溃无法开车 比亚迪：云服务系统异常所致](https://m.163.com/news/article/JLF47IGH05198CJN.html)
+[王星和失联模特被同一公司介绍赴泰 统筹都是"颜十六"](https://m.163.com/news/article/JLFT78870001899N.html)
 
-[银行“圈地”个人养老金 用户被“跨省开户”](https://m.163.com/news/article/JLF2V6RP055284JB.html)
+[知名月子中心"破产" 留守宝妈：我要住到他们断水断电](https://m.163.com/news/article/JLFO78NC05199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中央纪委召开重磅会议 多项反腐重任首次写入公报](https://m.163.com/news/article/JLEUPLLD051482MP.html)
+[男子在泰缅边境失联超70天:孩子满半岁 泰警方未立案](https://m.163.com/news/article/JLFNTIJ60514D3UH.html)
 
 ---end---
