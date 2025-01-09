@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-09 14:24:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-09 14:43:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区空港新城小学校2025年春期临聘教师招聘简章](https://www.gongkaoleida.com/article/2259459)
+[中共重庆市合川区委统战部公开招聘非在编人员简章](https://www.gongkaoleida.com/article/2259608)
 
-[评审专家发句"今天阳光明媚" 40分钟内公司电话就来了](https://m.163.com/news/article/JLDLD91O0530WJIN.html)
+[收刘强东万元红包是否缴税 官方：个人发的不征税](https://m.163.com/news/article/JLF29U4M0514R9P4.html)
 
-[单忠德已任国家航天局局长](https://m.163.com/news/article/JLDLPOD80534A4SC.html)
+[App崩溃无法开车 比亚迪：云服务系统异常所致](https://m.163.com/news/article/JLF47IGH05198CJN.html)
 
-[贪官遇"保姆式围猎"：商人记下尺码选购衣物 陪吃陪玩](https://m.163.com/news/article/JLDK85O50534A4SC.html)
+[银行“圈地”个人养老金 用户被“跨省开户”](https://m.163.com/news/article/JLF2V6RP055284JB.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[外媒称比亚迪巴西工厂施工方涉嫌非法招工 外交部回应](https://m.163.com/news/article/JLD3ERO905198CJN.html)
+[中央纪委召开重磅会议 多项反腐重任首次写入公报](https://m.163.com/news/article/JLEUPLLD051482MP.html)
 
 ---end---
