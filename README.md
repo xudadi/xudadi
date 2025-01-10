@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-10 20:34:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-10 21:03:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市江北区玉带山小学校2025年优秀教师（自主招聘）公告](https://www.gongkaoleida.com/article/2261238)
+[重庆高新技术产业研究院有限责任公司招聘公告](https://www.gongkaoleida.com/article/2262014)
 
-[2名女子赴泰旅游失联 被接机"朋友"送至缅甸电诈园区](https://m.163.com/news/article/JLHQK9V100019K82.html)
+[网友称行政中心“下午4点空无一人” 官方否认](https://m.163.com/news/article/JLHTFUNO0530JPVV.html)
 
-[4年级期末试卷太难延时20分钟 中学老师：我都写不完](https://m.163.com/news/article/JLHIM5FM0514R9OJ.html)
+[香港一男子狱中苦读24年获教育博士学位](https://m.163.com/news/article/JLHP2QV60550HXM1.html)
 
-[太原两名大学生骑车穿越汾河冰面掉冰洞 一人不幸遇难](https://m.163.com/news/article/JLFTIUGL0550B6IS.html)
+[英国海归被骗至缅甸：被3万美金买下 获商人带兵救走](https://m.163.com/news/article/JLHPLFB400019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广州知名月子中心人去楼空 留下产妇们"没饭吃没水喝"](https://m.163.com/news/article/JLGKMHEU0512B07B.html)
+[2名女子赴泰旅游失联 被接机"朋友"送至缅甸电诈园区](https://m.163.com/news/article/JLHQK9V100019K82.html)
 
 ---end---
