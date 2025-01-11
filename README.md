@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-11 14:22:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-11 14:42:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆高新技术产业研究院有限责任公司招聘公告](https://www.gongkaoleida.com/article/2262014)
+[两江新区人才发展集团派往某国有企业劳务派遣人员招聘简章](https://www.gongkaoleida.com/article/2262286)
 
-[警方披露缅北电诈细节：把中国人称为"行走的人民币"](https://m.163.com/news/article/JLJ0AP2N000189PS.html)
+[退休两年多李全强被查 曾将女排低谷归咎于"网络一代"](https://m.163.com/news/article/JLILH93C0530JPVV.html)
 
-[地震“小男孩被埋图”系AI创作 涉案人员已被拘](https://m.163.com/news/article/JLIN7EL10001899O.html)
+[三甲医院招聘注明不含"专升本" 被指学历歧视](https://m.163.com/news/article/JLIQBKDV051492T3.html)
 
-[特斯拉新Model Y上市放话"尽管对比" 雷军回复：好的](https://m.163.com/news/article/JLHNM7TD051492LM.html)
+[两任排球掌门人先后落马：上任后都曾请郎平执教女排](https://m.163.com/news/article/JLK51G1C0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[游客丈夫回应大爷帮垫医药费被拉黑：因当时没有钱还](https://m.163.com/news/article/JLIFL1I30001899O.html)
+[南昌再通报李宜雪事件:判定属于"严重精神障碍" 已出院](https://m.163.com/news/article/JLK33LID0001899O.html)
 
 ---end---
