@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-11 19:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-11 20:31:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区人才发展集团派往某国有企业劳务派遣人员招聘简章](https://www.gongkaoleida.com/article/2262286)
+[三峡人寿公司招聘公告](https://www.gongkaoleida.com/article/2262431)
 
-[退休两年多李全强被查 曾将女排低谷归咎于"网络一代"](https://m.163.com/news/article/JLILH93C0530JPVV.html)
+[男子花170万买路虎揽胜 刚开5公里就趴窝了](https://m.163.com/news/article/JLL7MEJR0530JPVV.html)
 
-[三甲医院招聘注明不含"专升本" 被指学历歧视](https://m.163.com/news/article/JLIQBKDV051492T3.html)
+[90后清华女硕士在蓝翔学厨：非富二代 做不了直播带货](https://m.163.com/news/article/JLL0RBQE0514R9P4.html)
 
-[两任排球掌门人先后落马：上任后都曾请郎平执教女排](https://m.163.com/news/article/JLK51G1C0514R9P4.html)
+[用户打顺风车错选地点付3600元车费 平台:司机已提现](https://m.163.com/news/article/JLKRP9F1051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[南昌再通报李宜雪事件:判定属于"严重精神障碍" 已出院](https://m.163.com/news/article/JLK33LID0001899O.html)
+[女子花4万5买的LV羽绒服多处起毛 售后：正常使用损耗](https://m.163.com/news/article/JLKQMKTI0001899O.html)
 
 ---end---
