@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-11 07:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-11 09:20:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆高新技术产业研究院有限责任公司招聘公告](https://www.gongkaoleida.com/article/2262014)
+
+[警方披露缅北电诈细节：把中国人称为"行走的人民币"](https://m.163.com/news/article/JLJ0AP2N000189PS.html)
 
 [地震“小男孩被埋图”系AI创作 涉案人员已被拘](https://m.163.com/news/article/JLIN7EL10001899O.html)
 
 [特斯拉新Model Y上市放话"尽管对比" 雷军回复：好的](https://m.163.com/news/article/JLHNM7TD051492LM.html)
 
-[游客丈夫回应大爷帮垫医药费被拉黑：因当时没有钱还](https://m.163.com/news/article/JLIFL1I30001899O.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子租奔驰后将其抵押 租赁公司和典当公司互相"偷车"](https://m.163.com/news/article/JLI80VM00514D3UH.html)
+[游客丈夫回应大爷帮垫医药费被拉黑：因当时没有钱还](https://m.163.com/news/article/JLIFL1I30001899O.html)
 
 ---end---
