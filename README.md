@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-12 07:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-12 09:26:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [三峡人寿公司招聘公告](https://www.gongkaoleida.com/article/2262431)
 
-[男子花170万买路虎揽胜 刚开5公里就趴窝了](https://m.163.com/news/article/JLL7MEJR0530JPVV.html)
+[2024年最后一"虎"被撤职 代表资格终止](https://m.163.com/news/article/JLMGT7HM0001899O.html)
 
-[90后清华女硕士在蓝翔学厨：非富二代 做不了直播带货](https://m.163.com/news/article/JLL0RBQE0514R9P4.html)
+[男子12年前因摩托车醉驾事故获缓刑 12年后驾照被吊销](https://m.163.com/news/article/JLLIEO33053469KC.html)
 
-[用户打顺风车错选地点付3600元车费 平台:司机已提现](https://m.163.com/news/article/JLKRP9F1051492T3.html)
+[24岁女子考研失败后决定到北大当保安：我也是"学生"](https://m.163.com/news/article/JLLPUV3B0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子花4万5买的LV羽绒服多处起毛 售后：正常使用损耗](https://m.163.com/news/article/JLKQMKTI0001899O.html)
+[台湾5万人集会力挺柯文哲 民进党元老喊"烧掉地检署"](https://m.163.com/news/article/JLL39BGS055080L4.html)
 
 ---end---
