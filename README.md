@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-12 14:23:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-12 14:43:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [三峡人寿公司招聘公告](https://www.gongkaoleida.com/article/2262431)
 
-[2024年最后一"虎"被撤职 代表资格终止](https://m.163.com/news/article/JLMGT7HM0001899O.html)
+[女大学生失联12天后遗体被找到 警方：基本确定是本人](https://m.163.com/news/article/JLN3543R053469M5.html)
 
-[男子12年前因摩托车醉驾事故获缓刑 12年后驾照被吊销](https://m.163.com/news/article/JLLIEO33053469KC.html)
+[山东司机到重庆遇山路下雪被吓哭 路过大哥果断出手](https://m.163.com/news/article/JLN2F8B1053469M5.html)
 
-[24岁女子考研失败后决定到北大当保安：我也是"学生"](https://m.163.com/news/article/JLLPUV3B0550B6IS.html)
+[四川广安市民反映一天被扣一两百元水电费 当地回应](https://m.163.com/news/article/JLMSDL1M0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台湾5万人集会力挺柯文哲 民进党元老喊"烧掉地检署"](https://m.163.com/news/article/JLL39BGS055080L4.html)
+[毛占彪被双开：长期出入他人为其量身定制的"会所"](https://m.163.com/news/article/JLMRMM5K0001899O.html)
 
 ---end---
