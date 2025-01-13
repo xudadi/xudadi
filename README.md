@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-13 14:26:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-13 14:46:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中煤科工集团重庆设计研究院（集团）有限公司第一设计院招聘启事](https://www.gongkaoleida.com/article/2262656)
+[重庆市九龙坡区司法局关于设立“法治护企”企业联系点和选聘行政执法监督员的通告](https://www.gongkaoleida.com/article/2263116)
 
-[深圳人形机器人行走视频走红 英伟达科学家转发感叹](https://m.163.com/news/article/JLNGCIOP05198CJN.html)
+[电动自行车强制性国家标准今天正式发布](https://m.163.com/news/article/JLPHVQHU000189PS.html)
 
-[知名健身网红带货的原切牛肉卷被指是合成肉 厂家回应](https://m.163.com/news/article/JLO0H3BS0514R9P4.html)
+[福耀科技大学今年有望正式招生 校长称对标斯坦福大学](https://m.163.com/news/article/JLPFEIG70534A4SC.html)
 
-[泰国国家旅游局发文喊话中国游客 标注"中泰一家亲"](https://m.163.com/news/article/JLP018C70514R9OJ.html)
+[傅园慧正式入职浙大 自称浙大曾是一个遥不可及的梦想](https://m.163.com/news/article/JLPCUMKM051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[抗美援朝老兵蒋明泉离世 和家人商议10年最终捐献遗体](https://m.163.com/news/article/JLN6NNQB0514R9OJ.html)
+[4纳米芯片在美量产 台媒：台积电正"去台化"](https://m.163.com/news/article/JLP0JR5Q0514R9OJ.html)
 
 ---end---
