@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-14 20:33:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-14 21:02:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆财经职业学院2025年第一批非事业编制工作人员招聘简章](https://www.gongkaoleida.com/article/2264763)
+[重庆医科大学2025年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2265531)
 
 [黄子韬凌晨发长文回应“送车”事件：问心无愧](https://m.163.com/news/article/JLRSHVJC0530JPVV.html)
 
