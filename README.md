@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-15 02:22:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-15 02:42:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学2025年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2265531)
 
-[黄子韬凌晨发长文回应“送车”事件：问心无愧](https://m.163.com/news/article/JLRSHVJC0530JPVV.html)
+[上海网红菜场突然火了 老外打卡看见白草莓大呼"疯狂"](https://m.163.com/news/article/JLSS323F055040N3.html)
 
-["自驾阿姨"苏敏出走5年：终极目标是开着房车出国旅游](https://m.163.com/news/article/JLRPU6JG0550A0OW.html)
+["肥娟"夫妇有新身份 曾卖鞋倒闭改卖小吃走红全网](https://m.163.com/news/article/JLST9CTV0530JPVV.html)
 
-[学费27万葡萄牙硕士项目无法认证 东华大学一教师被查](https://m.163.com/news/article/JLQKV0OL051492T3.html)
+[黄子韬直播间中奖"幸运儿"提车：车辆暂过户给中奖者](https://m.163.com/news/article/JLSPK8HQ0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[25人赴泰国旅行订机票后退订遭拒 旅行社：不退不改签](https://m.163.com/news/article/JLQ5RJ8F053469M5.html)
+[男子醉酒后身亡家属起诉同桌7人索赔17万 一审被驳回](https://m.163.com/news/article/JLSF7BHO051492T3.html)
 
 ---end---
