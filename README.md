@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-15 14:23:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-15 14:42:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学2025年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2265531)
+[重庆市开州区长沙镇中心卫生院面向社会公开招聘临聘120司机及收费员各1名](https://www.gongkaoleida.com/article/2266122)
 
-[上海网红菜场突然火了 老外打卡看见白草莓大呼"疯狂"](https://m.163.com/news/article/JLSS323F055040N3.html)
+[小红书在美国火了 美国网友"疯狂"交友：想去中国看看](https://m.163.com/news/article/JLSITTM60514D3UH.html)
 
-["肥娟"夫妇有新身份 曾卖鞋倒闭改卖小吃走红全网](https://m.163.com/news/article/JLST9CTV0530JPVV.html)
+[大批美国TikTok难民涌入小红书 评论区笑翻了](https://m.163.com/news/article/JLSPGB2D051492LM.html)
 
-[黄子韬直播间中奖"幸运儿"提车：车辆暂过户给中奖者](https://m.163.com/news/article/JLSPK8HQ0514D3UH.html)
+[75岁官员主动投案一个月后市长儿子离世 如今出镜忏悔](https://m.163.com/news/article/JLTAPQDC051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子醉酒后身亡家属起诉同桌7人索赔17万 一审被驳回](https://m.163.com/news/article/JLSF7BHO051492T3.html)
+[吉林老人被指救助女游客反遭诬陷 重庆警方通报](https://m.163.com/news/article/JLU8151G0001899O.html)
 
 ---end---
