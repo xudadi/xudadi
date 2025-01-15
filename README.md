@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-16 02:22:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-16 02:42:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市开州区长沙镇中心卫生院面向社会公开招聘临聘120司机及收费员各1名](https://www.gongkaoleida.com/article/2266122)
 
-[荣耀CEO赵明被传已离职 荣耀官方：消息不实](https://m.163.com/news/article/JLURI18V0519DDQ2.html)
+[华春莹卸任外交部发言人](https://m.163.com/news/article/JLVG5A510514R9P4.html)
 
-[中国女孩在日本遭列车撞击身亡 父母哭喊"带你回家"](https://m.163.com/news/article/JLUQFB4M00019B3E.html)
+[毛宁任外交部新闻司司长](https://m.163.com/news/article/JLVD5O320001899N.html)
 
-[杭州一公司官宣"一周上班4.5天" 获全网羡慕](https://m.163.com/news/article/JLUNRAG30514R9OJ.html)
+[三只羊悄悄复出被指观察监管态度 播3天后突然停播](https://m.163.com/news/article/JLV9ENHF0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[王健林出质240万股万达集团股权](https://m.163.com/news/article/JLULJHPI0534A4SC.html)
+[辅警执勤时被撞伤拖行牺牲 当天本因家里有事打算请假](https://m.163.com/news/article/JLV1EEP9051492T3.html)
 
 ---end---
