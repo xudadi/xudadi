@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-16 20:33:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-16 21:02:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市第一中级人民法院公开招聘派遣制工作人员简章](https://www.gongkaoleida.com/article/2267208)
+[重庆市杨家坪中学（A、D校区）2025年体育教师招聘公告](https://www.gongkaoleida.com/article/2267732)
 
-[腾讯集团2024反舞弊通报:百余人因触犯"高压线"被解聘](https://m.163.com/news/article/JM17RCDB0534A4SC.html)
+[格斗小伙一拳KO对手获百万赏金:曾是放牛娃 替补出场](https://m.163.com/news/article/JM1G6MLO051492T3.html)
 
-[女子骑电动自行车被罚20元状告广州市政府 法院判了](https://m.163.com/news/article/JLVR2TU1051492T3.html)
+[村民家中两层楼非法储存1500余件烟花爆竹 警方介入](https://m.163.com/news/article/JM1G6MDR051492T3.html)
 
-[冰雕行业缺人日薪最高达3500元 老师傅:5年10多人在岗](https://m.163.com/news/article/JM021VHV0512B07B.html)
+[宝马遭追尾后撞进货车底 车主称座椅瞬间放倒故受轻伤](https://m.163.com/news/article/JM1G6MCE051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子借用别人户口考学毕业获编制后被起诉 法院判了](https://m.163.com/news/article/JLVVSBQV051492T3.html)
+[钢筋掉落砸中过路女子致其死亡 目击者发声](https://m.163.com/news/article/JM1G6MA4051492T3.html)
 
 ---end---
