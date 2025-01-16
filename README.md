@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-16 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-16 09:17:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市开州区长沙镇中心卫生院面向社会公开招聘临聘120司机及收费员各1名](https://www.gongkaoleida.com/article/2266122)
+[彭水县人民医院招聘启事2025.01.15](https://www.gongkaoleida.com/article/2266876)
+
+["老虎"李全被公诉 去年4月曾"失联"](https://m.163.com/news/article/JLV2JRS6051482MP.html)
 
 [华春莹卸任外交部发言人](https://m.163.com/news/article/JLVG5A510514R9P4.html)
 
 [毛宁任外交部新闻司司长](https://m.163.com/news/article/JLVD5O320001899N.html)
 
-[三只羊悄悄复出被指观察监管态度 播3天后突然停播](https://m.163.com/news/article/JLV9ENHF0514BE2Q.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[辅警执勤时被撞伤拖行牺牲 当天本因家里有事打算请假](https://m.163.com/news/article/JLV1EEP9051492T3.html)
+[三只羊悄悄复出被指观察监管态度 播3天后突然停播](https://m.163.com/news/article/JLV9ENHF0514BE2Q.html)
 
 ---end---
