@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-16 14:23:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-16 14:43:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[彭水县人民医院招聘启事2025.01.15](https://www.gongkaoleida.com/article/2266876)
+[重庆市第一中级人民法院公开招聘派遣制工作人员简章](https://www.gongkaoleida.com/article/2267208)
 
-["老虎"李全被公诉 去年4月曾"失联"](https://m.163.com/news/article/JLV2JRS6051482MP.html)
+[腾讯集团2024反舞弊通报:百余人因触犯"高压线"被解聘](https://m.163.com/news/article/JM17RCDB0534A4SC.html)
 
-[华春莹卸任外交部发言人](https://m.163.com/news/article/JLVG5A510514R9P4.html)
+[女子骑电动自行车被罚20元状告广州市政府 法院判了](https://m.163.com/news/article/JLVR2TU1051492T3.html)
 
-[毛宁任外交部新闻司司长](https://m.163.com/news/article/JLVD5O320001899N.html)
+[冰雕行业缺人日薪最高达3500元 老师傅:5年10多人在岗](https://m.163.com/news/article/JM021VHV0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[三只羊悄悄复出被指观察监管态度 播3天后突然停播](https://m.163.com/news/article/JLV9ENHF0514BE2Q.html)
+[女子借用别人户口考学毕业获编制后被起诉 法院判了](https://m.163.com/news/article/JLVVSBQV051492T3.html)
 
 ---end---
