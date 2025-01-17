@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-17 20:32:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-17 21:02:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区第三实验小学校招聘简章](https://www.gongkaoleida.com/article/2268558)
+[重庆市铜梁区土桥镇人民政府关于铜梁区第八特困供养设施(土桥敬老院)工作人员招聘公告](https://www.gongkaoleida.com/article/2269131)
 
-[国家统计局：2024年全年GDP比上年增长5.0%](https://m.163.com/news/article/JM3K934C0001899O.html)
+[刘昆任全国社保基金会党组书记 曾任财政部部长](https://m.163.com/news/article/JM4MT7HR0514R9P4.html)
 
-[中国两个地方很热闹：韩国人在武康路 美国人在小红书](https://m.163.com/news/article/JM3GUFEO0530JPVV.html)
+[男子弄丢公司30万元年终奖快急哭 一个小时后电话打来](https://m.163.com/news/article/JM4DTCCM051492LM.html)
 
-[国家统计局：12月份一线城市商品住宅售价环比上涨](https://m.163.com/news/article/JM3IK5V90001899O.html)
+[2025年汽车以旧换新政策公布](https://m.163.com/news/article/JM4HA1HG000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["21岁送外卖单亲妈妈"开店当老板了 曾被全网心疼](https://m.163.com/news/article/JM2E8VFU0550B6IS.html)
+[97岁台湾老兵去世 牵挂了76年的"李小姐"在大陆找到了](https://m.163.com/news/article/JM4E03A20512D3VJ.html)
 
 ---end---
