@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-18 02:22:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-18 02:41:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区土桥镇人民政府关于铜梁区第八特困供养设施(土桥敬老院)工作人员招聘公告](https://www.gongkaoleida.com/article/2269131)
 
-[刘昆任全国社保基金会党组书记 曾任财政部部长](https://m.163.com/news/article/JM4MT7HR0514R9P4.html)
+[落马副厅长称腐败就像"霉豆腐发酵":我和厅长心知肚明](https://m.163.com/news/article/JM4RBQL80514R9P4.html)
 
-[男子弄丢公司30万元年终奖快急哭 一个小时后电话打来](https://m.163.com/news/article/JM4DTCCM051492LM.html)
+[不出钱、不出力 落马厅长儿子光靠卖铺面就获利7000万](https://m.163.com/news/article/JM4QAS920514R9P4.html)
 
-[2025年汽车以旧换新政策公布](https://m.163.com/news/article/JM4HA1HG000189PS.html)
+[市民反映一天被扣两百水电费 涉事公司党委书记被免职](https://m.163.com/news/article/JM4NA9L90534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[97岁台湾老兵去世 牵挂了76年的"李小姐"在大陆找到了](https://m.163.com/news/article/JM4E03A20512D3VJ.html)
+[刘昆任全国社保基金会党组书记 曾任财政部部长](https://m.163.com/news/article/JM4MT7HR0514R9P4.html)
 
 ---end---
