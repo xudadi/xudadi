@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-18 14:21:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-18 14:40:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区土桥镇人民政府关于铜梁区第八特困供养设施(土桥敬老院)工作人员招聘公告](https://www.gongkaoleida.com/article/2269131)
 
-[落马副厅长称腐败就像"霉豆腐发酵":我和厅长心知肚明](https://m.163.com/news/article/JM4RBQL80514R9P4.html)
+[浙商证券副总裁张晖辞职 下一站去向明确](https://m.163.com/news/article/JM6G075D05198CJN.html)
 
-[不出钱、不出力 落马厅长儿子光靠卖铺面就获利7000万](https://m.163.com/news/article/JM4QAS920514R9P4.html)
+[男子错认"亲爹"16年后寻亲成功 一家人要求"假爹"道歉](https://m.163.com/news/article/JM6FH9DL00019B3E.html)
 
-[市民反映一天被扣两百水电费 涉事公司党委书记被免职](https://m.163.com/news/article/JM4NA9L90534A4SC.html)
+[中国网友在小红书展示真实中国 美国网友纷纷表示震惊](https://m.163.com/news/article/JM6AE2FF0530SFP3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[刘昆任全国社保基金会党组书记 曾任财政部部长](https://m.163.com/news/article/JM4MT7HR0514R9P4.html)
+[一列车因撞鸟临时停车9趟列车晚点 铁路部门致歉](https://m.163.com/news/article/JM6AMQ9V0534A4SC.html)
 
 ---end---
