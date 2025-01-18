@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-19 02:20:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-19 02:39:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆幼儿师范高等专科学校附属幼儿园2025年招聘公告](https://www.gongkaoleida.com/article/2269537)
 
+[小伙先天双腿残疾供白内障妹妹读书:只为妹妹考上大学](https://m.163.com/news/article/JM7G213S051492T3.html)
+
+[厅长给区委书记打招呼 其儿子不出钱不出力获利7000万](https://m.163.com/news/article/JM4T2JSH0530M570.html)
+
 [春节上门"喂猫遛狗"升温 有兼职者10多天能收入近万元](https://m.163.com/news/article/JM753MFU051492T3.html)
-
-[小学女校长受贿949万：体操运动员出身 18岁开始工作](https://m.163.com/news/article/JM6CN9IM0530M570.html)
-
-[网红"李维刚"帮呼和浩特农牧局带货翻车 后者回应](https://m.163.com/news/article/JM6NL5LK051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[卸任湖北省政法委书记后 肖菊华以副部级领导身份露面](https://m.163.com/news/article/JM6KBJ150514R9P4.html)
+[重庆网红公路垮塌中断1年多 村民徒手清理被当地叫停](https://m.163.com/news/article/JM753L33051492T3.html)
 
 ---end---
