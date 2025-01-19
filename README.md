@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-19 14:21:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-19 14:41:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆幼儿师范高等专科学校附属幼儿园2025年招聘公告](https://www.gongkaoleida.com/article/2269537)
 
-[小伙先天双腿残疾供白内障妹妹读书:只为妹妹考上大学](https://m.163.com/news/article/JM7G213S051492T3.html)
+[美女科学家从美归国：曾经数学47分 如今成北大教授](https://m.163.com/news/article/JM7FF6OK053469M5.html)
 
-[厅长给区委书记打招呼 其儿子不出钱不出力获利7000万](https://m.163.com/news/article/JM4T2JSH0530M570.html)
+[男子称1年举报1945起交通违章:没奖励 让他们付出代价](https://m.163.com/news/article/JM74DUKC053469M5.html)
 
-[春节上门"喂猫遛狗"升温 有兼职者10多天能收入近万元](https://m.163.com/news/article/JM753MFU051492T3.html)
+[黑老大与公安局副局长交往紧密 长期随意出入其办公室](https://m.163.com/news/article/JM7G1QA10514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[重庆网红公路垮塌中断1年多 村民徒手清理被当地叫停](https://m.163.com/news/article/JM753L33051492T3.html)
+[公安厅原副厅长：破了一辈子案 61岁把自己送进监狱](https://m.163.com/news/article/JM8IUAP500019B3E.html)
 
 ---end---
