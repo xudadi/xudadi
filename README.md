@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-22 07:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-22 09:19:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铜梁区龙廷城市开发建设有限公司(重庆龙廷智慧城市运营管理有限公司)子公司2025年第一季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2272602)
 
-[村民举报两幢"豪宅"久拖不拆 官方：寻主无果 已拆除](https://m.163.com/news/article/JMEBGSBG051492T3.html)
+[人事总监安排父母吃8年空饷 "月薪"从1000升至9000元](https://m.163.com/news/article/JMEJ6JSA00019SNS.html)
 
-[被指控敲诈勒索罪 苏享茂家属称翟欣欣认罪认罚](https://m.163.com/news/article/JMEARPVO0001899O.html)
+[药店179元的药网上只卖126元 患者扫"追溯码"发现猫腻](https://m.163.com/news/article/JMEKIKA10512B07B.html)
 
-[张家界发布业绩预告：去年预亏约5.5亿至6.5亿元](https://m.163.com/news/article/JMDMJI3E0514R9P4.html)
+[预计连续3年净利润亏损 上市公司全体高管自愿降薪20%](https://m.163.com/news/article/JMF64N170512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台湾台南市发生6.2级地震 福州居民：熟睡中被摇醒](https://m.163.com/news/article/JME2RANM053469M5.html)
+["全马破4"的52岁市长任上被查 曾留美获工学博士学位](https://m.163.com/news/article/JMF4DKJE0530JPVV.html)
 
 ---end---
