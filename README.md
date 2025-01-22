@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-22 20:34:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-22 21:03:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医药高等专科学校关于2024年公开招聘学校工作人员的通知](https://www.gongkaoleida.com/article/2273305)
+[重庆市合川区人力资源和社会保障局公开招聘非在编人员简章](https://www.gongkaoleida.com/article/2273917)
 
 [男子卷入"手机贷"陷阱:30多个平台租40部手机欠50多万](https://m.163.com/news/article/JMEVEV2S0514R9P4.html)
 
