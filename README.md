@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-23 14:23:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-23 14:43:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市中医院关于招聘病案统计科编码员的公告](https://www.gongkaoleida.com/article/2274013)
+[重庆医科大学2025年考核招聘紧缺高层次人才公告](https://www.gongkaoleida.com/article/2274343)
 
-[云南8岁女童在山上走失3天 家长悬赏100万寻人](https://m.163.com/news/article/JMHG8QA60550HXM1.html)
+[高铁"遛娃车厢"冲上热搜 12306回应](https://m.163.com/news/article/JMJ9G0R80514EGPO.html)
 
-[2名内地学生在港接连被骗损失超千万港元 李家超发声](https://m.163.com/news/article/JMIO2LR40514R9OJ.html)
+[钟睒睒：要建一所国内没有的新型大学 10年捐赠400亿](https://m.163.com/news/article/JMJ9J3KA0514R9P4.html)
 
-[检方披露:县长给人送50万 不到1个月被调整为县委书记](https://m.163.com/news/article/JMIQNIFI0530M570.html)
+[女子驾车遭追尾丈夫儿子保姆均丧生 肇事者判3年缓5年](https://m.163.com/news/article/JMI3D8780514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[节前大寒潮来袭 多地将被冻成"紫色"](https://m.163.com/news/article/JMI3IL350512B07B.html)
+[正部级齐扎拉被查 曾任西藏自治区政府主席](https://m.163.com/news/article/JMJ48CGK0001899O.html)
 
 ---end---
