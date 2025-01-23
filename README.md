@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-23 20:34:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-23 21:03:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学2025年考核招聘紧缺高层次人才公告](https://www.gongkaoleida.com/article/2274343)
+[重庆水利电力职业技术学院2025年第一批公开招聘合同制工作人员简章](https://www.gongkaoleida.com/article/2274899)
 
-[高铁"遛娃车厢"冲上热搜 12306回应](https://m.163.com/news/article/JMJ9G0R80514EGPO.html)
+[架设高压线的"蜘蛛人":最高日薪6500元 不敢轻易接单](https://m.163.com/news/article/JMJHFCO8051492T3.html)
 
-[钟睒睒：要建一所国内没有的新型大学 10年捐赠400亿](https://m.163.com/news/article/JMJ9J3KA0514R9P4.html)
+[韩国选手零胜夺冠 柯洁退赛前曾怒怼裁判"我受够了"](https://m.163.com/news/article/JMJPVAUD055040N3.html)
 
-[女子驾车遭追尾丈夫儿子保姆均丧生 肇事者判3年缓5年](https://m.163.com/news/article/JMI3D8780514R9P4.html)
+["95后"夫妻花76万买260平顶楼复式房:原本130多平](https://m.163.com/news/article/JMJR71O2051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[正部级齐扎拉被查 曾任西藏自治区政府主席](https://m.163.com/news/article/JMJ48CGK0001899O.html)
+[67岁"正部虎"被查:曾任拉萨市委书记 6天前还在参会](https://m.163.com/news/article/JMJJOJVG0530JPVV.html)
 
 ---end---
