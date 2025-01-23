@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-23 07:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-23 09:17:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市合川区人力资源和社会保障局公开招聘非在编人员简章](https://www.gongkaoleida.com/article/2273917)
+[重庆市中医院关于招聘病案统计科编码员的公告](https://www.gongkaoleida.com/article/2274013)
 
-[男子卷入"手机贷"陷阱:30多个平台租40部手机欠50多万](https://m.163.com/news/article/JMEVEV2S0514R9P4.html)
+[云南8岁女童在山上走失3天 家长悬赏100万寻人](https://m.163.com/news/article/JMHG8QA60550HXM1.html)
 
-[司机晕厥4名中学生救下失控公交车 保住18个人的性命](https://m.163.com/news/article/JMG4NIAI0514CDBK.html)
+[2名内地学生在港接连被骗损失超千万港元 李家超发声](https://m.163.com/news/article/JMIO2LR40514R9OJ.html)
 
-[官宣！王菲时隔7年再度亮相春晚 将演唱特别单曲](https://m.163.com/news/article/JMGGJF9R051492T3.html)
+[检方披露:县长给人送50万 不到1个月被调整为县委书记](https://m.163.com/news/article/JMIQNIFI0530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[海军054B护卫舰首舰在青岛交接入列](https://m.163.com/news/article/JMGGKJPP000189PS.html)
+[节前大寒潮来袭 多地将被冻成"紫色"](https://m.163.com/news/article/JMI3IL350512B07B.html)
 
 ---end---
