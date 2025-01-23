@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-24 02:23:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-24 02:43:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆水利电力职业技术学院2025年第一批公开招聘合同制工作人员简章](https://www.gongkaoleida.com/article/2274899)
+[重庆工业职业技术学院考核招聘科研平台负责人的公告](https://www.gongkaoleida.com/article/2275092)
 
 [架设高压线的"蜘蛛人":最高日薪6500元 不敢轻易接单](https://m.163.com/news/article/JMJHFCO8051492T3.html)
 
