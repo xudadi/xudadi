@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-24 20:33:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-24 21:02:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工业职业技术学院考核招聘科研平台负责人的公告](https://www.gongkaoleida.com/article/2275092)
+[璧山高新区现代工业发展促进中心公开招聘聘用制高层次人才简章](https://www.gongkaoleida.com/article/2275907)
 
-[娃哈哈近千人同吃年夜饭 宗馥莉一一敬酒并派发红包](https://m.163.com/news/article/JMKF7V640514R9P4.html)
+[药企回应"仿制药一致性评价多个数据雷同":已启动自查](https://m.163.com/news/article/JMMKIOOB051492T3.html)
 
-[亚冬会中国体育代表团名单公布：谷爱凌、徐梦桃等在列](https://m.163.com/news/article/JMLKPUQG0001899O.html)
+[柯洁父亲：柯洁被判输很冤枉 他至今心情都没缓过来](https://m.163.com/news/article/JMMHSNF20001899O.html)
 
-[预制菜年夜饭网上销售火热 293元8个菜套餐已卖数千单](https://m.163.com/news/article/JMJL2F780514D3UH.html)
+[正部级李微微被双开 大搞“全家腐”](https://m.163.com/news/article/JMMCO0BL0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[两公司拒收人民币现金 被中国人民银行处罚](https://m.163.com/news/article/JMJSDB7G0519DFFO.html)
+[画家叶永青承认抄袭赔了500万 其靠卖画共赚了1.63亿](https://m.163.com/news/article/JMM8EP6G051492LM.html)
 
 ---end---
