@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-24 07:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-24 09:17:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆工业职业技术学院考核招聘科研平台负责人的公告](https://www.gongkaoleida.com/article/2275092)
 
-[架设高压线的"蜘蛛人":最高日薪6500元 不敢轻易接单](https://m.163.com/news/article/JMJHFCO8051492T3.html)
+[两公司拒收人民币现金 被中国人民银行处罚](https://m.163.com/news/article/JMJSDB7G0519DFFO.html)
 
-[韩国选手零胜夺冠 柯洁退赛前曾怒怼裁判"我受够了"](https://m.163.com/news/article/JMJPVAUD055040N3.html)
+[虚设9岁儿子为包工头 女会计2年多时间侵占2200余万元](https://m.163.com/news/article/JMLAQRM60001899O.html)
 
-["95后"夫妻花76万买260平顶楼复式房:原本130多平](https://m.163.com/news/article/JMJR71O2051492T3.html)
+[特朗普：中美关系非常良好](https://m.163.com/news/article/JMLD6NBP0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[67岁"正部虎"被查:曾任拉萨市委书记 6天前还在参会](https://m.163.com/news/article/JMJJOJVG0530JPVV.html)
+[重庆"带孩子摆摊的妈妈"边干活边直播 儿子有时也出摊](https://m.163.com/news/article/JMJF1KLR051492T3.html)
 
 ---end---
