@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-25 02:23:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-25 02:42:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[璧山高新区现代工业发展促进中心公开招聘聘用制高层次人才简章](https://www.gongkaoleida.com/article/2275907)
+[重庆大学输变电装备技术全国重点实验室劳务派遣科研人员招聘启事](https://www.gongkaoleida.com/article/2276176)
 
 [药企回应"仿制药一致性评价多个数据雷同":已启动自查](https://m.163.com/news/article/JMMKIOOB051492T3.html)
 
