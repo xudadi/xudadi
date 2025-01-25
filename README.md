@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-26 02:20:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-26 02:39:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆中医药学院教职工食堂工作人员招聘启事](https://www.gongkaoleida.com/article/2276432)
 
-[男子开新能源车离沪回家：在服务区等20分钟就充上电](https://m.163.com/news/article/JMP5RAE50514R9P4.html)
+[女子开新能源车返乡过年崩溃：跑3个服务区才充上电](https://m.163.com/news/article/JMOKE5150514BRB0.html)
 
-[试用期落马 山西厅官马志强被“双开”](https://m.163.com/news/article/JMOGEFRH0514R9P4.html)
+[LG杯争议成新政契机 中国围棋协会拟拒外援引热议](https://m.163.com/news/article/JMP997FK0514R9P4.html)
 
-[小鹏汽车在小区里起火烧坏17辆车 包括奔驰宝马和奥迪](https://m.163.com/news/article/JMP1SMH10512B07B.html)
+[4位厅干履新 其中一人上任市委书记其前任已升副省部级](https://m.163.com/news/article/JMPBP0AJ0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子千万财产被判给前妻 法官和前妻在酒楼吃"庆功宴"](https://m.163.com/news/article/JMORS98R0512BN99.html)
+[知名博主飞滑翔伞失联 救援人员疑收到对讲机信号](https://m.163.com/news/article/JMP9ABAB0514D3UH.html)
 
 ---end---
