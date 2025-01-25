@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-25 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-25 20:30:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学输变电装备技术全国重点实验室劳务派遣管理人员招聘启事](https://www.gongkaoleida.com/article/2276320)
+[重庆中医药学院教职工食堂工作人员招聘启事](https://www.gongkaoleida.com/article/2276432)
 
-[厨师跳槽后"拌黄瓜"被诉违反竞业禁止协议 遭索赔10万](https://m.163.com/news/article/JMO50FFA0550A0OW.html)
+[男子开新能源车离沪回家：在服务区等20分钟就充上电](https://m.163.com/news/article/JMP5RAE50514R9P4.html)
 
-[上海阿姨卖房后将145万现金铺沙发等人来取 中介报警](https://m.163.com/news/article/JMO7BC9B0512DU6N.html)
+[试用期落马 山西厅官马志强被“双开”](https://m.163.com/news/article/JMOGEFRH0514R9P4.html)
 
-[国乒整治"饭圈" 全员全平台解散官方粉丝群](https://m.163.com/news/article/JMO6TUVS0512D3VJ.html)
+[小鹏汽车在小区里起火烧坏17辆车 包括奔驰宝马和奥迪](https://m.163.com/news/article/JMP1SMH10512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网红烟花"加特林"价格下跌 业内人士：有厂家9块9甩货](https://m.163.com/news/article/JMMO7OU905198CJN.html)
+[男子千万财产被判给前妻 法官和前妻在酒楼吃"庆功宴"](https://m.163.com/news/article/JMORS98R0512BN99.html)
 
 ---end---
