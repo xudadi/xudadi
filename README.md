@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-25 09:14:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-25 10:16:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学输变电装备技术全国重点实验室劳务派遣科研人员招聘启事](https://www.gongkaoleida.com/article/2276176)
 
-[药企回应"仿制药一致性评价多个数据雷同":已启动自查](https://m.163.com/news/article/JMMKIOOB051492T3.html)
+[寒潮+暴雪双预警齐发 部分地区降温达14℃以上](https://m.163.com/news/article/JMNV7PV8000189PS.html)
 
-[柯洁父亲：柯洁被判输很冤枉 他至今心情都没缓过来](https://m.163.com/news/article/JMMHSNF20001899O.html)
+[极限运动博主在雪山飞行滑翔伞失联 距事发已近48小时](https://m.163.com/news/article/JMM5DE9B0514R9OJ.html)
 
-[正部级李微微被双开 大搞“全家腐”](https://m.163.com/news/article/JMMCO0BL0530JPVV.html)
+[女子称姐姐因未婚生育被取消村集体福利 当地回应](https://m.163.com/news/article/JMML73EA051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[画家叶永青承认抄袭赔了500万 其靠卖画共赚了1.63亿](https://m.163.com/news/article/JMM8EP6G051492LM.html)
+[药企回应"仿制药一致性评价多个数据雷同":已启动自查](https://m.163.com/news/article/JMMKIOOB051492T3.html)
 
 ---end---
