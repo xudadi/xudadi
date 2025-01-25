@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-25 14:21:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-25 14:40:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学输变电装备技术全国重点实验室劳务派遣科研人员招聘启事](https://www.gongkaoleida.com/article/2276176)
+[重庆大学输变电装备技术全国重点实验室劳务派遣管理人员招聘启事](https://www.gongkaoleida.com/article/2276320)
 
-[寒潮+暴雪双预警齐发 部分地区降温达14℃以上](https://m.163.com/news/article/JMNV7PV8000189PS.html)
+[厨师跳槽后"拌黄瓜"被诉违反竞业禁止协议 遭索赔10万](https://m.163.com/news/article/JMO50FFA0550A0OW.html)
 
-[极限运动博主在雪山飞行滑翔伞失联 距事发已近48小时](https://m.163.com/news/article/JMM5DE9B0514R9OJ.html)
+[上海阿姨卖房后将145万现金铺沙发等人来取 中介报警](https://m.163.com/news/article/JMO7BC9B0512DU6N.html)
 
-[女子称姐姐因未婚生育被取消村集体福利 当地回应](https://m.163.com/news/article/JMML73EA051492T3.html)
+[国乒整治"饭圈" 全员全平台解散官方粉丝群](https://m.163.com/news/article/JMO6TUVS0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[药企回应"仿制药一致性评价多个数据雷同":已启动自查](https://m.163.com/news/article/JMMKIOOB051492T3.html)
+[网红烟花"加特林"价格下跌 业内人士：有厂家9块9甩货](https://m.163.com/news/article/JMMO7OU905198CJN.html)
 
 ---end---
