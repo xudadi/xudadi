@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-26 14:21:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-26 14:40:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市红糟房小学校急聘数学老师](https://www.gongkaoleida.com/article/2276472)
+[重庆市疾病预防控制中心招聘公告](https://www.gongkaoleida.com/article/2276566)
 
 [女子开新能源车返乡过年崩溃：跑3个服务区才充上电](https://m.163.com/news/article/JMOKE5150514BRB0.html)
 
