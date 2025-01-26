@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-27 02:21:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-27 02:40:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市合川区2025年就业援助月暨春风行动招聘活动计划出炉!](https://www.gongkaoleida.com/article/2277148)
 
-[女子开新能源车返乡过年崩溃：跑3个服务区才充上电](https://m.163.com/news/article/JMOKE5150514BRB0.html)
+[柯洁还原判罚现场：对手举报完我后和人说笑聊天](https://m.163.com/news/article/JMS40BQR05504DPG.html)
 
-[LG杯争议成新政契机 中国围棋协会拟拒外援引热议](https://m.163.com/news/article/JMP997FK0514R9P4.html)
+[造车新势力烧光30亿后倒下:仅卖4万台车 广汽承诺兜底](https://m.163.com/news/article/JMRO5EKR0514BE2Q.html)
 
-[4位厅干履新 其中一人上任市委书记其前任已升副省部级](https://m.163.com/news/article/JMPBP0AJ0530JPVV.html)
+[女子当"宠托师"1天能接20单 春节期间收入可上万](https://m.163.com/news/article/JMRL4DPE0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[知名博主飞滑翔伞失联 救援人员疑收到对讲机信号](https://m.163.com/news/article/JMP9ABAB0514D3UH.html)
+[博主在虎跳峡乘滑翔伞飞跃雪山失联：只带了半瓶水](https://m.163.com/news/article/JMRBBI2D00019SLP.html)
 
 ---end---
