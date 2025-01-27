@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-27 14:24:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-27 14:44:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市合川区2025年就业援助月暨春风行动招聘活动计划出炉!](https://www.gongkaoleida.com/article/2277148)
+[重庆开放大学重庆工商职业学院2025年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2277465)
 
 [柯洁还原判罚现场：对手举报完我后和人说笑聊天](https://m.163.com/news/article/JMS40BQR05504DPG.html)
 
