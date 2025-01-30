@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-01-30 07:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-01-30 09:16:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市沙坪坝区新丝路小学校招聘教师公告](https://www.gongkaoleida.com/article/2277560)
 
+[春晚为王菲报幕的“外卖诗人”：聚光灯下感到不安](https://m.163.com/news/article/JN3U879H051492T3.html)
+
+[李佳琦助播旺旺被指月薪80万 本人回应:没大家想象得高](https://m.163.com/news/article/JN3PLBMJ0514BE2Q.html)
+
 [撒贝宁春晚眉毛像蜡笔小新 现场卸妆称浓眉不是纹的](https://m.163.com/news/article/JN3APA8H0530JPVV.html)
-
-[59岁山东老人终于不用出门磕头拜年:仪式感最强的老去](https://m.163.com/news/article/JN3D90M00514D9AO.html)
-
-[扭秧歌机器人火了 此前一人形机器人价格降到10万以内](https://m.163.com/news/article/JN2N79GJ051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[个别机器人在春晚扭秧歌出现"失误" 研发公司回应](https://m.163.com/news/article/JN317CIK00019SNS.html)
+[59岁山东老人终于不用出门磕头拜年:仪式感最强的老去](https://m.163.com/news/article/JN3D90M00514D9AO.html)
 
 ---end---
