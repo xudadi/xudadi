@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-06 20:34:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-06 21:04:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区旭辉小学校招聘简章](https://www.gongkaoleida.com/article/2278305)
+[重庆市字水中学公开招聘教师公告](https://www.gongkaoleida.com/article/2280050)
 
 [金价一涨再涨创历史新高 杭州白领跨城排队买金](https://m.163.com/news/article/JNN4G24V0530JPVV.html)
 
