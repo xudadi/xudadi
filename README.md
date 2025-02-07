@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-07 20:33:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-07 21:03:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市教育事业单位面向2025届中西部欠发达地区优秀教师定向培养计划师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2280392)
+[天圣制药集团股份有限公司招聘信息表](https://www.gongkaoleida.com/article/2281184)
 
-[钓鱼男子用路亚竿紧紧钩住落水者 千钧一发时线断了](https://m.163.com/news/article/JNOLLBJC051492T3.html)
+[吴清执掌证监会满一年："严"字当头 沪指上涨16.75%](https://m.163.com/news/article/JNQH3H8D0519APGA.html)
 
-[男子错将13.8万元转给前同事 对方却因房贷被自动扣款](https://m.163.com/news/article/JNONE0E0051492T3.html)
+[阿里否认投资DeepSeek传闻：为DeepSeek鼓掌](https://m.163.com/news/article/JNQN4PT00001899O.html)
 
-[五名80后博士"去代转正"当上市长 有人曾留清华当老师](https://m.163.com/news/article/JNPGNKDM055040N3.html)
+[河南一县市监局数据全部为0被指造假 回应称正在调查](https://m.163.com/news/article/JNQA2CMF05149E7M.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山西一商户因未彻夜亮灯遭撬锁开灯 官方发文致歉](https://m.163.com/news/article/JNPEKVJC0534A4SC.html)
+[新课标发布后深圳一张小学数学试卷引质疑 老师很头疼](https://m.163.com/news/article/JNQHJC9T0514R9P4.html)
 
 ---end---
