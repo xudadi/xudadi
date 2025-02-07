@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-07 14:24:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-07 14:44:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市字水中学公开招聘教师公告](https://www.gongkaoleida.com/article/2280050)
+[重庆市教育事业单位面向2025届中西部欠发达地区优秀教师定向培养计划师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2280392)
 
-[ATM机被"撑爆"：家长排队猛存压岁钱 有孩子收2万3](https://m.163.com/news/article/JNOC9NVI0001899O.html)
+[钓鱼男子用路亚竿紧紧钩住落水者 千钧一发时线断了](https://m.163.com/news/article/JNOLLBJC051492T3.html)
 
-[三人一马入冰河救人 马主人：它脾气暴但是匹好马](https://m.163.com/news/article/JNO6VBL80512D3VJ.html)
+[男子错将13.8万元转给前同事 对方却因房贷被自动扣款](https://m.163.com/news/article/JNONE0E0051492T3.html)
 
-[汪小菲被指因大S逝世躁郁症复发 暂无法思考小孩去处](https://m.163.com/news/article/JNOAAFO80530JPVV.html)
+[五名80后博士"去代转正"当上市长 有人曾留清华当老师](https://m.163.com/news/article/JNPGNKDM055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[一家三口从新加坡坐火车回成都：旅途分10段 历时12天](https://m.163.com/news/article/JNO83ESP053469M5.html)
+[山西一商户因未彻夜亮灯遭撬锁开灯 官方发文致歉](https://m.163.com/news/article/JNPEKVJC0534A4SC.html)
 
 ---end---
