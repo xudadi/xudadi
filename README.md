@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-08 14:21:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-08 14:41:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[天圣制药集团股份有限公司招聘信息表](https://www.gongkaoleida.com/article/2281184)
+[重庆市某央企财务类岗位招聘简章](https://www.gongkaoleida.com/article/2281627)
 
 [《哪吒2》爆火下的县城影院春节档：3D眼镜厂断货](https://m.163.com/news/article/JNR5J971051492T3.html)
 
