@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-09 20:30:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-09 20:59:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆九洲隆瓴科技有限公司关于招聘工艺工程师岗的公告](https://www.gongkaoleida.com/article/2281834)
 
-[男子40万元新车被小孩"点燃"报废 家长：刚买房 没钱](https://m.163.com/news/article/JNUN2R6B051492T3.html)
+[重组整合动作频频 东风系、兵装系上市公司密集公告](https://m.163.com/news/article/JNVTRK8D05199NPP.html)
 
-["刷医保可买华为手表"引关注 上海一药店百余人预约](https://m.163.com/news/article/JNUPQQ130512B07B.html)
+[9岁男孩故意扔鞭炮致车辆烧毁 车主起诉索赔法院判了](https://m.163.com/news/article/JNVP1L3800019K82.html)
 
-[动画公司回应138家公司托举哪吒2：票房跟我们没关系](https://m.163.com/news/article/JNUPHN3L0001899O.html)
+[中国驻柬使馆再发文辟谣 称中柬友谊不会受到任何干扰](https://m.163.com/news/article/JNVDOTLN0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国家统计局：2025年1月PPI同比下降2.3%](https://m.163.com/news/article/JNUQ0U150001899O.html)
+[中国队遇韩国队犯规摘铜 韩国队员赛后被拍到有说有笑](https://m.163.com/news/article/JNVG2J510001899O.html)
 
 ---end---
