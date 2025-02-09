@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-09 17:15:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-09 17:36:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆九洲隆瓴科技有限公司关于招聘工艺工程师岗的公告](https://www.gongkaoleida.com/article/2281834)
 
