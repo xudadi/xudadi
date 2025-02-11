@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-11 14:24:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-11 14:43:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[项目管理人员招聘简章](https://www.gongkaoleida.com/article/2283599)
+[重庆市2025年度公开考试录用公务员公告](https://www.gongkaoleida.com/article/2284000)
 
-[顶级域名被定向到DeepSeek官网 此前曾跳转ChatGPT](https://m.163.com/news/article/JO23S1AR051492T3.html)
+[75后女厅官孙绍雪被双开：道德败坏、品行不端](https://m.163.com/news/article/JO43LSC3051482MP.html)
 
-[王传福：比亚迪全系将搭载高阶智驾 可实现高速0接管](https://m.163.com/news/article/JO2K3S140512B07B.html)
+[哪吒2辟谣:"急急如律令"的翻译不是"quickly biu biu"](https://m.163.com/news/article/JO4030JE051492T3.html)
 
-[管理方回应"数十斤肉品被扔停车区":已按厨余垃圾清理](https://m.163.com/news/article/JO2G19K5051492T3.html)
+[特斯拉上海储能超级工厂正式投产 仅9个月实现产品下线](https://m.163.com/news/article/JO3U3E320514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[替代继子成为杉杉控股董事长仅3个月时间 周婷卸任](https://m.163.com/news/article/JO2EQBTV05199NPP.html)
+[南京跨江地铁抢修 女子放弃通勤花1800元在公司旁租房](https://m.163.com/news/article/JO3RRIQO00019B3E.html)
 
 ---end---
