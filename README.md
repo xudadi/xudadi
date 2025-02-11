@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-12 02:22:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-12 02:43:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市2025年从优秀村(社区)干部中考试录用公务员公告(永川区)](https://www.gongkaoleida.com/article/2284864)
 
-[杭州娃哈哈集团正在对“娃哈哈”商标进行转让](https://m.163.com/news/article/JO4GC0FB0534A4SC.html)
+[跳江救人的"白龙"马不幸死亡：非救人呛水所致](https://m.163.com/news/article/JO5B1U1Q0001899O.html)
 
-[《哪吒2》预测票房142亿 业内：饺子收入可能达10亿](https://m.163.com/news/article/JO4DN3MJ0512B07B.html)
+[石矶娘娘配音演员：我不是搞行政的 目前已经辞职](https://m.163.com/news/article/JO57GMAR051492T3.html)
 
-[百亿上市公司公告：发起人周八斤逝世 直接持股12.22%](https://m.163.com/news/article/JO4DN46V0512B07B.html)
+[落马干部生日当天出镜忏悔 围猎者暗示他"为娃娃考虑"](https://m.163.com/news/article/JO56RQMI0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[马云现身杭州阿里园区 年初至今阿里股价上涨近28%](https://m.163.com/news/article/JO4AQ8TJ05198CJN.html)
+[影迷举报买到手写票 涉事影院已被暂停《哪吒2》排片](https://m.163.com/news/article/JO4PI08O051492T3.html)
 
 ---end---
