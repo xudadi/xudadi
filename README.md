@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-11 20:34:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-11 21:04:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市2025年度公开考试录用公务员公告](https://www.gongkaoleida.com/article/2284000)
+[重庆市2025年从优秀村(社区)干部中考试录用公务员公告(永川区)](https://www.gongkaoleida.com/article/2284864)
 
-[75后女厅官孙绍雪被双开：道德败坏、品行不端](https://m.163.com/news/article/JO43LSC3051482MP.html)
+[杭州娃哈哈集团正在对“娃哈哈”商标进行转让](https://m.163.com/news/article/JO4GC0FB0534A4SC.html)
 
-[哪吒2辟谣:"急急如律令"的翻译不是"quickly biu biu"](https://m.163.com/news/article/JO4030JE051492T3.html)
+[《哪吒2》预测票房142亿 业内：饺子收入可能达10亿](https://m.163.com/news/article/JO4DN3MJ0512B07B.html)
 
-[特斯拉上海储能超级工厂正式投产 仅9个月实现产品下线](https://m.163.com/news/article/JO3U3E320514R9P4.html)
+[百亿上市公司公告：发起人周八斤逝世 直接持股12.22%](https://m.163.com/news/article/JO4DN46V0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[南京跨江地铁抢修 女子放弃通勤花1800元在公司旁租房](https://m.163.com/news/article/JO3RRIQO00019B3E.html)
+[马云现身杭州阿里园区 年初至今阿里股价上涨近28%](https://m.163.com/news/article/JO4AQ8TJ05198CJN.html)
 
 ---end---
