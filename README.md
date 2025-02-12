@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-12 14:24:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-12 14:43:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[延长石油集团重庆销售有限公司2025年加油员市场化招聘公告](https://www.gongkaoleida.com/article/2285064)
+[贵州铁建工程质量检测咨询有限公司派遣制员工招聘简章](https://www.gongkaoleida.com/article/2285474)
 
-[广东省长试乘自动驾驶车辆 还给机器人递了一瓶矿泉水](https://m.163.com/news/article/JO6CIJB2051482MP.html)
+[最高检点名孙志刚等"老虎"：加大职务犯罪惩治力度](https://m.163.com/news/article/JO6TKF0V051482MP.html)
 
-[广西性侵学生的教师已被立案 律师：或涉刑法新增罪名](https://m.163.com/news/article/JO68JFKJ0514R9P4.html)
+[春晚节目单上参演港澳台艺人不再特别标注 国台办回应](https://m.163.com/news/article/JO6QS7MF0514R9OJ.html)
 
-[知名"独角兽"陷危机:高管早已集体离职 CEO自称美国籍](https://m.163.com/news/article/JO5CRMPQ00019B3E.html)
+[娃哈哈发声明回应商标转让：转让给食品公司](https://m.163.com/news/article/JO6QPP7D0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[跳江救人的"白龙"马不幸死亡：非救人呛水所致](https://m.163.com/news/article/JO5B1U1Q0001899O.html)
+[跳江救人"白龙"马死亡 湖北仙桃将在汉江边为其建雕像](https://m.163.com/news/article/JO6QEFM3053469M5.html)
 
 ---end---
