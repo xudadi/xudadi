@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-12 20:34:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-12 21:04:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[贵州铁建工程质量检测咨询有限公司派遣制员工招聘简章](https://www.gongkaoleida.com/article/2285474)
+[重庆九洲智造科技有限公司关于招聘变更工程师等岗位的公告](https://www.gongkaoleida.com/article/2285671)
 
 [最高检点名孙志刚等"老虎"：加大职务犯罪惩治力度](https://m.163.com/news/article/JO6TKF0V051482MP.html)
 
