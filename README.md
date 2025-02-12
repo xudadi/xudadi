@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-12 07:50:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-12 09:19:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市2025年从优秀村(社区)干部中考试录用公务员公告(永川区)](https://www.gongkaoleida.com/article/2284864)
+[延长石油集团重庆销售有限公司2025年加油员市场化招聘公告](https://www.gongkaoleida.com/article/2285064)
 
-[跳江救人的"白龙"马不幸死亡：非救人呛水所致](https://m.163.com/news/article/JO5B1U1Q0001899O.html)
+[广东省长试乘自动驾驶车辆 还给机器人递了一瓶矿泉水](https://m.163.com/news/article/JO6CIJB2051482MP.html)
 
-[石矶娘娘配音演员：我不是搞行政的 目前已经辞职](https://m.163.com/news/article/JO57GMAR051492T3.html)
+[广西性侵学生的教师已被立案 律师：或涉刑法新增罪名](https://m.163.com/news/article/JO68JFKJ0514R9P4.html)
 
-[落马干部生日当天出镜忏悔 围猎者暗示他"为娃娃考虑"](https://m.163.com/news/article/JO56RQMI0530JPVV.html)
+[知名"独角兽"陷危机:高管早已集体离职 CEO自称美国籍](https://m.163.com/news/article/JO5CRMPQ00019B3E.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[影迷举报买到手写票 涉事影院已被暂停《哪吒2》排片](https://m.163.com/news/article/JO4PI08O051492T3.html)
+[跳江救人的"白龙"马不幸死亡：非救人呛水所致](https://m.163.com/news/article/JO5B1U1Q0001899O.html)
 
 ---end---
