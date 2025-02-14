@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-14 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-14 20:34:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市彭水自治县教育事业单位面向2025届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2287110)
+[重庆大正畜牧科技有限公司招聘公告](https://www.gongkaoleida.com/article/2288808)
 
 [宗馥莉接班1年让娃哈哈回巅峰 走出夯实权力重要一步](https://m.163.com/news/article/JOADTELH053469M5.html)
 
