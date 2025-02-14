@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-15 02:23:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-15 02:43:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大正畜牧科技有限公司招聘公告](https://www.gongkaoleida.com/article/2288808)
+[重庆鈊渝金融租赁股份有限公司社会招聘公告](https://www.gongkaoleida.com/article/2288821)
 
-[宗馥莉接班1年让娃哈哈回巅峰 走出夯实权力重要一步](https://m.163.com/news/article/JOADTELH053469M5.html)
+[青海牧民驾车行驶时遇野狼拦车 专家：此狼行为反常](https://m.163.com/news/article/JOCV7FPP051492T3.html)
 
-[女村医春节连续值班11天从早忙到晚 还抢救喝农药村民](https://m.163.com/news/article/JOANMUEH051492T3.html)
+[胖东来发布53页调查报告通报红内裤掉色事件:多人免职](https://m.163.com/news/article/JOCMQ0UQ0512B07B.html)
 
-[女子带9岁儿子坐火车从成都到新加坡 花2.2万玩了25天](https://m.163.com/news/article/JOAFM51C0514D3UH.html)
+[《蛟龙行动》宣布"听劝"撤档 累计票房不足4亿元](https://m.163.com/news/article/JOCL0JPD0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19位省级党委书记集中谈反腐 提到三个点](https://m.163.com/news/article/JOAED09K051482MP.html)
+["纸面服刑"后再杀人 山东村霸被执行死刑](https://m.163.com/news/article/JOCPQS380512D3VJ.html)
 
 ---end---
