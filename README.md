@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-17 02:21:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-17 02:40:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆鈊渝金融租赁股份有限公司社会招聘公告](https://www.gongkaoleida.com/article/2288821)
 
-[哈尔滨3名政协委员被撤销职务 1人系涉黑恶集团成员](https://m.163.com/news/article/JOHQU2460514R9P4.html)
+[19岁男护士发视频求职：父母离世 想找一份兼职挣学费](https://m.163.com/news/article/JOI3UQF90514D3UH.html)
 
-[男子每周末跨350公里去浏阳看烟花：一次花费约500元](https://m.163.com/news/article/JOHR12EK0514R9OJ.html)
+[61岁乘客在飞机上昏迷抢救无效死亡 家属欲寻找目击者](https://m.163.com/news/article/JOI3E5T70514D3UH.html)
 
-[家族财富超220亿美元 香港豪门长孙宣布进军短剧行业](https://m.163.com/news/article/JOHA73TE0512B07B.html)
+["脆皮安全帽"再现市场：有商店售卖安全帽过期近20年](https://m.163.com/news/article/JOI06JBF0519814N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[购金热潮下有银行金条已卖断货 多家银行上调投资门槛](https://m.163.com/news/article/JOHNHMK90514D3UH.html)
+[游客称遭导游强迫购物大巴雪天停无人区 成都官方通报](https://m.163.com/news/article/JOI16NL50514R9OJ.html)
 
 ---end---
