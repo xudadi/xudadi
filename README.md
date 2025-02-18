@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-18 14:24:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-18 14:44:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司招聘派往重庆市林业科学研究院招聘启事](https://www.gongkaoleida.com/article/2291059)
+[重庆市九龙坡区实验外国语学校2025年招聘公告](https://www.gongkaoleida.com/article/2291664)
 
 [烂尾28年后巨人大厦终于要动工了 土地使用权只剩18年](https://m.163.com/news/article/JOKNLJ470512B07B.html)
 
