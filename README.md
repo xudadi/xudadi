@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-19 02:24:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-19 02:44:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市田家炳中学2025年后勤工作人员招聘公告](https://www.gongkaoleida.com/article/2292492)
 
-[云南2厅长1市长同日被处理：1人2次受处分后仍不悔改](https://m.163.com/news/article/JON29CER0530JPVV.html)
+["老纪检"陈玉祥22年敛财3000万:刚当上处级干部就受贿](https://m.163.com/news/article/JON5B6K905129QAF.html)
 
-[女子花6.5万购买100克黄金 收到货后蒙了：一卷卫生纸](https://m.163.com/news/article/JON0I9VF05561G0D.html)
+[80多名娃哈哈老员工创业搞"AD钙奶" 宗泽后是股东之一](https://m.163.com/news/article/JON378A1051492T3.html)
 
-[《哪吒2》登顶全球动画电影票房榜](https://m.163.com/news/article/JOMUTE5U05198CJN.html)
+[妻子被撞倒 丈夫拦停酒驾司机致其摔伤反被索赔30万](https://m.163.com/news/article/JOMT6EEO0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[郭艾伦眼部受伤流血 本人发声：以后可能打不了篮球了](https://m.163.com/news/article/JOMT0R6N0530JPVV.html)
+[云南2厅长1市长同日被处理：1人2次受处分后仍不悔改](https://m.163.com/news/article/JON29CER0530JPVV.html)
 
 ---end---
