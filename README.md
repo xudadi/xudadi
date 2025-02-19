@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-19 14:24:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-19 14:44:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市田家炳中学2025年后勤工作人员招聘公告](https://www.gongkaoleida.com/article/2292492)
+[重庆广播电视集团招聘公告](https://www.gongkaoleida.com/article/2293157)
 
 ["老纪检"陈玉祥22年敛财3000万:刚当上处级干部就受贿](https://m.163.com/news/article/JON5B6K905129QAF.html)
 
