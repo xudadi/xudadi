@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-19 20:32:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-19 21:03:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆广播电视集团招聘公告](https://www.gongkaoleida.com/article/2293157)
+[国家生猪技术创新中心重庆市畜牧科学院招聘公告](https://www.gongkaoleida.com/article/2293694)
 
 ["老纪检"陈玉祥22年敛财3000万:刚当上处级干部就受贿](https://m.163.com/news/article/JON5B6K905129QAF.html)
 
