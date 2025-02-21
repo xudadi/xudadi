@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-22 02:23:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-22 02:43:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆军通汽车有限责任公司招聘公告](https://www.gongkaoleida.com/article/2296892)
+[数字重庆大数据应用发展有限公司智算科技分公司2025年市场化招聘专业人才公告](https://www.gongkaoleida.com/article/2296934)
 
-[万科再获深铁集团42亿元借款 用于偿还公开债务](https://m.163.com/news/article/JOUQQ6ND0514R9P4.html)
+[DeepSeek自称是"小团队" 宣布下周起再开源5个代码库](https://m.163.com/news/article/JOU6N6TD0534A4SC.html)
 
-[正部级蒋超良被查 曾任湖北省委书记](https://m.163.com/news/article/JOUQGU7T000189PS.html)
+[大量货运网约司机被客户逃单 平台方称已垫款3000多万](https://m.163.com/news/article/JOUGJKRO0514D3UH.html)
 
-[傅莹谈慕安会：在涉及俄乌问题的讨论中 中国常被提到](https://m.163.com/news/article/JOUN57NA0514R9P4.html)
+[辽宁女子跑到深圳水贝买黄金：近40克黄金便宜8000块](https://m.163.com/news/article/JOUGHRGA0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贵州省委书记到遵义调研 来到茅台集团等酒企](https://m.163.com/news/article/JOUPPHU2051482MP.html)
+["下车方便失踪10小时"男子出院:仍记不起如何坠桥受伤](https://m.163.com/news/article/JOU7JPPS051492T3.html)
 
 ---end---
