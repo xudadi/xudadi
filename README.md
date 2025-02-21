@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-21 19:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-21 20:34:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市畜牧科学院草业研究所招聘启事](https://www.gongkaoleida.com/article/2295078)
+[重庆军通汽车有限责任公司招聘公告](https://www.gongkaoleida.com/article/2296892)
 
-[王大陆不想服兵役 不少网民认为和大陆有关](https://m.163.com/news/article/JOTIQT0B00019B3E.html)
+[万科再获深铁集团42亿元借款 用于偿还公开债务](https://m.163.com/news/article/JOUQQ6ND0514R9P4.html)
 
-[小伙穿越鳌太线失联10天：进山那一刻 手机就没信号了](https://m.163.com/news/article/JOS38M0L051492T3.html)
+[正部级蒋超良被查 曾任湖北省委书记](https://m.163.com/news/article/JOUQGU7T000189PS.html)
 
-[湖南永州一大桥通车1年多出现多处开裂 官方通报](https://m.163.com/news/article/JOSI1MA60534A4SC.html)
+[傅莹谈慕安会：在涉及俄乌问题的讨论中 中国常被提到](https://m.163.com/news/article/JOUN57NA0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[曾遭导演郑某峰猥亵女孩发声：他扬言陪睡给主角机会](https://m.163.com/news/article/JOTG66CQ0001899O.html)
+[贵州省委书记到遵义调研 来到茅台集团等酒企](https://m.163.com/news/article/JOUPPHU2051482MP.html)
 
 ---end---
