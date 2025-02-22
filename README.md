@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-23 02:21:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-23 02:41:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [西南政法大学科研处校内招聘启事](https://www.gongkaoleida.com/article/2297346)
 
-[0比1遭沙特U20绝杀 中国国青时隔20年未能重返世青赛](https://m.163.com/news/article/JP16Q19J0514R9P4.html)
+[铁岭一私家车冲进医院致1人死亡 警方通报:系误踩油门](https://m.163.com/news/article/JP1IIRFC0534A4SC.html)
 
-[《漂白》女替身拍摄时遭车碾压 疑当事人发声剧组道歉](https://m.163.com/news/article/JP169NV60514R9OJ.html)
+[男子体检正常1年半后确诊癌症 起诉体检机构获赔13万](https://m.163.com/news/article/JOUSIABH05129QAF.html)
 
-[山东科大：施陈博教授帮助茅台酒年产量提高30%-50%](https://m.163.com/news/article/JP13QJ4N0514R9P4.html)
+[哈啰顺风车追尾致3死2伤：系非法营运 死者中含幼儿](https://m.163.com/news/article/JP0P1MRD05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[医院被指诱骗智障患者网贷4万元 事发1个多月仍未解决](https://m.163.com/news/article/JP0P5CHI05129BOL.html)
+[上海现多起豪宅诈骗案:"买家"付一半首付后就要求过户](https://m.163.com/news/article/JP172I5I0514R9OJ.html)
 
 ---end---
