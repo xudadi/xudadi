@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-23 20:31:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-23 21:01:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [西南政法大学科研处校内招聘启事](https://www.gongkaoleida.com/article/2297346)
 
-[铁岭一私家车冲进医院致1人死亡 警方通报:系误踩油门](https://m.163.com/news/article/JP1IIRFC0534A4SC.html)
+[女研究生花2万相亲"越来越气":介绍的人油腻还喷口水](https://m.163.com/news/article/JP3BVKJV00019B3E.html)
 
-[男子体检正常1年半后确诊癌症 起诉体检机构获赔13万](https://m.163.com/news/article/JOUSIABH05129QAF.html)
+[原州长违纪违法详情公布：组织4次函询他都予以否认](https://m.163.com/news/article/JP32TDC00530M570.html)
 
-[哈啰顺风车追尾致3死2伤：系非法营运 死者中含幼儿](https://m.163.com/news/article/JP0P1MRD05129QAF.html)
+[省委书记点赞参加民营企业座谈会的CEO:你是我们的骄傲](https://m.163.com/news/article/JP2MA6C4051482MP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海现多起豪宅诈骗案:"买家"付一半首付后就要求过户](https://m.163.com/news/article/JP172I5I0514R9OJ.html)
+[网红罗大美遭勒索杀害案将开庭 家属：凶手为2男1女](https://m.163.com/news/article/JP2MIB1K0514R9OJ.html)
 
 ---end---
