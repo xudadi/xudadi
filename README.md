@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-24 02:21:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-24 02:40:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [西南政法大学科研处校内招聘启事](https://www.gongkaoleida.com/article/2297346)
 
@@ -21,10 +21,10 @@
 
 [原州长违纪违法详情公布：组织4次函询他都予以否认](https://m.163.com/news/article/JP32TDC00530M570.html)
 
-[省委书记点赞参加民营企业座谈会的CEO:你是我们的骄傲](https://m.163.com/news/article/JP2MA6C4051482MP.html)
+[网红罗大美遭勒索杀害案将开庭 家属：凶手为2男1女](https://m.163.com/news/article/JP2MIB1K0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网红罗大美遭勒索杀害案将开庭 家属：凶手为2男1女](https://m.163.com/news/article/JP2MIB1K0514R9OJ.html)
+[42岁张志磊被打到单膝跪地 赛后第一时间戴上氧气罩](https://m.163.com/news/article/JP2NSUOR0514R9P4.html)
 
 ---end---
