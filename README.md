@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-24 20:36:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-24 21:11:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区经济和信息化委员会2025年公开招聘编外派遣人员简章](https://www.gongkaoleida.com/article/2298024)
+[重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2299038)
 
-[男子被关精神病院17年 家人拒接回:接回他像身边养狼](https://m.163.com/news/article/JP5N1HJ8055040N3.html)
+[湖北师大回应录用初中学历人员：系劳务派遣](https://m.163.com/news/article/JP69OF9V0001899O.html)
 
-[陕西十名强拆者获刑 被指毁坏他人财物致1960元损失](https://m.163.com/news/article/JP55JEV40514R9P4.html)
+[男子2.8万买的联想电脑保修期内坏了 售后让去美国修](https://m.163.com/news/article/JP666S600530WJTO.html)
 
-[厦门有人用铁箭射中多只猫 箭镞"直指要害"一猫已死亡](https://m.163.com/news/article/JP5M5S2N05561G0D.html)
+[2025年研考国家线发布](https://m.163.com/news/article/JP645C550001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[深圳一企业员工称如厕须带"离岗证"且限次数 公司回应](https://m.163.com/news/article/JP41STC30514R9P4.html)
+[歼-35A战斗机设计师揭秘"隐身术"原理 首次透露小秘密](https://m.163.com/news/article/JP62OVUK055040N3.html)
 
 ---end---
