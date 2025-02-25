@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-25 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-25 09:21:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2299038)
 
-[湖北师大回应录用初中学历人员：系劳务派遣](https://m.163.com/news/article/JP69OF9V0001899O.html)
+[71岁董明珠再被提名为董事候选人 或"再战"下一个三年](https://m.163.com/news/article/JP75LIIG0512B07B.html)
 
-[男子2.8万买的联想电脑保修期内坏了 售后让去美国修](https://m.163.com/news/article/JP666S600530WJTO.html)
+[人民日报披露泰缅边境现状：抵达的中国籍乘客减少80%](https://m.163.com/news/article/JP7JFEFA0514R9M0.html)
 
-[2025年研考国家线发布](https://m.163.com/news/article/JP645C550001899O.html)
+[大学生在广州南站打车18公里被收费581元 官方通报](https://m.163.com/news/article/JP6TAHFF0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[歼-35A战斗机设计师揭秘"隐身术"原理 首次透露小秘密](https://m.163.com/news/article/JP62OVUK055040N3.html)
+[京东集团:外卖骑手五险一金的所有成本全部由京东承担](https://m.163.com/news/article/JP6AV1KB0534A4SC.html)
 
 ---end---
