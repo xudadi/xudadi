@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-25 20:35:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-25 21:11:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南政法大学人事处校内招聘通知](https://www.gongkaoleida.com/article/2299881)
+[重庆大学关心下一代工作委员会劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2300423)
 
-[全国首家外商独资三级综合医院即将开业](https://m.163.com/news/article/JP6QTH8K0514BE2Q.html)
+[高晓力升副部 成为目前最高法唯一一名"70后"院领导](https://m.163.com/news/article/JP8VBJSQ0512B07B.html)
 
-[复旦大学一博士后抄袭硕士论文 校方：对其作退站处理](https://m.163.com/news/article/JP8BP7K70512D3VJ.html)
+[南师大一副院长被指出轨女博士生后遭免职](https://m.163.com/news/article/JP8SRJV70001899N.html)
 
-[网友看《哪吒》后网购土拨鼠引全网担忧 相关部门发声](https://m.163.com/news/article/JP8D1CJB053469KO.html)
+[女网红被传套牌蹭跑仁寿半马 当地教体局回应](https://m.163.com/news/article/JP8R3218053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[给患者下跪道歉护士被指已辞职 医院辟谣：正常工作](https://m.163.com/news/article/JP8AIJI2053469M5.html)
+[两位中央委员、省委原书记履新](https://m.163.com/news/article/JP8QTMBL0001899O.html)
 
 ---end---
