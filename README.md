@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-25 14:25:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-25 14:44:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学公共管理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2299038)
+[西南政法大学人事处校内招聘通知](https://www.gongkaoleida.com/article/2299881)
 
-[71岁董明珠再被提名为董事候选人 或"再战"下一个三年](https://m.163.com/news/article/JP75LIIG0512B07B.html)
+[全国首家外商独资三级综合医院即将开业](https://m.163.com/news/article/JP6QTH8K0514BE2Q.html)
 
-[人民日报披露泰缅边境现状：抵达的中国籍乘客减少80%](https://m.163.com/news/article/JP7JFEFA0514R9M0.html)
+[复旦大学一博士后抄袭硕士论文 校方：对其作退站处理](https://m.163.com/news/article/JP8BP7K70512D3VJ.html)
 
-[大学生在广州南站打车18公里被收费581元 官方通报](https://m.163.com/news/article/JP6TAHFF0514R9P4.html)
+[网友看《哪吒》后网购土拨鼠引全网担忧 相关部门发声](https://m.163.com/news/article/JP8D1CJB053469KO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[京东集团:外卖骑手五险一金的所有成本全部由京东承担](https://m.163.com/news/article/JP6AV1KB0534A4SC.html)
+[给患者下跪道歉护士被指已辞职 医院辟谣：正常工作](https://m.163.com/news/article/JP8AIJI2053469M5.html)
 
 ---end---
