@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-26 14:25:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-26 14:45:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学关心下一代工作委员会劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2300423)
+[重庆大学党委宣传部劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2301374)
 
-[44岁"退钱哥"中冠首秀未进球 本人发文:4分钟走了40年](https://m.163.com/news/article/JP9E1VD205561G0D.html)
+[新车发布撞期理想"让路"小米 网友：都不是一个赛道的](https://m.163.com/news/article/JPATATDR0519DFFO.html)
 
-[因未购买返程机票 旅客出国游值机时被东航拒发登机牌](https://m.163.com/news/article/JP8KNNVR05561G0D.html)
+[6名小学生放花炮往门缝里塞 烧毁捕鱼网具损失约400万](https://m.163.com/news/article/JPARUENP05561G0D.html)
 
-[私家车张贴"公务用车"加塞伤人 所用车贴5元1张随意买](https://m.163.com/news/article/JPAA9BOE0514R9P4.html)
+[姚振华再遭执行36.7亿 宝能系"骨折价"处置资产](https://m.163.com/news/article/JPAQTI77051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[汝州41人考上事业编被集体清退 市疾控中心主任已调整](https://m.163.com/news/article/JP95EAFI0514R9P4.html)
+[女网红套牌跑仁寿半马 组委会通报处罚决定](https://m.163.com/news/article/JPARFN4J051492T3.html)
 
 ---end---
