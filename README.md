@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-27 14:25:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-27 14:45:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学附属涪陵医院移动护理终端(医疗专用)需求公告](https://www.gongkaoleida.com/article/2302053)
+[重庆市垫江县农民合作社服务中心有限公司招聘工作人员简章](https://www.gongkaoleida.com/article/2302801)
 
-[始祖鸟纸质吊牌成二手市场"抢手货" 1张最高卖到300元](https://m.163.com/news/article/JPC20MDI0512B07B.html)
+[40名中国籍偷渡人员从泰国被遣返回国](https://m.163.com/news/article/JPDK99IG000189PS.html)
 
-[夫妇领养3年的弃婴成"黑户"：想上户口得先送回福利院](https://m.163.com/news/article/JPBBJ34V05149N8T.html)
+[BBC称美队电影扑街是因"哪吒"太火 媒体:习惯甩锅中国](https://m.163.com/news/article/JPDK25J90001899O.html)
 
-[叶挺将军之子叶正光先生逝世 享年86岁](https://m.163.com/news/article/JPCS2UMB055040N3.html)
+[2年多时间8000万张银行卡消失 多家信用卡中心"退潮"](https://m.163.com/news/article/JPDFADVA0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[2025年全国两会新闻中心启用](https://m.163.com/news/article/JPCT0JF50001899O.html)
+[称"月薪5000元就不要吃巴奴"引争议 巴奴杜中兵回应](https://m.163.com/news/article/JPDB04JL05129QAF.html)
 
 ---end---
