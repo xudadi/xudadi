@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-27 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-27 20:35:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市垫江县农民合作社服务中心有限公司招聘工作人员简章](https://www.gongkaoleida.com/article/2302801)
+[派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2303355)
 
-[40名中国籍偷渡人员从泰国被遣返回国](https://m.163.com/news/article/JPDK99IG000189PS.html)
+[全国人大代表赵皖平：建议春节假期取消调休](https://m.163.com/news/article/JPE2MNGS0001899O.html)
 
-[BBC称美队电影扑街是因"哪吒"太火 媒体:习惯甩锅中国](https://m.163.com/news/article/JPDK25J90001899O.html)
+[方燕代表：建议将防性侵列入中小学必修课](https://m.163.com/news/article/JPE1GJQ70001899O.html)
 
-[2年多时间8000万张银行卡消失 多家信用卡中心"退潮"](https://m.163.com/news/article/JPDFADVA0534A4SC.html)
+[富二代带人炒股称"我是庄"有人1只票亏600万 本人回应](https://m.163.com/news/article/JPDJE03N0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[称"月薪5000元就不要吃巴奴"引争议 巴奴杜中兵回应](https://m.163.com/news/article/JPDB04JL05129QAF.html)
+[《哪吒2》配音演员转正4个月被开起诉公司:无五险一金](https://m.163.com/news/article/JPDRI3SC05561G0D.html)
 
 ---end---
