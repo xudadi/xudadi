@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-01 02:24:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-01 02:44:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆蓝盾电子技术有限责任公司招聘公告](https://www.gongkaoleida.com/article/2305445)
+[重庆市2025年度公开考试录用公务员报名统计_20250228](https://www.gongkaoleida.com/article/2305471)
 
 [男子开迈巴赫到金店买手镯 一周后老板发现两个假手镯](https://m.163.com/news/article/JPG5O445051492T3.html)
 
