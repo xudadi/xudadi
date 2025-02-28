@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-28 20:35:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-28 21:04:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往中国民用航空西南地区空中交通管理局重庆分局招聘启事](https://www.gongkaoleida.com/article/2304291)
+[重庆蓝盾电子技术有限责任公司招聘公告](https://www.gongkaoleida.com/article/2305445)
 
-[中国火星车新发现：火星中低纬度地区曾存在古代海洋](https://m.163.com/news/article/JPFQIMUF000189PS.html)
+[男子开迈巴赫到金店买手镯 一周后老板发现两个假手镯](https://m.163.com/news/article/JPG5O445051492T3.html)
 
-[男子借劳力士手表给"大明星拍戏" 见对方迟迟不还急了](https://m.163.com/news/article/JPFJTPVD0514R9OJ.html)
+[特朗普对华加税可能累计达到20% 背后原因披露](https://m.163.com/news/article/JPG65D6500019B3E.html)
 
-[苹果iPhone 16e正式开售 国补价3999元起](https://m.163.com/news/article/JPFQ6CPK0001899N.html)
+[网红"罗大美"遇害案开庭 家属称主犯当庭翻供](https://m.163.com/news/article/JPG4EPL2051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体：吴谦大校称"早晚把你们给收了" 针对的是台当局](https://m.163.com/news/article/JPFLPLHM0550A0OW.html)
+[中方回应美威胁对华关税再加10%：望美方不要一错再错](https://m.163.com/news/article/JPG32HDJ0001899O.html)
 
 ---end---
