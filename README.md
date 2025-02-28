@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-02-28 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-02-28 09:21:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2303355)
+[量质双升结构优化重庆2024年引才规模创新高](https://www.gongkaoleida.com/article/2303845)
 
 [公共女厕疑安装摄像头 当地回应：用来检测入厕情况](https://m.163.com/news/article/JPDV8GNC0514D3UH.html)
 
