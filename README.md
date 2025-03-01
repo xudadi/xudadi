@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-01 20:32:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-01 21:01:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市2025年度公开考试录用公务员报名统计_20250228](https://www.gongkaoleida.com/article/2305471)
 
-[东方集团涉嫌重大财务造假 或被强制退市](https://m.163.com/news/article/JPI2903K0514R9P4.html)
+[歌手方大同去世前一周还在发歌 曾在上海长宁区念小学](https://m.163.com/news/article/JPJ1SO4U0550A0OW.html)
 
-[2024年度个税综合所得汇算清缴开始 有人退了5万多](https://m.163.com/news/article/JPI8V03L0512DU6N.html)
+[婚礼大屏幕上出现他人不雅照 新人起诉婚庆公司索赔](https://m.163.com/news/article/JPI7237505561G0D.html)
 
-[王新伟任辽宁省代省长](https://m.163.com/news/article/JPIDJS360001899O.html)
+[41岁歌手方大同去世 曾因气胸数度住院](https://m.163.com/news/article/JPIOA7K1051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小米SU7 Ultra太火爆：试驾排到晚上 租1天最高上万元](https://m.163.com/news/article/JPHC80UK0512B07B.html)
+[知名歌手方大同于2月21日去世 对抗顽疾5年](https://m.163.com/news/article/JPINJJVJ0001899O.html)
 
 ---end---
