@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-02 20:31:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-02 21:00:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市2025年度公开考试录用公务员报名统计_20250228](https://www.gongkaoleida.com/article/2305471)
 
-[相机机主在闲鱼上出租万元相机"有去无回" 平台回应](https://m.163.com/news/article/JPJ4HCB3051492T3.html)
+[美国财长催加拿大效仿墨西哥"提议对华征税" 中方表态](https://m.163.com/news/article/JPIMMA0U0514R9OJ.html)
 
-[歌手方大同去世前一周还在发歌 曾在上海长宁区念小学](https://m.163.com/news/article/JPJ1SO4U0550A0OW.html)
+[全国政协委员蒋胜男：呼吁删除离婚冷静期条款](https://m.163.com/news/article/JPLUA1H905561G0D.html)
 
-[婚礼大屏幕上出现他人不雅照 新人起诉婚庆公司索赔](https://m.163.com/news/article/JPI7237505561G0D.html)
+[四川省委召开会议 非法持枪、主动"躺平"的老虎被点名](https://m.163.com/news/article/JPLTPFUA051482MP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[41岁歌手方大同去世 曾因气胸数度住院](https://m.163.com/news/article/JPIOA7K1051492LM.html)
+[济南已达大暴雪量级 汽车1小时走50米变成"绝望冰壶"](https://m.163.com/news/article/JPLP955D055040N3.html)
 
 ---end---
