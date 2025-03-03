@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-03 14:26:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-03 14:47:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往市公安局辅警岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2305786)
+[重庆大学实验室及设备管理处劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2306345)
 
-[黑龙江双鸭山多位居民称午夜目击不明飞行物 当地回应](https://m.163.com/news/article/JPM17ECL055040N3.html)
+[青海政法委原书记杨发森严重违纪违法被"双开"](https://m.163.com/news/article/JPNJKKB1000189PS.html)
 
-[丁学东、王广华等人增补为第十四届全国政协委员](https://m.163.com/news/article/JPM2KJRR051482MP.html)
+[没等大陆动手 马斯克先收了“台独”分子的饭碗](https://m.163.com/news/article/JPNHELAM00019K82.html)
 
-[福建一所高校被指用卷帘门做大门 校方回应：那是侧门](https://m.163.com/news/article/JPLQ2NAR05561G0D.html)
+[郑州暴雨里救人的"菜刀哥"李坤朋去世](https://m.163.com/news/article/JPNHM73T0001899N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[全国人大代表方燕：建议从重处罚教师性侵未成年人](https://m.163.com/news/article/JPLVNRLR0001899O.html)
+[“卫国戍边英雄团长”祁发宝再获表彰](https://m.163.com/news/article/JPNER9UM0530M570.html)
 
 ---end---
