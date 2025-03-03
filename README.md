@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-04 02:24:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-04 02:44:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学附属大学城医院部分行政职能科室工作人员招聘启事](https://www.gongkaoleida.com/article/2307486)
 
+[候补中央委员张政履新职 曾主持《新闻联播》等栏目](https://m.163.com/news/article/JPONHU140001899O.html)
+
+[两会将开幕 3位省级政府一把手被补选为全国人大代表](https://m.163.com/news/article/JPOJDCB4051482MP.html)
+
 [女子网购减肥糖果后称检出违禁品十倍索赔 被法院驳回](https://m.163.com/news/article/JPOEH7S4051492T3.html)
-
-[张氏兄弟未现身"雪王"上市现场 2人身价已超840亿港元](https://m.163.com/news/article/JPO1UKT40512B07B.html)
-
-[张伯礼代表：建议故意伤害致人重伤刑责年龄降至12岁](https://m.163.com/news/article/JPNUPMM505199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[刘结一：中国将实施更大范围、更深层次的对外开放](https://m.163.com/news/article/JPO589630001899N.html)
+[张氏兄弟未现身"雪王"上市现场 2人身价已超840亿港元](https://m.163.com/news/article/JPO1UKT40512B07B.html)
 
 ---end---
