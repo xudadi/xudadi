@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-03 20:36:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-03 21:12:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学实验室及设备管理处劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2306345)
+[重庆医科大学附属大学城医院部分行政职能科室工作人员招聘启事](https://www.gongkaoleida.com/article/2307486)
 
-[青海政法委原书记杨发森严重违纪违法被"双开"](https://m.163.com/news/article/JPNJKKB1000189PS.html)
+[女子网购减肥糖果后称检出违禁品十倍索赔 被法院驳回](https://m.163.com/news/article/JPOEH7S4051492T3.html)
 
-[没等大陆动手 马斯克先收了“台独”分子的饭碗](https://m.163.com/news/article/JPNHELAM00019K82.html)
+[张氏兄弟未现身"雪王"上市现场 2人身价已超840亿港元](https://m.163.com/news/article/JPO1UKT40512B07B.html)
 
-[郑州暴雨里救人的"菜刀哥"李坤朋去世](https://m.163.com/news/article/JPNHM73T0001899N.html)
+[张伯礼代表：建议故意伤害致人重伤刑责年龄降至12岁](https://m.163.com/news/article/JPNUPMM505199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[“卫国戍边英雄团长”祁发宝再获表彰](https://m.163.com/news/article/JPNER9UM0530M570.html)
+[刘结一：中国将实施更大范围、更深层次的对外开放](https://m.163.com/news/article/JPO589630001899N.html)
 
 ---end---
