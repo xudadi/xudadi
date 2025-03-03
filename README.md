@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-03 07:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-03 09:24:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市2025年度公开考试录用公务员报名统计_20250228](https://www.gongkaoleida.com/article/2305471)
+[重庆飞驶特人力资源管理有限公司派往市公安局辅警岗位工作人员招聘公告](https://www.gongkaoleida.com/article/2305786)
 
 [黑龙江双鸭山多位居民称午夜目击不明飞行物 当地回应](https://m.163.com/news/article/JPM17ECL055040N3.html)
 
