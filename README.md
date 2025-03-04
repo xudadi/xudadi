@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-04 14:25:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-04 14:45:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属大学城医院部分行政职能科室工作人员招聘启事](https://www.gongkaoleida.com/article/2307486)
+[重庆理工大学计算机科学与工程学院关于2024-2025学年第2学期“三助一辅”-“助管”岗位招聘通知](https://www.gongkaoleida.com/article/2308345)
 
-[候补中央委员张政履新职 曾主持《新闻联播》等栏目](https://m.163.com/news/article/JPONHU140001899O.html)
+[马斯克触动"台独"分子利益 台媒：特朗普对台已不耐烦](https://m.163.com/news/article/JPPOR1LF0514R9OJ.html)
 
-[两会将开幕 3位省级政府一把手被补选为全国人大代表](https://m.163.com/news/article/JPOJDCB4051482MP.html)
+[十四届全国人大三次会议开幕会5日举行](https://m.163.com/news/article/JPQ7HGJP000189PS.html)
 
-[女子网购减肥糖果后称检出违禁品十倍索赔 被法院驳回](https://m.163.com/news/article/JPOEH7S4051492T3.html)
+[美国再次对华加征10%关税 商务部：中方对此强烈不满](https://m.163.com/news/article/JPPUGI6Q0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[张氏兄弟未现身"雪王"上市现场 2人身价已超840亿港元](https://m.163.com/news/article/JPO1UKT40512B07B.html)
+[捏造"80后死亡率突破5.2%"谣言 网警依法查处多人](https://m.163.com/news/article/JPPTI6ML000189PS.html)
 
 ---end---
