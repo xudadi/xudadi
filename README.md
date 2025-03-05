@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-05 14:25:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-05 14:46:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市江津区事业单位2025年第一季度公开招聘工作人员报名情况及实际招聘名额统计表](https://www.gongkaoleida.com/article/2309347)
+[重庆市永川区农民合作社服务中心有限公司招聘简章](https://www.gongkaoleida.com/article/2309878)
 
-[雷军回应"29元不锈钢纸杯卖爆"：没想到销量是预期3倍](https://m.163.com/news/article/JPR9EV0M0534P59R.html)
+[政府工作报告：城乡居民基础养老金最低标准提高20元](https://m.163.com/news/article/JPSKHUL405198CJN.html)
 
-[商务部、海关总署等纷纷出手 对美反制措施密集出台](https://m.163.com/news/article/JPR9OP7A0001899O.html)
+[2025年政府工作十大任务](https://m.163.com/news/article/JPSKM0NL0001899O.html)
 
-[投资者感叹买理财和炒股一样：已经亏到本金了](https://m.163.com/news/article/JPR6U48B0534P59R.html)
+[官方：今年居民医保人均财政补助标准再提高30元](https://m.163.com/news/article/JPSJS8RH0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高校食堂13家商户被拖欠超百万应返款 承包商否认跑路](https://m.163.com/news/article/JPQVNGHP05561G0D.html)
+[政府工作报告：科学有序推进农业转移人口市民化](https://m.163.com/news/article/JPSK5ATJ0001899O.html)
 
 ---end---
