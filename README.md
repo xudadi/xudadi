@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-05 20:36:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-05 21:12:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市永川区农民合作社服务中心有限公司招聘简章](https://www.gongkaoleida.com/article/2309878)
+[【校招】重庆市工程管理有限公司招聘公告](https://www.gongkaoleida.com/article/2310484)
 
 [政府工作报告：城乡居民基础养老金最低标准提高20元](https://m.163.com/news/article/JPSKHUL405198CJN.html)
 
