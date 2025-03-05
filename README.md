@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-05 07:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-05 09:22:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区某机关事业单位招聘简章](https://www.gongkaoleida.com/article/2309225)
+[重庆市江津区事业单位2025年第一季度公开招聘工作人员报名情况及实际招聘名额统计表](https://www.gongkaoleida.com/article/2309347)
 
 [雷军回应"29元不锈钢纸杯卖爆"：没想到销量是预期3倍](https://m.163.com/news/article/JPR9EV0M0534P59R.html)
 
