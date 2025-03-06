@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-06 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-06 09:23:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[【校招】重庆市工程管理有限公司招聘公告](https://www.gongkaoleida.com/article/2310484)
+[重庆标准件工业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2310259)
 
-[聋哑女孩18岁生日前被拐 记人贩子姓名24年](https://m.163.com/news/article/JPSV4N64051492T3.html)
+[庹庆明代表：建议提高教师“教龄津贴”标准](https://m.163.com/news/article/JPTPVORH0514R9P4.html)
 
-[网友想在辽宁省科技馆IMAX厅看哪吒2 沈阳副市长回应](https://m.163.com/news/article/JPTM1JNG053469M5.html)
+[退休教师230万买到"五手别墅"：有房产证没竣工验收表](https://m.163.com/news/article/JPTO0QB005561G0D.html)
 
-[雷军称在"代表通道"上紧张 记者喊话:接受采访就买SU7](https://m.163.com/news/article/JPTAVEP00534P59R.html)
+[老人卖芒果获利25元却面临5万元"天价罚单" 官方出手](https://m.163.com/news/article/JPTEF6KI0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[余承东官宣两款车上市时间：我出牌了 这把还挺大](https://m.163.com/news/article/JPT2POI00512B07B.html)
+[鱼塘突现大坑200斤鲤鱼和水几分钟内都没了 当地回应](https://m.163.com/news/article/JPTVQ842051492T3.html)
 
 ---end---
