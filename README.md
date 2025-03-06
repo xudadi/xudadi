@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-06 14:25:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-06 14:46:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆标准件工业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2310259)
+[渝北区园林绿化管理中心招聘工作人员简章](https://www.gongkaoleida.com/article/2311524)
 
-[庹庆明代表：建议提高教师“教龄津贴”标准](https://m.163.com/news/article/JPTPVORH0514R9P4.html)
+[两省份团委书记出任新职 均为75后](https://m.163.com/news/article/JPVKV0AK055040N3.html)
 
-[退休教师230万买到"五手别墅"：有房产证没竣工验收表](https://m.163.com/news/article/JPTO0QB005561G0D.html)
+[蜜雪集团市值突破1300亿港元 已超越星巴克等国际巨头](https://m.163.com/news/article/JPVKAVQ00534A4SC.html)
 
-[老人卖芒果获利25元却面临5万元"天价罚单" 官方出手](https://m.163.com/news/article/JPTEF6KI0514D3UH.html)
+[又一款中国AI产品刷屏：全网都在要邀请码 能直接干活](https://m.163.com/news/article/JPVFD3AP0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[鱼塘突现大坑200斤鲤鱼和水几分钟内都没了 当地回应](https://m.163.com/news/article/JPTVQ842051492T3.html)
+[全国政协委员郁瑞芬：建议取消强制统一招牌政策](https://m.163.com/news/article/JPV4BHTA0512DU6N.html)
 
 ---end---
