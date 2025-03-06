@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-06 20:36:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-06 21:12:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区园林绿化管理中心招聘工作人员简章](https://www.gongkaoleida.com/article/2311524)
+[浙江恒大网络工程有限公司重庆分公司招聘信息表](https://www.gongkaoleida.com/article/2312094)
 
 [两省份团委书记出任新职 均为75后](https://m.163.com/news/article/JPVKV0AK055040N3.html)
 
-[蜜雪集团市值突破1300亿港元 已超越星巴克等国际巨头](https://m.163.com/news/article/JPVKAVQ00534A4SC.html)
-
 [又一款中国AI产品刷屏：全网都在要邀请码 能直接干活](https://m.163.com/news/article/JPVFD3AP0001899O.html)
+
+[全国政协委员郁瑞芬：建议取消强制统一招牌政策](https://m.163.com/news/article/JPV4BHTA0512DU6N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[全国政协委员郁瑞芬：建议取消强制统一招牌政策](https://m.163.com/news/article/JPV4BHTA0512DU6N.html)
+[张学武代表：建议推行十年制基础义务教育](https://m.163.com/news/article/JPULFTPH05199NHJ.html)
 
 ---end---
