@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-06 23:19:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-06 23:40:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [浙江恒大网络工程有限公司重庆分公司招聘信息表](https://www.gongkaoleida.com/article/2312094)
 
