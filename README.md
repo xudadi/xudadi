@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-07 20:35:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-07 21:06:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学专职思政课教师2025年春季招聘公告](https://www.gongkaoleida.com/article/2312919)
+[重庆两江假日酒店管理有限公司招聘公告](https://www.gongkaoleida.com/article/2313858)
 
-[媒体：23个问题8个跟美国有关 王毅的话美方要好好听](https://m.163.com/news/article/JQ24OO4G051482MP.html)
+[王毅提的非洲农民称袁隆平是老师 曾托人带大米到湖南](https://m.163.com/news/article/JQ2327NH05561G0D.html)
 
-[法拉第未来官宣股票交易代码将变更为"FFAI"](https://m.163.com/news/article/JQ2437HD0519DFFO.html)
+[男子230万买的别墅有房产证没竣工验收表 住建局回应](https://m.163.com/news/article/JQ1UA8ST05561G0D.html)
 
-[花10年时间六战法考 北大保安刘政已入职律所：圆梦了](https://m.163.com/news/article/JQ1QAEB20514R9P4.html)
+[国家卫健委主任雷海潮：今年将发放育儿补贴](https://m.163.com/news/article/JQ258EMP05198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[70后女副部添新职 曾长期在重庆工作](https://m.163.com/news/article/JQ1VPVSJ055040N3.html)
+[媒体：23个问题8个跟美国有关 王毅的话美方要好好听](https://m.163.com/news/article/JQ24OO4G051482MP.html)
 
 ---end---
