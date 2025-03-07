@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-08 02:24:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-08 02:44:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江假日酒店管理有限公司招聘公告](https://www.gongkaoleida.com/article/2313858)
 
-[王毅提的非洲农民称袁隆平是老师 曾托人带大米到湖南](https://m.163.com/news/article/JQ2327NH05561G0D.html)
+[拆快递时遭遇飞来横祸 男子眼球被几十根细刺扎入](https://m.163.com/news/article/JQ29KSIJ0514R9OJ.html)
 
-[男子230万买的别墅有房产证没竣工验收表 住建局回应](https://m.163.com/news/article/JQ1UA8ST05561G0D.html)
+[海尔集团CEO与雷军同台表情包爆火 本人:我也被逗笑了](https://m.163.com/news/article/JQ2RV0E205129QAF.html)
 
-[国家卫健委主任雷海潮：今年将发放育儿补贴](https://m.163.com/news/article/JQ258EMP05198CJN.html)
+[站在雷军背后表情可爱的老总意外走红 身份大有来头](https://m.163.com/news/article/JQ2HJO9G0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体：23个问题8个跟美国有关 王毅的话美方要好好听](https://m.163.com/news/article/JQ24OO4G051482MP.html)
+[驴友掉下500米深峡谷生还：落入水中 自己打电话报警](https://m.163.com/news/article/JQ2H6PQ2051492T3.html)
 
 ---end---
