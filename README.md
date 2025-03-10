@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-10 14:21:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-10 14:39:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆渝贸通供应链管理有限责任公司招聘公告](https://www.gongkaoleida.com/article/2314030)
+[重庆工商大学法学与社会学学院关于选聘重庆廉政与审计治理研究中心副主任的通知](https://www.gongkaoleida.com/article/2314976)
 
-[4位厅干任新职 其中1位进京履新](https://m.163.com/news/article/JQ79RFNF0001899O.html)
+[政协关于常务委员会工作报告的决议通过](https://m.163.com/news/article/JQ9DUP4M000189PS.html)
 
-[今年中国国防预算1.81万亿元](https://m.163.com/news/article/JQ75TN9Q000189PS.html)
+[大疆"强制9点下班"上热搜 员工:人生第一次被赶出公司](https://m.163.com/news/article/JQ86D74J0519DDQ2.html)
 
-[解放军正告台当局:找"洋主子"买武器 不过是螳臂当车](https://m.163.com/news/article/JQ76B8M3000189PS.html)
+[吴彦祖卷新赛道教英语只要398 合作方股价大涨赢麻了](https://m.163.com/news/article/JQ7DKS56053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[6名被骗至缅甸的香港人获救 邓炳强称不牵涉交赎金](https://m.163.com/news/article/JQ73M2RE05129QAF.html)
+[4位厅干任新职 其中1位进京履新](https://m.163.com/news/article/JQ79RFNF0001899O.html)
 
 ---end---
