@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-11 13:50:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-11 14:46:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学核能技术创新研究院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2315893)
+[重庆大学马克思主义学院劳务派遣培训工作人员招聘启事](https://www.gongkaoleida.com/article/2316680)
 
-[女子投资19万加盟AI智习室半年零收入 官方已介入核查](https://m.163.com/news/article/JQAMOHJF05561G0D.html)
+[媒体：王毅重申"中国台湾省" 可见有人想将台湾拐骗走](https://m.163.com/news/article/JQC0D7UI0550A0OW.html)
 
-[三亚试行酒店退订新规 有网友称目前预订仍"不可取消"](https://m.163.com/news/article/JQAPL8A30512D3VJ.html)
+[男子4S店买路虎无法提车：交13万首付 车贷已还2个月](https://m.163.com/news/article/JQBUBDD605561G0D.html)
 
-[曾经家喻户晓的两款车型宣告停产 网友：一个时代结束](https://m.163.com/news/article/JQ9M30OQ0530JPVV.html)
+[180斤"胖哥"登顶珠峰：每天负重爬24楼 被夸天赋异禀](https://m.163.com/news/article/JQABA9OS053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[就医无人签字 里赞代表：建议加快建立公共监护人制度](https://m.163.com/news/article/JQACH30K051492T3.html)
+[三连涨停后突然跌停 翻倍大牛股回应：不要轻信谣言](https://m.163.com/news/article/JQAVLUPM0512B07B.html)
 
 ---end---
