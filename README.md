@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-11 20:36:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-11 21:13:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学马克思主义学院劳务派遣培训工作人员招聘启事](https://www.gongkaoleida.com/article/2316680)
+[重庆新华出版集团招聘公告](https://www.gongkaoleida.com/article/2317784)
 
-[媒体：王毅重申"中国台湾省" 可见有人想将台湾拐骗走](https://m.163.com/news/article/JQC0D7UI0550A0OW.html)
+[小伙陪爬泰山1年收入30多万引热议 当事人:已考虑退出](https://m.163.com/news/article/JQD3T3V1051492T3.html)
 
-[男子4S店买路虎无法提车：交13万首付 车贷已还2个月](https://m.163.com/news/article/JQBUBDD605561G0D.html)
+[浙江开始推行公务员"吃饭"改革：现在出差一律吃食堂](https://m.163.com/news/article/JQD14KMU055040N3.html)
 
-[180斤"胖哥"登顶珠峰：每天负重爬24楼 被夸天赋异禀](https://m.163.com/news/article/JQABA9OS053469M5.html)
+[广东多地严查"全职"顺风车：每日接单不可超3单](https://m.163.com/news/article/JQD05PUQ051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[三连涨停后突然跌停 翻倍大牛股回应：不要轻信谣言](https://m.163.com/news/article/JQAVLUPM0512B07B.html)
+[业主入住5年办不下来房产证：上百套房已被开发商抵押](https://m.163.com/news/article/JQCOCECM05561G0D.html)
 
 ---end---
