@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-12 14:26:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-12 14:47:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆新华出版集团招聘公告](https://www.gongkaoleida.com/article/2317784)
+[北碚区消防救援支队2025年上半年政府专职消防员招录公告](https://www.gongkaoleida.com/article/2318116)
 
-[宝妈花4.8万请21岁月嫂 看监控发现其喂奶时猛摇男婴](https://m.163.com/news/article/JQDFAQQT05561G0D.html)
+[广州一老干部局招编外人员要求年龄50岁以上 官方回应](https://m.163.com/news/article/JQF0L7OV053469M5.html)
 
-[外卖小哥发现男子倒在路边 确认其没事后突然崩溃大哭](https://m.163.com/news/article/JQDCTSTK0514R9OJ.html)
+[连花清瘟胶囊被"3-4元甩卖" 以岭药业去年净亏损6-8亿](https://m.163.com/news/article/JQEPV1T5051492T3.html)
 
-[吉林榆树局地遭遇10级大风袭击 有车被水泥电线杆砸中](https://m.163.com/news/article/JQCT4FTH05561G0D.html)
+[78岁大爷花近20万买保健品 亲切地称推销员"干儿子"](https://m.163.com/news/article/JQEMVNGE05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[茅台原副总房国兴将刑满出狱 狱中获7个表扬减刑5个月](https://m.163.com/news/article/JQD2K7LI05561G0D.html)
+[30岁内地男子造假入读香港中文大学获刑](https://m.163.com/news/article/JQEPBM9605129QAF.html)
 
 ---end---
