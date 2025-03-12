@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-12 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-12 20:36:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[北碚区消防救援支队2025年上半年政府专职消防员招录公告](https://www.gongkaoleida.com/article/2318116)
+[重庆工程职业技术学院2025年劳动合同制员工招聘简章](https://www.gongkaoleida.com/article/2319176)
 
-[广州一老干部局招编外人员要求年龄50岁以上 官方回应](https://m.163.com/news/article/JQF0L7OV053469M5.html)
+[正荣集团被申请破产审查 创始人曾是莆田地产首富](https://m.163.com/news/article/JQFMM5ED05199NPP.html)
 
-[连花清瘟胶囊被"3-4元甩卖" 以岭药业去年净亏损6-8亿](https://m.163.com/news/article/JQEPV1T5051492T3.html)
+[300万买的兰博基尼多处有"伤" 车主诉4S店索赔近千万](https://m.163.com/news/article/JQFJ9VQ7051492T3.html)
 
-[78岁大爷花近20万买保健品 亲切地称推销员"干儿子"](https://m.163.com/news/article/JQEMVNGE05561G0D.html)
+["核物理学家刘畅从美回国"上热搜 北大：已在2月入职](https://m.163.com/news/article/JQFFDUCG051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[30岁内地男子造假入读香港中文大学获刑](https://m.163.com/news/article/JQEPBM9605129QAF.html)
+[六旬博导因考核不合格怒发"罪己诏" 校方发布情况说明](https://m.163.com/news/article/JQFFK3MU0001899O.html)
 
 ---end---
