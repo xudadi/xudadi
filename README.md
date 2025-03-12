@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-13 02:26:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-13 02:47:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆工程职业技术学院2025年劳动合同制员工招聘简章](https://www.gongkaoleida.com/article/2319176)
 
+[游轮服务员凌晨交班时意外坠江失联 家属：刚入职20天](https://m.163.com/news/article/JQFUINO90514D3UH.html)
+
+[中国驻刚果（布）大使李岩去世 终年52岁](https://m.163.com/news/article/JQFO5LCP0514R9P4.html)
+
 [正荣集团被申请破产审查 创始人曾是莆田地产首富](https://m.163.com/news/article/JQFMM5ED05199NPP.html)
-
-[300万买的兰博基尼多处有"伤" 车主诉4S店索赔近千万](https://m.163.com/news/article/JQFJ9VQ7051492T3.html)
-
-["核物理学家刘畅从美回国"上热搜 北大：已在2月入职](https://m.163.com/news/article/JQFFDUCG051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[六旬博导因考核不合格怒发"罪己诏" 校方发布情况说明](https://m.163.com/news/article/JQFFK3MU0001899O.html)
+[300万买的兰博基尼多处有"伤" 车主诉4S店索赔近千万](https://m.163.com/news/article/JQFJ9VQ7051492T3.html)
 
 ---end---
