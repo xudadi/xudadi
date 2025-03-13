@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-14 02:25:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-14 02:46:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆八中两江金溪中学校招聘公告](https://www.gongkaoleida.com/article/2321120)
+[西南大学计算机与信息科学学院关于选聘人才工作办公室主任、学科办公室副主任(兼科研秘书)的通知](https://www.gongkaoleida.com/article/2321178)
 
 ["世界最大单跨钢梁门式刚构桥"栏杆带电 当地回应](https://m.163.com/news/article/JQHR682A053469M5.html)
 
