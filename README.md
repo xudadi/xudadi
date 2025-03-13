@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-13 14:25:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-13 14:46:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室谢鹏教授课题组招聘公告](https://www.gongkaoleida.com/article/2319557)
+[派往重庆市生态环境保护综合行政执法总队工作人员招聘启事](https://www.gongkaoleida.com/article/2319803)
 
-[游轮服务员凌晨交班时意外坠江失联 家属：刚入职20天](https://m.163.com/news/article/JQFUINO90514D3UH.html)
+[湖北小伙登华山失联8天 亲属:在悬崖底疑发现他的背包](https://m.163.com/news/article/JQH221740550B6IS.html)
 
-[中国驻刚果（布）大使李岩去世 终年52岁](https://m.163.com/news/article/JQFO5LCP0514R9P4.html)
+[国安部：驻外公职人员嫖娼遭威胁 向间谍大量泄密](https://m.163.com/news/article/JQGVG63S000189PS.html)
 
-[正荣集团被申请破产审查 创始人曾是莆田地产首富](https://m.163.com/news/article/JQFMM5ED05199NPP.html)
+[赖清德儿子被台退将批"躲在美国不当兵" 引强烈不满](https://m.163.com/news/article/JQGSPPHC0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[300万买的兰博基尼多处有"伤" 车主诉4S店索赔近千万](https://m.163.com/news/article/JQFJ9VQ7051492T3.html)
+[高仿茅台也能通过官方APP认证 卖家:喝出假的倒赔10万](https://m.163.com/news/article/JQFRR6P005561G0D.html)
 
 ---end---
