@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-13 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-13 09:24:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工程职业技术学院2025年劳动合同制员工招聘简章](https://www.gongkaoleida.com/article/2319176)
+[金凤实验室谢鹏教授课题组招聘公告](https://www.gongkaoleida.com/article/2319557)
 
 [游轮服务员凌晨交班时意外坠江失联 家属：刚入职20天](https://m.163.com/news/article/JQFUINO90514D3UH.html)
 
