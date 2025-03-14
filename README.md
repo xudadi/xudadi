@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-14 07:51:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-14 09:22:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [西南大学计算机与信息科学学院关于选聘人才工作办公室主任、学科办公室副主任(兼科研秘书)的通知](https://www.gongkaoleida.com/article/2321178)
 
-["世界最大单跨钢梁门式刚构桥"栏杆带电 当地回应](https://m.163.com/news/article/JQHR682A053469M5.html)
+[媒体:复旦文科招生比例"降至20%" 是值得注意的风向标](https://m.163.com/news/article/JQJIKHI20530WJTO.html)
 
-[盒马千层蛋糕被指冻品当"鲜品"卖：实为10天前生产](https://m.163.com/news/article/JQHU1N0505561G0D.html)
+[33岁退役军人和同事为救轻生男子均溺亡:车钥匙都没拔](https://m.163.com/news/article/JQIC5RVO0550B6IS.html)
 
-[新能源车主被充电枪“打脸”缝8针 小鹏汽车：属实](https://m.163.com/news/article/JQHSRD1D05561G0D.html)
+[75岁老人开法拉利倒车撞人称操作失误 检察官发现蹊跷](https://m.163.com/news/article/JQI07KQJ0514EGPO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[涉新冠病毒溯源问题 外交部回应](https://m.163.com/news/article/JQHRG1SR0001899O.html)
+["优质租客"主动发工作证照 63岁阿姨学投资被骗300万](https://m.163.com/news/article/JQI2V3QR00019SNS.html)
 
 ---end---
