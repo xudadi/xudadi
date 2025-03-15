@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-16 02:22:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-16 02:42:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆卡福汽车制动转向系统有限公司招聘公告](https://www.gongkaoleida.com/article/2322581)
 
-[江苏两名59岁厅官任上落马 一人曾因防疫不力受处分](https://m.163.com/news/article/JQMB8E8E0530JPVV.html)
+[公立医院用未获批"免疫细胞"治癌 一针超十万](https://m.163.com/news/article/JQNO0TRD00019B3E.html)
 
-[男子半年举报商品问题十余次 被南京知名商超封卡拒入](https://m.163.com/news/article/JQMBPJL000019K82.html)
+[315晚会揭手机抽奖疯狂敛财 公司号称一天流水20亿](https://m.163.com/news/article/JQNLCP5B0001899O.html)
 
-[飞龙-60A新型战斗部实测画面首次公开](https://m.163.com/news/article/JQKT1NB50514R9OJ.html)
+[315揭露骚扰电话产业链 AI外呼机器人成骚扰电话帮凶](https://m.163.com/news/article/JQNKHMVB0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[辛巴带货"给孩子吃的牛排"被指是合成肉 销售额上千万](https://m.163.com/news/article/JQMKLR600519DFFO.html)
+[315晚会揭露信息黑洞疯狂窃取个人隐私](https://m.163.com/news/article/JQNJM2PL0001899O.html)
 
 ---end---
