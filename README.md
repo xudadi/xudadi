@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-15 14:23:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-15 14:43:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆卡福汽车制动转向系统有限公司招聘公告](https://www.gongkaoleida.com/article/2322581)
 
-[媒体：沃尔玛被中方约谈后 美国网民的反应亮了](https://m.163.com/news/article/JQM2V50M0001899O.html)
+[江苏两名59岁厅官任上落马 一人曾因防疫不力受处分](https://m.163.com/news/article/JQMB8E8E0530JPVV.html)
 
-[业主因不满物业用650元硬币缴费：对方3小时数了145元](https://m.163.com/news/article/JQL38S4M051492T3.html)
+[男子半年举报商品问题十余次 被南京知名商超封卡拒入](https://m.163.com/news/article/JQMBPJL000019K82.html)
 
-["悬赏千万寻子"富豪已认亲:儿子是研究生 祖坟冒青烟](https://m.163.com/news/article/JQL6B76C00019B3E.html)
+[飞龙-60A新型战斗部实测画面首次公开](https://m.163.com/news/article/JQKT1NB50514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[丈夫出轨女主播打赏100多万 法院判还2万:打赏是消费](https://m.163.com/news/article/JQKNHKJN0514R9OJ.html)
+[辛巴带货"给孩子吃的牛排"被指是合成肉 销售额上千万](https://m.163.com/news/article/JQMKLR600519DFFO.html)
 
 ---end---
