@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-17 14:26:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-17 14:47:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆卡福汽车制动转向系统有限公司招聘公告](https://www.gongkaoleida.com/article/2322581)
+[重庆中烟工业有限责任公司2025年高校毕业生招聘公告](https://www.gongkaoleida.com/article/2323681)
 
-[青海省委书记、省长和雷军座谈 背后涉产业重要布局](https://m.163.com/news/article/JQQ4CO2U051482MP.html)
+[寻子富豪给儿子送奔驰被拒 曾每天有八九个人叫他爸爸](https://m.163.com/news/article/JQRF30BK0550B6IS.html)
 
-[广西贺州通报一宿舍楼墙体、地基开裂：住户已全搬离](https://m.163.com/news/article/JQQ2S1SR0514R9OJ.html)
+[中国核工业功勋奖章获得者李德平逝世 享年99岁](https://m.163.com/news/article/JQRCDCSF0514R9P4.html)
 
-[台媒：南非外交部已在官网将"台北联络代表处"改名](https://m.163.com/news/article/JQQ4A07P0514R9OJ.html)
+[无牌保时捷司机加油后逃单 已被警方传唤接受调查](https://m.163.com/news/article/JQQEBBRT0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[悬赏千万寻子24年 谢岳在团圆宴送了儿子一个飞机模型](https://m.163.com/news/article/JQQ5QHPH0514TTN3.html)
+[王海回应打假如何盈利:向相关部门举报 奖金最高100万](https://m.163.com/news/article/JQQI6N640514R9P4.html)
 
 ---end---
