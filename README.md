@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-18 20:37:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-18 21:14:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆泰山电缆有限公司招聘简章](https://www.gongkaoleida.com/article/2325577)
+[重庆飞驶特人力资源管理有限公司大足分公司派往大足石刻研究院公开招聘劳务派遣人员招聘启事](https://www.gongkaoleida.com/article/2326488)
 
-[男子花万元买考研"绝密上岸卷"一题未押中 公司回应](https://m.163.com/news/article/JQSK91FE0514R9OJ.html)
+[国民党立委:打麻将不能讲"五筒" 说了可能依军法处置](https://m.163.com/news/article/JQT27B6005504DPG.html)
 
-[恒基地产集团创办人李兆基逝世 享年97岁](https://m.163.com/news/article/JQSJQ3JM0001899O.html)
+[男子养500斤水牛当宠物网络走红：不是摆拍也没有团队](https://m.163.com/news/article/JQUS1QQ30514D3UH.html)
 
-[申请200万人才补贴终审通过被撤回 学者起诉市人社局](https://m.163.com/news/article/JQS5BQOG0514R9P4.html)
+[男子进学校盗窃被抓 偷食教师面包后留字条称"真难吃"](https://m.163.com/news/article/JQUQP56S051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[重庆"虎"郑洪获刑15年 曾被批将党和国家荣誉私相授受](https://m.163.com/news/article/JQSB7UP50534A4SC.html)
+[探访蜜雪冰城成都24小时门店：当天销毁柠檬并非新规](https://m.163.com/news/article/JQUOQLK60514D3UH.html)
 
 ---end---
