@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-18 07:50:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-18 09:23:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲隆瓴科技有限公司关于招聘软件技术员等岗位的公告](https://www.gongkaoleida.com/article/2324450)
+[重庆市某央企电气售后服务工程师招聘简章](https://www.gongkaoleida.com/article/2324860)
 
 [男子花万元买考研"绝密上岸卷"一题未押中 公司回应](https://m.163.com/news/article/JQSK91FE0514R9OJ.html)
 
