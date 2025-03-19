@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-20 02:26:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-20 02:47:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [大渡口区公安分局招聘辅警公告](https://www.gongkaoleida.com/article/2327828)
 
-[日媒询问中方对日本外交态度会否更加严厉 外交部回应](https://m.163.com/news/article/JR1A08UP051482MP.html)
+[中南财大部分学生呼吁取消三千米跑考核:标准过于严苛](https://m.163.com/news/article/JR1Q3I8Q051492T3.html)
 
-[女子疑因"拔错智齿又被塞回"坠楼身亡 当地卫健委回应](https://m.163.com/news/article/JR1GSFDV0550B6IS.html)
+[台"汉光"演习实兵演练时间大幅增加 国防部此前已表态](https://m.163.com/news/article/JR1EFV9Q0514R9OJ.html)
 
-[女子到银行取现40万还要预约下周再取现50万 柜员报警](https://m.163.com/news/article/JR1J6JDP0514R9OJ.html)
+[孙杨春锦赛男子400米自由泳摘银 19岁小将刘培鑫夺金](https://m.163.com/news/article/JR1Q3JHI0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[涉诈骗宣传品进入寄递渠道 上海韵达货运被立案调查](https://m.163.com/news/article/JR1HHSGC0001899O.html)
+[女子5500元的品牌鞋送洗后被擅自换鞋底 丰巢洗护回应](https://m.163.com/news/article/JR1Q3I86053469M5.html)
 
 ---end---
