@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-19 14:26:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-19 14:48:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司派往大足石刻研究院公开招聘劳务派遣人员招聘启事](https://www.gongkaoleida.com/article/2326488)
+[重庆市璧山区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2327312)
 
 [国民党立委:打麻将不能讲"五筒" 说了可能依军法处置](https://m.163.com/news/article/JQT27B6005504DPG.html)
 
