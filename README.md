@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-19 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-19 20:36:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市璧山区公安局警务辅助人员招聘公告](https://www.gongkaoleida.com/article/2327312)
+[大渡口区公安分局招聘辅警公告](https://www.gongkaoleida.com/article/2327828)
 
-[国民党立委:打麻将不能讲"五筒" 说了可能依军法处置](https://m.163.com/news/article/JQT27B6005504DPG.html)
+[日媒询问中方对日本外交态度会否更加严厉 外交部回应](https://m.163.com/news/article/JR1A08UP051482MP.html)
 
-[男子养500斤水牛当宠物网络走红：不是摆拍也没有团队](https://m.163.com/news/article/JQUS1QQ30514D3UH.html)
+[女子疑因"拔错智齿又被塞回"坠楼身亡 当地卫健委回应](https://m.163.com/news/article/JR1GSFDV0550B6IS.html)
 
-[男子进学校盗窃被抓 偷食教师面包后留字条称"真难吃"](https://m.163.com/news/article/JQUQP56S051492T3.html)
+[女子到银行取现40万还要预约下周再取现50万 柜员报警](https://m.163.com/news/article/JR1J6JDP0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[探访蜜雪冰城成都24小时门店：当天销毁柠檬并非新规](https://m.163.com/news/article/JQUOQLK60514D3UH.html)
+[涉诈骗宣传品进入寄递渠道 上海韵达货运被立案调查](https://m.163.com/news/article/JR1HHSGC0001899O.html)
 
 ---end---
