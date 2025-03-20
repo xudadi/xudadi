@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-20 14:26:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-20 14:46:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国铝业集团高端制造股份有限公司竞聘上岗公告](https://www.gongkaoleida.com/article/2328336)
+[重庆义渡人力资源服务有限责任公司派往大渡口区公安分局辅警招聘公告](https://www.gongkaoleida.com/article/2328916)
 
 [中南财大部分学生呼吁取消三千米跑考核:标准过于严苛](https://m.163.com/news/article/JR1Q3I8Q051492T3.html)
 
