@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-20 19:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-20 20:35:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆义渡人力资源服务有限责任公司派往大渡口区公安分局辅警招聘公告](https://www.gongkaoleida.com/article/2328916)
+[铜梁区气象局招聘主持人及智慧气象科技馆工作人员招聘启事](https://www.gongkaoleida.com/article/2329459)
 
-[中南财大部分学生呼吁取消三千米跑考核:标准过于严苛](https://m.163.com/news/article/JR1Q3I8Q051492T3.html)
+[68岁原中央委员受贿3.43亿：严重影响西藏高质量发展](https://m.163.com/news/article/JR44I416055040N3.html)
 
-[台"汉光"演习实兵演练时间大幅增加 国防部此前已表态](https://m.163.com/news/article/JR1EFV9Q0514R9OJ.html)
+[女生亲历航班行李舱起火：火都蹿起来了 舱内黑烟滚滚](https://m.163.com/news/article/JR479CFN051492LM.html)
 
-[孙杨春锦赛男子400米自由泳摘银 19岁小将刘培鑫夺金](https://m.163.com/news/article/JR1Q3JHI0530WJIN.html)
+[新人在玉龙雪山下举行婚礼遭遇雪崩：持续了两三分钟](https://m.163.com/news/article/JR3KN6AS053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子5500元的品牌鞋送洗后被擅自换鞋底 丰巢洗护回应](https://m.163.com/news/article/JR1Q3I86053469M5.html)
+[高校教师称其画作被央美校考第1名抄袭 央美:不便透露](https://m.163.com/news/article/JR40HFCJ053469M5.html)
 
 ---end---
