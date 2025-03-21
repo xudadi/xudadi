@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-21 20:36:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-21 21:12:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学生物建造技术创新中心劳务派遣工作人员招聘启事招聘生物样本库实验技术员1名](https://www.gongkaoleida.com/article/2330007)
+[重庆华牧现代农业有限公司招聘公告](https://www.gongkaoleida.com/article/2331381)
 
-[8000万元赌石"切垮"估值不超437万 玉石商人被判15年](https://m.163.com/news/article/JR4MD5DP051492T3.html)
+[美团去年全年营收近3376亿 新业务经营亏损收窄至73亿](https://m.163.com/news/article/JR6JNO9M0530KP1K.html)
 
-[被拔错牙坠亡女子家属与相关方和解 所发声微博已清空](https://m.163.com/news/article/JR4E3B0U0550B6IS.html)
+["越野唐僧"猝死背后：近六成职业主播每天直播超6小时](https://m.163.com/news/article/JR6J3U5M051492T3.html)
 
-[13款宣称零添加酱油被送检：12款检出镉 7款检出总砷](https://m.163.com/news/article/JR3RSS6E05199NPP.html)
+["马未都违法裁员事件"进展:判赔员工30万 公司称没钱](https://m.163.com/news/article/JR6KS5N4055690HN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[内蒙古同时征集12起命案线索 警方回应嫌犯是否同一人](https://m.163.com/news/article/JR4C03IG051492T3.html)
+[人脸识别技术应用安全管理办法公布](https://m.163.com/news/article/JR6JNITS0534A4SC.html)
 
 ---end---
