@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-21 07:50:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-21 09:25:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[铜梁区气象局招聘主持人及智慧气象科技馆工作人员招聘启事](https://www.gongkaoleida.com/article/2329459)
+[川外附中教育集团2025春季师资引进计划](https://www.gongkaoleida.com/article/2329887)
 
 [内蒙古同时征集12起命案线索 警方回应嫌犯是否同一人](https://m.163.com/news/article/JR4C03IG051492T3.html)
 
