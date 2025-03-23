@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-23 14:24:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-23 14:43:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司派往重庆某企业员工招聘简章](https://www.gongkaoleida.com/article/2331933)
 
-[湖南耒水断面监测出铊浓度异常 郴州多部门介入](https://m.163.com/news/article/JR9S774705561G0D.html)
+[湖南耒水流域部分河段水质出现异常 经监测沿线饮用水安全](https://m.163.com/news/article/JRBBPU870534A4SC.html)
 
-[蔚来2024年巨亏224亿 李斌表态：计划在今年Q4盈利](https://m.163.com/news/article/JR9RU4G50534P59R.html)
+[学生用AI生成"校长跳舞"视频爆火 校方：感觉很自豪](https://m.163.com/news/article/JRBAERIH053469M5.html)
 
-[三亚小伙出海钓鱼"捡到"个小孩:乘塑料小船在海面飘荡](https://m.163.com/news/article/JR9RH6V20514D3UH.html)
+[北京圆柏花粉"似扬沙"引关注 市园林绿化局回应](https://m.163.com/news/article/JRB9A49N0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[配送小哥送件时摔成十级伤残起诉平台 顺丰同城回应](https://m.163.com/news/article/JR9HMKE9051492T3.html)
+[蒋家第四代蒋友青宣布扎根杭州：尝试新的生活方式](https://m.163.com/news/article/JRAVTF8S0514BQ68.html)
 
 ---end---
