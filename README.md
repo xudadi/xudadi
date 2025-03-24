@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-24 19:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-24 20:38:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司派往重庆某企业员工招聘简章](https://www.gongkaoleida.com/article/2331933)
+[重庆工商大学法学与社会学学院2025年高层次人才招聘公告](https://www.gongkaoleida.com/article/2333665)
 
-[玉龙股份80后董事长辞职 公司曾因欠税766万元遭约谈](https://m.163.com/news/article/JRDT6GLF0512B07B.html)
+[淘宝买菜回应"被裁孕妇爬顶楼维权"：其未被辞退](https://m.163.com/news/article/JREK2Q8705561G0D.html)
 
-[沈阳悬赏5万通缉涉刑案嫌犯 警方：杀害3人说法不实](https://m.163.com/news/article/JRDTTPF40001899O.html)
+[长沙一公厕晚上10点"准点下班" 当地:改为24小时开放](https://m.163.com/news/article/JREITRS90534P59R.html)
 
-[广州一机构被指非法代孕：17岁女生为50岁男子产两子](https://m.163.com/news/article/JRDQM7DV0550B6IS.html)
+[两男子用弹弓射杀国家“三有”保护动物 警方已介入](https://m.163.com/news/article/JREHTR5I051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高朋被公诉：骗取学历、学位 接受"保姆式"服务](https://m.163.com/news/article/JRDNIV8Q055040N3.html)
+[陕西一县委书记简历从官网撤下 20天前最后一次露面](https://m.163.com/news/article/JREGT2L70514R9P4.html)
 
 ---end---
