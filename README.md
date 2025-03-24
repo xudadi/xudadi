@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-25 02:26:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-25 02:47:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆工商大学法学与社会学学院2025年高层次人才招聘公告](https://www.gongkaoleida.com/article/2333665)
 
@@ -25,6 +25,6 @@
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[陕西一县委书记简历从官网撤下 20天前最后一次露面](https://m.163.com/news/article/JREGT2L70514R9P4.html)
+[新婚夫妻网购净水器 安装人员未装排水管致房间被淹](https://m.163.com/news/article/JRED1P01051492T3.html)
 
 ---end---
