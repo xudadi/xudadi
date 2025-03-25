@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-25 14:27:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-25 14:48:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[关于选派2025年贝宁阿波美卡拉维大学孔子学院公派汉语教师的通知](https://www.gongkaoleida.com/article/2334091)
+[重庆财经职业学院2025年第二批非事业编制工作人员招聘简章](https://www.gongkaoleida.com/article/2334748)
 
-[男子以为国赔案指令重审后十年未开庭 结果律师已代办](https://m.163.com/news/article/JREFOEBA0514R9P4.html)
+[男子欠钱要坐高铁被执行干警控制 现场答应筹集570万](https://m.163.com/news/article/JRG4PJLS0514R9OJ.html)
 
-[小米集团：拟配售8亿股股份 筹资约425亿港元](https://m.163.com/news/article/JRFSQJEF0514R9P4.html)
+[11万条银行流水牵出县城医疗腐败案 涉案金额超800万](https://m.163.com/news/article/JRGCB07K0519DDQ2.html)
 
-[威海通报远洋渔船公海发生刑案:1人死亡 嫌犯已被控制](https://m.163.com/news/article/JRF2HE9H0534A4SC.html)
+[订婚强奸案二审刑事部分择期宣判](https://m.163.com/news/article/JRGG6K4K0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[寒潮、沙尘暴、大风三预警齐发 局地降温超过20℃](https://m.163.com/news/article/JRFS8SJN0534A4SC.html)
+[又一位科学家从美回国 AI专家齐国君加盟西湖大学](https://m.163.com/news/article/JRE93PSN0514R9OJ.html)
 
 ---end---
