@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-25 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-25 09:25:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工商大学法学与社会学学院2025年高层次人才招聘公告](https://www.gongkaoleida.com/article/2333665)
+[关于选派2025年贝宁阿波美卡拉维大学孔子学院公派汉语教师的通知](https://www.gongkaoleida.com/article/2334091)
 
-[淘宝买菜回应"被裁孕妇爬顶楼维权"：其未被辞退](https://m.163.com/news/article/JREK2Q8705561G0D.html)
+[男子以为国赔案指令重审后十年未开庭 结果律师已代办](https://m.163.com/news/article/JREFOEBA0514R9P4.html)
 
-[长沙一公厕晚上10点"准点下班" 当地:改为24小时开放](https://m.163.com/news/article/JREITRS90534P59R.html)
+[小米集团：拟配售8亿股股份 筹资约425亿港元](https://m.163.com/news/article/JRFSQJEF0514R9P4.html)
 
-[两男子用弹弓射杀国家“三有”保护动物 警方已介入](https://m.163.com/news/article/JREHTR5I051492T3.html)
+[威海通报远洋渔船公海发生刑案:1人死亡 嫌犯已被控制](https://m.163.com/news/article/JRF2HE9H0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[新婚夫妻网购净水器 安装人员未装排水管致房间被淹](https://m.163.com/news/article/JRED1P01051492T3.html)
+[寒潮、沙尘暴、大风三预警齐发 局地降温超过20℃](https://m.163.com/news/article/JRFS8SJN0534A4SC.html)
 
 ---end---
