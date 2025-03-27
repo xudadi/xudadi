@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-27 14:26:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-27 14:47:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事](https://www.gongkaoleida.com/article/2337539)
+[两江新区人才发展集团数字城管项目外包员工招聘简章](https://www.gongkaoleida.com/article/2337921)
 
-[75岁退休厅官主动向组织交代问题 任职地多名官员落马](https://m.163.com/news/article/JRJ22KEF05129QAF.html)
+[90后小伙靠"写字"7年还清2000万元 父母曾认为没前途](https://m.163.com/news/article/JRLGCHIH0534P59R.html)
 
-[男子200万买二手房遇"20年租约" 背后暗藏另一"买家"](https://m.163.com/news/article/JRJ4VD4H051492T3.html)
+[因拍摄解放军舰艇照片质量不佳 台军3名中校被免职](https://m.163.com/news/article/JRL04V230514R9OJ.html)
 
-[村支书伪造村民签字将百亩山林"过户" 以千万价格转让](https://m.163.com/news/article/JRITH6GL05561G0D.html)
+[保险箱烧了个大洞20多万没了 上海女子回家后懵了](https://m.163.com/news/article/JRL9P6KI0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[老人花6万给孙女买保险 发现到孩子80岁才能返完本金](https://m.163.com/news/article/JRIVU02F05561G0D.html)
+["霸道"书记落马 同事：干了30年没见过这么强势的领导](https://m.163.com/news/article/JRL78SK90534A4SC.html)
 
 ---end---
