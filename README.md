@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-28 20:36:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-28 21:13:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区同茂小学2025年春期临聘教师招聘简章](https://www.gongkaoleida.com/article/2339602)
+[重庆新华出版集团招聘公告](https://www.gongkaoleida.com/article/2340606)
 
-[长沙中考高层次人才子女单列 官方回应来了](https://m.163.com/news/article/JRM5K3JR0514BE2Q.html)
+[大棚深夜起火500多只鸭鹅蛇蜥蜴等烧死 公安介入调查](https://m.163.com/news/article/JROU4LO405561G0D.html)
 
-[女子术中被索要5000元红包 还被误切生殖器官:没生过](https://m.163.com/news/article/JRM2GTPK05561G0D.html)
+[中国科学院院士马琰铭任浙江大学校长](https://m.163.com/news/article/JROLPLQ10514R9P4.html)
 
-[大桥垮塌62人死亡失踪 43人被问责](https://m.163.com/news/article/JRM1OCSL000189PS.html)
+[消费贷"松绑"有商人要换保时捷 有北漂称"够用就刹车"](https://m.163.com/news/article/JRLISUGK0512D03F.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[李嘉诚出售海外港口 外交部回应](https://m.163.com/news/article/JRLTNVU30001899N.html)
+[云南居民谈缅甸7.9级地震:有人被砸头 有人从高楼逃生](https://m.163.com/news/article/JROIALVH05129QAF.html)
 
 ---end---
