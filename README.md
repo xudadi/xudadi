@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-29 02:26:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-29 02:49:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆新华出版集团招聘公告](https://www.gongkaoleida.com/article/2340606)
+[人事招聘】医院二期项目人员招聘启事](https://www.gongkaoleida.com/article/2340669)
 
-[大棚深夜起火500多只鸭鹅蛇蜥蜴等烧死 公安介入调查](https://m.163.com/news/article/JROU4LO405561G0D.html)
+[5岁女童玩耍遭特斯拉碾压身亡 车主获刑10个月后表态](https://m.163.com/news/article/JRP2UDHK05561G0D.html)
 
-[中国科学院院士马琰铭任浙江大学校长](https://m.163.com/news/article/JROLPLQ10514R9P4.html)
+[小米汽车出现售后困难：有车主补漆要往返700公里](https://m.163.com/news/article/JRP1RIH4051492T3.html)
 
-[消费贷"松绑"有商人要换保时捷 有北漂称"够用就刹车"](https://m.163.com/news/article/JRLISUGK0512D03F.html)
+[重庆一街道办强拆120亩鱼塘 数百人当承包人的面抢鱼](https://m.163.com/news/article/JROR56QM05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[云南居民谈缅甸7.9级地震:有人被砸头 有人从高楼逃生](https://m.163.com/news/article/JROIALVH05129QAF.html)
+[南京殡葬单位回应招心理学人才：轮岗会接触遗体](https://m.163.com/news/article/JROUAEON051492T3.html)
 
 ---end---
