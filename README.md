@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-28 14:26:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-28 14:48:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市大足区国衡商贸股份有限公司招聘大足区环境卫生工作人员的招聘简章](https://www.gongkaoleida.com/article/2338906)
+[渝北区同茂小学2025年春期临聘教师招聘简章](https://www.gongkaoleida.com/article/2339602)
 
 [长沙中考高层次人才子女单列 官方回应来了](https://m.163.com/news/article/JRM5K3JR0514BE2Q.html)
 
