@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-03-31 14:27:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-03-31 14:48:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆首讯科技股份有限公司2025年社会招聘简章](https://www.gongkaoleida.com/article/2341022)
+[重庆设计集团有限公司市政设计研究院2025年招聘公告](https://www.gongkaoleida.com/article/2341692)
 
 [业主被忽悠将15万房款入私户 涉事经理疑公司老板外甥](https://m.163.com/news/article/JRRJ90FF05561G0D.html)
 
