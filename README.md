@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-01 02:26:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-01 02:47:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团有限公司市政设计研究院2025年招聘公告](https://www.gongkaoleida.com/article/2341692)
+[中煤科工重庆设计研究院（集团）有限公司国土空间规划设计院招聘启事](https://www.gongkaoleida.com/article/2341810)
 
-[业主被忽悠将15万房款入私户 涉事经理疑公司老板外甥](https://m.163.com/news/article/JRRJ90FF05561G0D.html)
+[12岁男孩跑半马 官方：特邀参赛 家属签订了免责声明](https://m.163.com/news/article/JRVQAFDT055040N3.html)
 
-[北京司机掉头等红灯被"围攻" 交管部门立马装辅助标志](https://m.163.com/news/article/JRT46RHA0514R9OJ.html)
+["漂流男孩"被传曾自制炸药包炸学校 家属:谣言太夸张](https://m.163.com/news/article/JRVUUPCV0514D3UH.html)
 
-[丈夫去世后69岁阿姨一夜白头 靠退休金自驾1500多天](https://m.163.com/news/article/JRSOKNEP0534P59R.html)
+["老虎"段成刚任上落马 老同事3天前刚被查](https://m.163.com/news/article/JRVOMTR80530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海史上最大单地块旧改项目拆分出让 房价直奔20万/平](https://m.163.com/news/article/JRR91JUP0512B07B.html)
+[44岁外卖员下河救人遇难 平台送去31万元慰问金](https://m.163.com/news/article/JRVT46EJ051492T3.html)
 
 ---end---
