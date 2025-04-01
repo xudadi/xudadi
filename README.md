@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-01 07:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-01 09:43:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中煤科工重庆设计研究院（集团）有限公司国土空间规划设计院招聘启事](https://www.gongkaoleida.com/article/2341810)
+[重庆飞驶特人力资源管理有限公司派往重庆市某市属事业单位工作人员招聘启事](https://www.gongkaoleida.com/article/2342794)
 
-[12岁男孩跑半马 官方：特邀参赛 家属签订了免责声明](https://m.163.com/news/article/JRVQAFDT055040N3.html)
+[中国海军在海外社交平台开通官方账号](https://m.163.com/news/article/JS20VQLF0514R9OJ.html)
 
-["漂流男孩"被传曾自制炸药包炸学校 家属:谣言太夸张](https://m.163.com/news/article/JRVUUPCV0514D3UH.html)
+[恒大汽车：延迟刊发2024年度业绩公告 股票停牌](https://m.163.com/news/article/JS1VG2CA05198CJN.html)
 
-["老虎"段成刚任上落马 老同事3天前刚被查](https://m.163.com/news/article/JRVOMTR80530JPVV.html)
+[青岛市两名原副市长被查 其中一人今年75岁](https://m.163.com/news/article/JS1DDJ010514CDBK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[44岁外卖员下河救人遇难 平台送去31万元慰问金](https://m.163.com/news/article/JRVT46EJ051492T3.html)
+[东部战区位台岛周边开展联合演训](https://m.163.com/news/article/JS1T3QLI000189PS.html)
 
 ---end---
