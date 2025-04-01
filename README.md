@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-02 02:25:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-02 02:47:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学电气工程学院氢基清洁能源装备和新技术团队科研助理招聘启事](https://www.gongkaoleida.com/article/2344282)
+[关于中国铝业集团高端制造股份有限公司面向中铝集团内部开展公开招聘的公告](https://www.gongkaoleida.com/article/2344378)
 
-["4人入室抢婴案"家属：孩子被抢时奶粉奶嘴都被拿走](https://m.163.com/news/article/JS10JOLE051492T3.html)
+[鹰击-21亮相台海演训 专家:全球无反导力量能有效拦截](https://m.163.com/news/article/JS2UB0GO05504DPG.html)
 
-[东部战区演练没公布"代号" 专家答疑](https://m.163.com/news/article/JS22QC3K0514R9OJ.html)
+[雷军回应安徽SU7事故：无论发生什么 小米都不会回避](https://m.163.com/news/article/JS3G4SLO0534A4SC.html)
 
-[解放军台岛周边联合演训 国台办回应](https://m.163.com/news/article/JS21UBVF0001899O.html)
+[小鹏G6突发失速车主经历"生死十分钟" 4S店：赔积分](https://m.163.com/news/article/JS3FT73205561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国海军在海外社交平台开通官方账号](https://m.163.com/news/article/JS20VQLF0514R9OJ.html)
+[SU7事故驾驶员父亲：女儿3年前拿驾照 一直用油车练手](https://m.163.com/news/article/JS3DCCV70519DTSV.html)
 
 ---end---
