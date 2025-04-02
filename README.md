@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-02 20:38:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-02 21:15:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学科普创新实验室劳务派遣专职秘书招聘启事](https://www.gongkaoleida.com/article/2344727)
+[重庆市大足区国衡商贸股份有限公司关于招聘大足区城管执法辅助工作人员的简章](https://www.gongkaoleida.com/article/2345920)
 
-[鹰击-21亮相台海演训 专家:全球无反导力量能有效拦截](https://m.163.com/news/article/JS2UB0GO05504DPG.html)
+[外媒称缅甸军政府对中国红十字会车队鸣枪 外交部回应](https://m.163.com/news/article/JS5QP2K80001899O.html)
 
-[雷军回应安徽SU7事故：无论发生什么 小米都不会回避](https://m.163.com/news/article/JS3G4SLO0534A4SC.html)
+[车速超110公里蔚来ES6在高速路"智驾"突变道 后车追尾](https://m.163.com/news/article/JS5LJG0805561G0D.html)
 
-[小鹏G6突发失速车主经历"生死十分钟" 4S店：赔积分](https://m.163.com/news/article/JS3FT73205561G0D.html)
+[退休厅官被查：曾是网红官员 在新疆五地州担任过领导](https://m.163.com/news/article/JS5M1K7905129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[SU7事故驾驶员父亲：女儿3年前拿驾照 一直用油车练手](https://m.163.com/news/article/JS3DCCV70519DTSV.html)
+[国防部正告赖清德当局：闹得越凶灭亡得越快](https://m.163.com/news/article/JS5LGC530001899O.html)
 
 ---end---
