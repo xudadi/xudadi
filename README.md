@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-03 07:37:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-03 07:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [【校招】重庆安保集团有限责任公司招聘公告](https://www.gongkaoleida.com/article/2345984)
 
