@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-03 20:37:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-03 21:15:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆银海融资租赁有限公司2025年校园招聘公告](https://www.gongkaoleida.com/article/2346567)
+[市地矿集团所属重庆市渝矿实业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2347761)
 
-[这个省，3名厅级干部同日被查](https://m.163.com/news/article/JS7E2HAH0530JPVV.html)
+[邯郸佛山野生动物园：已找到逃跑的小黑熊](https://m.163.com/news/article/JS8DQ4F60534A4SC.html)
 
-[《明日之子》选手孟子坤被传出轨、家暴 当事人回应](https://m.163.com/news/article/JS7CFMB60530JPVV.html)
+[疑遭前员工诈骗 采购商从山姆采购的550万货物遭冒领](https://m.163.com/news/article/JS8AIQQI05129QAF.html)
 
-[“95后”叶紫薇破格晋升为中国人民大学教授](https://m.163.com/news/article/JS797OQB0001899O.html)
+[男子喝自制泡酒中毒入院抢救：一周从135斤暴瘦到80斤](https://m.163.com/news/article/JS8A2F1N051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[黑龙江近期遭美国荷兰等地网络攻击](https://m.163.com/news/article/JS77AMHP000189PS.html)
+[河北赤城拟取消老年人免费乘坐公交:经营困难无力承担](https://m.163.com/news/article/JS7DJHSD05561G0D.html)
 
 ---end---
