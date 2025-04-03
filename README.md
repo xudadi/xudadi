@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-03 14:27:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-03 14:48:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大正畜牧科技有限公司招聘公告](https://www.gongkaoleida.com/article/2346074)
+[重庆银海融资租赁有限公司2025年校园招聘公告](https://www.gongkaoleida.com/article/2346567)
 
-[特朗普将大刀挥向"科学界" 已有多名顶尖科学家归国](https://m.163.com/news/article/JS5PADMK0530WJTO.html)
+[这个省，3名厅级干部同日被查](https://m.163.com/news/article/JS7E2HAH0530JPVV.html)
 
-[两名女乘客因"喷香水"引厮打还咬伤劝架空姐 深航回应](https://m.163.com/news/article/JS5IKBM705561G0D.html)
+[《明日之子》选手孟子坤被传出轨、家暴 当事人回应](https://m.163.com/news/article/JS7CFMB60530JPVV.html)
 
-[男子围观时被300斤重野猪咬成重伤 仍在ICU无苏醒迹象](https://m.163.com/news/article/JS5M3VDA051492T3.html)
+[“95后”叶紫薇破格晋升为中国人民大学教授](https://m.163.com/news/article/JS797OQB0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子烧纸钱把灰烬倒进垃圾桶 结果把邻居保时捷烧了](https://m.163.com/news/article/JS5SO8HQ0514EGPO.html)
+[黑龙江近期遭美国荷兰等地网络攻击](https://m.163.com/news/article/JS77AMHP000189PS.html)
 
 ---end---
