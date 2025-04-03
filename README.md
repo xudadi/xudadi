@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-04 02:25:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-04 02:46:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [市地矿集团所属重庆市渝矿实业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2347761)
 
-[邯郸佛山野生动物园：已找到逃跑的小黑熊](https://m.163.com/news/article/JS8DQ4F60534A4SC.html)
+[万亿券商"航母"官宣领导班子：国泰海通14位高管亮相](https://m.163.com/news/article/JS8HCKHD05199NPP.html)
 
-[疑遭前员工诈骗 采购商从山姆采购的550万货物遭冒领](https://m.163.com/news/article/JS8AIQQI05129QAF.html)
+[安徽省公安厅：指导属地公安对小米汽车事故开展调查](https://m.163.com/news/article/JS8HCPCP0001899O.html)
 
-[男子喝自制泡酒中毒入院抢救：一周从135斤暴瘦到80斤](https://m.163.com/news/article/JS8A2F1N051492T3.html)
+[大连一小米SU7被拍到以超200千米时速飙车 视频已下架](https://m.163.com/news/article/JS7R5Q010514CRLH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[河北赤城拟取消老年人免费乘坐公交:经营困难无力承担](https://m.163.com/news/article/JS7DJHSD05561G0D.html)
+[惠誉下调中国主权信用评级 财政部回应](https://m.163.com/news/article/JS8F1LFJ05198CJN.html)
 
 ---end---
