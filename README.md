@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-04 14:26:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-04 14:47:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [市地矿集团所属重庆市渝矿实业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2347761)
 
-[万亿券商"航母"官宣领导班子：国泰海通14位高管亮相](https://m.163.com/news/article/JS8HCKHD05199NPP.html)
+[22岁女骑手"小祝"与货车相撞去世 知情者：她是个新手](https://m.163.com/news/article/JS9P6OJ50514D3UH.html)
 
-[安徽省公安厅：指导属地公安对小米汽车事故开展调查](https://m.163.com/news/article/JS8HCPCP0001899O.html)
+[小伙不想异地恋 每天坐4种交通工具跨市上班每月花2千](https://m.163.com/news/article/JS88GGEA05561G0D.html)
 
-[大连一小米SU7被拍到以超200千米时速飙车 视频已下架](https://m.163.com/news/article/JS7R5Q010514CRLH.html)
+[特步"长公主"上位 曾和"赌王"之女亮相同场名媛舞会](https://m.163.com/news/article/JS8951VN055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[惠誉下调中国主权信用评级 财政部回应](https://m.163.com/news/article/JS8F1LFJ05198CJN.html)
+[万亿券商"航母"官宣领导班子：国泰海通14位高管亮相](https://m.163.com/news/article/JS8HCKHD05199NPP.html)
 
 ---end---
