@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-06 02:22:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-06 02:42:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [市地矿集团所属重庆市渝矿实业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2347761)
 
-[中国政府关于反对美国滥施关税的立场:不惹事也不怕事](https://m.163.com/news/article/JSDE41LM0001899O.html)
+[胖东来起诉"红内裤"事件博主：追责金额不低于100万元](https://m.163.com/news/article/JSDQ5VMO0512B07B.html)
 
-[媒体：两位副国级参加的公祭典礼 有几个重点值得关注](https://m.163.com/news/article/JSDB72OV051482MP.html)
+[送药发现顾客"失联" 外卖小哥担心是救命药差点报警](https://m.163.com/news/article/JSDD9RK40534P59R.html)
 
-[男子的凯迪拉克送修被告知不享受质保:说车没在我名下](https://m.163.com/news/article/JSDA7CB00534P59R.html)
+[网友称到汉中赏花"一房难求"只能睡洗浴中心 当地回应](https://m.163.com/news/article/JSDLSS1L051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[昔日网红面包品牌破产 创始人曾称上市后人心就膨胀了](https://m.163.com/news/article/JSCP88NI05199NPP.html)
+[毛新宇携家人清明回韶山祭祖](https://m.163.com/news/article/JSDN053B0530M570.html)
 
 ---end---
