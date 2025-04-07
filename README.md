@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-07 14:27:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-07 14:49:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[市地矿集团所属重庆市渝矿实业有限责任公司招聘公告](https://www.gongkaoleida.com/article/2347761)
+[重庆理工大学管理岗（物业维修管理）招聘启事](https://www.gongkaoleida.com/article/2348192)
+
+[李现"打鸟"走红的玉渊潭公园:百名摄影师抓拍候鸟求偶](https://m.163.com/news/article/JSGG2RVQ051492T3.html)
+
+[上海老人离世后保姆获巨额遗产 其还要求带走骨灰海葬](https://m.163.com/news/article/JSA07V8J055040N3.html)
 
 [业主投诉称用水242吨被要求按800吨缴费 涉事公司回应](https://m.163.com/news/article/JSG6QDR10514R9P4.html)
 
-[小区业主反映与开发商发生停车纠纷后车被砸 警方回应](https://m.163.com/news/article/JSG8CVO7051492T3.html)
-
-[15岁男孩在家中做实验引发爆炸 多方回应](https://m.163.com/news/article/JSG403DC05129QAF.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[业主怀疑400多万买的新房缩水：物业用房大得像"豪宅"](https://m.163.com/news/article/JSG32RCA0534P59R.html)
+[小区业主反映与开发商发生停车纠纷后车被砸 警方回应](https://m.163.com/news/article/JSG8CVO7051492T3.html)
 
 ---end---
