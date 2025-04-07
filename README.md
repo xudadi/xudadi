@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-07 20:38:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-07 21:16:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆理工大学管理岗（物业维修管理）招聘启事](https://www.gongkaoleida.com/article/2348192)
+[重庆九洲星熠导航设备有限公司关于招聘硬件设计岗等岗位的公告](https://www.gongkaoleida.com/article/2349806)
 
-[李现"打鸟"走红的玉渊潭公园:百名摄影师抓拍候鸟求偶](https://m.163.com/news/article/JSGG2RVQ051492T3.html)
+[中纪委连打3"虎"：李刚结交政治骗子 进京一年就落马](https://m.163.com/news/article/JSIEAKH905129QAF.html)
 
-[上海老人离世后保姆获巨额遗产 其还要求带走骨灰海葬](https://m.163.com/news/article/JSA07V8J055040N3.html)
+[官方：缩小城乡差别 拓宽农民致富渠道](https://m.163.com/news/article/JSID9IMJ05346RC6.html)
 
-[业主投诉称用水242吨被要求按800吨缴费 涉事公司回应](https://m.163.com/news/article/JSG6QDR10514R9P4.html)
+[驴友攀登山下撤后突然晕厥离世 当地：非登山时发生](https://m.163.com/news/article/JSI5DUV5051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小区业主反映与开发商发生停车纠纷后车被砸 警方回应](https://m.163.com/news/article/JSG8CVO7051492T3.html)
+[关键时刻 人民日报重磅发声：天塌不下来](https://m.163.com/news/article/JSHF521J0001899O.html)
 
 ---end---
