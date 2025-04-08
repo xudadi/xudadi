@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-08 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-08 20:38:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆数字产业职业技术学院2025-2026学年师资招聘公告(合同制)](https://www.gongkaoleida.com/article/2350182)
+[重庆市大足区国衡商贸股份有限公司公开招聘劳务派遣制工作人员的招聘简章](https://www.gongkaoleida.com/article/2351505)
 
-[中国女婿！马布里社媒官宣与汪妤凌登记结婚](https://m.163.com/news/article/JSILBAVH0001899O.html)
+[上交所召开证券经营机构座谈会](https://m.163.com/news/article/JSL6J7H60001899O.html)
 
-[美国小伙武当山习武15年金发变黑发:头发都入乡随俗了](https://m.163.com/news/article/JSIHQF920550B6IS.html)
+[二十届中央第五轮巡视对象公布](https://m.163.com/news/article/JSL5EEGE000189PS.html)
 
-[中纪委连打3"虎"：李刚结交政治骗子 进京一年就落马](https://m.163.com/news/article/JSIEAKH905129QAF.html)
+[乘客坐顺风车遇司机高速路开智驾脱手剪指甲 平台回应](https://m.163.com/news/article/JSL545DT053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方：缩小城乡差别 拓宽农民致富渠道](https://m.163.com/news/article/JSID9IMJ05346RC6.html)
+["远洋渔船船长公海被害案"最新进展：涉事船只已靠岸](https://m.163.com/news/article/JSL3N43V0514R9P4.html)
 
 ---end---
