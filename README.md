@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-08 14:27:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-08 14:48:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲星熠导航设备有限公司关于招聘硬件设计岗等岗位的公告](https://www.gongkaoleida.com/article/2349806)
+[重庆数字产业职业技术学院2025-2026学年师资招聘公告(合同制)](https://www.gongkaoleida.com/article/2350182)
 
 [中国女婿！马布里社媒官宣与汪妤凌登记结婚](https://m.163.com/news/article/JSILBAVH0001899O.html)
 
