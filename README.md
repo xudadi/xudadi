@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-09 20:38:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-09 21:16:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事](https://www.gongkaoleida.com/article/2352214)
+[重庆市事业单位公开招聘西藏籍高校毕业生公告（2024年度计划补招）](https://www.gongkaoleida.com/article/2352579)
 
-[上海轨交警方：男子在车厢内猥亵女乘客被行政拘留](https://m.163.com/news/article/JSMQU0850001899O.html)
+[商务部：将6家美国企业列入不可靠实体清单](https://m.163.com/news/article/JSNOI2D00512B07B.html)
 
-[梁振英33岁次女离世被排除自杀 上月曾称压力很大很累](https://m.163.com/news/article/JSMPAU8305129QAF.html)
+[商务部：将12家美国实体列入出口管制管控名单](https://m.163.com/news/article/JSNOA76Q0534A4SC.html)
 
-[上海老人拒绝清理房内楼道杂物：我那里到处都是钱](https://m.163.com/news/article/JSMKOG5B0514R9OJ.html)
+[强硬反制 中方对原产于美国所有进口商品再加征50%关税](https://m.163.com/news/article/JSNNP9H00001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子花759万买到凶宅 卖家：卖房后返租期间孩子去世](https://m.163.com/news/article/JSMKAQRB0550B6IS.html)
+[落马女厅官罗璇被捕 曾主动交代问题](https://m.163.com/news/article/JSNH13F2051482MP.html)
 
 ---end---
