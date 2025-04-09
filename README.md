@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-09 14:27:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-09 14:49:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市大足区国衡商贸股份有限公司公开招聘劳务派遣制工作人员的招聘简章](https://www.gongkaoleida.com/article/2351505)
+[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事](https://www.gongkaoleida.com/article/2352214)
 
-[在家中做实验被炸伤的男孩手部截肢右眼失明 父亲发声](https://m.163.com/news/article/JSL4T05L05129QAF.html)
+[上海轨交警方：男子在车厢内猥亵女乘客被行政拘留](https://m.163.com/news/article/JSMQU0850001899O.html)
 
-[高档小区住户家起火救火时发现消防管道没水 消防回应](https://m.163.com/news/article/JSL30HJC05561G0D.html)
+[梁振英33岁次女离世被排除自杀 上月曾称压力很大很累](https://m.163.com/news/article/JSMPAU8305129QAF.html)
 
-[官员为求升迁被2名政治骗子玩弄：送出35万"活动经费"](https://m.163.com/news/article/JSL9E80C0514R9P4.html)
+[上海老人拒绝清理房内楼道杂物：我那里到处都是钱](https://m.163.com/news/article/JSMKOG5B0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[无人快递车被拍到拖行电动车 中通快递：无人员受伤](https://m.163.com/news/article/JSL8NSB1051492T3.html)
+[女子花759万买到凶宅 卖家：卖房后返租期间孩子去世](https://m.163.com/news/article/JSMKAQRB0550B6IS.html)
 
 ---end---
