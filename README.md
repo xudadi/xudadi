@@ -13,18 +13,16 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-10 02:26:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-10 02:47:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市事业单位公开招聘西藏籍高校毕业生公告（2024年度计划补招）](https://www.gongkaoleida.com/article/2352579)
+[西安一物业公司被认定为"高新技术企业" 官方回应质疑](https://m.163.com/news/article/JSNS5BQJ051492T3.html)
 
-[商务部：将6家美国企业列入不可靠实体清单](https://m.163.com/news/article/JSNOI2D00512B07B.html)
+[教育部发布赴美留学预警：做好安全风险评估](https://m.163.com/news/article/JSO393QS0001899O.html)
 
-[商务部：将12家美国实体列入出口管制管控名单](https://m.163.com/news/article/JSNOA76Q0534A4SC.html)
-
-[强硬反制 中方对原产于美国所有进口商品再加征50%关税](https://m.163.com/news/article/JSNNP9H00001899O.html)
+[北大研究生毕业后留校做食堂阿姨 当事人：目前已离职](https://m.163.com/news/article/JSO0GPHD051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[落马女厅官罗璇被捕 曾主动交代问题](https://m.163.com/news/article/JSNH13F2051482MP.html)
+[文化和旅游部对赴美中国游客发布风险提示：谨慎前往](https://m.163.com/news/article/JSO1TJ2V0534A4SC.html)
 
 ---end---
