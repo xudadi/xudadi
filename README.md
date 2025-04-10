@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-10 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-10 20:38:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝粤病理科学研究中心郭述良教授课题组招聘公告](https://www.gongkaoleida.com/article/2353924)
+[重庆市万盛经开区教育事业单位2025年面向应届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2354944)
 
-[南航超薄座椅逼近廉价航空 被网友称为“刀片椅”](https://m.163.com/news/article/JSPFJHIR05129QAF.html)
+[陈文森被开除党籍：搞"一言堂"、政绩观错位](https://m.163.com/news/article/JSQ7ITFL0512D3VJ.html)
 
-[结婚、离婚登记不再需要户口本](https://m.163.com/news/article/JSP9HU6P0530JPVV.html)
+[国家电影局：将适度减少美国影片进口数量](https://m.163.com/news/article/JSQ7GRG105198CJN.html)
 
-[被老师用三角尺砸伤的长沙女童父亲：女儿休学](https://m.163.com/news/article/JSPD31KK05129QAF.html)
+["杭州六小龙"掌门人将为浙江全省干部上课](https://m.163.com/news/article/JSQ5MFBN0530WJTO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[内蒙古"老虎"任上大肆敛财 曾因致32死矿难事故被通报](https://m.163.com/news/article/JSPCOILT051482MP.html)
+[2025年全国出口管制工作会议在京召开](https://m.163.com/news/article/JSQ4A87R0534A4SC.html)
 
 ---end---
