@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-10 14:27:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-10 14:48:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市事业单位公开招聘西藏籍高校毕业生公告（2024年度计划补招）](https://www.gongkaoleida.com/article/2352579)
+[渝粤病理科学研究中心郭述良教授课题组招聘公告](https://www.gongkaoleida.com/article/2353924)
 
-[媒体:中方对美的反制 便是对"鼻孔朝天"者最好的回击](https://m.163.com/news/article/JSP5BVQK051482MP.html)
+[南航超薄座椅逼近廉价航空 被网友称为“刀片椅”](https://m.163.com/news/article/JSPFJHIR05129QAF.html)
 
-[总理召开座谈会称形势比较特殊 7人发言包括一位90后](https://m.163.com/news/article/JSO50FE7051482MP.html)
+[结婚、离婚登记不再需要户口本](https://m.163.com/news/article/JSP9HU6P0530JPVV.html)
 
-[西安一物业公司被认定为"高新技术企业" 官方回应质疑](https://m.163.com/news/article/JSNS5BQJ051492T3.html)
+[被老师用三角尺砸伤的长沙女童父亲：女儿休学](https://m.163.com/news/article/JSPD31KK05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[教育部发布赴美留学预警：做好安全风险评估](https://m.163.com/news/article/JSO393QS0001899O.html)
+[内蒙古"老虎"任上大肆敛财 曾因致32死矿难事故被通报](https://m.163.com/news/article/JSPCOILT051482MP.html)
 
 ---end---
