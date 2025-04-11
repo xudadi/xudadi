@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-11 20:37:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-11 21:15:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院2025年上半年公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2355570)
+[国家税务总局重庆市税务局2025年度公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2356745)
 
-[中国半导体行业协会发布紧急通知 涉原产地认定](https://m.163.com/news/article/JSS1IO1N0534A4SC.html)
+[北京等地将迎罕见大风：有新人将草坪婚礼改为室内](https://m.163.com/news/article/JSSRDCUH051492T3.html)
 
-[男子造谣"上海地铁猥亵案当事人相识" 已被抓获](https://m.163.com/news/article/JSRSF57F0514R9P4.html)
+[中央气象台五预警齐发](https://m.163.com/news/article/JSSRS7EB0512D3VJ.html)
 
-[江苏省政协原副主席王昊被公诉](https://m.163.com/news/article/JSRUATKE000189PS.html)
+[男子网购枪状打火机"持枪"抢劫9部华为手机 获刑10年](https://m.163.com/news/article/JSSQPIMA051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[多地将迎罕见极端大风天气 防范指南请收藏](https://m.163.com/news/article/JSRP5MRA000189PS.html)
+[中方代表在WTO发言:美国对等关税是"开错方、吃错药"](https://m.163.com/news/article/JSQM3S140519DDQ2.html)
 
 ---end---
