@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-11 07:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-11 09:26:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万盛经开区教育事业单位2025年面向应届高校毕业生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2354944)
+[黑龙江省龙昊物业有限公司重庆龙江鹿山壹号项目招聘保安简章](https://www.gongkaoleida.com/article/2355159)
 
 [媒体：关税战面前 中方的"工具箱"里还有很多](https://m.163.com/news/article/JSQJF4PC0514EGPO.html)
 
