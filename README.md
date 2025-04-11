@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-12 02:26:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-12 02:47:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家税务总局重庆市税务局2025年度公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2356745)
 
-[北京等地将迎罕见大风：有新人将草坪婚礼改为室内](https://m.163.com/news/article/JSSRDCUH051492T3.html)
+[姚洋：我们要做好准备 来面对一个没有美国的全球化](https://m.163.com/news/article/JST903RU0512D3VJ.html)
 
-[中央气象台五预警齐发](https://m.163.com/news/article/JSSRS7EB0512D3VJ.html)
+[流拍10次、降价近7亿元后 南充天来大酒店以底价易主](https://m.163.com/news/article/JSSRDCUG051492T3.html)
 
-[男子网购枪状打火机"持枪"抢劫9部华为手机 获刑10年](https://m.163.com/news/article/JSSQPIMA051492T3.html)
+[长安汽车首次回应合并重组：方案基本已经完成](https://m.163.com/news/article/JST5KSQQ053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中方代表在WTO发言:美国对等关税是"开错方、吃错药"](https://m.163.com/news/article/JSQM3S140519DDQ2.html)
+[男子"入职"心仪国企2年多没有工资 单位:他是义务帮工](https://m.163.com/news/article/JSSQHRDV05561G0D.html)
 
 ---end---
