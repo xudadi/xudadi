@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-11 14:27:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-11 14:48:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[黑龙江省龙昊物业有限公司重庆龙江鹿山壹号项目招聘保安简章](https://www.gongkaoleida.com/article/2355159)
+[重庆城市职业学院2025年上半年公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2355570)
 
-[媒体：关税战面前 中方的"工具箱"里还有很多](https://m.163.com/news/article/JSQJF4PC0514EGPO.html)
+[中国半导体行业协会发布紧急通知 涉原产地认定](https://m.163.com/news/article/JSS1IO1N0534A4SC.html)
 
-[24岁凉山小伙在日本格斗赛事夺冠：被踢了至少100多腿](https://m.163.com/news/article/JSQ3BJVD051492T3.html)
+[男子造谣"上海地铁猥亵案当事人相识" 已被抓获](https://m.163.com/news/article/JSRSF57F0514R9P4.html)
 
-[11岁男孩误吞100克金条2天后取出 治疗医生:金条细长](https://m.163.com/news/article/JSQ9UIQN051492T3.html)
+[江苏省政协原副主席王昊被公诉](https://m.163.com/news/article/JSRUATKE000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[夫妻带娃在长沙开粉店 邻居老人主动帮忙一帮就是8年](https://m.163.com/news/article/JSQG1NKK0534P59R.html)
+[多地将迎罕见极端大风天气 防范指南请收藏](https://m.163.com/news/article/JSRP5MRA000189PS.html)
 
 ---end---
