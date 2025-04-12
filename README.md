@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-12 14:24:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-12 14:45:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家税务总局重庆市税务局2025年度公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2356745)
 
-[姚洋：我们要做好准备 来面对一个没有美国的全球化](https://m.163.com/news/article/JST903RU0512D3VJ.html)
+[黄山泰山恒山因天气原因暂停开放 景区回应](https://m.163.com/news/article/JSUPAIF1053469M5.html)
 
-[流拍10次、降价近7亿元后 南充天来大酒店以底价易主](https://m.163.com/news/article/JSSRDCUG051492T3.html)
+[苹果手机9天涨价500元直营店价没变 经销商:没人敢收](https://m.163.com/news/article/JSUOO2KV0512B07B.html)
 
-[长安汽车首次回应合并重组：方案基本已经完成](https://m.163.com/news/article/JST5KSQQ053469M5.html)
+[蚂蚁集团副总裁、前基础大模型负责人徐鹏离职](https://m.163.com/news/article/JSUL8B4R05198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子"入职"心仪国企2年多没有工资 单位:他是义务帮工](https://m.163.com/news/article/JSSQHRDV05561G0D.html)
+[义乌最牛老板娘霸气喊话美客户:要就给 不要就换赛道](https://m.163.com/news/article/JSUL05830550B6IS.html)
 
 ---end---
