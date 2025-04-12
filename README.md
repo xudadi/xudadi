@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-13 01:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-13 02:23:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [三峰环境集团2025年校园招聘简章](https://www.gongkaoleida.com/article/2357032)
 
-[黄山泰山恒山因天气原因暂停开放 景区回应](https://m.163.com/news/article/JSUPAIF1053469M5.html)
+["雷公"寻子成功10个月后被儿子拉黑:以后再不恨买家了](https://m.163.com/news/article/JSV7IBA305561G0D.html)
 
-[苹果手机9天涨价500元直营店价没变 经销商:没人敢收](https://m.163.com/news/article/JSUOO2KV0512B07B.html)
+[媒体：金湘军4月10日晚从太原家中被带走接受调查](https://m.163.com/news/article/JSVQAQ7305199DKK.html)
 
-[蚂蚁集团副总裁、前基础大模型负责人徐鹏离职](https://m.163.com/news/article/JSUL8B4R05198CJN.html)
+[金湘军被查山西省委连夜表态 其曾在多省任职](https://m.163.com/news/article/JSVPVQR605561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[义乌最牛老板娘霸气喊话美客户:要就给 不要就换赛道](https://m.163.com/news/article/JSUL05830550B6IS.html)
+[山西省省长金湘军通报被查 今年已有15名中管干部落马](https://m.163.com/news/article/JSVKD2TL0514R9P4.html)
 
 ---end---
