@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-12 20:33:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-12 21:03:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国家税务总局重庆市税务局2025年度公开招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2356745)
+[三峰环境集团2025年校园招聘简章](https://www.gongkaoleida.com/article/2357032)
 
 [黄山泰山恒山因天气原因暂停开放 景区回应](https://m.163.com/news/article/JSUPAIF1053469M5.html)
 
