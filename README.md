@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-13 20:34:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-13 21:04:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[三峰环境集团2025年校园招聘简章](https://www.gongkaoleida.com/article/2357032)
+[重庆交通大学旅游与传媒学院邀真人秀节目项目组来校开展校园专场宣讲会暨招聘面试活动](https://www.gongkaoleida.com/article/2357349)
 
-[再度摘银 全红婵：发挥超预期 适应体重变化就平稳了](https://m.163.com/news/article/JT0VQM3O000189PS.html)
+[两位中央候补委员履新 多个国家局领导密集调整](https://m.163.com/news/article/JT18O5KA0530WJTO.html)
 
-[山西省省长金湘军任上被查 几天前还曾参加植树活动](https://m.163.com/news/article/JSVSPRBF051492T3.html)
+[炒股亏惨、选拔处长落选 公职人员发"投名状"当间谍](https://m.163.com/news/article/JT14ESP1051482MP.html)
 
-[A股回购增持出现"井喷式"增长](https://m.163.com/news/article/JT0OA8EK055040N3.html)
+[驾校为拍视频吸引流量吊车上树制作虚假信息 当地回应](https://m.163.com/news/article/JT12MN6805561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山西省省长金湘军任上被查 2天前还在主持会议](https://m.163.com/news/article/JSVJ4L8B055040N3.html)
+[再度摘银 全红婵：发挥超预期 适应体重变化就平稳了](https://m.163.com/news/article/JT0VQM3O000189PS.html)
 
 ---end---
