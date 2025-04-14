@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-14 14:28:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-14 14:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆聚狮新材料科技有限公司招聘公告](https://www.gongkaoleida.com/article/2357535)
+[重庆设计集团重庆市设计院有限公司2025年招聘公告](https://www.gongkaoleida.com/article/2358092)
 
-[邙山"李煜墓"成网红打卡点 文旅部门再次澄清：假的](https://m.163.com/news/article/JSVPFGJQ05345ARG.html)
+[越野车在浙江仙居溪滩被困致2人遇难 警方通报](https://m.163.com/news/article/JT42AHTL0001899O.html)
 
-["全河南最牛服务区"火了:登记后享洗浴等20项免费服务](https://m.163.com/news/article/JT2KVCJR0514R9P4.html)
+[博主自称在景区露营被掀帐篷 景区：游客拒买票还起哄](https://m.163.com/news/article/JT2E5C6V0514D3UH.html)
 
-[一次399元或499元，技术陪爬每次加150元！从业者：顾客更希望能有情绪价值，有人成立“大学生陪爬团”：3天接了二三十单](https://m.163.com/news/article/JSV31OIK0512B07B.html)
+[问界回应沈阳工业展览馆M7 Pro事故：车辆被误启动](https://m.163.com/news/article/JT3R0RD40534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[西安一峪口贴警告“2年失联9人” 当地回应](https://m.163.com/news/article/JT1EF21I053469M5.html)
+["10元盒饭姐"怒斥浪费顾客再上热搜：没指望赚到大钱](https://m.163.com/news/article/JSRQK1NV0514D9AO.html)
 
 ---end---
