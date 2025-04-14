@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-14 07:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-14 09:37:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆交通大学旅游与传媒学院邀真人秀节目项目组来校开展校园专场宣讲会暨招聘面试活动](https://www.gongkaoleida.com/article/2357349)
+[重庆聚狮新材料科技有限公司招聘公告](https://www.gongkaoleida.com/article/2357535)
 
-[两位中央候补委员履新 多个国家局领导密集调整](https://m.163.com/news/article/JT18O5KA0530WJTO.html)
+[邙山"李煜墓"成网红打卡点 文旅部门再次澄清：假的](https://m.163.com/news/article/JSVPFGJQ05345ARG.html)
 
-[炒股亏惨、选拔处长落选 公职人员发"投名状"当间谍](https://m.163.com/news/article/JT14ESP1051482MP.html)
+["全河南最牛服务区"火了:登记后享洗浴等20项免费服务](https://m.163.com/news/article/JT2KVCJR0514R9P4.html)
 
-[驾校为拍视频吸引流量吊车上树制作虚假信息 当地回应](https://m.163.com/news/article/JT12MN6805561G0D.html)
+[一次399元或499元，技术陪爬每次加150元！从业者：顾客更希望能有情绪价值，有人成立“大学生陪爬团”：3天接了二三十单](https://m.163.com/news/article/JSV31OIK0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[再度摘银 全红婵：发挥超预期 适应体重变化就平稳了](https://m.163.com/news/article/JT0VQM3O000189PS.html)
+[西安一峪口贴警告“2年失联9人” 当地回应](https://m.163.com/news/article/JT1EF21I053469M5.html)
 
 ---end---
