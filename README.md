@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-14 20:38:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-14 21:17:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团重庆市设计院有限公司2025年招聘公告](https://www.gongkaoleida.com/article/2358092)
+[重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2358899)
 
 [越野车在浙江仙居溪滩被困致2人遇难 警方通报](https://m.163.com/news/article/JT42AHTL0001899O.html)
 
