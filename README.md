@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-15 14:27:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-15 14:49:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2358899)
+[西南大学附属中学校招聘公告](https://www.gongkaoleida.com/article/2360114)
 
-[坚持严惩暴恐不动摇 中央政法委书记再赴新疆调研](https://m.163.com/news/article/JT5U83CF051482MP.html)
+["司机泄愤撞死一家三口"案一审开庭 将择期宣判](https://m.163.com/news/article/JT6INHH40534A4SC.html)
 
-[外交部官号转发库克受访旧视频:美工程师坐不满会议室](https://m.163.com/news/article/JT5TNPLA0530JPVV.html)
+[媒体：被免职的三河市委"主要负责人"就是指市委书记](https://m.163.com/news/article/JT6D8OG40514R9P4.html)
 
-[任教31年被解聘教师：同情况只剩我一个仍是"编制外"](https://m.163.com/news/article/JT4F97M10550B6IS.html)
+[90余人获国安表彰奖励 国安部披露详情](https://m.163.com/news/article/JT6EM3I00001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19岁小伙看房被指意图对女租客不轨 知名法医发声](https://m.163.com/news/article/JT50TBV505561G0D.html)
+["任教31年遭解聘"当事人再发声：工作有7年都没签合同](https://m.163.com/news/article/JT63TAU805345ARG.html)
 
 ---end---
