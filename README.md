@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-15 19:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-15 20:38:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南大学附属中学校招聘公告](https://www.gongkaoleida.com/article/2360114)
+[重庆九洲智造科技有限公司关于招聘硬件开发主管等岗位的公告](https://www.gongkaoleida.com/article/2361070)
 
-["司机泄愤撞死一家三口"案一审开庭 将择期宣判](https://m.163.com/news/article/JT6INHH40534A4SC.html)
+[对等关税下"显卡"被爆炒：翻倍涨破3万 玩家"吃不消"](https://m.163.com/news/article/JT6N8L9J0512D3VJ.html)
 
-[媒体：被免职的三河市委"主要负责人"就是指市委书记](https://m.163.com/news/article/JT6D8OG40514R9P4.html)
+[美财长最新表态：希望和中国达成协议 关税并不是玩笑](https://m.163.com/news/article/JT6LN0N80001899O.html)
 
-[90余人获国安表彰奖励 国安部披露详情](https://m.163.com/news/article/JT6EM3I00001899O.html)
+[玉珠峰3名登山者遇难：确认为2男1女 登山未提前报备](https://m.163.com/news/article/JT6JCU8R051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["任教31年遭解聘"当事人再发声：工作有7年都没签合同](https://m.163.com/news/article/JT63TAU805345ARG.html)
+["司机泄愤撞死一家三口"案一审开庭 将择期宣判](https://m.163.com/news/article/JT6INHH40534A4SC.html)
 
 ---end---
