@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-04-15 07:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-04-15 09:36:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2358899)
 
-[19岁小伙看房被指意图对女租客不轨 知名法医发声](https://m.163.com/news/article/JT50TBV505561G0D.html)
+[坚持严惩暴恐不动摇 中央政法委书记再赴新疆调研](https://m.163.com/news/article/JT5U83CF051482MP.html)
 
-[多名小鹏G6车主称"低频噪音"影响驾驶 相关负责人回应](https://m.163.com/news/article/JT50B6BC051492T3.html)
+[外交部官号转发库克受访旧视频:美工程师坐不满会议室](https://m.163.com/news/article/JT5TNPLA0530JPVV.html)
 
-[专家：特朗普关税后 一场新的灾难正等待美国](https://m.163.com/news/article/JT4VUUDH00019B3E.html)
+[任教31年被解聘教师：同情况只剩我一个仍是"编制外"](https://m.163.com/news/article/JT4F97M10550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子泄愤撞死1家3口 所开的二手特斯拉刚买5天](https://m.163.com/news/article/JT4V4BTC0514BE2Q.html)
+[19岁小伙看房被指意图对女租客不轨 知名法医发声](https://m.163.com/news/article/JT50TBV505561G0D.html)
 
 ---end---
