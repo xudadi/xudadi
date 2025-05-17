@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-17 13:40:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-17 13:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲智造科技有限公司关于招聘硬件开发主管等岗位的公告](https://www.gongkaoleida.com/article/2361070)
+[四川外国语大学附属小学校教师招聘](https://www.gongkaoleida.com/article/2404569)
 
-[对等关税下"显卡"被爆炒：翻倍涨破3万 玩家"吃不消"](https://m.163.com/news/article/JT6N8L9J0512D3VJ.html)
+[正厅级李刚任上被查 曾与其搭班的女局长已落马](https://m.163.com/news/article/JVM5K1OT05345ARG.html)
 
-[美财长最新表态：希望和中国达成协议 关税并不是玩笑](https://m.163.com/news/article/JT6LN0N80001899O.html)
+["朱雀玄武敕令"称成功改名"周乔治华盛顿":不影响高考](https://m.163.com/news/article/JVM3M9QG05561G0D.html)
 
-[玉珠峰3名登山者遇难：确认为2男1女 登山未提前报备](https://m.163.com/news/article/JT6JCU8R051492T3.html)
+[1家4口自驾车辆被落石砸中 36岁父亲被砸中头当场遇难](https://m.163.com/news/article/JVKRDPPO05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["司机泄愤撞死一家三口"案一审开庭 将择期宣判](https://m.163.com/news/article/JT6INHH40534A4SC.html)
+[山东春季高考考生乘车时心梗无呼吸 司机：我当时蒙了](https://m.163.com/news/article/JVKJVCFC0512D3VJ.html)
 
 ---end---
