@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-18 20:36:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-18 21:12:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [四川外国语大学附属小学校教师招聘](https://www.gongkaoleida.com/article/2404569)
 
-[潘展乐战胜孙杨男子400自夺冠 孙杨赛后称其实挺好的](https://m.163.com/news/article/JVPUKNNC0514R9OJ.html)
+[中共中央、国务院：公务用车应选用国产汽车 优选新能源](https://m.163.com/news/article/JVS3EIQ30530M570.html)
 
-[老人在地铁上突然上手拉拽要求小伙给他让座 网友吵翻](https://m.163.com/news/article/JVPTK0C9055040N3.html)
+[初三男孩病重全班赴医院拍摄毕业照 今天上午人已离世](https://m.163.com/news/article/JVS6GSPC0514EGPO.html)
 
-[陈刚：以蓝天立涉严重违纪违法为镜鉴 与腐败划清界限](https://m.163.com/news/article/JVPHTF7F051482MP.html)
+[中共中央、国务院：公务接待工作餐不得提供香烟、不上酒](https://m.163.com/news/article/JVS3EM550530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["50岁自驾游阿姨"登上戛纳红毯 今年1月发文宣布离婚](https://m.163.com/news/article/JVOPABCJ051492LM.html)
+[歼10C模型成为公园"顶流" 园方：周末日均人流量破万](https://m.163.com/news/article/JVS0TCE10514D3UH.html)
 
 ---end---
