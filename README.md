@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-19 01:50:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-19 02:25:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [四川外国语大学附属小学校教师招聘](https://www.gongkaoleida.com/article/2404569)
 
-[中共中央、国务院：公务用车应选用国产汽车 优选新能源](https://m.163.com/news/article/JVS3EIQ30530M570.html)
+[永久基本农田被垃圾掩埋 乡政府所谓整改仅是简单覆土](https://m.163.com/news/article/JVSFN4K20514R9OJ.html)
 
-[初三男孩病重全班赴医院拍摄毕业照 今天上午人已离世](https://m.163.com/news/article/JVS6GSPC0514EGPO.html)
+[年轻人接棒"中国大妈"炒金：有人近1个月已亏掉快3万](https://m.163.com/news/article/JVSF5S210519DDQ2.html)
 
-[中共中央、国务院：公务接待工作餐不得提供香烟、不上酒](https://m.163.com/news/article/JVS3EM550530M570.html)
+[10岁女童被高空坠窗砸伤仍在抢救 涉事建筑玻璃窗拆除](https://m.163.com/news/article/JVSF35P40514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[歼10C模型成为公园"顶流" 园方：周末日均人流量破万](https://m.163.com/news/article/JVS0TCE10514D3UH.html)
+[CBA开罚单 杭州赛区、浙江广厦俱乐部、孙铭徽均被罚](https://m.163.com/news/article/JVSF9A9A0001899O.html)
 
 ---end---
