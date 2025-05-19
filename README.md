@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-19 14:30:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-19 14:53:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川外国语大学附属小学校教师招聘](https://www.gongkaoleida.com/article/2404569)
+[西南大学国家治理学院人才招聘公告](https://www.gongkaoleida.com/article/2405865)
 
 [永久基本农田被垃圾掩埋 乡政府所谓整改仅是简单覆土](https://m.163.com/news/article/JVSFN4K20514R9OJ.html)
 
