@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-19 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-19 20:41:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南大学国家治理学院人才招聘公告](https://www.gongkaoleida.com/article/2405865)
+[重庆市区县事业单位2025年第二季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2407262)
 
-[永久基本农田被垃圾掩埋 乡政府所谓整改仅是简单覆土](https://m.163.com/news/article/JVSFN4K20514R9OJ.html)
+[集齐中国泳坛"老中青" 200自潘展乐力压汪顺孙杨夺冠](https://m.163.com/news/article/JVUQ0PCT0514R9P4.html)
 
-[年轻人接棒"中国大妈"炒金：有人近1个月已亏掉快3万](https://m.163.com/news/article/JVSF5S210519DDQ2.html)
+[男子38万卖江诗丹顿想抄底黄金 3小时后发现卡被冻结](https://m.163.com/news/article/JVU5RPPO0514R9OJ.html)
 
-[10岁女童被高空坠窗砸伤仍在抢救 涉事建筑玻璃窗拆除](https://m.163.com/news/article/JVSF35P40514R9OJ.html)
+[女子疑错过航班坐地哭喊耽误孩子考公 自称当事人发声](https://m.163.com/news/article/JVULOKQ30534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[CBA开罚单 杭州赛区、浙江广厦俱乐部、孙铭徽均被罚](https://m.163.com/news/article/JVSF9A9A0001899O.html)
+[茅台董事长张德芹：发自内心赞成公务接待不供酒新规](https://m.163.com/news/article/JVULUH9C0001899O.html)
 
 ---end---
