@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-20 20:41:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-20 21:21:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学电气工程学院量子智能传感器团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2408248)
+[金凤实验室宁可教授课题组招聘公告](https://www.gongkaoleida.com/article/2409681)
 
-[重庆一大学生掉化粪池遇难 官方通报](https://m.163.com/news/article/K00L2REJ0001899O.html)
+[落马厅官获刑11年3个月:盲目举债上项目 大搞权钱交易](https://m.163.com/news/article/K01AKB4G051492T3.html)
 
-[女演员疑戴230万耳环全套需2000万 品牌:图片难辨真伪](https://m.163.com/news/article/K00G4JON0550B6IS.html)
+[县水务局拍卖保护区内标段致合同终止 投资人起诉立案](https://m.163.com/news/article/K01BONF20534A4SC.html)
 
-[虞书欣家人被传涉"15亿官商勾结" 新余钢铁回应](https://m.163.com/news/article/K00E3NU000019K82.html)
+[过去1年多时间连续4任市长被查 昆明市委部署3年行动](https://m.163.com/news/article/K01B1M430530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[安徽凤阳鼓楼四周搭起围挡 居民:去年因漏水换了瓦片](https://m.163.com/news/article/K00DI1BB053469KC.html)
+[女子一年后搬回家总感觉闷热 一看阳台外12台空调外机](https://m.163.com/news/article/JVUM93IR0514R9OJ.html)
 
 ---end---
