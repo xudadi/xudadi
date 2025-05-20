@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-20 14:29:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-20 14:52:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆中医药学院2025年第二季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2407770)
+[重庆大学电气工程学院量子智能传感器团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2408248)
 
-[张核子"限高"次日被解除 前员工的执行款3个月未到账](https://m.163.com/news/article/K007AV8H0514R9P4.html)
+[重庆一大学生掉化粪池遇难 官方通报](https://m.163.com/news/article/K00L2REJ0001899O.html)
 
-[六大行存款降息 20万存3年利息少1500元](https://m.163.com/news/article/K006RR5I053469M5.html)
+[女演员疑戴230万耳环全套需2000万 品牌:图片难辨真伪](https://m.163.com/news/article/K00G4JON0550B6IS.html)
 
-[张德芹上任第二年 茅台股东会不喝飞天了](https://m.163.com/news/article/K005SQ4N0530KP1K.html)
+[虞书欣家人被传涉"15亿官商勾结" 新余钢铁回应](https://m.163.com/news/article/K00E3NU000019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[新冠感染"又抬头" 钟南山发声](https://m.163.com/news/article/K005E0D80550B6IS.html)
+[安徽凤阳鼓楼四周搭起围挡 居民:去年因漏水换了瓦片](https://m.163.com/news/article/K00DI1BB053469KC.html)
 
 ---end---
