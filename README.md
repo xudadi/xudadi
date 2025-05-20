@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-20 07:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-20 09:40:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市区县事业单位2025年第二季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2407262)
+[重庆中医药学院2025年第二季度公开招聘工作人员公告](https://www.gongkaoleida.com/article/2407770)
 
-[安徽灵璧住建局喊话公职人员快交物业费 律师：越界了](https://m.163.com/news/article/JVUL35PS05561G0D.html)
+[张核子"限高"次日被解除 前员工的执行款3个月未到账](https://m.163.com/news/article/K007AV8H0514R9P4.html)
 
-[女子唇部打针数日后一度进ICU抢救 治疗1年花费40余万](https://m.163.com/news/article/JVUNSEDB051492T3.html)
+[六大行存款降息 20万存3年利息少1500元](https://m.163.com/news/article/K006RR5I053469M5.html)
 
-[被落石砸中身亡司机酒精含量检测为阳性 家属：不认同](https://m.163.com/news/article/JVUVF7NV051492T3.html)
+[张德芹上任第二年 茅台股东会不喝飞天了](https://m.163.com/news/article/K005SQ4N0530KP1K.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[王楚钦赛后回应换球拍问题 称对组织办赛很失望](https://m.163.com/news/article/JVV1SBI20001899O.html)
+[新冠感染"又抬头" 钟南山发声](https://m.163.com/news/article/K005E0D80550B6IS.html)
 
 ---end---
