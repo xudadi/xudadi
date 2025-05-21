@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-21 19:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-21 20:40:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医药高等专科学校2025年第二季度考核招聘高层次和紧缺人才公告](https://www.gongkaoleida.com/article/2411018)
+[1523人!重庆新一批事业单位招聘来了→](https://www.gongkaoleida.com/article/2412036)
 
 [90后小伙一年卖出255辆宝马车 单月最高收入破17万元](https://m.163.com/news/article/K01QR5Q5051492T3.html)
 
