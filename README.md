@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-23 02:27:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-23 02:50:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆五一职业技术学院关于赴成都开展校园招聘公告](https://www.gongkaoleida.com/article/2413501)
+[重庆两江新区人才发展集团有限公司劳务派遣岗位招聘简章](https://www.gongkaoleida.com/article/2414134)
 
-[浙江余姚一处桥梁疑被货车压塌 当地：正在调查](https://m.163.com/news/article/K05TVTLV053469KC.html)
+[搞政治攀附的女贪官受审：收礼后安排他人将礼品出售](https://m.163.com/news/article/K06J4K8I051482MP.html)
 
-[74岁老人走失6日奇迹生还 家属：她说山上都是吃的](https://m.163.com/news/article/K05RASDV0534P59R.html)
+[李连杰时隔14年再演武侠 搭档吴京、谢霆锋](https://m.163.com/news/article/K064FT2S0530JPVV.html)
 
-[贵州省大方县果瓦乡发生山体滑坡 初步判断十余人被困](https://m.163.com/news/article/K05QKKK80001899O.html)
+[黄杨钿甜父亲涉嫌违规经营、在职期间生二孩 律师解读](https://m.163.com/news/article/K06HVRIS0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[长和再回应港口交易：在交易没被批准之前绝不会实施](https://m.163.com/news/article/K05PF1UH0512B07B.html)
+[高合汽车疑"复活" 知情人：正召回员工 预计工资打8折](https://m.163.com/news/article/K06PJGS20512B07B.html)
 
 ---end---
