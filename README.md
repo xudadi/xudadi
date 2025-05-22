@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-22 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-22 20:40:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学工业母机创新研究院劳务派遣技术人员招聘启事](https://www.gongkaoleida.com/article/2412682)
+[重庆五一职业技术学院关于赴成都开展校园招聘公告](https://www.gongkaoleida.com/article/2413501)
+
+[浙江余姚一处桥梁疑被货车压塌 当地：正在调查](https://m.163.com/news/article/K05TVTLV053469KC.html)
+
+[74岁老人走失6日奇迹生还 家属：她说山上都是吃的](https://m.163.com/news/article/K05RASDV0534P59R.html)
 
 [贵州省大方县果瓦乡发生山体滑坡 初步判断十余人被困](https://m.163.com/news/article/K05QKKK80001899O.html)
 
-[长和再回应港口交易：在交易没被批准之前绝不会实施](https://m.163.com/news/article/K05PF1UH0512B07B.html)
-
-[孤老去世留下300万房产 邻居要求分一半：我是干女儿](https://m.163.com/news/article/K05PBSOO055040N3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[销售员承诺帮办理按揭没办成 女子被拒退百万元首付款](https://m.163.com/news/article/K05NJ48I0514D3UH.html)
+[长和再回应港口交易：在交易没被批准之前绝不会实施](https://m.163.com/news/article/K05PF1UH0512B07B.html)
 
 ---end---
