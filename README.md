@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-22 13:52:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-22 14:29:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[1523人!重庆新一批事业单位招聘来了→](https://www.gongkaoleida.com/article/2412036)
+[重庆大学工业母机创新研究院劳务派遣技术人员招聘启事](https://www.gongkaoleida.com/article/2412682)
 
-[商户多收0.0036元被罚超2.7万倍：对方曾让我赔500元](https://m.163.com/news/article/K03QN8E60534P59R.html)
+[贵州省大方县果瓦乡发生山体滑坡 初步判断十余人被困](https://m.163.com/news/article/K05QKKK80001899O.html)
 
-["老公安"叶寒冰任上落马 曾牵头处理"钱云会案"等大案](https://m.163.com/news/article/K056O5P70530JPVV.html)
+[长和再回应港口交易：在交易没被批准之前绝不会实施](https://m.163.com/news/article/K05PF1UH0512B07B.html)
 
-[云南陆良县发生装载机致人伤亡事件 造成6死4伤](https://m.163.com/news/article/K03BG49A0001899O.html)
+[孤老去世留下300万房产 邻居要求分一半：我是干女儿](https://m.163.com/news/article/K05PBSOO055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[90后小伙一年卖出255辆宝马车 单月最高收入破17万元](https://m.163.com/news/article/K01QR5Q5051492T3.html)
+[销售员承诺帮办理按揭没办成 女子被拒退百万元首付款](https://m.163.com/news/article/K05NJ48I0514D3UH.html)
 
 ---end---
