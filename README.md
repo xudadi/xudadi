@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-24 02:26:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-24 02:49:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆经典物业管理有限公司招聘公告](https://www.gongkaoleida.com/article/2416124)
+[中国中信金融资产管理股份有限公司重庆分公司社会招聘启事](https://www.gongkaoleida.com/article/2416341)
 
-[曾用离婚逼周琦回国 周琦妻子再次发博回应后关闭账号](https://m.163.com/news/article/K088UBCV053469KC.html)
+[耳环事件后 黄杨钿甜父亲名下公司连夜变更法人](https://m.163.com/news/article/K088RU950550B6IS.html)
 
-[摩根大通董事长在华表态：美方不想脱钩](https://m.163.com/news/article/K0849R1G0514R9OJ.html)
+[媒体：黄杨钿甜的父亲入职动机和离职原因令人怀疑](https://m.163.com/news/article/K09DE3B400019B3E.html)
 
-["MCN总裁"卖号卖课收割变现 多位女总裁视频雷同撞脸](https://m.163.com/news/article/K085QQHJ0514D3UH.html)
+[工人泥尘满身乘地铁怕被嫌弃坐地上：人家会嫌埋汰](https://m.163.com/news/article/K088TN9L0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[潘展乐6天6金称“太累了”：状态不好 有点对不起队友](https://m.163.com/news/article/K085FQST0530JPVV.html)
+[女教师脑梗倒在讲台上智商退回3岁 丈夫为其花光积蓄](https://m.163.com/news/article/K06MGGN60514TTN3.html)
 
 ---end---
