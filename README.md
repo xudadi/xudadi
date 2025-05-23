@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-23 14:28:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-23 14:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司劳务派遣岗位招聘简章](https://www.gongkaoleida.com/article/2414134)
+[飞驶特人力外派至重庆市某国有企业岗位招聘启事](https://www.gongkaoleida.com/article/2414850)
 
-[雷军称"小米YU7没30多万下不了台" 未多介绍辅助驾驶](https://m.163.com/news/article/K074H94M0512B07B.html)
+[曾用离婚逼周琦回国 周琦妻子再次发博回应后关闭账号](https://m.163.com/news/article/K088UBCV053469KC.html)
 
-[女子买别墅办不了按揭开发商拒退124万首付 双方回应](https://m.163.com/news/article/K071E9RV0514D3UH.html)
+[摩根大通董事长在华表态：美方不想脱钩](https://m.163.com/news/article/K0849R1G0514R9OJ.html)
 
-[雷军发布3nm旗舰芯片 现场安检空前严格连纸都要寄存](https://m.163.com/news/article/K06KM1Q20519D3V1.html)
+["MCN总裁"卖号卖课收割变现 多位女总裁视频雷同撞脸](https://m.163.com/news/article/K085QQHJ0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[搞政治攀附的女贪官受审：收礼后安排他人将礼品出售](https://m.163.com/news/article/K06J4K8I051482MP.html)
+[潘展乐6天6金称“太累了”：状态不好 有点对不起队友](https://m.163.com/news/article/K085FQST0530JPVV.html)
 
 ---end---
