@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-23 07:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-23 09:39:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司劳务派遣岗位招聘简章](https://www.gongkaoleida.com/article/2414134)
 
-[搞政治攀附的女贪官受审：收礼后安排他人将礼品出售](https://m.163.com/news/article/K06J4K8I051482MP.html)
+[雷军称"小米YU7没30多万下不了台" 未多介绍辅助驾驶](https://m.163.com/news/article/K074H94M0512B07B.html)
 
-[李连杰时隔14年再演武侠 搭档吴京、谢霆锋](https://m.163.com/news/article/K064FT2S0530JPVV.html)
+[女子买别墅办不了按揭开发商拒退124万首付 双方回应](https://m.163.com/news/article/K071E9RV0514D3UH.html)
 
-[黄杨钿甜父亲涉嫌违规经营、在职期间生二孩 律师解读](https://m.163.com/news/article/K06HVRIS0530JPVV.html)
+[雷军发布3nm旗舰芯片 现场安检空前严格连纸都要寄存](https://m.163.com/news/article/K06KM1Q20519D3V1.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高合汽车疑"复活" 知情人：正召回员工 预计工资打8折](https://m.163.com/news/article/K06PJGS20512B07B.html)
+[搞政治攀附的女贪官受审：收礼后安排他人将礼品出售](https://m.163.com/news/article/K06J4K8I051482MP.html)
 
 ---end---
