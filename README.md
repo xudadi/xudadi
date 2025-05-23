@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-23 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-23 20:39:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[飞驶特人力外派至重庆市某国有企业岗位招聘启事](https://www.gongkaoleida.com/article/2414850)
+[重庆经典物业管理有限公司招聘公告](https://www.gongkaoleida.com/article/2416124)
 
 [曾用离婚逼周琦回国 周琦妻子再次发博回应后关闭账号](https://m.163.com/news/article/K088UBCV053469KC.html)
 
