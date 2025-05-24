@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-24 07:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-24 09:36:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [中国中信金融资产管理股份有限公司重庆分公司社会招聘启事](https://www.gongkaoleida.com/article/2416341)
 
-[耳环事件后 黄杨钿甜父亲名下公司连夜变更法人](https://m.163.com/news/article/K088RU950550B6IS.html)
+[27岁张照斌拟任县直部门正职引关注 本人回应](https://m.163.com/news/article/K0ACLNDN0530JPVV.html)
 
-[媒体：黄杨钿甜的父亲入职动机和离职原因令人怀疑](https://m.163.com/news/article/K09DE3B400019B3E.html)
+[四川警方：3人编造"因800元工资纵火"谣言信息被查处](https://m.163.com/news/article/K09FJNQM0514R9P4.html)
 
-[工人泥尘满身乘地铁怕被嫌弃坐地上：人家会嫌埋汰](https://m.163.com/news/article/K088TN9L0514R9P4.html)
+[“80后”姐弟被悬赏 赏金达174万元](https://m.163.com/news/article/K0ABMHLO0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女教师脑梗倒在讲台上智商退回3岁 丈夫为其花光积蓄](https://m.163.com/news/article/K06MGGN60514TTN3.html)
+[家长参加学校陪餐拍到绞肉机内有大量蛆虫 官方通报](https://m.163.com/news/article/K09NK5SI05561G0D.html)
 
 ---end---
