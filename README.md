@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-25 02:25:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-25 02:45:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [中国中信金融资产管理股份有限公司重庆分公司社会招聘启事](https://www.gongkaoleida.com/article/2416341)
-
-[内蒙古一地突降大雪多匹马被冻死 其中有一匹"半血马"](https://m.163.com/news/article/K0AIUFT905345ARG.html)
 
 ["河北骑行男孩身亡案"司机：我没案底 20万赔偿已退回](https://m.163.com/news/article/K09DHVCM053469KO.html)
 
 [27岁张照斌拟任县直部门正职引关注 本人回应](https://m.163.com/news/article/K0ACLNDN0530JPVV.html)
 
+[四川警方：3人编造"因800元工资纵火"谣言信息被查处](https://m.163.com/news/article/K09FJNQM0514R9P4.html)
+
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[四川警方：3人编造"因800元工资纵火"谣言信息被查处](https://m.163.com/news/article/K09FJNQM0514R9P4.html)
+[“80后”姐弟被悬赏 赏金达174万元](https://m.163.com/news/article/K0ABMHLO0550B6IS.html)
 
 ---end---
