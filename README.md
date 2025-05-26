@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-26 20:39:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-26 21:17:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区磁器口社区卫生服务中心关于党务宣传干事的招聘启事](https://www.gongkaoleida.com/article/2417984)
+[中国信达重庆分公司2025年招聘公告](https://www.gongkaoleida.com/article/2419933)
 
-[上海街头出现大量"栏杆刺客" 不少市民被刺伤很难清理](https://m.163.com/news/article/K0FPQML0055040N3.html)
+[男子新车被隔壁工地喷成"磨砂" 数十辆汽车也受到影响](https://m.163.com/news/article/K0FHTPN90534P59R.html)
 
-[正部级李薇薇受贿数额特别巨大 "双开"通报有罕见表述](https://m.163.com/news/article/K0FTBUMN055040N3.html)
+["地球边缘"龙头山大断崖被越野车留下"伤痕" 当地回应](https://m.163.com/news/article/K0G73A9D053469M5.html)
 
-[哪吒原CEO张勇4050万股权被冻结 此前被指已身在英国](https://m.163.com/news/article/K0FQB9L20530JPVV.html)
+[2艘国产航母更新"工作动态" 专家:福建舰快正式服役了](https://m.163.com/news/article/K0G738IL055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[正部级"女老虎"李微微被提起公诉](https://m.163.com/news/article/K0FPIDQM000189PS.html)
+[上海街头出现大量"栏杆刺客" 不少市民被刺伤很难清理](https://m.163.com/news/article/K0FPQML0055040N3.html)
 
 ---end---
