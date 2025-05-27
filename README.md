@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-28 02:26:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-28 02:50:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市江津保安服务有限公司派往重庆市江津区公安局警务辅助岗位工作人员2025年第二期招聘公告](https://www.gongkaoleida.com/article/2421895)
 
-[啃老女儿联合母亲诈骗邻居300万:給网游账号充值百万](https://m.163.com/news/article/K0JAJRD90514EGPO.html)
+[网红大桥下被指"圈起来收费"进去要交100元 当地回应](https://m.163.com/news/article/K0JGNGIJ0534P59R.html)
 
-[副部级"老虎"敛财过亿获死缓 曾称儿子结婚只摆酒7桌](https://m.163.com/news/article/K0J5M06I055040N3.html)
+[家长称12岁孩子因伤想退出孙继海青训营 被索赔18万](https://m.163.com/news/article/K0JESS5P053469M5.html)
 
-[坐牢8年后无罪释放 男子悬赏50万元寻27年前的"真凶"](https://m.163.com/news/article/K0J3GVEN0512D3VJ.html)
+[湖北名校连发两条"打假"声明:与另外两学校"划清界限"](https://m.163.com/news/article/K0J7TGRV0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[南方今年来最强降雨已开启 将波及10余省份](https://m.163.com/news/article/K0J7QIDQ0514R9OJ.html)
+[河南一地被指栽种大量成活率低的名贵树木 镇政府回应](https://m.163.com/news/article/K0JJL223051492T3.html)
 
 ---end---
