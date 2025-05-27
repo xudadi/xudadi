@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-27 20:41:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-27 21:21:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市大渡口区教育事业单位2025年面向大渡口籍应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2420543)
+[重庆市江津保安服务有限公司派往重庆市江津区公安局警务辅助岗位工作人员2025年第二期招聘公告](https://www.gongkaoleida.com/article/2421895)
 
-[女子网购明星同款保温杯遭遇"货款两空" 代购商发声](https://m.163.com/news/article/K0IOBCLO0514D3UH.html)
+[啃老女儿联合母亲诈骗邻居300万:給网游账号充值百万](https://m.163.com/news/article/K0JAJRD90514EGPO.html)
 
-[博主“以身饲蚊”走红 拍下蚊子吸血全过程进行科普](https://m.163.com/news/article/K0INFST30514D3UH.html)
+[副部级"老虎"敛财过亿获死缓 曾称儿子结婚只摆酒7桌](https://m.163.com/news/article/K0J5M06I055040N3.html)
 
-[王健林抛48座万达广场回款500亿 被执行总金额近76亿](https://m.163.com/news/article/K0H2K2B7051994KN.html)
+[坐牢8年后无罪释放 男子悬赏50万元寻27年前的"真凶"](https://m.163.com/news/article/K0J3GVEN0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[沈阳世茂希尔顿酒店将被拍卖 起拍价5.01亿元](https://m.163.com/news/article/K0IJI2GJ051492T3.html)
+[南方今年来最强降雨已开启 将波及10余省份](https://m.163.com/news/article/K0J7QIDQ0514R9OJ.html)
 
 ---end---
