@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-27 13:53:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-27 14:28:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长征重工有限责任公司诚聘英才](https://www.gongkaoleida.com/article/2420021)
+[重庆市大渡口区教育事业单位2025年面向大渡口籍应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2420543)
 
-[男子玩滑翔伞被吸至8598米高空生还 当事人近况被披露](https://m.163.com/news/article/K0HBHN8C0512B07B.html)
+[女子网购明星同款保温杯遭遇"货款两空" 代购商发声](https://m.163.com/news/article/K0IOBCLO0514D3UH.html)
 
-[四川复刻版"泰坦尼克号"开建11年仍未完工 投资人发声](https://m.163.com/news/article/K0GMFOJS0550B6IS.html)
+[博主“以身饲蚊”走红 拍下蚊子吸血全过程进行科普](https://m.163.com/news/article/K0INFST30514D3UH.html)
 
-[航行警告 南海实弹射击](https://m.163.com/news/article/K0G9SVE305198CJN.html)
+[王健林抛48座万达广场回款500亿 被执行总金额近76亿](https://m.163.com/news/article/K0H2K2B7051994KN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子新车被隔壁工地喷成"磨砂" 数十辆汽车也受到影响](https://m.163.com/news/article/K0FHTPN90534P59R.html)
+[沈阳世茂希尔顿酒店将被拍卖 起拍价5.01亿元](https://m.163.com/news/article/K0IJI2GJ051492T3.html)
 
 ---end---
