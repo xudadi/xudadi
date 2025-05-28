@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-28 07:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-28 09:40:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市江津保安服务有限公司派往重庆市江津区公安局警务辅助岗位工作人员2025年第二期招聘公告](https://www.gongkaoleida.com/article/2421895)
+[重庆城市职业学院2025年第一批非事业编制招聘工作人员简章](https://www.gongkaoleida.com/article/2422206)
 
 [网红大桥下被指"圈起来收费"进去要交100元 当地回应](https://m.163.com/news/article/K0JGNGIJ0534P59R.html)
 
