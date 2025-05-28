@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-28 19:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-28 20:40:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆泰山电缆有限公司招聘简章](https://www.gongkaoleida.com/article/2422736)
+[重庆财经职业学院2025年产业教师招聘简章](https://www.gongkaoleida.com/article/2423986)
 
-[男子滑翔至8000米高空全身结冰奇迹生还：好像失忆了](https://m.163.com/news/article/K0L79PBB055040N3.html)
+[高中生熄灯后宿舍讲话全寝被罚走读一周 校方：没连坐](https://m.163.com/news/article/K0LHNKU5051492T3.html)
 
-[估价超1亿元的汕头违建豪宅开拆 如今只剩四周围墙](https://m.163.com/news/article/K0L6BBKH051492T3.html)
+[知情人士:朱媛媛"捐眼角膜和所有遗产"等皆属臆想编造](https://m.163.com/news/article/K0LUG8850001899O.html)
 
-[中国香港将建立国际调解院 亚非拉欧近60国代表赴港](https://m.163.com/news/article/K0JTK68C0514R9OJ.html)
+[国务院安委会：对山东高密爆炸事故挂牌督办](https://m.163.com/news/article/K0LSNA0Q0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[学生把中性笔变"笔枪"：射程4米 能组装成AK47形状](https://m.163.com/news/article/K0KO8T88055040N3.html)
+[3名小学生闯入正装修别墅搞破坏 业主:家长带孩子道歉](https://m.163.com/news/article/K0LPMBE0051492T3.html)
 
 ---end---
