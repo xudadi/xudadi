@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-28 14:28:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-28 14:52:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院2025年第一批非事业编制招聘工作人员简章](https://www.gongkaoleida.com/article/2422206)
+[重庆泰山电缆有限公司招聘简章](https://www.gongkaoleida.com/article/2422736)
 
-[网红大桥下被指"圈起来收费"进去要交100元 当地回应](https://m.163.com/news/article/K0JGNGIJ0534P59R.html)
+[男子滑翔至8000米高空全身结冰奇迹生还：好像失忆了](https://m.163.com/news/article/K0L79PBB055040N3.html)
 
-[家长称12岁孩子因伤想退出孙继海青训营 被索赔18万](https://m.163.com/news/article/K0JESS5P053469M5.html)
+[估价超1亿元的汕头违建豪宅开拆 如今只剩四周围墙](https://m.163.com/news/article/K0L6BBKH051492T3.html)
 
-[湖北名校连发两条"打假"声明:与另外两学校"划清界限"](https://m.163.com/news/article/K0J7TGRV0514D3UH.html)
+[中国香港将建立国际调解院 亚非拉欧近60国代表赴港](https://m.163.com/news/article/K0JTK68C0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[河南一地被指栽种大量成活率低的名贵树木 镇政府回应](https://m.163.com/news/article/K0JJL223051492T3.html)
+[学生把中性笔变"笔枪"：射程4米 能组装成AK47形状](https://m.163.com/news/article/K0KO8T88055040N3.html)
 
 ---end---
