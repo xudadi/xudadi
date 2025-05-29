@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-30 02:27:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-30 02:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆财经职业学院2025年产业教师招聘简章](https://www.gongkaoleida.com/article/2423986)
 
-[国防部回应"赖清德拟跑路":"台独"首要分子想跑不可能](https://m.163.com/news/article/K0OF98L805129QAF.html)
+[网友举报男子带不同小孩在郑州地铁卖惨行乞 多方回应](https://m.163.com/news/article/K0OP2PF10514TTN3.html)
 
-[哪吒汽车上海总部LOGO被连夜拆除：工人还用刮刀清理](https://m.163.com/news/article/K0O3S2DH0530RMGL.html)
+[正部级毕井泉被查 7年前曾因长春长生疫苗案引咎辞职](https://m.163.com/news/article/K0ONQLCF05129QAF.html)
 
-[国务院任免21名干部 刚卸任副省长的女官员进京履新](https://m.163.com/news/article/K0OCFL7A055040N3.html)
+["迈巴赫少爷"父亲称不希望儿子继承家业:做生意很难的](https://m.163.com/news/article/K0OCU4120550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[00后女子接到陌生视频后直奔酒店开房 结果警察上门了](https://m.163.com/news/article/K0O5SQDI053469LG.html)
+[宇树科技完成股份制改造 或将启动IPO上市](https://m.163.com/news/article/K0OFER8E05129QAF.html)
 
 ---end---
