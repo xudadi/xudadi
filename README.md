@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-31 02:27:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-31 02:50:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
 
-[女子独游温岭疑看"蓝眼泪"失联 警方和救援队仍在搜救](https://m.163.com/news/article/K0QP96I305561G0D.html)
+[国务院：任命周霁为中央人民政府驻香港特别行政区联络办公室主任、香港特别行政区维护国家安全委员会国家安全事务顾问](https://m.163.com/news/article/K0RC6T490534A4SC.html)
 
-[小伙睡梦中被贷款5万：看手机在自己输密码头皮都麻了](https://m.163.com/news/article/K0QVLVTF0534P59R.html)
+[男子跳进兵马俑俑坑中 目击者：他还推倒了两尊兵马俑](https://m.163.com/news/article/K0R9CTPB053469LG.html)
 
-[男子21万卖掉劳力士 结果1点完成交易银行卡4点就被封](https://m.163.com/news/article/K0QV1TL00534P59R.html)
+[王毅出席国际调解院公约签署仪式 提及"六尺巷"典故](https://m.163.com/news/article/K0R9S9FI051482MP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[车辆失控坠桥致5人死亡 事发断头路已增高水泥桩护栏](https://m.163.com/news/article/K0QQPJGU05129QAF.html)
+[山东郓城一回收企业多人落入清洗池 已造成5死2危重](https://m.163.com/news/article/K0R9QEF60001899O.html)
 
 ---end---
