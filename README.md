@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-30 20:39:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-30 21:19:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆化工职业学院2025年第二季度非编人员招聘公告](https://www.gongkaoleida.com/article/2427090)
+[巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
 
-[网友举报男子带不同小孩在郑州地铁卖惨行乞 多方回应](https://m.163.com/news/article/K0OP2PF10514TTN3.html)
+[女子独游温岭疑看"蓝眼泪"失联 警方和救援队仍在搜救](https://m.163.com/news/article/K0QP96I305561G0D.html)
 
-[正部级毕井泉被查 7年前曾因长春长生疫苗案引咎辞职](https://m.163.com/news/article/K0ONQLCF05129QAF.html)
+[小伙睡梦中被贷款5万：看手机在自己输密码头皮都麻了](https://m.163.com/news/article/K0QVLVTF0534P59R.html)
 
-["迈巴赫少爷"父亲称不希望儿子继承家业:做生意很难的](https://m.163.com/news/article/K0OCU4120550B6IS.html)
+[男子21万卖掉劳力士 结果1点完成交易银行卡4点就被封](https://m.163.com/news/article/K0QV1TL00534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[宇树科技完成股份制改造 或将启动IPO上市](https://m.163.com/news/article/K0OFER8E05129QAF.html)
+[车辆失控坠桥致5人死亡 事发断头路已增高水泥桩护栏](https://m.163.com/news/article/K0QQPJGU05129QAF.html)
 
 ---end---
