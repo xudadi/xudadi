@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-30 14:28:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-30 14:52:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[关于2025年重医附二院医务处病案统计科编码员(编外)岗位招聘启事](https://www.gongkaoleida.com/article/2426336)
+[重庆化工职业学院2025年第二季度非编人员招聘公告](https://www.gongkaoleida.com/article/2427090)
 
 [网友举报男子带不同小孩在郑州地铁卖惨行乞 多方回应](https://m.163.com/news/article/K0OP2PF10514TTN3.html)
 
