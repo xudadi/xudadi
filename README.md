@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-01 02:25:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-01 02:46:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
 
-[重庆地铁发布调整价格信息 拟终结近20年的"2元时代"](https://m.163.com/news/article/K0TJEEM30514BE2Q.html)
+[因追忆已故女友的获奖感言感动全网 刘楚昕发布致谢信](https://m.163.com/news/article/K0TV7QJ2055040N3.html)
 
-[河南鹤壁一水库水位下降现千佛石窟：开凿于东魏时期](https://m.163.com/news/article/K0TH8IIA053469LG.html)
+[69岁正部级高官被查 半个多月前曾赴海南考察](https://m.163.com/news/article/K0T7RBQL0514BE2Q.html)
 
-[景区救人后朱迅有了新身份 "网红局长"为其颁发聘书](https://m.163.com/news/article/K0TD4I6V055040N3.html)
+[打破亚洲少年纪录 16岁小孩姐获亚锦赛女子200米冠军](https://m.163.com/news/article/K0TMNCVI0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国海警东沙舰现身黄岩岛](https://m.163.com/news/article/K0T6RRJ10514R9OJ.html)
+[端午节当天海南召开廉政教育会 省委书记在现场提要求](https://m.163.com/news/article/K0TKPV2I051482MP.html)
 
 ---end---
