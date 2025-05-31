@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-05-31 20:36:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-05-31 21:14:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
 
-[国务院：任命周霁为中央人民政府驻香港特别行政区联络办公室主任、香港特别行政区维护国家安全委员会国家安全事务顾问](https://m.163.com/news/article/K0RC6T490534A4SC.html)
+[重庆地铁发布调整价格信息 拟终结近20年的"2元时代"](https://m.163.com/news/article/K0TJEEM30514BE2Q.html)
 
-[男子跳进兵马俑俑坑中 目击者：他还推倒了两尊兵马俑](https://m.163.com/news/article/K0R9CTPB053469LG.html)
+[河南鹤壁一水库水位下降现千佛石窟：开凿于东魏时期](https://m.163.com/news/article/K0TH8IIA053469LG.html)
 
-[王毅出席国际调解院公约签署仪式 提及"六尺巷"典故](https://m.163.com/news/article/K0R9S9FI051482MP.html)
+[景区救人后朱迅有了新身份 "网红局长"为其颁发聘书](https://m.163.com/news/article/K0TD4I6V055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山东郓城一回收企业多人落入清洗池 已造成5死2危重](https://m.163.com/news/article/K0R9QEF60001899O.html)
+[中国海警东沙舰现身黄岩岛](https://m.163.com/news/article/K0T6RRJ10514R9OJ.html)
 
 ---end---
