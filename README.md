@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-02 01:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-02 02:25:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
 
-[因追忆已故女友的获奖感言感动全网 刘楚昕发布致谢信](https://m.163.com/news/article/K0TV7QJ2055040N3.html)
+[江苏十三太保把足球踢"出圈"：没有假球黑幕 全是恩怨](https://m.163.com/news/article/K104V2O105198R91.html)
 
-[69岁正部级高官被查 半个多月前曾赴海南考察](https://m.163.com/news/article/K0T7RBQL0514BE2Q.html)
+[八旬老人花105万买基金亏了30万状告银行 法院判了](https://m.163.com/news/article/K0VVGJ1D051492T3.html)
 
-[打破亚洲少年纪录 16岁小孩姐获亚锦赛女子200米冠军](https://m.163.com/news/article/K0TMNCVI0530JPVV.html)
+[宇宙区长孙连城扮演者带货 本人曾受党内严重警告处分](https://m.163.com/news/article/K0VTTE00053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[端午节当天海南召开廉政教育会 省委书记在现场提要求](https://m.163.com/news/article/K0TKPV2I051482MP.html)
+[43岁上海男子失业后开网约车拉外国人 收入翻三倍](https://m.163.com/news/article/K106BVTS0534P59R.html)
 
 ---end---
