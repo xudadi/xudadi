@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-02 13:45:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-02 14:30:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[巫山县2025年二季度公开考调事业单位工作人员公告](https://www.gongkaoleida.com/article/2428572)
+[重庆四联特种装备材料有限公司2025年公开招聘公告](https://www.gongkaoleida.com/article/2429284)
 
 [江苏十三太保把足球踢"出圈"：没有假球黑幕 全是恩怨](https://m.163.com/news/article/K104V2O105198R91.html)
 
