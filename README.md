@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-03 14:30:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-03 14:57:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆四联特种装备材料有限公司2025年公开招聘公告](https://www.gongkaoleida.com/article/2429284)
+[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事](https://www.gongkaoleida.com/article/2430202)
 
-[中纪委发布5月反腐月报：两名正部级"老虎"落马](https://m.163.com/news/article/K148KVLL055040N3.html)
+[外媒：中国多地宣布加强管控 严防战略矿产非法外流](https://m.163.com/news/article/K14NDKTQ0514BQ68.html)
 
-[李亚鹏否认丽江项目失败：2年卖了70个亿 赚肯定赚了](https://m.163.com/news/article/K138P386053469RG.html)
+[出逃整2个月的卡皮巴拉"豆包"回家了 没瘦还胖了1斤多](https://m.163.com/news/article/K14JGN0105345ARG.html)
 
-[经销商因销量惨淡关店 80多辆电动车被厂家远程锁死](https://m.163.com/news/article/K121S91O05567I2C.html)
+[香港恒生银行被打劫 劫匪手持30厘米长刀劫走38万港币](https://m.163.com/news/article/K14M3GCO0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[6岁女童被陌生男子拖进小巷 家长：男子被拘留15天](https://m.163.com/news/article/K1378D3I05149FJ6.html)
+[11人密集履新 中候补卢东亮任陕西省委副书记](https://m.163.com/news/article/K14K55A6055040N3.html)
 
 ---end---
