@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-03 07:51:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-03 09:42:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆四联特种装备材料有限公司2025年公开招聘公告](https://www.gongkaoleida.com/article/2429284)
 
-[大姐称买毛坯房屋里到处有裂缝 开发商：有问题去法院](https://m.163.com/news/article/K12N7CC60534P59R.html)
+[中纪委发布5月反腐月报：两名正部级"老虎"落马](https://m.163.com/news/article/K148KVLL055040N3.html)
 
-[上海女子独居3000万豪宅囤积垃圾 臭味弥漫难以下脚](https://m.163.com/news/article/K12QATVR053469LG.html)
+[李亚鹏否认丽江项目失败：2年卖了70个亿 赚肯定赚了](https://m.163.com/news/article/K138P386053469RG.html)
 
-[南昌两家"海湾石油"停业 房东:加油站老板欠1.3亿不给](https://m.163.com/news/article/K12J0VS9053469LG.html)
+[经销商因销量惨淡关店 80多辆电动车被厂家远程锁死](https://m.163.com/news/article/K121S91O05567I2C.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子不满女友提分手 深夜绳坠入室杀害女友兄嫂](https://m.163.com/news/article/K130F5Q005345ARG.html)
+[6岁女童被陌生男子拖进小巷 家长：男子被拘留15天](https://m.163.com/news/article/K1378D3I05149FJ6.html)
 
 ---end---
