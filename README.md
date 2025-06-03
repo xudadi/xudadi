@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-03 19:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-03 20:41:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事](https://www.gongkaoleida.com/article/2430202)
+[重庆飞驶特人力资源管理有限公司大足分公司招聘派遣制编外工作人员的招聘简章](https://www.gongkaoleida.com/article/2431502)
 
-[外媒：中国多地宣布加强管控 严防战略矿产非法外流](https://m.163.com/news/article/K14NDKTQ0514BQ68.html)
+[52岁女子立遗嘱十几万留给4只宠物狗 中华遗嘱库回应](https://m.163.com/news/article/K15DNFHR0514D3UH.html)
 
-[出逃整2个月的卡皮巴拉"豆包"回家了 没瘦还胖了1斤多](https://m.163.com/news/article/K14JGN0105345ARG.html)
+[深圳一女子从大厦高坠死亡 警方通报](https://m.163.com/news/article/K15DJDR90534A4SC.html)
 
-[香港恒生银行被打劫 劫匪手持30厘米长刀劫走38万港币](https://m.163.com/news/article/K14M3GCO0512B07B.html)
+[27岁女游客疑被蛇咬伤身亡 医院抢救3小时称"没经验"](https://m.163.com/news/article/K15D1MJV0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[11人密集履新 中候补卢东亮任陕西省委副书记](https://m.163.com/news/article/K14K55A6055040N3.html)
+[广西一20米长路段发生垮塌 4辆小车坠坑散落不少现金](https://m.163.com/news/article/K15A4D4405561G0D.html)
 
 ---end---
