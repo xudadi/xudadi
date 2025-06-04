@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-05 02:28:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-05 02:51:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市涪陵区国有企业2025年第二季度公开招聘控制数工作人员公告](https://www.gongkaoleida.com/article/2432959)
 
-[首个国产九价HPV疫苗获批上市 万泰生物打破外企垄断](https://m.163.com/news/article/K17UMT14051492T3.html)
+[湖南一砖厂疑用智障人员干体力活 每天12小时全年无休](https://m.163.com/news/article/K17U8PAH0550B6IS.html)
 
-[家长称5岁女儿在乐园游玩隐私部位受伤出血 乐园回应](https://m.163.com/news/article/K17U4B25051492T3.html)
+[樊振东远赴德国打球 俱乐部：给其的待遇绝非象征性的](https://m.163.com/news/article/K17SL2B40534P59R.html)
 
-[周渝民回应F4合体开演唱会为捞金：去问队友](https://m.163.com/news/article/K17S1V9I053469LG.html)
+[女子在三亚疑被蛇咬身亡事件 亲戚：遗体还保存在病房](https://m.163.com/news/article/K182N40V0550B6IS.html)
 
-[省道突然蹿出马撞碎小车前挡风玻璃 车主：交警未定责](https://m.163.com/news/article/K17VHPHU05561G0D.html)
+[3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南一公司涉嫌用智障人员从事体力劳动 警方通报](https://m.163.com/news/article/K17P9MT10534A4SC.html)
+[社区书记闹市飞车追撞女子两路人遭殃送医 警方已介入](https://m.163.com/news/article/K17V1E6B053469M5.html)
 
 ---end---
