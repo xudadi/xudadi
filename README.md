@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-04 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-04 20:41:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往大足区龙水湖旅游度假区发展中心行政辅助岗位招聘启事](https://www.gongkaoleida.com/article/2431621)
+[重庆市涪陵区国有企业2025年第二季度公开招聘控制数工作人员公告](https://www.gongkaoleida.com/article/2432959)
 
-[巡察组进驻后 55岁法院女院长任上被查](https://m.163.com/news/article/K176I4LL055040N3.html)
+[首个国产九价HPV疫苗获批上市 万泰生物打破外企垄断](https://m.163.com/news/article/K17UMT14051492T3.html)
 
-[反诈志愿者一脚踏进骗子陷阱 民警：这我真的说不过去](https://m.163.com/news/article/K12IH36N0514EGPO.html)
+[家长称5岁女儿在乐园游玩隐私部位受伤出血 乐园回应](https://m.163.com/news/article/K17U4B25051492T3.html)
 
-[亚朵酒店就出现医院枕套道歉：系洗涤供应商严重失误](https://m.163.com/news/article/K174VO0D0534A4SC.html)
+[周渝民回应F4合体开演唱会为捞金：去问队友](https://m.163.com/news/article/K17S1V9I053469LG.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[省道突然蹿出马撞碎小车前挡风玻璃 车主：交警未定责](https://m.163.com/news/article/K17VHPHU05561G0D.html)
 
-[卡地亚用户数据被泄露 品牌客服：消息属实 正在调查](https://m.163.com/news/article/K1745HF80512B07B.html)
+[湖南一公司涉嫌用智障人员从事体力劳动 警方通报](https://m.163.com/news/article/K17P9MT10534A4SC.html)
 
 ---end---
