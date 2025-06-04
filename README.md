@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-04 07:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-04 09:42:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学美视电影学院劳务派遣技术人员招聘启事](https://www.gongkaoleida.com/article/2431516)
+[派往大足区龙水湖旅游度假区发展中心行政辅助岗位招聘启事](https://www.gongkaoleida.com/article/2431621)
+
+[香港恒生银行抢劫案嫌疑人在深圳落网 还曾欲入室行窃](https://m.163.com/news/article/K15VDFLI05129QAF.html)
+
+[哈佛女孩硬凹寒门人设否认走后门 亲爹信息急删](https://m.163.com/news/article/K15EQNOB0550B6IS.html)
 
 [三亚27岁女游客疑被蛇咬伤身亡 卫健委通报](https://m.163.com/news/article/K15JE96T0001899O.html)
 
-[医调委回应女子三亚被毒蛇咬伤身亡:带蛇或拍照给医生](https://m.163.com/news/article/K15HMCMK0001899O.html)
-
-[网红歌手突发脑溢血昏迷20多天后离世 事发当天在直播](https://m.163.com/news/article/K15H05KA051492T3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[青海西丽高速200辆车因积雪被困 交警回应](https://m.163.com/news/article/K15EFM7N051492T3.html)
+[医调委回应女子三亚被毒蛇咬伤身亡:带蛇或拍照给医生](https://m.163.com/news/article/K15HMCMK0001899O.html)
 
 ---end---
