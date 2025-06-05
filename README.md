@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-05 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-05 20:41:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆新村幼教集团2025年教职工招聘启事](https://www.gongkaoleida.com/article/2434626)
+[重庆市沙坪坝区覃家岗金悦幼儿园招聘启事](https://www.gongkaoleida.com/article/2435073)
 
-[女子欠款1700万 法院悬赏170万寻求财产线索](https://m.163.com/news/article/K19RH8T2051492T3.html)
+[张雪峰168元高考预测卷被指漏洞百出 客服承认题错误](https://m.163.com/news/article/K1A58FBJ051492T3.html)
 
-[女子在三亚被不明物咬伤后身亡 海南省卫健委介入调查](https://m.163.com/news/article/K19J5D79053469KC.html)
+[女子被不明物咬伤身亡有涉事医生被停职 死亡记录公布](https://m.163.com/news/article/K1ADR397051492T3.html)
 
-[51岁林学茂被查 曾在电视上公开检讨](https://m.163.com/news/article/K19PHEUU055040N3.html)
+[航拍坍塌前后的太原太山博物馆：建筑倒塌 山体现大坑](https://m.163.com/news/article/K1A6KI37053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子被砖块砸中致十级伤残 物业拒赔偿：不知从何而来](https://m.163.com/news/article/K19MRI3B0514R9OJ.html)
+[三亚身亡女子堂姐:遗体用冰袋垫保存 体内有神经毒素](https://m.163.com/news/article/K1A8TGGN0514D3UH.html)
 
 ---end---
