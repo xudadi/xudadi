@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-05 14:30:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-05 14:57:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区国有企业2025年第二季度公开招聘控制数工作人员公告](https://www.gongkaoleida.com/article/2432959)
+[重庆新村幼教集团2025年教职工招聘启事](https://www.gongkaoleida.com/article/2434626)
 
-[国台办宣布惩戒“台独”顽固分子沈伯洋关联企业](https://m.163.com/news/article/K19CI8I20534A4SC.html)
+[女子欠款1700万 法院悬赏170万寻求财产线索](https://m.163.com/news/article/K19RH8T2051492T3.html)
 
-[公安机关悬赏通缉20名台湾"资通电军"首要嫌犯](https://m.163.com/news/article/K19AMIVS000189PS.html)
+[女子在三亚被不明物咬伤后身亡 海南省卫健委介入调查](https://m.163.com/news/article/K19J5D79053469KC.html)
 
-[家长请事假陪孩子高考被开除 起诉公司官司打到高院](https://m.163.com/news/article/K17F6KJN055040N3.html)
+[51岁林学茂被查 曾在电视上公开检讨](https://m.163.com/news/article/K19PHEUU055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体称娃哈哈已关停18家工厂 均非"宏胜系"公司](https://m.163.com/news/article/K17JKI870519DFFO.html)
+[男子被砖块砸中致十级伤残 物业拒赔偿：不知从何而来](https://m.163.com/news/article/K19MRI3B0514R9OJ.html)
 
 ---end---
