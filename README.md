@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-06 07:52:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-06 09:40:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市沙坪坝区覃家岗金悦幼儿园招聘启事](https://www.gongkaoleida.com/article/2435073)
 
-[张雪峰168元高考预测卷被指漏洞百出 客服承认题错误](https://m.163.com/news/article/K1A58FBJ051492T3.html)
+[媒体：史上最弱国足不配世界杯 对这一代球员是种解脱](https://m.163.com/news/article/K1BR9CF80514R9P4.html)
 
-[女子被不明物咬伤身亡有涉事医生被停职 死亡记录公布](https://m.163.com/news/article/K1ADR397051492T3.html)
+[国足0-1不敌印尼队 范志毅一度语塞：别给我踢成这样](https://m.163.com/news/article/K1BQU2CT0530JPVV.html)
 
-[航拍坍塌前后的太原太山博物馆：建筑倒塌 山体现大坑](https://m.163.com/news/article/K1A6KI37053469LG.html)
+[男子称在淘宝网买到"山寨"手机 要求"退一赔三"遭拒](https://m.163.com/news/article/K1AC57FP05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[三亚身亡女子堂姐:遗体用冰袋垫保存 体内有神经毒素](https://m.163.com/news/article/K1A8TGGN0514D3UH.html)
+[西子电梯总裁刘文超离世排除刑案](https://m.163.com/news/article/K1AMBTVT051492T3.html)
 
 ---end---
