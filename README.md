@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-06 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-06 20:40:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区覃家岗金悦幼儿园招聘启事](https://www.gongkaoleida.com/article/2435073)
+[四川美术学院考核招聘60名事业编制工作人员](https://www.gongkaoleida.com/article/2438257)
 
-[媒体：史上最弱国足不配世界杯 对这一代球员是种解脱](https://m.163.com/news/article/K1BR9CF80514R9P4.html)
+[黄杨钿甜父亲被传连夜从参股公司退股 市监局回应](https://m.163.com/news/article/K1D42JFC053469KC.html)
 
-[国足0-1不敌印尼队 范志毅一度语塞：别给我踢成这样](https://m.163.com/news/article/K1BQU2CT0530JPVV.html)
+[武汉大学发生伤人事件 警方通报](https://m.163.com/news/article/K1D3A7VQ0534A4SC.html)
 
-[男子称在淘宝网买到"山寨"手机 要求"退一赔三"遭拒](https://m.163.com/news/article/K1AC57FP05561G0D.html)
+["朱雀玄武敕令"将第3次高考:目标是本科 想读电力专业](https://m.163.com/news/article/K1D1505F051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[西子电梯总裁刘文超离世排除刑案](https://m.163.com/news/article/K1AMBTVT051492T3.html)
+[盘点中国十大毒蛇:榜首致死率超65% 银环蛇位居次席](https://m.163.com/news/article/K1CIC18N0550A0OW.html)
 
 ---end---
