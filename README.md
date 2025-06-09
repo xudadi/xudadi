@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-09 07:51:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-09 09:47:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川美术学院考核招聘60名事业编制工作人员](https://www.gongkaoleida.com/article/2438257)
+[重庆高新育才学校2025年教师招聘简章](https://www.gongkaoleida.com/article/2439198)
 
 [高考英语作文又是"李华"写信 名字被指不容易引起歧义](https://m.163.com/news/article/K1IEP06K0514BE2Q.html)
 
