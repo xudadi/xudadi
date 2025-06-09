@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-09 20:40:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-09 21:21:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆物流集团有限公司招聘公告](https://www.gongkaoleida.com/article/2439950)
+[重庆市徐悲鸿中学校校园招聘公告](https://www.gongkaoleida.com/article/2441281)
 
-[高考英语作文又是"李华"写信 名字被指不容易引起歧义](https://m.163.com/news/article/K1IEP06K0514BE2Q.html)
+[即将"谢幕" 王大雷：希望离开时将一切不好的全都带走](https://m.163.com/news/article/K1KR1E5J0514R9OJ.html)
 
-[外研社回应"孙颖莎出现在小学英语教材"：未最终定稿](https://m.163.com/news/article/K1ID9R0C00019SNS.html)
+[老伯为朋友借钱拿房子做担保被坑惨 22年打了9场官司](https://m.163.com/news/article/K1KRCIDR0514EGPO.html)
 
-[官方再回应"主持人替听众讨欠款遭嬉笑回怼":达成协议](https://m.163.com/news/article/K1ICDNFM053469LG.html)
+[广西柳州3名落水儿童已找到 无生命体征](https://m.163.com/news/article/K1KR8BN40001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江西回应投资3.5亿的博物馆闲置两年：将深入调查](https://m.163.com/news/article/K1IBOMN10534A4SC.html)
+[高以忱被查 曾任国家安全部副部长](https://m.163.com/news/article/K1KKR9RQ055040N3.html)
 
 ---end---
