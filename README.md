@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-10 13:53:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-10 14:29:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市徐悲鸿中学校校园招聘公告](https://www.gongkaoleida.com/article/2441281)
+[沙小幼儿园教育集团2025年招聘公告](https://www.gongkaoleida.com/article/2442756)
 
 [牛弩韬被双开:违规编印个人文集、拥有非上市公司股份](https://m.163.com/news/article/K1L3KCJC0512D3VJ.html)
 
