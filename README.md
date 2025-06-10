@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-11 01:52:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-11 02:28:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区教育事业单位2025年面向应届毕业公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2444444)
 
-[专业人士谈"苏超"球队能否战胜国足 称不能如此"碰瓷"](https://m.163.com/news/article/K1N72Q15053469M5.html)
+[爸爸替儿子看演唱会拿亲属证明被拦门外 属地文旅回应](https://m.163.com/news/article/K1NFP0SQ055040N3.html)
 
-[中央批准开除党籍的"内鬼"获刑7年：大搞权色钱色交易](https://m.163.com/news/article/K1NB14H6055040N3.html)
+[1比0点杀巴林 国足告别世预赛：避免小组垫底尴尬局面](https://m.163.com/news/article/K1NJ3U1G0514R9P4.html)
 
-[重庆一男子小区内尾随女童进电梯还进行拉拽 已被刑拘](https://m.163.com/news/article/K1N7BL5B0534A4SC.html)
+[要倒闭的店被一条留言"救活" 店主希望网友不要再下单](https://m.163.com/news/article/K1NI59B10514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[辽宁舰、山东舰航母编队赴西太平洋等海域开展训练](https://m.163.com/news/article/K1N7HO490001899O.html)
+[一款薄荷色LABUBU被拍出108万 客服：已经成交](https://m.163.com/news/article/K1ND8FR30511U82T.html)
 
 ---end---
