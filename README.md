@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-10 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-10 20:41:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[沙小幼儿园教育集团2025年招聘公告](https://www.gongkaoleida.com/article/2442756)
+[重庆市永川区教育事业单位2025年面向应届毕业公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2444444)
 
-[牛弩韬被双开:违规编印个人文集、拥有非上市公司股份](https://m.163.com/news/article/K1L3KCJC0512D3VJ.html)
+[专业人士谈"苏超"球队能否战胜国足 称不能如此"碰瓷"](https://m.163.com/news/article/K1N72Q15053469M5.html)
 
-["恒大系"12笔不良债权摆上货架 债权总额约113亿元](https://m.163.com/news/article/K1KV3OAD0514R9P4.html)
+[中央批准开除党籍的"内鬼"获刑7年：大搞权色钱色交易](https://m.163.com/news/article/K1NB14H6055040N3.html)
 
-[在面馆接受客户宴请 银行两名客户经理各被罚款3000元](https://m.163.com/news/article/K1KPUI910534P59R.html)
+[重庆一男子小区内尾随女童进电梯还进行拉拽 已被刑拘](https://m.163.com/news/article/K1N7BL5B0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[即将"谢幕" 王大雷：希望离开时将一切不好的全都带走](https://m.163.com/news/article/K1KR1E5J0514R9OJ.html)
+[辽宁舰、山东舰航母编队赴西太平洋等海域开展训练](https://m.163.com/news/article/K1N7HO490001899O.html)
 
 ---end---
