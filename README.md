@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-12 02:29:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-12 02:52:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [长江师范学院2025年科研助理招聘启事](https://www.gongkaoleida.com/article/2446297)
 
-[上海名校毕业生私生活炸裂 靠偷钱包3年旅行120多次](https://m.163.com/news/article/K1ORE9IE053469LG.html)
+[52岁男子将本科毕业:1家4口都在上学 读书是为了卖书](https://m.163.com/news/article/K1Q7CGKR051492T3.html)
 
-[小区B3层火灾揭秘密：对业主封闭 却暗停数百辆外来车](https://m.163.com/news/article/K1OQ436O0534P59R.html)
+[高考后挑行李回家的女生：妈妈快60岁了 没让她陪考](https://m.163.com/news/article/K1PNF0MB053469LG.html)
 
-[上海一顶级豪宅超30万元每平刷新纪录 引起不小轰动](https://m.163.com/news/article/K1NG9C7L0512B07B.html)
+[广州一楼盘卖出"县城价":单价从4.1万/㎡跌到1.1万/㎡](https://m.163.com/news/article/K1Q6KDAU00019B3E.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[苏超回应"足协要来指导"传言：没有的事 假的](https://m.163.com/news/article/K1PFHHRS0550A0OW.html)
+[65岁惠英红疑因名字接到京东代言 网友：好朴实的商战](https://m.163.com/news/article/K1PSAR7F053469LG.html)
 
 ---end---
