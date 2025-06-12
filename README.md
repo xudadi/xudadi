@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-12 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-12 20:40:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往大足区人民法院聘用制司法警察招聘启事](https://www.gongkaoleida.com/article/2447278)
+[重庆大学化学化工学院科研团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2448863)
 
-[52岁男子将本科毕业:1家4口都在上学 读书是为了卖书](https://m.163.com/news/article/K1Q7CGKR051492T3.html)
+[国家铁路局局长费东斌被查 一周前曾出席会议](https://m.163.com/news/article/K1SGPAS8051482MP.html)
 
-[高考后挑行李回家的女生：妈妈快60岁了 没让她陪考](https://m.163.com/news/article/K1PNF0MB053469LG.html)
+[国家铁路局党组书记、局长费东斌被查](https://m.163.com/news/article/K1SDQ74A000189PS.html)
 
-[广州一楼盘卖出"县城价":单价从4.1万/㎡跌到1.1万/㎡](https://m.163.com/news/article/K1Q6KDAU00019B3E.html)
+[海底捞盯上打工人的午餐 上线22元工作日自助](https://m.163.com/news/article/K1S6T0TN0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[65岁惠英红疑因名字接到京东代言 网友：好朴实的商战](https://m.163.com/news/article/K1PSAR7F053469LG.html)
+["困在轮椅上"的女孩在音乐节被高高举起:我好像重生了](https://m.163.com/news/article/K1S5KUOM053469M5.html)
 
 ---end---
