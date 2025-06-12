@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-12 14:30:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-12 14:53:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆凯美特航运有限公司招聘公告](https://www.gongkaoleida.com/article/2446986)
+[派往大足区人民法院聘用制司法警察招聘启事](https://www.gongkaoleida.com/article/2447278)
 
 [52岁男子将本科毕业:1家4口都在上学 读书是为了卖书](https://m.163.com/news/article/K1Q7CGKR051492T3.html)
 
