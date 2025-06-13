@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-13 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-13 09:42:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学化学化工学院科研团队劳务派遣科研助理招聘启事](https://www.gongkaoleida.com/article/2448863)
+[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章](https://www.gongkaoleida.com/article/2449116)
 
-["亚洲最大医院"原院长阚全程落马:开启扩张的黄金十年](https://m.163.com/news/article/K1S4A8HF0514BE2Q.html)
+[三姐妹给父亲上坟被炸身亡 亲大伯预埋"炸弹"炸死她们](https://m.163.com/news/article/K1SAJ23N05561G0D.html)
 
-[前国奥队员踢"苏超"：不到30岁退役 感觉大家记起我了](https://m.163.com/news/article/K1SLJIDN051492T3.html)
+[实习医生举报医疗腐败后坠楼身亡 湖南省卫健委回应](https://m.163.com/news/article/K1SVFN5J05149FJ6.html)
 
-[国家铁路局局长费东斌被查 一周前曾出席会议](https://m.163.com/news/article/K1SGPAS8051482MP.html)
+[民警拦截冲卡轿车被顶行600余米摔至路面 仍昏迷不醒](https://m.163.com/news/article/K1SH75SK0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国家铁路局党组书记、局长费东斌被查](https://m.163.com/news/article/K1SDQ74A000189PS.html)
+["亚洲最大医院"原院长阚全程落马:开启扩张的黄金十年](https://m.163.com/news/article/K1S4A8HF0514BE2Q.html)
 
 ---end---
