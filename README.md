@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-13 14:29:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-13 14:53:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章](https://www.gongkaoleida.com/article/2449116)
+[重庆医科大学附属第二医院关于2025年重医附二院后勤管理处工作人员(编外)招聘启事](https://www.gongkaoleida.com/article/2449923)
 
 [三姐妹给父亲上坟被炸身亡 亲大伯预埋"炸弹"炸死她们](https://m.163.com/news/article/K1SAJ23N05561G0D.html)
 
