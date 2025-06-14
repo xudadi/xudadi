@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-14 07:51:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-14 09:39:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[凯欣粮油有限公司及所属子企业招聘公告](https://www.gongkaoleida.com/article/2451132)
+[重庆空港人力资源管理有限公司招聘简章](https://www.gongkaoleida.com/article/2451464)
 
 [泡泡玛特摆件被当废品丢弃 租户起诉保洁员索赔2万元](https://m.163.com/news/article/K1UJIFR0051492T3.html)
 
