@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-14 13:52:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-14 14:26:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆空港人力资源管理有限公司招聘简章](https://www.gongkaoleida.com/article/2451464)
+[重庆发展资产经营有限公司2025年上半年员工公开招聘简章](https://www.gongkaoleida.com/article/2451507)
 
 [泡泡玛特摆件被当废品丢弃 租户起诉保洁员索赔2万元](https://m.163.com/news/article/K1UJIFR0051492T3.html)
 
@@ -25,6 +25,6 @@
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[罗帅宇大伯：举报材料有11.6斤 在他宿舍发现打斗痕迹](https://m.163.com/news/article/K1V8DG4S05561G0D.html)
+[中国足协单方终止与伊万合作 东亚杯将由新帅带队](https://m.163.com/news/article/K1V5SPBJ05198CJN.html)
 
 ---end---
