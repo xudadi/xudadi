@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-17 01:52:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-17 02:28:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [​重庆飞驶特人力资源管理有限公司大足分公司派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2454790)
 
-[原中央委员罗保铭被公诉：利用职权大操大办丧事](https://m.163.com/news/article/K265AL16055040N3.html)
+[上海年轻人爱上租地种菜：100平方米菜地年租金1999元](https://m.163.com/news/article/K26V64SN055040N3.html)
 
-[武汉警方通报28岁男子离家爬山后失联：已无生命体征](https://m.163.com/news/article/K268Q7F80001899O.html)
+[河南一男子称发视频反映村干部家占道 遭对方上门殴打](https://m.163.com/news/article/K26US8VC053469LG.html)
 
-[湖南临澧一烟花厂发生爆炸 已造成2人失联9人受伤](https://m.163.com/news/article/K266LTLD0001899O.html)
+[广西又打一"虎" 最后一次出现在公开报道是出席掼蛋赛](https://m.163.com/news/article/K26NO7QC05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[“70后”卢东亮当选山西省省长](https://m.163.com/news/article/K264DBE10001899N.html)
+[2名公职人员被关后仍领取6.3万工资 详情披露](https://m.163.com/news/article/K26L1FTT053469LG.html)
 
 ---end---
