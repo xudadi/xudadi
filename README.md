@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-16 14:31:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-16 14:58:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆空港人力资源管理有限公司招聘简章](https://www.gongkaoleida.com/article/2451464)
+[重庆市呵护您保安服务有限公司面向社会公开招聘劳务派遣人员简章](https://www.gongkaoleida.com/article/2453229)
 
-[海南通报：干部违规接受有偿陪侍 酒后驾车出事故被抓](https://m.163.com/news/article/K25L34E20514R9P4.html)
+[武汉警方通报28岁男子离家爬山后失联：已无生命体征](https://m.163.com/news/article/K268Q7F80001899O.html)
 
-[小伙感觉心悸打车后连打3个电话"超强自救" 本人发声](https://m.163.com/news/article/K23JOQEJ051492T3.html)
+[湖南临澧一烟花厂发生爆炸 已造成2人失联9人受伤](https://m.163.com/news/article/K266LTLD0001899O.html)
 
-[苏超排面"杀疯了":"十三太保"家家有舰 13舰齐齐助阵](https://m.163.com/news/article/K24DCHR30519DDQ2.html)
+[“70后”卢东亮当选山西省省长](https://m.163.com/news/article/K264DBE10001899N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女洞穴潜水员失联23天遗体被找到 其潜友送医后身亡](https://m.163.com/news/article/K24F80LM05345ARG.html)
+[湖南一花炮厂发生爆炸 有员工躲水沟里被炸飞石块砸头](https://m.163.com/news/article/K26498GQ0001899O.html)
 
 ---end---
