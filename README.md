@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-17 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-17 09:43:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[​重庆飞驶特人力资源管理有限公司大足分公司派往重庆市大足区数字化城市管理中心信息采集员招聘启事](https://www.gongkaoleida.com/article/2454790)
+[重庆国资大数据智能科技有限公司2025年市场化招聘专业人才公告](https://www.gongkaoleida.com/article/2455522)
 
-[上海年轻人爱上租地种菜：100平方米菜地年租金1999元](https://m.163.com/news/article/K26V64SN055040N3.html)
+[41岁交警被醉驾车顶行600米重摔在地 昏迷12天后牺牲](https://m.163.com/news/article/K287DSL4053469LG.html)
 
-[河南一男子称发视频反映村干部家占道 遭对方上门殴打](https://m.163.com/news/article/K26US8VC053469LG.html)
+[优衣库门店回应"滤镜"：是普通镜子 色差由于光的折射](https://m.163.com/news/article/K285RG9V05345ARG.html)
 
-[广西又打一"虎" 最后一次出现在公开报道是出席掼蛋赛](https://m.163.com/news/article/K26NO7QC05129QAF.html)
+[罗马仕召回超49万台移动电源 极端场景下或有燃烧风险](https://m.163.com/news/article/K284KVPR0519C6T9.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[2名公职人员被关后仍领取6.3万工资 详情披露](https://m.163.com/news/article/K26L1FTT053469LG.html)
+[七旬父亲欲用两套房换儿子一声"爸爸" 儿子拒不接受](https://m.163.com/news/article/K26QNV1E0512EFR8.html)
 
 ---end---
