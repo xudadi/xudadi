@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-18 02:28:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-18 02:51:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市万州区人力资源和社会保障局重庆市万州区教育委员会关于万州区2025年面向区外公开遴选教师的公告](https://www.gongkaoleida.com/article/2457669)
 
-[驻伊朗使馆提醒在伊中国公民尽快回国](https://m.163.com/news/article/K299DP7L0514R9OJ.html)
+[湖南烟花厂爆炸目击者:天空升起蘑菇云 汽车行驶失控](https://m.163.com/news/article/K29O99NS055040N3.html)
 
-[罗马仕召回超49万台存隐患的充电宝 涉及型号仍在销售](https://m.163.com/news/article/K295V9ES0514D3UH.html)
+[男童呕吐送医遭漏诊身亡 首诊医生被刑拘院方赔146万](https://m.163.com/news/article/K29J666B05561G0D.html)
 
-[新疆乌孙古道一匹断腿马被遗弃饿得皮包骨 当地回应](https://m.163.com/news/article/K292QJB1053469M5.html)
+[八旬老人诊断胃炎被以癌症切全胃 警方不立案院方回应](https://m.163.com/news/article/K29I026O05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[副机长称举报潜规则被降级维权6年未果 南航回应](https://m.163.com/news/article/K2946P6605561G0D.html)
+[神秘买家460万拍下一清代合院后想悔拍 拍卖机构回应](https://m.163.com/news/article/K29HULTN051492T3.html)
 
 ---end---
