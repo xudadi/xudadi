@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-17 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-17 20:41:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆渝润能源服务有限公司招聘启事](https://www.gongkaoleida.com/article/2456177)
+[重庆市万州区人力资源和社会保障局重庆市万州区教育委员会关于万州区2025年面向区外公开遴选教师的公告](https://www.gongkaoleida.com/article/2457669)
 
-[上海九院"大叔合唱团"火了：成员首先是副高以上职称](https://m.163.com/news/article/K28OS64M0550A0OW.html)
+[驻伊朗使馆提醒在伊中国公民尽快回国](https://m.163.com/news/article/K299DP7L0514R9OJ.html)
 
-[中国新一代载人飞船"梦舟"零高度逃逸飞行试验成功](https://m.163.com/news/article/K28S0T2P0001899O.html)
+[罗马仕召回超49万台存隐患的充电宝 涉及型号仍在销售](https://m.163.com/news/article/K295V9ES0514D3UH.html)
 
-[深圳一小区房屋沉降 亲历者：突然发生还以为是地震了](https://m.163.com/news/article/K28Q2IFR0534P59R.html)
+[新疆乌孙古道一匹断腿马被遗弃饿得皮包骨 当地回应](https://m.163.com/news/article/K292QJB1053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南临澧烟花厂爆炸事故已致9人遇难、26人受伤](https://m.163.com/news/article/K28P77CK0534A4SC.html)
+[副机长称举报潜规则被降级维权6年未果 南航回应](https://m.163.com/news/article/K2946P6605561G0D.html)
 
 ---end---
