@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-17 14:29:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-17 14:53:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆国资大数据智能科技有限公司2025年市场化招聘专业人才公告](https://www.gongkaoleida.com/article/2455522)
+[重庆飞驶特人力资源管理有限公司外派至重庆渝润能源服务有限公司招聘启事](https://www.gongkaoleida.com/article/2456177)
 
-[41岁交警被醉驾车顶行600米重摔在地 昏迷12天后牺牲](https://m.163.com/news/article/K287DSL4053469LG.html)
+[上海九院"大叔合唱团"火了：成员首先是副高以上职称](https://m.163.com/news/article/K28OS64M0550A0OW.html)
 
-[优衣库门店回应"滤镜"：是普通镜子 色差由于光的折射](https://m.163.com/news/article/K285RG9V05345ARG.html)
+[中国新一代载人飞船"梦舟"零高度逃逸飞行试验成功](https://m.163.com/news/article/K28S0T2P0001899O.html)
 
-[罗马仕召回超49万台移动电源 极端场景下或有燃烧风险](https://m.163.com/news/article/K284KVPR0519C6T9.html)
+[深圳一小区房屋沉降 亲历者：突然发生还以为是地震了](https://m.163.com/news/article/K28Q2IFR0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[七旬父亲欲用两套房换儿子一声"爸爸" 儿子拒不接受](https://m.163.com/news/article/K26QNV1E0512EFR8.html)
+[湖南临澧烟花厂爆炸事故已致9人遇难、26人受伤](https://m.163.com/news/article/K28P77CK0534A4SC.html)
 
 ---end---
