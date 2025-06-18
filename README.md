@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-18 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-18 20:41:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市长寿区教育事业单位面向2025年应届毕业农村小学全科教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2458530)
+[2025年重庆·凤鸣山中学教共体教师招聘简章](https://www.gongkaoleida.com/article/2460146)
 
-[女硕士被"复旦医学博士"男友骗财骗色5年 损失近百万](https://m.163.com/news/article/K2BDV5NT0514R9OJ.html)
+[川籍工人谈在以处境：导弹常半夜突袭 每晚睡三四小时](https://m.163.com/news/article/K2BP265T0514D3UH.html)
 
-[催收公司忽悠开锁小哥骚扰债务人家属 开锁小哥发声](https://m.163.com/news/article/K29FTUN2053469LG.html)
+[广东一地水位破70年极值 有居民连夜上街敲锣提醒](https://m.163.com/news/article/K2BP09S2051492T3.html)
 
-[李国庆将再婚女方为其北大校友张丹红 请柬内容披露](https://m.163.com/news/article/K2BA37B305561G0D.html)
+[大学生找公司代写论文反被索要"封口费" 警方回应](https://m.163.com/news/article/K2BMHL4D053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子修山路时售卖炸落石头 被判非法采矿罪获刑9个月](https://m.163.com/news/article/K2B1LRDV0514R9P4.html)
+[6旬退休外交官夫妇徒步回老家 8天走了200公里](https://m.163.com/news/article/K2BLFSOK051492T3.html)
 
 ---end---
