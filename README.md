@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-18 13:54:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-18 14:29:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万州区人力资源和社会保障局重庆市万州区教育委员会关于万州区2025年面向区外公开遴选教师的公告](https://www.gongkaoleida.com/article/2457669)
+[重庆市长寿区教育事业单位面向2025年应届毕业农村小学全科教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2458530)
 
-[海口通报网传"男子将孩童关铁笼中"：不存在拐骗情况](https://m.163.com/news/article/K2ANCIVC0512D3VJ.html)
+[女硕士被"复旦医学博士"男友骗财骗色5年 损失近百万](https://m.163.com/news/article/K2BDV5NT0514R9OJ.html)
 
-[救护车转运重症患儿800公里收费28000元 卫健委回应](https://m.163.com/news/article/K29MG2E0053469LG.html)
+[催收公司忽悠开锁小哥骚扰债务人家属 开锁小哥发声](https://m.163.com/news/article/K29FTUN2053469LG.html)
 
-[湖南烟花厂爆炸目击者:天空升起蘑菇云 汽车行驶失控](https://m.163.com/news/article/K29O99NS055040N3.html)
+[李国庆将再婚女方为其北大校友张丹红 请柬内容披露](https://m.163.com/news/article/K2BA37B305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男童呕吐送医遭漏诊身亡 首诊医生被刑拘院方赔146万](https://m.163.com/news/article/K29J666B05561G0D.html)
+[男子修山路时售卖炸落石头 被判非法采矿罪获刑9个月](https://m.163.com/news/article/K2B1LRDV0514R9P4.html)
 
 ---end---
