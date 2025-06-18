@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-19 02:29:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-19 02:52:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2025年重庆·凤鸣山中学教共体教师招聘简章](https://www.gongkaoleida.com/article/2460146)
 
-[川籍工人谈在以处境：导弹常半夜突袭 每晚睡三四小时](https://m.163.com/news/article/K2BP265T0514D3UH.html)
+[广东怀集出现55.22米洪峰水位 洪水已漫入周边居民楼](https://m.163.com/news/article/K2BOJ7H50512B07B.html)
 
-[广东一地水位破70年极值 有居民连夜上街敲锣提醒](https://m.163.com/news/article/K2BP09S2051492T3.html)
+[李雪琴方回应被举报财务问题称"法院见" 举报人发声](https://m.163.com/news/article/K2C641ID0550A0OW.html)
 
-[大学生找公司代写论文反被索要"封口费" 警方回应](https://m.163.com/news/article/K2BMHL4D053469M5.html)
+[男子参加越野赛前在西藏失联已9天 家人悬赏10万寻人](https://m.163.com/news/article/K2C1RJ4H053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[6旬退休外交官夫妇徒步回老家 8天走了200公里](https://m.163.com/news/article/K2BLFSOK051492T3.html)
+[江苏大剧院回应工作人员不当言论：停止其所有工作](https://m.163.com/news/article/K2C1RJ3I053469LG.html)
 
 ---end---
