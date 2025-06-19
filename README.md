@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-19 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-19 20:41:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆红海永川分公司面向社会公开招聘机关单位派遣员工简章](https://www.gongkaoleida.com/article/2460865)
+[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司外派至重庆汇人数智科技有限公司信息技术岗招聘启事](https://www.gongkaoleida.com/article/2462227)
 
-[男子18年前劫杀女孩后潜逃 被抓时已有车有房有儿有女](https://m.163.com/news/article/K2DHQ8VK051492LM.html)
+[江苏一水上乐园回应"女士穿比基尼可免门票":全网下架](https://m.163.com/news/article/K2EFM5P40550B6IS.html)
 
-[农村女孩考上985大学博士:10岁养父去世 邻居接力抚养](https://m.163.com/news/article/K2BDT10P0514R9OJ.html)
+[傅园慧1小时游泳课被10万拍下:含1小时私教、合影签名](https://m.163.com/news/article/K2EEIL9V0550B6IS.html)
 
-[湖北一医院被指过度医疗 抽查发现其整体手术率超90%](https://m.163.com/news/article/K2C9F7A60519DFFO.html)
+[李雪琴方被指将1400万转别公司账户 后者收款4天注销](https://m.163.com/news/article/K2E9FA9N0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[有消息称江铃福特将并入长安福特 各方回应](https://m.163.com/news/article/K2DI3GJ2051481US.html)
+[湖北任命2名副省长 省级政府领导班子近期密集调整](https://m.163.com/news/article/K2E96FHU055040N3.html)
 
 ---end---
