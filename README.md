@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-19 13:54:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-19 14:30:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆邮电大学幼儿园幼儿教师招聘启事](https://www.gongkaoleida.com/article/2460436)
+[重庆红海永川分公司面向社会公开招聘机关单位派遣员工简章](https://www.gongkaoleida.com/article/2460865)
 
-[17岁患白血病男生离世 同学们曾在病房外举牌约定归期](https://m.163.com/news/article/K2BPKSE2051492T3.html)
+[男子18年前劫杀女孩后潜逃 被抓时已有车有房有儿有女](https://m.163.com/news/article/K2DHQ8VK051492LM.html)
 
-[女子买上海3000万元的豪宅 交房2年未办下不动产权证](https://m.163.com/news/article/K2C9J5770512B07B.html)
+[农村女孩考上985大学博士:10岁养父去世 邻居接力抚养](https://m.163.com/news/article/K2BDT10P0514R9OJ.html)
 
-[广东怀集出现55.22米洪峰水位 洪水已漫入周边居民楼](https://m.163.com/news/article/K2BOJ7H50512B07B.html)
+[湖北一医院被指过度医疗 抽查发现其整体手术率超90%](https://m.163.com/news/article/K2C9F7A60519DFFO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[李雪琴方回应被举报财务问题称"法院见" 举报人发声](https://m.163.com/news/article/K2C641ID0550A0OW.html)
+[有消息称江铃福特将并入长安福特 各方回应](https://m.163.com/news/article/K2DI3GJ2051481US.html)
 
 ---end---
