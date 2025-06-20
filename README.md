@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-20 14:29:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-20 14:53:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司外派至重庆汇人数智科技有限公司信息技术岗招聘启事](https://www.gongkaoleida.com/article/2462227)
+[重庆三峡职业学院2025年上半年考核招聘事业单位工作人员公告(第二批)](https://www.gongkaoleida.com/article/2463374)
 
 [平台回应"大三女生乘网约车被猥亵"](https://m.163.com/news/article/K2EPFA1N051492T3.html)
 
