@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-21 02:27:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-21 02:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆财经职业学院2025年第二季度非事业编制工作人员招聘简章(第二批)](https://www.gongkaoleida.com/article/2465127)
 
+[38岁抗癌博主离世 生前称不当网红只为赚钱治病](https://m.163.com/news/article/K2H9DR4H051492T3.html)
+
+[女子被查酒驾自称人大代表 已被当地责令辞去代表职务](https://m.163.com/news/article/K2H3KE5S053469LG.html)
+
 [湖南一村支书深夜洪水中喊话"不要睡觉" 当事人发声](https://m.163.com/news/article/K2H31GQ2053469LG.html)
-
-[台湾男子吃口回锅肉洒泪 发帖不到24小时找到成都亲人](https://m.163.com/news/article/K2H5P3JI051492T3.html)
-
-[老人被毒蛇咬伤附近养蛇场被传有五步蛇出逃 官方回应](https://m.163.com/news/article/K2GV2BU7051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[校外企业违规挪树致北语教授在清华被砸身亡 公司回应](https://m.163.com/news/article/K2GVAIJ0053469LG.html)
+[台湾男子吃口回锅肉洒泪 发帖不到24小时找到成都亲人](https://m.163.com/news/article/K2H5P3JI051492T3.html)
 
 ---end---
