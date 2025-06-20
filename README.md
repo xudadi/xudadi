@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-20 20:41:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-20 21:20:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆三峡职业学院2025年上半年考核招聘事业单位工作人员公告(第二批)](https://www.gongkaoleida.com/article/2463374)
+[重庆财经职业学院2025年第二季度非事业编制工作人员招聘简章(第二批)](https://www.gongkaoleida.com/article/2465127)
 
-[平台回应"大三女生乘网约车被猥亵"](https://m.163.com/news/article/K2EPFA1N051492T3.html)
+[湖南一村支书深夜洪水中喊话"不要睡觉" 当事人发声](https://m.163.com/news/article/K2H31GQ2053469LG.html)
 
-[男演员没戏拍兼职699元陪爬泰山 本人最新回应](https://m.163.com/news/article/K2EN0RR1051492T3.html)
+[台湾男子吃口回锅肉洒泪 发帖不到24小时找到成都亲人](https://m.163.com/news/article/K2H5P3JI051492T3.html)
 
-[四川一水库水位下降再现"水下佛国" 佛像石狮栩栩如生](https://m.163.com/news/article/K2EGIA3N051492T3.html)
+[老人被毒蛇咬伤附近养蛇场被传有五步蛇出逃 官方回应](https://m.163.com/news/article/K2GV2BU7051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏一水上乐园回应"女士穿比基尼可免门票":全网下架](https://m.163.com/news/article/K2EFM5P40550B6IS.html)
+[校外企业违规挪树致北语教授在清华被砸身亡 公司回应](https://m.163.com/news/article/K2GVAIJ0053469LG.html)
 
 ---end---
