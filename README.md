@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-23 19:50:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-23 20:42:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市杨家坪中学2025年教师招聘公告](https://www.gongkaoleida.com/article/2467086)
+[重庆市渝北区龙兴幼儿园2025秋季招聘启事](https://www.gongkaoleida.com/article/2469073)
 
-[抗战胜利80周年纪念活动总体安排明天发布](https://m.163.com/news/article/K2O5DB4U0001899O.html)
+[10人在云南网红"野景点"河道露营 一早醒来被洪水包围](https://m.163.com/news/article/K2OIQFOF051492T3.html)
 
-[王思聪退出山东泰安官宣总投资37亿元项目 何猷君接盘](https://m.163.com/news/article/K2O2UUPS0512B07B.html)
+[文远知行被传已秘密提交香港上市申请](https://m.163.com/news/article/K2OIQFOC051492T3.html)
 
-[95岁离休干部获刑5年 被认定为恶势力团伙"首要分子"](https://m.163.com/news/article/K2O10DQ30514D3J0.html)
+[陈奕迅女儿陈康堤出道 签约华纳将推出首支英文单曲](https://m.163.com/news/article/K2OSJ41B0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山东医生张军桥在非洲勇救不相识落水者牺牲 年仅38岁](https://m.163.com/news/article/K2NNOUDO053469LG.html)
+[外交部副部长孙卫东已兼任部机关党委书记](https://m.163.com/news/article/K2OH02SG0514R9P4.html)
 
 ---end---
