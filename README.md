@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-23 07:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-23 09:49:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆财经职业学院2025年第二季度非事业编制工作人员招聘简章(第二批)](https://www.gongkaoleida.com/article/2465127)
 
-[常州"苏超"五连败被"剃光头" 当地一景区推"光头免票"](https://m.163.com/news/article/K2LG1RSR053469M5.html)
+[6旬阿姨急着烧晚饭把骗子晾一边 166万理财存款保住了](https://m.163.com/news/article/K2LBMOTP0534P59R.html)
 
-[许家印前妻花超5亿港元购伦敦33套豪宅 系2022年购入](https://m.163.com/news/article/K2LKVHTM051492T3.html)
+[中方代表在安理会谴责美国袭击伊朗](https://m.163.com/news/article/K2NKSVVB000189PS.html)
 
-[公司副总亲自送货被压倒身亡 官方发布事故调查报告](https://m.163.com/news/article/K2K3256500019K82.html)
+[翻译资格考试天津考点出现排错考场情况 考务热线回应](https://m.163.com/news/article/K2MA4O0B051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[28岁男子强奸并杀害7岁女童被执行死刑 女童家属发声](https://m.163.com/news/article/K2LHGMNS051492T3.html)
+[与渐冻症抗争第6年 蔡磊称单基因渐冻症药物实现突破](https://m.163.com/news/article/K2MJ17O50530JPVV.html)
 
 ---end---
