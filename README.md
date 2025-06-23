@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-24 01:53:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-24 02:29:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市渝北区龙兴幼儿园2025秋季招聘启事](https://www.gongkaoleida.com/article/2469073)
 
@@ -25,6 +25,6 @@
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[外交部副部长孙卫东已兼任部机关党委书记](https://m.163.com/news/article/K2OH02SG0514R9P4.html)
+["扁担女孩"暑期在餐厅做凉粉 因围观的人太多不能摆摊](https://m.163.com/news/article/K2OOAJBP051492T3.html)
 
 ---end---
