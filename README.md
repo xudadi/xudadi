@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-23 14:32:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-23 14:58:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆财经职业学院2025年第二季度非事业编制工作人员招聘简章(第二批)](https://www.gongkaoleida.com/article/2465127)
+[重庆市杨家坪中学2025年教师招聘公告](https://www.gongkaoleida.com/article/2467086)
 
-[6旬阿姨急着烧晚饭把骗子晾一边 166万理财存款保住了](https://m.163.com/news/article/K2LBMOTP0534P59R.html)
+[抗战胜利80周年纪念活动总体安排明天发布](https://m.163.com/news/article/K2O5DB4U0001899O.html)
 
-[中方代表在安理会谴责美国袭击伊朗](https://m.163.com/news/article/K2NKSVVB000189PS.html)
+[王思聪退出山东泰安官宣总投资37亿元项目 何猷君接盘](https://m.163.com/news/article/K2O2UUPS0512B07B.html)
 
-[翻译资格考试天津考点出现排错考场情况 考务热线回应](https://m.163.com/news/article/K2MA4O0B051492T3.html)
+[95岁离休干部获刑5年 被认定为恶势力团伙"首要分子"](https://m.163.com/news/article/K2O10DQ30514D3J0.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[与渐冻症抗争第6年 蔡磊称单基因渐冻症药物实现突破](https://m.163.com/news/article/K2MJ17O50530JPVV.html)
+[山东医生张军桥在非洲勇救不相识落水者牺牲 年仅38岁](https://m.163.com/news/article/K2NNOUDO053469LG.html)
 
 ---end---
