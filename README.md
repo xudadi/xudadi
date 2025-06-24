@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-24 19:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-24 20:41:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市第一实验中学校财务人员招聘启事](https://www.gongkaoleida.com/article/2470197)
+[武隆法院2025年度公开招聘聘用制书记员公告](https://www.gongkaoleida.com/article/2471582)
 
-[10人在云南网红"野景点"河道露营 一早醒来被洪水包围](https://m.163.com/news/article/K2OIQFOF051492T3.html)
+[68岁"老虎"被判死缓退休3年被查 正部级老领导已落马](https://m.163.com/news/article/K2RC83UP055040N3.html)
 
-[文远知行被传已秘密提交香港上市申请](https://m.163.com/news/article/K2OIQFOC051492T3.html)
+[31岁女孩从美国来杭寻亲 第一次亲子鉴定结果出来了](https://m.163.com/news/article/K2RGI4DV051492LM.html)
 
-[陈奕迅女儿陈康堤出道 签约华纳将推出首支英文单曲](https://m.163.com/news/article/K2OSJ41B0514D3UH.html)
+[国务院任免国家工作人员：苗得雨任外交部副部长](https://m.163.com/news/article/K2R9UVC30534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["扁担女孩"暑期在餐厅做凉粉 因围观的人太多不能摆摊](https://m.163.com/news/article/K2OOAJBP051492T3.html)
+[非法收受财物超1亿 湖南政协原副主席戴道晋被判死缓](https://m.163.com/news/article/K2R73SSV000189PS.html)
 
 ---end---
