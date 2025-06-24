@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-25 01:54:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-25 02:28:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [武隆法院2025年度公开招聘聘用制书记员公告](https://www.gongkaoleida.com/article/2471582)
 
-[68岁"老虎"被判死缓退休3年被查 正部级老领导已落马](https://m.163.com/news/article/K2RC83UP055040N3.html)
+[“卡车悬桥上”获救司机：感觉路面下沉 赶紧踩刹车](https://m.163.com/news/article/K2RJBAVF051492T3.html)
 
-[31岁女孩从美国来杭寻亲 第一次亲子鉴定结果出来了](https://m.163.com/news/article/K2RGI4DV051492LM.html)
+[河南一水务公司被当地"赖账"38个月 起诉索赔5.78亿元](https://m.163.com/news/article/K2RN09OS0514D3UH.html)
 
-[国务院任免国家工作人员：苗得雨任外交部副部长](https://m.163.com/news/article/K2R9UVC30534A4SC.html)
+[男子岷江溺水被两人接力救起 7岁时曾遇车祸死里逃生](https://m.163.com/news/article/K2RLQJNS051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[非法收受财物超1亿 湖南政协原副主席戴道晋被判死缓](https://m.163.com/news/article/K2R73SSV000189PS.html)
+[四川一车辆爆胎致1死2伤 监控显示有人被直接弹飞在地](https://m.163.com/news/article/K2RLQJNO051492T3.html)
 
 ---end---
