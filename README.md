@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-24 14:31:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-24 14:58:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区龙兴幼儿园2025秋季招聘启事](https://www.gongkaoleida.com/article/2469073)
+[派往重庆市第一实验中学校财务人员招聘启事](https://www.gongkaoleida.com/article/2470197)
 
 [10人在云南网红"野景点"河道露营 一早醒来被洪水包围](https://m.163.com/news/article/K2OIQFOF051492T3.html)
 
