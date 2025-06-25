@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-25 20:42:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-25 21:24:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[武隆法院2025年度公开招聘聘用制书记员公告](https://www.gongkaoleida.com/article/2471582)
+[重庆大学学术道德专委会办公室劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2473981)
 
-[千年武则天无字碑花费500万"加盖"引发质疑 官方回应](https://m.163.com/news/article/K2TA3JLS053469KC.html)
+[与汪峰节目牵手引猜测 宁静谈择偶标准：他不是我的菜](https://m.163.com/news/article/K2U3VG5F051492T3.html)
 
-[高考611分女生体检不合格恐无法入学 辽宁省残联回应](https://m.163.com/news/article/K2T82OFH053469LG.html)
+[广西一加油站地基被洪水冲垮 收费处房屋陷落滚滚榕江](https://m.163.com/news/article/K2TVI5EU05561G0D.html)
 
-[40亩工业用地上开起供3000人就餐酒楼 3年前已被处罚](https://m.163.com/news/article/K2RDPITG05561G0D.html)
+[广东一饭店米饭免费老人每天打米饭配酱油吃 店主发声](https://m.163.com/news/article/K2TUTU5O05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[1.3亿保交楼资金入账便被划扣 招行被福州住建局通报](https://m.163.com/news/article/K2T70TNO0001899O.html)
+[吉林一高速突现"夺命"钢丝绳 00后小伙生日差点变忌日](https://m.163.com/news/article/K2U04T410550B6IS.html)
 
 ---end---
