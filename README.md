@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-25 14:31:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-25 14:57:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [武隆法院2025年度公开招聘聘用制书记员公告](https://www.gongkaoleida.com/article/2471582)
 
-[户外团队在内蒙古高山草甸挖沟烧烤 镇政府：将处罚](https://m.163.com/news/article/K2R2VDNB05345ARG.html)
+[千年武则天无字碑花费500万"加盖"引发质疑 官方回应](https://m.163.com/news/article/K2TA3JLS053469KC.html)
 
-[北京市税务局：退休金无需缴纳个人所得税](https://m.163.com/news/article/K2ROED8R0512D3VJ.html)
+[高考611分女生体检不合格恐无法入学 辽宁省残联回应](https://m.163.com/news/article/K2T82OFH053469LG.html)
 
-[柳江上游出现锑浓度异常 广西柳州启动应急响应](https://m.163.com/news/article/K2SP2SBI0001899O.html)
+[40亩工业用地上开起供3000人就餐酒楼 3年前已被处罚](https://m.163.com/news/article/K2RDPITG05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[落马副市长收受近百万元高档烟酒 催生当地购销灰产](https://m.163.com/news/article/K2QUTENU055040N3.html)
+[1.3亿保交楼资金入账便被划扣 招行被福州住建局通报](https://m.163.com/news/article/K2T70TNO0001899O.html)
 
 ---end---
