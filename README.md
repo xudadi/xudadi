@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-26 02:29:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-26 02:53:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学学术道德专委会办公室劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2473981)
 
-[与汪峰节目牵手引猜测 宁静谈择偶标准：他不是我的菜](https://m.163.com/news/article/K2U3VG5F051492T3.html)
+[坐着轮椅进考场圆梦高考 四川渐冻症考生考了400分](https://m.163.com/news/article/K2U2ONDT051492T3.html)
 
-[广西一加油站地基被洪水冲垮 收费处房屋陷落滚滚榕江](https://m.163.com/news/article/K2TVI5EU05561G0D.html)
+[脑瘫男孩高考601分：希望大家能够尊重身边的特殊群体](https://m.163.com/news/article/K2TUHRUC053469LG.html)
 
-[广东一饭店米饭免费老人每天打米饭配酱油吃 店主发声](https://m.163.com/news/article/K2TUTU5O05561G0D.html)
+[泰国女子掉进沥青桶全身卡住，连桶一起送往医院](https://m.163.com/news/article/K2TP19DB0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[吉林一高速突现"夺命"钢丝绳 00后小伙生日差点变忌日](https://m.163.com/news/article/K2U04T410550B6IS.html)
+[洪水侵袭后的贵州村超赛场：淤泥超25厘米厚 多人清淤](https://m.163.com/news/article/K2TP02U1053469M5.html)
 
 ---end---
