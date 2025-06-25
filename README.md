@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-25 07:51:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-25 09:44:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [武隆法院2025年度公开招聘聘用制书记员公告](https://www.gongkaoleida.com/article/2471582)
 
-[“卡车悬桥上”获救司机：感觉路面下沉 赶紧踩刹车](https://m.163.com/news/article/K2RJBAVF051492T3.html)
+[户外团队在内蒙古高山草甸挖沟烧烤 镇政府：将处罚](https://m.163.com/news/article/K2R2VDNB05345ARG.html)
 
-[河南一水务公司被当地"赖账"38个月 起诉索赔5.78亿元](https://m.163.com/news/article/K2RN09OS0514D3UH.html)
+[北京市税务局：退休金无需缴纳个人所得税](https://m.163.com/news/article/K2ROED8R0512D3VJ.html)
 
-[男子岷江溺水被两人接力救起 7岁时曾遇车祸死里逃生](https://m.163.com/news/article/K2RLQJNS051492T3.html)
+[柳江上游出现锑浓度异常 广西柳州启动应急响应](https://m.163.com/news/article/K2SP2SBI0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[四川一车辆爆胎致1死2伤 监控显示有人被直接弹飞在地](https://m.163.com/news/article/K2RLQJNO051492T3.html)
+[落马副市长收受近百万元高档烟酒 催生当地购销灰产](https://m.163.com/news/article/K2QUTENU055040N3.html)
 
 ---end---
