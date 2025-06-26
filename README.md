@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-26 14:30:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-26 14:58:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆七中（重大附中）教共体公开招聘公告](https://www.gongkaoleida.com/article/2474303)
+[重庆市某央企招聘简章](https://www.gongkaoleida.com/article/2475039)
 
-[女子"假"结婚后再婚被前夫起诉重婚：相关部门都不改](https://m.163.com/news/article/K2VEE9Q00514R9P4.html)
+[男子为补贴家用打工 结果儿媳一算发现其背上15万贷款](https://m.163.com/news/article/K2VCQCRO0534P59R.html)
 
-[网上兼职"被当老板"名下公司难撤销 大学生起诉市监局](https://m.163.com/news/article/K2VCG1PM0514R9P4.html)
+[网友反映企业偷排致农田污染后接到威胁电话 官方回应](https://m.163.com/news/article/K2VPLLHA0534P59R.html)
 
-[走私毒品超1吨 特大毒品犯罪案被告人李静波被判死刑](https://m.163.com/news/article/K2TKOVTB0534A4SC.html)
+[民航局：禁止旅客携带无3C标识的充电宝乘坐境内航班](https://m.163.com/news/article/K2VU6II50534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[涉嫌诈骗罪 "救助百名弃婴的道禄和尚"被绍兴警方带走](https://m.163.com/news/article/K2UAOG200512B07B.html)
+[警方通报"道禄和尚被查"：善款大多用于个人高消费](https://m.163.com/news/article/K2VS9A4D0534A4SC.html)
 
 ---end---
