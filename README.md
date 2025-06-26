@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-26 07:52:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-26 09:42:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学学术道德专委会办公室劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2473981)
+[重庆七中（重大附中）教共体公开招聘公告](https://www.gongkaoleida.com/article/2474303)
 
-[坐着轮椅进考场圆梦高考 四川渐冻症考生考了400分](https://m.163.com/news/article/K2U2ONDT051492T3.html)
+[女子"假"结婚后再婚被前夫起诉重婚：相关部门都不改](https://m.163.com/news/article/K2VEE9Q00514R9P4.html)
 
-[脑瘫男孩高考601分：希望大家能够尊重身边的特殊群体](https://m.163.com/news/article/K2TUHRUC053469LG.html)
+[网上兼职"被当老板"名下公司难撤销 大学生起诉市监局](https://m.163.com/news/article/K2VCG1PM0514R9P4.html)
 
-[泰国女子掉进沥青桶全身卡住，连桶一起送往医院](https://m.163.com/news/article/K2TP19DB0534P59R.html)
+[走私毒品超1吨 特大毒品犯罪案被告人李静波被判死刑](https://m.163.com/news/article/K2TKOVTB0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[洪水侵袭后的贵州村超赛场：淤泥超25厘米厚 多人清淤](https://m.163.com/news/article/K2TP02U1053469M5.html)
+[涉嫌诈骗罪 "救助百名弃婴的道禄和尚"被绍兴警方带走](https://m.163.com/news/article/K2UAOG200512B07B.html)
 
 ---end---
