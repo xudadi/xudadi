@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-26 20:41:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-26 21:22:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市某央企招聘简章](https://www.gongkaoleida.com/article/2475039)
+[渝北区腾芳幼儿园招聘启事](https://www.gongkaoleida.com/article/2476117)
 
 [男子为补贴家用打工 结果儿媳一算发现其背上15万贷款](https://m.163.com/news/article/K2VCQCRO0534P59R.html)
 
