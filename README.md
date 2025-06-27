@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-27 07:51:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-27 09:44:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区腾芳幼儿园招聘启事](https://www.gongkaoleida.com/article/2476117)
 
-[男子为补贴家用打工 结果儿媳一算发现其背上15万贷款](https://m.163.com/news/article/K2VCQCRO0534P59R.html)
+[溢价率达379.6% 河北网红公司1.1亿深圳"抢楼"后悔拍](https://m.163.com/news/article/K320DPLT0512B07B.html)
 
-[网友反映企业偷排致农田污染后接到威胁电话 官方回应](https://m.163.com/news/article/K2VPLLHA0534P59R.html)
+[75万采购防火墙实为普通路由器 近2个月后校方再回应](https://m.163.com/news/article/K311CQA6053469LG.html)
 
-[民航局：禁止旅客携带无3C标识的充电宝乘坐境内航班](https://m.163.com/news/article/K2VU6II50534A4SC.html)
+[隐居深山10年后61岁韦唯重返舞台：我险些失去了生命](https://m.163.com/news/article/K31SMPG6055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[警方通报"道禄和尚被查"：善款大多用于个人高消费](https://m.163.com/news/article/K2VS9A4D0534A4SC.html)
+[审计署披露:山西一职工1岁工作22岁退休领69万养老金](https://m.163.com/news/article/K30DJC0F0550B6IS.html)
 
 ---end---
