@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-27 19:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-27 20:40:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝小学教共体招聘教师](https://www.gongkaoleida.com/article/2477022)
+[西南证券股份有限公司招聘公告](https://www.gongkaoleida.com/article/2478642)
 
-[男子外出打工失联29年 80岁母亲苦盼儿归：就想见一面](https://m.163.com/news/article/K30K2ML7051492T3.html)
+[深交所：拟将主板风险警示股票价格的涨跌幅限制比例调整为10%](https://m.163.com/news/article/K32R643I0534A4SC.html)
 
-[前员工偷拍6岁女孩照片用作背景图 西贝发布致歉声明](https://m.163.com/news/article/K32GP87C0001899O.html)
+[王化回应网传"小米前总监"大瓜：该人曾入职小米食堂](https://m.163.com/news/article/K32LOG6R0530JPVV.html)
 
-[治安管理处罚法修订完成 未成年人行拘执行条件有调整](https://m.163.com/news/article/K32CPDD0000189PS.html)
+[商务部：美方将取消对华一系列限制性措施](https://m.163.com/news/article/K32MM4Q00001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[吉大学生因宿舍太热支帐篷过夜 校方称暂时无法装空调](https://m.163.com/news/article/K30Q6S420512D3VJ.html)
+[女子通过跨省转运治疗重获生机：9小时从江西驶向上海](https://m.163.com/news/article/K311MFHU05345ARG.html)
 
 ---end---
