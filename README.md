@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-28 13:53:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-28 14:27:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南证券股份有限公司招聘公告](https://www.gongkaoleida.com/article/2478642)
+[沙坪坝区第一实验小学校幼儿教师招聘公告](https://www.gongkaoleida.com/article/2479148)
 
-[深交所：拟将主板风险警示股票价格的涨跌幅限制比例调整为10%](https://m.163.com/news/article/K32R643I0534A4SC.html)
+[女厅官任上被查 其前任因受贿洗钱于去年3月落马](https://m.163.com/news/article/K34QL07Q0530JPVV.html)
 
-[王化回应网传"小米前总监"大瓜：该人曾入职小米食堂](https://m.163.com/news/article/K32LOG6R0530JPVV.html)
+[老人被毒蛇咬伤病情逐渐恶化 家人艰难决定：放弃治疗](https://m.163.com/news/article/K34NVG0K051492T3.html)
 
-[商务部：美方将取消对华一系列限制性措施](https://m.163.com/news/article/K32MM4Q00001899O.html)
+[父亲背了12年的儿子高考624分：将继续背他上大学](https://m.163.com/news/article/K33MHPH70514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子通过跨省转运治疗重获生机：9小时从江西驶向上海](https://m.163.com/news/article/K311MFHU05345ARG.html)
+[两干部同日被查 其中一人8年前被记过处分](https://m.163.com/news/article/K34MHI9S0530JPVV.html)
 
 ---end---
