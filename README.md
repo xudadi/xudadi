@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-28 19:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-28 20:37:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [沙坪坝区第一实验小学校幼儿教师招聘公告](https://www.gongkaoleida.com/article/2479148)
 
-[女厅官任上被查 其前任因受贿洗钱于去年3月落马](https://m.163.com/news/article/K34QL07Q0530JPVV.html)
+[一家三口遭同村男子持刀砍死 凶手被鉴定为精神分裂](https://m.163.com/news/article/K3574SD8051492T3.html)
 
-[老人被毒蛇咬伤病情逐渐恶化 家人艰难决定：放弃治疗](https://m.163.com/news/article/K34NVG0K051492T3.html)
+["错换人生28年案"养母起诉生母:为何姚策到北京3天离世](https://m.163.com/news/article/K356VP1U0514BE2Q.html)
 
-[父亲背了12年的儿子高考624分：将继续背他上大学](https://m.163.com/news/article/K33MHPH70514D3UH.html)
+[东方航空原董事长刘绍勇接受审查调查](https://m.163.com/news/article/K34TVK7K0001899O.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[女子带罕见病儿子开网约车 有乘客偷偷留下1万元现金](https://m.163.com/news/article/K32U7MEF0514D3UH.html)
 
-[两干部同日被查 其中一人8年前被记过处分](https://m.163.com/news/article/K34MHI9S0530JPVV.html)
+[新规来了："被打还手即互殴"成历史](https://m.163.com/news/article/K34SA9NC0512D3VJ.html)
 
 ---end---
