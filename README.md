@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-30 01:51:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-30 02:26:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [沙坪坝区第一实验小学校幼儿教师招聘公告](https://www.gongkaoleida.com/article/2479148)
 
-[耗资24亿的古城4年亏损超10亿 当地：确实有决策失误](https://m.163.com/news/article/K34D6QUG055040N3.html)
+[食客用5万微信转款在店铺换现金 随后诉店家欠债不还](https://m.163.com/news/article/K37T4F5M05561G0D.html)
 
-[47岁派出所长因公殉职 曾伪装成吸毒人员抓毒贩](https://m.163.com/news/article/K35SDNN1051492T3.html)
+[养母病逝后养父消沉 63岁儿子带103岁养父游历山河](https://m.163.com/news/article/K38N7BVF053469LG.html)
 
-[小米YU7爆火后雷军发声:不会沾沾自喜 会继续谨言慎行](https://m.163.com/news/article/K35LHSGG0512B07B.html)
+[女子举报"前公婆资产近亿" 前公婆首次面对媒体发声](https://m.163.com/news/article/K380743I0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[风暴后的罗马仕：遭监管部门上门询问 充电宝业务暂停](https://m.163.com/news/article/K34RKBNV05198R91.html)
+["朱雀玄武敕令"发声：想通过改名引发关注 黑红也是红](https://m.163.com/news/article/K38H3B1S053469M5.html)
 
 ---end---
