@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-01 02:28:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-01 02:52:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆医科大学附属第二医院关于2025年重医附二院精准医学中心科研助理(编外)岗位招聘启事](https://www.gongkaoleida.com/article/2482287)
 
-[女子买房在院子里挖出疑似人骨 物业：人骨已有20年了](https://m.163.com/news/article/K3AAC8QM0534P59R.html)
+[甘肃菜农在陕西承包90座大棚几近绝收：遭断水、抢菜](https://m.163.com/news/article/K3AI9NIA00019B3E.html)
 
-[兄弟从诈骗团伙借850万后被起诉 无力偿还2400万获刑](https://m.163.com/news/article/K3ABGVPV0514D3UH.html)
+[单套2亿起的上海豪宅开盘：风格难评 像巨大灰"盒子"](https://m.163.com/news/article/K3B9S5U20001899O.html)
 
-[李爱庆被判死缓：自诩公司"大救星" 东窗事发烧香磕头](https://m.163.com/news/article/K3A8SNOD051492T3.html)
+[被荣昌区委书记请吃饭的企业家发声：在苍蝇馆子吃的](https://m.163.com/news/article/K3B9IBEN051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[重庆一区委书记请客两桌花1108元：我买单 你们不要抢](https://m.163.com/news/article/K3A7PTIC0512B07B.html)
+[江苏男子543只羊遭贵州羊贩盗卖 贵州警方立案又撤案](https://m.163.com/news/article/K3ATD6C8053469LG.html)
 
 ---end---
