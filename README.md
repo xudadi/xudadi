@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-30 14:31:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-30 14:58:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[沙坪坝区第一实验小学校幼儿教师招聘公告](https://www.gongkaoleida.com/article/2479148)
+[重庆医科大学面向全球诚聘高层次人才公告](https://www.gongkaoleida.com/article/2480661)
 
 [食客用5万微信转款在店铺换现金 随后诉店家欠债不还](https://m.163.com/news/article/K37T4F5M05561G0D.html)
 
