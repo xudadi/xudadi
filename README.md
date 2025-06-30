@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-06-30 20:41:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-06-30 21:22:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学面向全球诚聘高层次人才公告](https://www.gongkaoleida.com/article/2480661)
+[重庆医科大学附属第二医院关于2025年重医附二院精准医学中心科研助理(编外)岗位招聘启事](https://www.gongkaoleida.com/article/2482287)
 
-[食客用5万微信转款在店铺换现金 随后诉店家欠债不还](https://m.163.com/news/article/K37T4F5M05561G0D.html)
+[女子买房在院子里挖出疑似人骨 物业：人骨已有20年了](https://m.163.com/news/article/K3AAC8QM0534P59R.html)
 
-[养母病逝后养父消沉 63岁儿子带103岁养父游历山河](https://m.163.com/news/article/K38N7BVF053469LG.html)
+[兄弟从诈骗团伙借850万后被起诉 无力偿还2400万获刑](https://m.163.com/news/article/K3ABGVPV0514D3UH.html)
 
-[女子举报"前公婆资产近亿" 前公婆首次面对媒体发声](https://m.163.com/news/article/K380743I0514D3UH.html)
+[李爱庆被判死缓：自诩公司"大救星" 东窗事发烧香磕头](https://m.163.com/news/article/K3A8SNOD051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["朱雀玄武敕令"发声：想通过改名引发关注 黑红也是红](https://m.163.com/news/article/K38H3B1S053469M5.html)
+[重庆一区委书记请客两桌花1108元：我买单 你们不要抢](https://m.163.com/news/article/K3A7PTIC0512B07B.html)
 
 ---end---
