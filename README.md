@@ -13,18 +13,16 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-02 02:28:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-02 02:51:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学物理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2485011)
+[机构招高考生"模拟上大学":8天收费上万 实操竞选班干](https://m.163.com/news/article/K3DPNJR70514D3UH.html)
 
-[游客冰岛租车"针眼伤"遭天价索赔14万：信用卡被刷爆](https://m.163.com/news/article/K3CBT1UB0550B6IS.html)
+[苍山脚下"小菌子"快被游客薅秃：主路附近菌子不长了](https://m.163.com/news/article/K3DG3S0B053469M5.html)
 
-[上海飞日本航班急速下降7000米 乘客：人还在魂没了](https://m.163.com/news/article/K3C9E4LO0512B07B.html)
-
-[女子在开往北京救护车上死亡:开了300公里氧气快耗尽](https://m.163.com/news/article/K3CMA1IA0514D3UH.html)
+[旅客千元买的《流浪地球2》充电宝登机受阻 无奈自弃](https://m.163.com/news/article/K3D81TDV053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["和尚爸爸"塌房：犯"色戒"被寺庙开除 和孕妇恋爱出轨](https://m.163.com/news/article/K3CS08FO00019B3E.html)
+[杭州男子一天猛卖150吨冰：15元一块 约50公斤](https://m.163.com/news/article/K3DPH2TT053469LG.html)
 
 ---end---
