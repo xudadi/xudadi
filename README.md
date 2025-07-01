@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-01 14:31:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-01 14:58:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属第二医院关于2025年重医附二院精准医学中心科研助理(编外)岗位招聘启事](https://www.gongkaoleida.com/article/2482287)
+[渝北区某单位招聘工作人员简章](https://www.gongkaoleida.com/article/2483408)
+
+[女子下定一台小米Yu7交付要1年后：销售给我画了个饼](https://m.163.com/news/article/K3B32N4A00019B3E.html)
 
 [甘肃菜农在陕西承包90座大棚几近绝收：遭断水、抢菜](https://m.163.com/news/article/K3AI9NIA00019B3E.html)
 
 [单套2亿起的上海豪宅开盘：风格难评 像巨大灰"盒子"](https://m.163.com/news/article/K3B9S5U20001899O.html)
 
-[被荣昌区委书记请吃饭的企业家发声：在苍蝇馆子吃的](https://m.163.com/news/article/K3B9IBEN051492T3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏男子543只羊遭贵州羊贩盗卖 贵州警方立案又撤案](https://m.163.com/news/article/K3ATD6C8053469LG.html)
+[被荣昌区委书记请吃饭的企业家发声：在苍蝇馆子吃的](https://m.163.com/news/article/K3B9IBEN051492T3.html)
 
 ---end---
