@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-01 20:41:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-01 21:22:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区某单位招聘工作人员简章](https://www.gongkaoleida.com/article/2483408)
+[重庆大学物理学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2485011)
 
-[女子下定一台小米Yu7交付要1年后：销售给我画了个饼](https://m.163.com/news/article/K3B32N4A00019B3E.html)
+[游客冰岛租车"针眼伤"遭天价索赔14万：信用卡被刷爆](https://m.163.com/news/article/K3CBT1UB0550B6IS.html)
 
-[甘肃菜农在陕西承包90座大棚几近绝收：遭断水、抢菜](https://m.163.com/news/article/K3AI9NIA00019B3E.html)
+[上海飞日本航班急速下降7000米 乘客：人还在魂没了](https://m.163.com/news/article/K3C9E4LO0512B07B.html)
 
-[单套2亿起的上海豪宅开盘：风格难评 像巨大灰"盒子"](https://m.163.com/news/article/K3B9S5U20001899O.html)
+[女子在开往北京救护车上死亡:开了300公里氧气快耗尽](https://m.163.com/news/article/K3CMA1IA0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[被荣昌区委书记请吃饭的企业家发声：在苍蝇馆子吃的](https://m.163.com/news/article/K3B9IBEN051492T3.html)
+["和尚爸爸"塌房：犯"色戒"被寺庙开除 和孕妇恋爱出轨](https://m.163.com/news/article/K3CS08FO00019B3E.html)
 
 ---end---
