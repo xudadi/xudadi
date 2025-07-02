@@ -13,16 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-02 07:51:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-02 09:43:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[机构招高考生"模拟上大学":8天收费上万 实操竞选班干](https://m.163.com/news/article/K3DPNJR70514D3UH.html)
+[渝北区某机关单位派遣人员招聘简章](https://www.gongkaoleida.com/article/2485285)
 
-[苍山脚下"小菌子"快被游客薅秃：主路附近菌子不长了](https://m.163.com/news/article/K3DG3S0B053469M5.html)
+[波特兰开拓者队总经理乔·克罗宁：杨瀚森正式成为开拓者球员](https://m.163.com/news/article/K3ERLHV40534P59R.html)
 
-[旅客千元买的《流浪地球2》充电宝登机受阻 无奈自弃](https://m.163.com/news/article/K3D81TDV053469M5.html)
+[媒体：大陆通缉的效果来了 台当局保护"资通电军"嫌犯](https://m.163.com/news/article/K3E09R2C0552G199.html)
+
+[女生称大学毕业3年摆摊被要求删视频：说影响学校声誉](https://m.163.com/news/article/K3EQC0V6053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[杭州男子一天猛卖150吨冰：15元一块 约50公斤](https://m.163.com/news/article/K3DPH2TT053469LG.html)
+[客机急降事后旅客不满：航司没道歉 赔偿需乘客先垫付](https://m.163.com/news/article/K3DS4TD90001899O.html)
 
 ---end---
