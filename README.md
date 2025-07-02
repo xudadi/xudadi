@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-03 01:53:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-03 02:28:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区双湖小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2487162)
 
-[重庆一小区居民为赶地铁自发修路 当地回应](https://m.163.com/news/article/K3FG6Q3V05561G0D.html)
+[网友举报重庆一网红店直播时专门对准女性 店家回应](https://m.163.com/news/article/K3G38EAC0514D3UH.html)
 
-[山东一高校83名学生期末考核违规作弊 校方回应](https://m.163.com/news/article/K3FDT9F8053469LG.html)
+["房产大王"被清华学霸儿子手撕 曾挪用国企5000万入狱](https://m.163.com/news/article/K3G5G50V051492T3.html)
 
-[父亲患病后遗症致情绪不稳定 儿子唱歌安抚十年](https://m.163.com/news/article/K3FCFPL30534P59R.html)
+[知情人：南航一机长伤4人后跳楼身亡](https://m.163.com/news/article/K3G4EQCL0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[罗马仕变更法定代表人](https://m.163.com/news/article/K3FB97VV0534P59R.html)
+[12岁小孩哥沉迷"维修事业" 曾因试验火箭燃料被炸伤](https://m.163.com/news/article/K3G3QMID053469LG.html)
 
 ---end---
