@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-02 14:30:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-02 14:57:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区某机关单位派遣人员招聘简章](https://www.gongkaoleida.com/article/2485285)
+[重庆市铜梁区庆隆镇消防工作站工作人员招聘公告](https://www.gongkaoleida.com/article/2485708)
 
-[波特兰开拓者队总经理乔·克罗宁：杨瀚森正式成为开拓者球员](https://m.163.com/news/article/K3ERLHV40534P59R.html)
+[山东一高校83名学生期末考核违规作弊 校方回应](https://m.163.com/news/article/K3FDT9F8053469LG.html)
 
-[媒体：大陆通缉的效果来了 台当局保护"资通电军"嫌犯](https://m.163.com/news/article/K3E09R2C0552G199.html)
+[父亲患病后遗症致情绪不稳定 儿子唱歌安抚十年](https://m.163.com/news/article/K3FCFPL30534P59R.html)
 
-[女生称大学毕业3年摆摊被要求删视频：说影响学校声誉](https://m.163.com/news/article/K3EQC0V6053469LG.html)
+[罗马仕变更法定代表人](https://m.163.com/news/article/K3FB97VV0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[客机急降事后旅客不满：航司没道歉 赔偿需乘客先垫付](https://m.163.com/news/article/K3DS4TD90001899O.html)
+[00后小伙“朱雀玄武”不再申请改名 父亲：是好事](https://m.163.com/news/article/K3F99D9D053469LG.html)
 
 ---end---
