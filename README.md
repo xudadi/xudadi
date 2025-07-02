@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-02 20:41:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-02 21:21:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铜梁区庆隆镇消防工作站工作人员招聘公告](https://www.gongkaoleida.com/article/2485708)
+[渝北区双湖小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2487162)
+
+[重庆一小区居民为赶地铁自发修路 当地回应](https://m.163.com/news/article/K3FG6Q3V05561G0D.html)
 
 [山东一高校83名学生期末考核违规作弊 校方回应](https://m.163.com/news/article/K3FDT9F8053469LG.html)
 
 [父亲患病后遗症致情绪不稳定 儿子唱歌安抚十年](https://m.163.com/news/article/K3FCFPL30534P59R.html)
 
-[罗马仕变更法定代表人](https://m.163.com/news/article/K3FB97VV0534P59R.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[00后小伙“朱雀玄武”不再申请改名 父亲：是好事](https://m.163.com/news/article/K3F99D9D053469LG.html)
+[罗马仕变更法定代表人](https://m.163.com/news/article/K3FB97VV0534P59R.html)
 
 ---end---
