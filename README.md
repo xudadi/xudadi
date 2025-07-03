@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-03 07:51:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-03 09:44:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区双湖小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2487162)
+[重庆市渝北区空港佳园幼儿园招聘启事](https://www.gongkaoleida.com/article/2487905)
 
-[网友举报重庆一网红店直播时专门对准女性 店家回应](https://m.163.com/news/article/K3G38EAC0514D3UH.html)
+[五台山僧人将米扔出殿外 被劝返回家](https://m.163.com/news/article/K3EUMD0M0514R9OJ.html)
 
-["房产大王"被清华学霸儿子手撕 曾挪用国企5000万入狱](https://m.163.com/news/article/K3G5G50V051492T3.html)
+[雷军回应"大定有水分"：SU7转单数不足YU7总订单的15%](https://m.163.com/news/article/K3GH3O900512D3VJ.html)
 
-[知情人：南航一机长伤4人后跳楼身亡](https://m.163.com/news/article/K3G4EQCL0550B6IS.html)
+[业主诉小区车位只售不租 判决前物业开放租赁月租750](https://m.163.com/news/article/K3FSJ1LK051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[12岁小孩哥沉迷"维修事业" 曾因试验火箭燃料被炸伤](https://m.163.com/news/article/K3G3QMID053469LG.html)
+[网友举报重庆一网红店直播时专门对准女性 店家回应](https://m.163.com/news/article/K3G38EAC0514D3UH.html)
 
 ---end---
