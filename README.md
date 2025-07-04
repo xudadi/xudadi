@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-04 19:50:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-04 20:40:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区金渝学校教育集团面向社会公开招聘教师公告](https://www.gongkaoleida.com/article/2490822)
+[重庆市两江中学校·西南政法大学附中招聘编外教师公告（2025.01号）](https://www.gongkaoleida.com/article/2492062)
 
-[包头人才引进被举报中止1年 再招入围名单与此前一致](https://m.163.com/news/article/K3K718H905561G0D.html)
+[甘肃天水回应幼儿园违规使用添加剂:我们现在也很焦急](https://m.163.com/news/article/K3L30TVQ0534P59R.html)
 
-[费大厨招聘服务员要求"本科学历以下勿扰" 门店回应](https://m.163.com/news/article/K3K60D7S05345ARG.html)
+[男子掰弯网约车车牌并放气只愿赔2百 司机:侮辱性极强](https://m.163.com/news/article/K3IKQVR70514R9OJ.html)
 
-[甘肃10余名幼儿铅中毒:因添加剂所致 有娃2年仅长2斤](https://m.163.com/news/article/K3KGON0R0514BE2Q.html)
+[旅客携羽毛球拍登机被拦 吉祥航空：或是尺寸超过规定](https://m.163.com/news/article/K3KV9RUO053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[夫妻琐事争执丈夫冲动喝下敌敌畏 妻子含泪求助路人](https://m.163.com/news/article/K3KHVEGM051492T3.html)
+[出租车司机遭劫杀 1名嫌犯因过追诉时效未被批准逮捕](https://m.163.com/news/article/K3K04IOJ0512D3VJ.html)
 
 ---end---
