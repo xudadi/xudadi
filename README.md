@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-04 14:31:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-04 14:58:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市松树桥中学公开招聘编外教师招聘公告](https://www.gongkaoleida.com/article/2489648)
+[重庆两江新区金渝学校教育集团面向社会公开招聘教师公告](https://www.gongkaoleida.com/article/2490822)
 
-[甘肃幼儿血铅异常19人跨省住院 去年已有幼儿出现症状](https://m.163.com/news/article/K3J45LNV053469LG.html)
+[包头人才引进被举报中止1年 再招入围名单与此前一致](https://m.163.com/news/article/K3K718H905561G0D.html)
 
-[广州一模特疑被骗至缅甸遭非法拘禁 中使馆：加紧调查](https://m.163.com/news/article/K3ISNU0E0001899O.html)
+[费大厨招聘服务员要求"本科学历以下勿扰" 门店回应](https://m.163.com/news/article/K3K60D7S05345ARG.html)
 
-[海关总署退休官员被开除党籍 被指私自留存涉密材料](https://m.163.com/news/article/K3IQ4HUK055040N3.html)
+[甘肃10余名幼儿铅中毒:因添加剂所致 有娃2年仅长2斤](https://m.163.com/news/article/K3KGON0R0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[特斯拉FSD在华难落地催生灰产链:山寨版安装仅需几百](https://m.163.com/news/article/K3IHA21U0512B07B.html)
+[夫妻琐事争执丈夫冲动喝下敌敌畏 妻子含泪求助路人](https://m.163.com/news/article/K3KHVEGM051492T3.html)
 
 ---end---
