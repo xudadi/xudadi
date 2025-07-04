@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-04 07:52:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-04 09:43:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市松树桥中学公开招聘编外教师招聘公告](https://www.gongkaoleida.com/article/2489648)
 
-[工信部印发通知 使用位长15位的电话号码来了](https://m.163.com/news/article/K3I3EK8B0534A4SC.html)
+[甘肃幼儿血铅异常19人跨省住院 去年已有幼儿出现症状](https://m.163.com/news/article/K3J45LNV053469LG.html)
 
-[禁养6年后长沙或将为中华田园犬解禁 还专门开研讨会](https://m.163.com/news/article/K3HS0S120534P59R.html)
+[广州一模特疑被骗至缅甸遭非法拘禁 中使馆：加紧调查](https://m.163.com/news/article/K3ISNU0E0001899O.html)
 
-[天津航空一客机起飞疑发出巨响 机场：系突发机械故障](https://m.163.com/news/article/K3IHAFMD0001899O.html)
+[海关总署退休官员被开除党籍 被指私自留存涉密材料](https://m.163.com/news/article/K3IQ4HUK055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女孩打工疑遭顾客偷拍侮辱 警方调解后对方戴口罩致歉](https://m.163.com/news/article/K3IA5JOM053469LG.html)
+[特斯拉FSD在华难落地催生灰产链:山寨版安装仅需几百](https://m.163.com/news/article/K3IHA21U0512B07B.html)
 
 ---end---
