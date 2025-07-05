@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-05 14:27:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-05 14:50:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江中学校·西南政法大学附中招聘编外教师公告（2025.01号）](https://www.gongkaoleida.com/article/2492062)
+[重庆工贸职业技术学院2025年非事业编制全职人员招聘公告(第二批)](https://www.gongkaoleida.com/article/2492677)
 
 [多位投资港股美股中国居民收到通知：需缴纳20%个税](https://m.163.com/news/article/K3LA3U6B0519DDQ2.html)
 
