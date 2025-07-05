@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-06 02:25:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-06 02:46:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工贸职业技术学院2025年非事业编制全职人员招聘公告(第二批)](https://www.gongkaoleida.com/article/2492677)
+[重庆旅游职业学院2025年招聘编制外全职工作人员公告](https://www.gongkaoleida.com/article/2492855)
 
-[多位投资港股美股中国居民收到通知：需缴纳20%个税](https://m.163.com/news/article/K3LA3U6B0519DDQ2.html)
+[被查6个月后李洪伟被双开:目无法纪 指使他人打探案情](https://m.163.com/news/article/K3NNG02N0514R9P4.html)
 
-[相识13天闪婚4个月后妻子遇车祸去世 丈夫：没有骗保](https://m.163.com/news/article/K3LDKL5F053469LG.html)
+[23名死亡人员违规领取高龄津贴 山西怀仁通报](https://m.163.com/news/article/K3NQMD570534A4SC.html)
 
-[甘肃幼儿园铅中毒源头尚未查明 有40多名幼儿血铅异常](https://m.163.com/news/article/K3L8EPSE0514BE2Q.html)
+[孙道寻拟提拔 系"全国经济最强镇"昆山党委书记](https://m.163.com/news/article/K3NJ16EJ0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[甘肃数十名血铅异常幼儿跨省诊疗 家长：全部都是自费](https://m.163.com/news/article/K3L7OUDQ053469M5.html)
+[甘肃一幼儿园多名孩子血铅异常 家长:6岁孩子长了白发](https://m.163.com/news/article/K3NOCPSJ051492T3.html)
 
 ---end---
