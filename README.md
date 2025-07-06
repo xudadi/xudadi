@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-07 02:26:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-07 02:48:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆旅游职业学院2025年招聘编制外全职工作人员公告](https://www.gongkaoleida.com/article/2492855)
 
-[霍启刚夫妇参观山东舰 郭晶晶亲身体验枪械操作引围观](https://m.163.com/news/article/K3Q1VHF90550B6IS.html)
+[陈小江已任新疆生产建设兵团党委第一书记](https://m.163.com/news/article/K3QDSSH80514R9P4.html)
 
-[小区业委会套取500多万维修金 原业委会主任已被刑拘](https://m.163.com/news/article/K3Q1JRKI053469LG.html)
+["幼儿血铅异常"涉事幼儿园老师：我们和孩子吃的一样](https://m.163.com/news/article/K3QFGI7D051492T3.html)
 
-[杭州39岁男子拿下世界顶级扣篮赛冠军 穿鞋身高1米76](https://m.163.com/news/article/K3PTIF8A051492LM.html)
+[外卖大战让多人实现"0元购" 有商家称1小时接到300单](https://m.163.com/news/article/K3Q0EJ8I053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[幼童躺街上被碾压身亡 当事司机：我又内疚又感到冤枉](https://m.163.com/news/article/K3PRD6LM053469LG.html)
+[网友称青岛大学一宿管人员离世：所住平房里没有空调](https://m.163.com/news/article/K3QBTUGP053469LG.html)
 
 ---end---
