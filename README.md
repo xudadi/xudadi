@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-06 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-06 20:38:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆旅游职业学院2025年招聘编制外全职工作人员公告](https://www.gongkaoleida.com/article/2492855)
 
-[被查6个月后李洪伟被双开:目无法纪 指使他人打探案情](https://m.163.com/news/article/K3NNG02N0514R9P4.html)
+[霍启刚夫妇参观山东舰 郭晶晶亲身体验枪械操作引围观](https://m.163.com/news/article/K3Q1VHF90550B6IS.html)
 
-[23名死亡人员违规领取高龄津贴 山西怀仁通报](https://m.163.com/news/article/K3NQMD570534A4SC.html)
+[小区业委会套取500多万维修金 原业委会主任已被刑拘](https://m.163.com/news/article/K3Q1JRKI053469LG.html)
 
-[孙道寻拟提拔 系"全国经济最强镇"昆山党委书记](https://m.163.com/news/article/K3NJ16EJ0512D3VJ.html)
+[杭州39岁男子拿下世界顶级扣篮赛冠军 穿鞋身高1米76](https://m.163.com/news/article/K3PTIF8A051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[甘肃一幼儿园多名孩子血铅异常 家长:6岁孩子长了白发](https://m.163.com/news/article/K3NOCPSJ051492T3.html)
+[幼童躺街上被碾压身亡 当事司机：我又内疚又感到冤枉](https://m.163.com/news/article/K3PRD6LM053469LG.html)
 
 ---end---
