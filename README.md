@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-07 13:46:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-07 14:32:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆旅游职业学院2025年招聘编制外全职工作人员公告](https://www.gongkaoleida.com/article/2492855)
+[中国燃气招聘现场工程师公告](https://www.gongkaoleida.com/article/2494077)
 
 [陈小江已任新疆生产建设兵团党委第一书记](https://m.163.com/news/article/K3QDSSH80514R9P4.html)
 
