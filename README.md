@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-08 02:29:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-08 02:52:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国燃气招聘现场工程师公告](https://www.gongkaoleida.com/article/2494077)
+[重庆两江新区怡景路幼儿园招聘启事](https://www.gongkaoleida.com/article/2496273)
 
-[陈小江已任新疆生产建设兵团党委第一书记](https://m.163.com/news/article/K3QDSSH80514R9P4.html)
+[榕江受灾镇书记叮嘱记者：千万不要播出我流泪的画面](https://m.163.com/news/article/K3SF3D6D00019B3E.html)
 
-["幼儿血铅异常"涉事幼儿园老师：我们和孩子吃的一样](https://m.163.com/news/article/K3QFGI7D051492T3.html)
+[3对母女自驾坠崖 家属:躲避落石或车辆爆胎致冲下山崖](https://m.163.com/news/article/K3S962S10550B6IS.html)
 
-[外卖大战让多人实现"0元购" 有商家称1小时接到300单](https://m.163.com/news/article/K3Q0EJ8I053469M5.html)
+[宿管大爷离世后装空调 高校:两者无关联 之前既定计划](https://m.163.com/news/article/K3S753Q5053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网友称青岛大学一宿管人员离世：所住平房里没有空调](https://m.163.com/news/article/K3QBTUGP053469LG.html)
+[父子俩小区内骑车摔倒 物业吐槽：这么多人为啥就摔你](https://m.163.com/news/article/K3RT5730053469LG.html)
 
 ---end---
