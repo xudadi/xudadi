@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-09 02:29:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-09 02:53:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市渝北区实验中学校2025年物理教师招聘简章](https://www.gongkaoleida.com/article/2498642)
 
-[长安集团重组已组建筹备组 预计8月落地](https://m.163.com/news/article/K3VH2GMN0534A4SC.html)
+[广汽菲克破产 一句"不是所有吉普都叫Jeep"曾广为人知](https://m.163.com/news/article/K3VQDLHK0530NLC9.html)
 
-[周治平任中国兵器工业集团董事长 公司资产超5700亿](https://m.163.com/news/article/K3VGJQVV0512B07B.html)
+[中央巡视组巡视湖北2个半月后 武汉市原市长官宣被查](https://m.163.com/news/article/K3VOB0I20514BE2Q.html)
 
-[37位渔民花1亿多"众筹"造科考船 背后是千亿级大市场](https://m.163.com/news/article/K3VF81J2055040N3.html)
+[郑州五星级酒店摆地摊1天进账3万 杭州也有酒店开始了](https://m.163.com/news/article/K3S0U17T0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中央候补委员郭永红跨省履新 曾在陕西省、湖北省任职](https://m.163.com/news/article/K3V56VAU055040N3.html)
+[男子开一个月网约车车被扣还倒欠公司一万多 公司回应](https://m.163.com/news/article/K3UVEKRL0534P59R.html)
 
 ---end---
