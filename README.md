@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-08 14:31:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-08 14:58:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区怡景路幼儿园招聘启事](https://www.gongkaoleida.com/article/2496273)
+[石桥铺实验幼儿园合同制教师招聘简章](https://www.gongkaoleida.com/article/2497091)
 
 [榕江受灾镇书记叮嘱记者：千万不要播出我流泪的画面](https://m.163.com/news/article/K3SF3D6D00019B3E.html)
 
