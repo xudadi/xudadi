@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-09 07:51:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-09 09:45:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区实验中学校2025年物理教师招聘简章](https://www.gongkaoleida.com/article/2498642)
+[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章](https://www.gongkaoleida.com/article/2499036)
 
 [广汽菲克破产 一句"不是所有吉普都叫Jeep"曾广为人知](https://m.163.com/news/article/K3VQDLHK0530NLC9.html)
 
