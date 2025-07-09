@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-09 19:51:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-09 20:42:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江人力资源有限公司外派驾驶员招聘简章](https://www.gongkaoleida.com/article/2499666)
+[重庆市万州区事业单位面向2025年应届毕业农村小学全科教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2500940)
 
-[广汽菲克破产 一句"不是所有吉普都叫Jeep"曾广为人知](https://m.163.com/news/article/K3VQDLHK0530NLC9.html)
+[62岁女富豪曹佩凤投案自首 与丈夫曾经三登胡润百富榜](https://m.163.com/news/article/K4241CUO0512D03F.html)
 
-[中央巡视组巡视湖北2个半月后 武汉市原市长官宣被查](https://m.163.com/news/article/K3VOB0I20514BE2Q.html)
+[河北张家口崇礼发生3.4级地震 震源深度20千米](https://m.163.com/news/article/K421PTB20001899O.html)
 
-[郑州五星级酒店摆地摊1天进账3万 杭州也有酒店开始了](https://m.163.com/news/article/K3S0U17T0530JPVV.html)
+[3对母女乘车在阿坝坠河5人仍失联 曾许愿"每年都出来"](https://m.163.com/news/article/K41O4DOP0514CRLH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子开一个月网约车车被扣还倒欠公司一万多 公司回应](https://m.163.com/news/article/K3UVEKRL0534P59R.html)
+[厦门鼓浪屿轮渡突遇极端天气 乘客：看到雷劈到海面上](https://m.163.com/news/article/K41V6PSP0534P59R.html)
 
 ---end---
