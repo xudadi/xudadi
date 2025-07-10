@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-10 19:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-10 20:42:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往东部自来水公司驾驶员招聘启事](https://www.gongkaoleida.com/article/2502053)
+[重庆信息与智慧医学研究院聘用人员招聘简章](https://www.gongkaoleida.com/article/2503456)
 
-["郑州人民公园打人事件"17人被抓:系临时起意相约作案](https://m.163.com/news/article/K4289IDG0514R9P4.html)
+[老两口全款买房被儿子抵押 儿子：我妈管我工资](https://m.163.com/news/article/K441EM8J0534P59R.html)
 
-[2天内2名"老虎"被判死缓 1人从县委书记贪腐到副部](https://m.163.com/news/article/K425477J055040N3.html)
+["青海隐形首富"北京豪宅被拍卖 距故宫车程仅15分钟](https://m.163.com/news/article/K43V7I1B051492T3.html)
 
-[62岁女富豪曹佩凤投案自首 与丈夫曾经三登胡润百富榜](https://m.163.com/news/article/K4241CUO0512D03F.html)
+[男子驾车致女友截瘫后全家失联 男方母亲回应](https://m.163.com/news/article/K43UE2KS051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[河北张家口崇礼发生3.4级地震 震源深度20千米](https://m.163.com/news/article/K421PTB20001899O.html)
+[男子称在理发店充值430万元灌肠针刺遭欺诈 门店回应](https://m.163.com/news/article/K43TS3200534P59R.html)
 
 ---end---
