@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-10 07:52:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-10 09:45:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万州区事业单位面向2025年应届毕业农村小学全科教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2500940)
+[重庆飞驶特人力资源管理有限公司派往重庆市农产品质量安全中心会计招聘启事](https://www.gongkaoleida.com/article/2501295)
 
 ["郑州人民公园打人事件"17人被抓:系临时起意相约作案](https://m.163.com/news/article/K4289IDG0514R9P4.html)
 
