@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-11 19:50:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-11 20:41:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[万年路小学招聘信息科技代课教师](https://www.gongkaoleida.com/article/2504404)
+[南川区国有林场公开招聘国有林场森林消防专业队员简章](https://www.gongkaoleida.com/article/2506009)
 
-[张家界司机突发疾病去世 晕倒前救下整车11名韩国游客](https://m.163.com/news/article/K45VVEQF0530JPVV.html)
+[白家犯罪细节披露：强迫20名女子卖淫 不接客关小黑屋](https://m.163.com/news/article/K46I63K6000189PS.html)
 
-["昆仑石刻"是否为今人伪刻引争议 牧民称40年前曾见过](https://m.163.com/news/article/K44S2H2H0512B07B.html)
+[男生因室友电动车燃爆全身90%烧伤 治疗花了290万元](https://m.163.com/news/article/K46J397S0514R9OJ.html)
 
-[网红"迅猛龙"223分上岸复旦：每天学10小时 天天哭](https://m.163.com/news/article/K45VVSE20550B6IS.html)
+[杨少华告别仪式举行 儿子哭到差点晕倒被抬出场馆](https://m.163.com/news/article/K46KDCNQ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子连续工作超过8小时 仅闭眼休息3分钟就遭开除](https://m.163.com/news/article/K4600E590514R9OJ.html)
+[脱贫3年的县花715万建牛郎织女雕塑 调查近2年无结果](https://m.163.com/news/article/K464IOFQ053469LG.html)
 
 ---end---
