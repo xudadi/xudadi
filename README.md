@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-12 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-12 20:38:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆一中教共体学校教师及教辅人员招聘公告](https://www.gongkaoleida.com/article/2506407)
+[重庆飞驶特人力资源管理有限公司派往某机关事业单位专职检验师招聘启事](https://www.gongkaoleida.com/article/2506664)
 
-[白家犯罪细节披露：强迫20名女子卖淫 不接客关小黑屋](https://m.163.com/news/article/K46I63K6000189PS.html)
+[高考生被骗至缅甸失联 好友:到昆明有人给他5百住酒店](https://m.163.com/news/article/K49NA00T053469LG.html)
 
-[男生因室友电动车燃爆全身90%烧伤 治疗花了290万元](https://m.163.com/news/article/K46J397S0514R9OJ.html)
+[杨瀚森回应开拓者首秀：若满分是100分 给自己打60分](https://m.163.com/news/article/K49LI7UL0512D3VJ.html)
 
-[杨少华告别仪式举行 儿子哭到差点晕倒被抬出场馆](https://m.163.com/news/article/K46KDCNQ053469LG.html)
+[广州有批发店售卖"无3C"标记水弹枪：部分冲击力惊人](https://m.163.com/news/article/K48JVJVT0534AAOK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[脱贫3年的县花715万建牛郎织女雕塑 调查近2年无结果](https://m.163.com/news/article/K464IOFQ053469LG.html)
+[攀枝花市民吐槽公交站台被护栏拦住：上下车要"跨栏"](https://m.163.com/news/article/K49KBQEM0514D3UH.html)
 
 ---end---
