@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-12 13:46:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-12 14:28:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[南川区国有林场公开招聘国有林场森林消防专业队员简章](https://www.gongkaoleida.com/article/2506009)
+[重庆一中教共体学校教师及教辅人员招聘公告](https://www.gongkaoleida.com/article/2506407)
 
 [白家犯罪细节披露：强迫20名女子卖淫 不接客关小黑屋](https://m.163.com/news/article/K46I63K6000189PS.html)
 
