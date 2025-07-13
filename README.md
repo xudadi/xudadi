@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-13 20:38:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-13 21:17:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某机关事业单位专职检验师招聘启事](https://www.gongkaoleida.com/article/2506664)
+[中国中煤西南分公司(四川分公司)2025年第三批公开招聘公告](https://www.gongkaoleida.com/article/2507061)
 
-[云南女子在安徽"被结婚8年"：并不认识冒用其身份女子](https://m.163.com/news/article/K49ONDAQ051492T3.html)
+[机场摆渡车挤满人闷热难耐 女乘客晕倒后有人砸窗自救](https://m.163.com/news/article/K4C7JV3D05561G0D.html)
 
-[甘肃省提级调查褐石培心幼儿园幼儿血铅异常问题](https://m.163.com/news/article/K4A1RCLS0534P59R.html)
+[女子遭电诈拟寄400克黄金 警方发紧急"寻人启事"刷屏](https://m.163.com/news/article/K4C764CV051492T3.html)
 
-[东亚杯国足0-2输日本 进入21世纪后从未赢过日本男足](https://m.163.com/news/article/K4A12P070550B6IS.html)
+[浙江604分毕业生贺显贻放弃本科 被武汉高职院校录取](https://m.163.com/news/article/K4BVG5SF05149FJ6.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[学校回应校门外石墩圆球个个加设钢管护栏:防止车撞击](https://m.163.com/news/article/K49TCCSA05561G0D.html)
+[女律师拼车遇猥亵写备忘录求助司机：开始怕他有凶器](https://m.163.com/news/article/K4BVV9EC051492T3.html)
 
 ---end---
