@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-15 01:55:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-15 02:33:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2025年重庆市事业单位公开招聘西藏生源地高校毕业生公告](https://www.gongkaoleida.com/article/2509611)
 
-[东莞：对酒吧、娱乐场所的驻唱、驻演等实施应批尽批](https://m.163.com/news/article/K4EFAOAK05198CJN.html)
+[60岁韩松被查 曾经的"老搭档"被批"一人得道鸡犬升天"](https://m.163.com/news/article/K4F6LTVF05129QAF.html)
 
-[韩松任上被查 曾执掌国内首个内陆港9年](https://m.163.com/news/article/K4ESUL470534A4SC.html)
+[环卫工翻垃圾找手表当事游客被传是法院干部 官方辟谣](https://m.163.com/news/article/K4F5NGOS0514TTN3.html)
 
-[二十届中央第六轮巡视对象公布](https://m.163.com/news/article/K4ES6DPF000189PS.html)
+[外媒：中国6月大豆进口量创历史同期新高](https://m.163.com/news/article/K4F69GJ40514BQ68.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[骆玉林受贿2.2亿被判死缓 终身监禁不得减刑](https://m.163.com/news/article/K4EOGMT10534A4SC.html)
+[男子招商银行储蓄卡被盗刷:事发前2天手机曾突然黑屏](https://m.163.com/news/article/K4F2ICAM051492T3.html)
 
 ---end---
