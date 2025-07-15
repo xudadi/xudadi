@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-15 13:55:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-15 14:33:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2025年重庆市事业单位公开招聘西藏生源地高校毕业生公告](https://www.gongkaoleida.com/article/2509611)
+[重庆市风景园林技工学校公开招聘(聘用)岗位简章](https://www.gongkaoleida.com/article/2510957)
 
-[缅甸飞昆明航班起落架受损滑出跑道 机场通报](https://m.163.com/news/article/K4GCT0120534A4SC.html)
+[火车行驶中未关车门渡板也未收回 12306：将调查核实](https://m.163.com/news/article/K4GMPTLL0534P59R.html)
 
-[小区电梯从27楼降至负2楼后自动开门 孕妇儿童被吓蒙](https://m.163.com/news/article/K4FE2BVC051492T3.html)
+[太原动物园马匹脸部血肉模糊 网友质疑被抽打虐待](https://m.163.com/news/article/K4GLJQTI0534P59R.html)
 
-[女子昏厥男子跪地施救被质疑"袭胸" 急救专家发声](https://m.163.com/news/article/K4FDMMTJ053469LG.html)
+[北京公积金新政：直付房租 可“按季划转”](https://m.163.com/news/article/K4GKI2710512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[桂林平乐县官方文件被指大段抄袭 当地回应](https://m.163.com/news/article/K4F5QGG8053469LG.html)
+[山姆卖好丽友260元会员费被质疑"割韭菜" 客服回应](https://m.163.com/news/article/K4GE33910512B07B.html)
 
 ---end---
