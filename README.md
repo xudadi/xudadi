@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-15 19:51:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-15 20:44:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市风景园林技工学校公开招聘(聘用)岗位简章](https://www.gongkaoleida.com/article/2510957)
+[财务人员招聘公告](https://www.gongkaoleida.com/article/2512265)
 
-[火车行驶中未关车门渡板也未收回 12306：将调查核实](https://m.163.com/news/article/K4GMPTLL0534P59R.html)
+[妈妈为娃入学掏空480万买房结果悲催 上家说她记错了](https://m.163.com/news/article/K4HIJLG70512DU6N.html)
 
-[太原动物园马匹脸部血肉模糊 网友质疑被抽打虐待](https://m.163.com/news/article/K4GLJQTI0534P59R.html)
+[贵州遵义一餐饮商会喊话外卖平台：停止"内卷式"补贴](https://m.163.com/news/article/K4H0V167051492T3.html)
 
-[北京公积金新政：直付房租 可“按季划转”](https://m.163.com/news/article/K4GKI2710512D3VJ.html)
+[上海知名饭店王朝大酒店疑关门 门口曾停加长版林肯](https://m.163.com/news/article/K4H2G71U053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山姆卖好丽友260元会员费被质疑"割韭菜" 客服回应](https://m.163.com/news/article/K4GE33910512B07B.html)
+[充电宝将迎新国标 安全技术规范拟升级](https://m.163.com/news/article/K4HAOF0G0514R9P4.html)
 
 ---end---
