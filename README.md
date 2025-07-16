@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-16 07:53:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-16 09:48:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[财务人员招聘公告](https://www.gongkaoleida.com/article/2512265)
+[渝北区金石小学编外教师招聘公告](https://www.gongkaoleida.com/article/2512616)
 
-[妈妈为娃入学掏空480万买房结果悲催 上家说她记错了](https://m.163.com/news/article/K4HIJLG70512DU6N.html)
+[36岁男子因糖尿病引发心衰去世 23岁妻子：我不会改嫁](https://m.163.com/news/article/K4HINOLN053469LG.html)
 
-[贵州遵义一餐饮商会喊话外卖平台：停止"内卷式"补贴](https://m.163.com/news/article/K4H0V167051492T3.html)
+[河南热"炸"了 农庄5只大鹅热死在水塘](https://m.163.com/news/article/K4HN1BBH053469LG.html)
 
-[上海知名饭店王朝大酒店疑关门 门口曾停加长版林肯](https://m.163.com/news/article/K4H2G71U053469LG.html)
+[男子造黄谣致女子抑郁被判赔20万 失信不执行被拘15天](https://m.163.com/news/article/K4GICO9H051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[充电宝将迎新国标 安全技术规范拟升级](https://m.163.com/news/article/K4HAOF0G0514R9P4.html)
+[外交部：中方坚决反对任何形式的美台官方往来](https://m.163.com/news/article/K4HKQEOL0001899N.html)
 
 ---end---
