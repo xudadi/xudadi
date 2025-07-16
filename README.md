@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-17 02:30:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-17 02:58:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆丹源安保服务有限公司安保队员招聘简章](https://www.gongkaoleida.com/article/2514077)
+[重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生及服务期满“特岗计划”教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2514937)
 
-[黄杨钿甜"天价耳环"价格一百多元 一家非过亿别墅业主](https://m.163.com/news/article/K4K6FHT40001899O.html)
+[6月大男婴医院离世 家长获赔88万：我的律师拿走55万](https://m.163.com/news/article/K4KBKOQF05561G0D.html)
 
-[官方通报黄杨钿甜"天价耳环"问题：系仿制的玻璃饰品](https://m.163.com/news/article/K4K50FU60001899O.html)
+[特斯拉官宣新车Model Y L 预计售价约40万](https://m.163.com/news/article/K4KDMPA3053469LG.html)
 
-[华东理工大学统一收缴充电宝:有无3C标识都是违章电器](https://m.163.com/news/article/K4K1LKO505345ARG.html)
+[从宾馆服务员干到副厅级领导 柴高潮卸任9年后被逮捕](https://m.163.com/news/article/K4JS3TKE053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[3名高中生赴西双版纳后失联 湖北黄冈警方通报](https://m.163.com/news/article/K4JTD9670534A4SC.html)
+[35岁副局长公示任乡镇长:21岁时以高中学历获聘为站长](https://m.163.com/news/article/K4J96VEP05561G0D.html)
 
 ---end---
