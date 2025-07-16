@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-16 13:55:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-16 14:32:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区金石小学编外教师招聘公告](https://www.gongkaoleida.com/article/2512616)
+[2025年考调区部分学校遴选教师简章](https://www.gongkaoleida.com/article/2513371)
 
 [36岁男子因糖尿病引发心衰去世 23岁妻子：我不会改嫁](https://m.163.com/news/article/K4HINOLN053469LG.html)
 
