@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-17 19:51:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-17 20:43:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝地资产经营管理有限公司2025年招聘启事](https://www.gongkaoleida.com/article/2515349)
+[重庆市合川区教育事业单位面向2025年应届毕业公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2516744)
 
-[再婚与初婚同享15天婚假 多地明确：婚假延长](https://m.163.com/news/article/K4LRRR3V0550B6IS.html)
+[大学生乘高铁行李箱丢失"一年设计白干了" 多方回应](https://m.163.com/news/article/K4M2STSN0534P59R.html)
 
-[16岁女孩飞机上分娩 海口卫健委独家回应](https://m.163.com/news/article/K4K9CN0H0514BE2Q.html)
+[甘肃一国企60多人多次或长期旷工 公司回应](https://m.163.com/news/article/K4M1OPFE0534P59R.html)
 
-[杭州多个小区自来水有异味 当地水务：将赔偿5吨水费](https://m.163.com/news/article/K4LVVO760514D3UH.html)
+[东北姑娘晒警犬技术专业录取女生仅招2人 当事人回应](https://m.163.com/news/article/K4M1N9OU0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[成都一熊孩子撕书扔下楼 物业：家长已上门道歉](https://m.163.com/news/article/K4KN68JQ0514D3UH.html)
+[成都外国语学校被传"天价学费没人报" 校方：严重失实](https://m.163.com/news/article/K4KD9M5V051492T3.html)
 
 ---end---
