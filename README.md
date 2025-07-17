@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-18 01:55:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-18 02:33:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市合川区教育事业单位面向2025年应届毕业公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2516744)
 
-[大学生乘高铁行李箱丢失"一年设计白干了" 多方回应](https://m.163.com/news/article/K4M2STSN0534P59R.html)
+[中央巡视形成震慑效应 一周来多名在任官员主动投案](https://m.163.com/news/article/K4MHK5GL05129QAF.html)
 
-[甘肃一国企60多人多次或长期旷工 公司回应](https://m.163.com/news/article/K4M1OPFE0534P59R.html)
+[宗庆后弟弟吐槽宗馥莉：要那么多钱干嘛 天堂又不能用](https://m.163.com/news/article/K4M60LKS0519QIKK.html)
 
-[东北姑娘晒警犬技术专业录取女生仅招2人 当事人回应](https://m.163.com/news/article/K4M1N9OU0534P59R.html)
+[北京女生遭男友家暴靠轮椅出行 男方:残了就只能跟我](https://m.163.com/news/article/K4MQ2KCC00019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[成都外国语学校被传"天价学费没人报" 校方：严重失实](https://m.163.com/news/article/K4KD9M5V051492T3.html)
+[中国发现一种新稀土矿物 命名为"钕黄河矿"](https://m.163.com/news/article/K4MF2LM005504DPG.html)
 
 ---end---
