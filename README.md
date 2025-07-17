@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-17 14:31:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-17 15:00:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生及服务期满“特岗计划”教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2514937)
+[重庆市渝地资产经营管理有限公司2025年招聘启事](https://www.gongkaoleida.com/article/2515349)
 
-[上海最大原拆原建小区回搬：始建于1958年 有94种户型](https://m.163.com/news/article/K4KO8JT90512B07B.html)
+[再婚与初婚同享15天婚假 多地明确：婚假延长](https://m.163.com/news/article/K4LRRR3V0550B6IS.html)
 
-[苏州一餐馆3元糖水碗"内增高" 糖水覆盖碗底薄薄一层](https://m.163.com/news/article/K4KE288705345ARG.html)
+[16岁女孩飞机上分娩 海口卫健委独家回应](https://m.163.com/news/article/K4K9CN0H0514BE2Q.html)
 
-[媒体:黄杨钿甜"耳环"事件 一场质疑与谣言苟合的闹剧](https://m.163.com/news/article/K4KLBOCL0534P59R.html)
+[杭州多个小区自来水有异味 当地水务：将赔偿5吨水费](https://m.163.com/news/article/K4LVVO760514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[16岁男孩被骗至缅甸失联30多天 父亲每天靠安眠药入睡](https://m.163.com/news/article/K4KFUOOU051492LM.html)
+[成都一熊孩子撕书扔下楼 物业：家长已上门道歉](https://m.163.com/news/article/K4KN68JQ0514D3UH.html)
 
 ---end---
