@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-18 14:34:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-18 15:01:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市合川区教育事业单位面向2025年应届毕业公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2516744)
+[重庆科技大学2025年考核招聘事业单位急需紧缺人才公告](https://www.gongkaoleida.com/article/2518067)
 
-[遗产战进入高潮 关键时刻"影子夫人"杜建英资金出状况](https://m.163.com/news/article/K4MPEJHN0519QIKK.html)
+[女子做饭时煤气爆炸女儿被火冲到1米外 两人严重烧伤](https://m.163.com/news/article/K4OM5I34053469LG.html)
 
-[中央巡视形成震慑效应 一周来多名在任官员主动投案](https://m.163.com/news/article/K4MHK5GL05129QAF.html)
+[成都多小区同时停电有人被困电梯40分钟 附近酒店爆满](https://m.163.com/news/article/K4OJ0JCL0514D3UH.html)
 
-[宗庆后弟弟吐槽宗馥莉：要那么多钱干嘛 天堂又不能用](https://m.163.com/news/article/K4M60LKS0519QIKK.html)
+[平衡车选手2次腾空飞踹8岁对手 前一天被踢非要报复](https://m.163.com/news/article/K4OFL9UD05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[北京女生遭男友家暴靠轮椅出行 男方:残了就只能跟我](https://m.163.com/news/article/K4MQ2KCC00019K82.html)
+[飞重庆航班遭冰雹袭击前挡风玻璃破裂 乘客:捡一条命](https://m.163.com/news/article/K4OFIT6405561G0D.html)
 
 ---end---
