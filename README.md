@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-19 02:30:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-19 02:55:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人力资源发展有限公司所属子企业招聘公告](https://www.gongkaoleida.com/article/2519719)
 
-[河北"巧克力钓鱼大爷"爆红:钓龄60年 有几个"黑闺蜜"](https://m.163.com/news/article/K4OFM68E05561G0D.html)
+[女子还款日当天全额还款 信用卡6年被收1.2万利息](https://m.163.com/news/article/K4O8AJHB0519C6T9.html)
 
-[女子做饭时煤气爆炸女儿被火冲到1米外 两人严重烧伤](https://m.163.com/news/article/K4OM5I34053469LG.html)
+[银川原副市长郭柏春被刑拘 去年在境外落网并被遣返](https://m.163.com/news/article/K4PK1JMM053469LG.html)
 
-[成都多小区同时停电有人被困电梯40分钟 附近酒店爆满](https://m.163.com/news/article/K4OJ0JCL0514D3UH.html)
+[北邮硕士奖学金发放政策被质疑：从全覆盖到大幅缩水](https://m.163.com/news/article/K4PBD0RM053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[平衡车选手2次腾空飞踹8岁对手 前一天被踢非要报复](https://m.163.com/news/article/K4OFL9UD05561G0D.html)
+[女子分手后想买回和前男友养的狗 花了60多万结果傻眼](https://m.163.com/news/article/K4OV76V705561G0D.html)
 
 ---end---
