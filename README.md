@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-20 07:55:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-20 10:02:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人力资源发展有限公司所属子企业招聘公告](https://www.gongkaoleida.com/article/2519719)
 
-[35岁网红女骑手"头盔没戴好"车祸去世 系车队颜值担当](https://m.163.com/news/article/K4RULFI305345ARG.html)
+[西贝老板贾国龙喊话外卖平台：请把定价权还给商家](https://m.163.com/news/article/K4S3696C0512B07B.html)
 
-[山东一家三甲医院引进两名菲律宾博士 均担任管理岗](https://m.163.com/news/article/K4OLOMQL0514BE2Q.html)
+[中介"做局"银行放水 男子没有偿还能力竟成功贷款48万](https://m.163.com/news/article/K4T00MRQ000189PS.html)
 
-[一审领刑12年 海航原董事长陈峰当庭表示上诉](https://m.163.com/news/article/K4RRAK0M05199DKK.html)
+[上海业主退休后在楼顶"开垦"150㎡空中农场 邻居头疼](https://m.163.com/news/article/K4RVKTT50514EGPO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[福建福耀科技大学最低投档线公布 超过多所双一流名校](https://m.163.com/news/article/K4RLR16U0512B07B.html)
+[35岁网红女骑手"头盔没戴好"车祸去世 系车队颜值担当](https://m.163.com/news/article/K4RULFI305345ARG.html)
 
 ---end---
