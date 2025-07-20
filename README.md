@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-20 13:55:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-20 14:30:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人力资源发展有限公司所属子企业招聘公告](https://www.gongkaoleida.com/article/2519719)
 
-[西贝老板贾国龙喊话外卖平台：请把定价权还给商家](https://m.163.com/news/article/K4S3696C0512B07B.html)
+[球迷辱骂韦世豪及其家属 中足联凌晨声明：强烈谴责](https://m.163.com/news/article/K4TAJ57J0530JPVV.html)
 
-[中介"做局"银行放水 男子没有偿还能力竟成功贷款48万](https://m.163.com/news/article/K4T00MRQ000189PS.html)
+[县委书记挪用6500万建"私利"文旅项目被通报 当地表态](https://m.163.com/news/article/K4TF34OU0530M570.html)
 
-[上海业主退休后在楼顶"开垦"150㎡空中农场 邻居头疼](https://m.163.com/news/article/K4RVKTT50514EGPO.html)
+[海南省升级发布台风三级预警](https://m.163.com/news/article/K4T9Q2MH051497H3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[35岁网红女骑手"头盔没戴好"车祸去世 系车队颜值担当](https://m.163.com/news/article/K4RULFI305345ARG.html)
+[西贝老板贾国龙喊话外卖平台：请把定价权还给商家](https://m.163.com/news/article/K4S3696C0512B07B.html)
 
 ---end---
