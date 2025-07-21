@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-21 13:45:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-21 14:32:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆人力资源发展有限公司所属子企业招聘公告](https://www.gongkaoleida.com/article/2519719)
+[重庆空港人力资源管理有限公司招聘车场值班员简章](https://www.gongkaoleida.com/article/2521386)
 
-[国安部发文提示：境外生产芯片可能故意留"后门"](https://m.163.com/news/article/K4VLM3LR0534A4SC.html)
+[男子驾车撞人致2死9伤 昆明警方：初查属交通肇事逃逸](https://m.163.com/news/article/K50ASR6O0534A4SC.html)
 
-[黄仁勋接受央视专访：中国是一个独一无二的市场](https://m.163.com/news/article/K4VO44F10512B07B.html)
+[知名舞蹈演员透露患重病经历 春晚排练前刚放化疗25次](https://m.163.com/news/article/K5065TRU0550B6IS.html)
 
-[甘肃再通报"幼儿血铅异常":天水市委书记、市长被立案](https://m.163.com/news/article/K4UDJ5B3000189PS.html)
+[张廷生出任甘肃省疾控中心党委书记、主任](https://m.163.com/news/article/K506K0ML0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子杀人后隐姓埋名34年 被捕时用的还是电话手表](https://m.163.com/news/article/K4TC0O4U051492LM.html)
+[记者当骑手体验外卖大战：4小时送17单挣88元](https://m.163.com/news/article/K5050A6U0514R9OJ.html)
 
 ---end---
