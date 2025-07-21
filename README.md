@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-21 19:53:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-21 20:45:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆空港人力资源管理有限公司招聘车场值班员简章](https://www.gongkaoleida.com/article/2521386)
+[重庆两江新区人才发展集团有限公司派往泰科防务科技(重庆)有限公司招聘简章](https://www.gongkaoleida.com/article/2522568)
 
-[男子驾车撞人致2死9伤 昆明警方：初查属交通肇事逃逸](https://m.163.com/news/article/K50ASR6O0534A4SC.html)
+[家长称美团商家诱导未成年人刷单 当地市监局回应](https://m.163.com/news/article/K50RUEL0053469M5.html)
 
-[知名舞蹈演员透露患重病经历 春晚排练前刚放化疗25次](https://m.163.com/news/article/K5065TRU0550B6IS.html)
+[国务院：任命谢远生为工信部副部长，凌志峰为公安部副部长](https://m.163.com/news/article/K50R2ON70534A4SC.html)
 
-[张廷生出任甘肃省疾控中心党委书记、主任](https://m.163.com/news/article/K506K0ML0001899O.html)
+[极氪销售"0公里二手车":伪造收款页面 隐瞒汽车信息](https://m.163.com/news/article/K50PF8C30519DL8R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[记者当骑手体验外卖大战：4小时送17单挣88元](https://m.163.com/news/article/K5050A6U0514R9OJ.html)
+[女律师体检10年未查出患癌风险 涉事双方最新发声](https://m.163.com/news/article/K50O7L0A05129QAF.html)
 
 ---end---
