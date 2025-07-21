@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-22 02:31:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-22 02:59:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司派往泰科防务科技(重庆)有限公司招聘简章](https://www.gongkaoleida.com/article/2522568)
 
-[家长称美团商家诱导未成年人刷单 当地市监局回应](https://m.163.com/news/article/K50RUEL0053469M5.html)
+[官方辟谣“昆明车祸致131死”](https://m.163.com/news/article/K51697A10550069O.html)
 
-[国务院：任命谢远生为工信部副部长，凌志峰为公安部副部长](https://m.163.com/news/article/K50R2ON70534A4SC.html)
+[女童安全绳脱落从攀爬项目三层坠落骨折 多方回应](https://m.163.com/news/article/K51152NP0534P59R.html)
 
-[极氪销售"0公里二手车":伪造收款页面 隐瞒汽车信息](https://m.163.com/news/article/K50PF8C30519DL8R.html)
+[湖南考生636分报考福耀科技大学：愿做改革“小白鼠”](https://m.163.com/news/article/K5106ION051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女律师体检10年未查出患癌风险 涉事双方最新发声](https://m.163.com/news/article/K50O7L0A05129QAF.html)
+[50岁保安提前1小时到岗猝死被指不算工伤 家属发声](https://m.163.com/news/article/K50SVH25053469LG.html)
 
 ---end---
