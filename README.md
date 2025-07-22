@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-22 19:52:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-22 20:44:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司派往泰科防务科技(重庆)有限公司招聘简章](https://www.gongkaoleida.com/article/2522568)
+[重庆市畜牧科学院动物营养研究所招聘启事](https://www.gongkaoleida.com/article/2525306)
 
-[郑州公交集团回应"白天载客晚上拉货":图假事确实要做](https://m.163.com/news/article/K5115A0B0512B07B.html)
+[60万买的蔚来1年跑17万公里被取消终身质保 车主发声](https://m.163.com/news/article/K53HKUIG05345ARG.html)
 
-[警方通报：网民捏造杭州余杭"粪水"谣言 已被刑拘](https://m.163.com/news/article/K52AG7B20001899O.html)
+[3岁男童从18楼坠下大难不死 父亲给"救命树"系大红花](https://m.163.com/news/article/K53HIJQH053469LG.html)
 
-[天水二院被托管 市疾控中心主任担任院党委书记](https://m.163.com/news/article/K51CNLHA0514R9P4.html)
+[江西一网红餐厅“人狗同桌用餐” 餐厅老板回应](https://m.163.com/news/article/K53CS9SC05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台风"韦帕"袭击泰国2名中国游客身亡：1人被大树砸死](https://m.163.com/news/article/K51CSB5S05345ARG.html)
+[男生636分报民办新校福耀科技大学：赌输最差去玻璃厂](https://m.163.com/news/article/K53EGO230550B6IS.html)
 
 ---end---
