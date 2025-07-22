@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-22 07:53:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-22 09:49:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆两江新区人才发展集团有限公司派往泰科防务科技(重庆)有限公司招聘简章](https://www.gongkaoleida.com/article/2522568)
 
-[官方辟谣“昆明车祸致131死”](https://m.163.com/news/article/K51697A10550069O.html)
+[郑州公交集团回应"白天载客晚上拉货":图假事确实要做](https://m.163.com/news/article/K5115A0B0512B07B.html)
 
-[女童安全绳脱落从攀爬项目三层坠落骨折 多方回应](https://m.163.com/news/article/K51152NP0534P59R.html)
+[警方通报：网民捏造杭州余杭"粪水"谣言 已被刑拘](https://m.163.com/news/article/K52AG7B20001899O.html)
 
-[湖南考生636分报考福耀科技大学：愿做改革“小白鼠”](https://m.163.com/news/article/K5106ION051492T3.html)
+[天水二院被托管 市疾控中心主任担任院党委书记](https://m.163.com/news/article/K51CNLHA0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[50岁保安提前1小时到岗猝死被指不算工伤 家属发声](https://m.163.com/news/article/K50SVH25053469LG.html)
+[台风"韦帕"袭击泰国2名中国游客身亡：1人被大树砸死](https://m.163.com/news/article/K51CSB5S05345ARG.html)
 
 ---end---
