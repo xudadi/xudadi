@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-23 02:31:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-23 02:59:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市畜牧科学院动物营养研究所招聘启事](https://www.gongkaoleida.com/article/2525306)
 
-[60万买的蔚来1年跑17万公里被取消终身质保 车主发声](https://m.163.com/news/article/K53HKUIG05345ARG.html)
+[上海一加油站被质疑有爆炸风险：6根通气管紧邻停车场](https://m.163.com/news/article/K53N9FOS055040N3.html)
 
-[3岁男童从18楼坠下大难不死 父亲给"救命树"系大红花](https://m.163.com/news/article/K53HIJQH053469LG.html)
+[湖南一营地因纠纷被倒土封路 游客挖土2小时才离开](https://m.163.com/news/article/K53SD7PG0534P59R.html)
 
-[江西一网红餐厅“人狗同桌用餐” 餐厅老板回应](https://m.163.com/news/article/K53CS9SC05345ARG.html)
+[润田矿泉水创始人妻子自曝"家丑"：老公有过四段婚姻](https://m.163.com/news/article/K53RH7LI051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男生636分报民办新校福耀科技大学：赌输最差去玻璃厂](https://m.163.com/news/article/K53EGO230550B6IS.html)
+[公职人员下班后送外卖:一天能赚100 像打游戏一样快乐](https://m.163.com/news/article/K536256S0514D3UH.html)
 
 ---end---
