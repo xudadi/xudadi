@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-24 01:47:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-24 02:31:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区悦港中学校地理教师招聘简章](https://www.gongkaoleida.com/article/2528035)
 
-[快递员之子669分圆梦北大:参加完竞赛7个月逆袭文化课](https://m.163.com/news/article/K564L4MI053469LG.html)
+[女子买万元钻戒签下回购协议 到期后店铺倒闭无法兑现](https://m.163.com/news/article/K56DG5JM0514D3UH.html)
 
-[杭州部分小区供水异常调查情况再通报：7人被处分](https://m.163.com/news/article/K55V3GF50534A4SC.html)
+[摆拍"冻鸭肠调成鲜鸭肠"博主：为了秀技能博取流量](https://m.163.com/news/article/K568SSJD051492T3.html)
 
-[张艺洋杀害女友被枪决 成娱乐圈首位被执行死刑的艺人](https://m.163.com/news/article/K55U304Q053469LG.html)
+[收受“亚洲铝王”贿赂 公安厅副厅长落马](https://m.163.com/news/article/K568NQ580514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[尾号7个0手机号法拍:要预存100万话费每月最低消费5千](https://m.163.com/news/article/K55PL10R051492T3.html)
+[博主住进月租6万甲醛房身体患病进展：房东退还押金](https://m.163.com/news/article/K55UKO5E0534P59R.html)
 
 ---end---
