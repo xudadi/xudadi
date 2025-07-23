@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-23 13:56:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-23 14:37:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江明月湖高新技术产业研究院招聘公告](https://www.gongkaoleida.com/article/2526102)
+[重庆市人事考试中心考核招聘编外聘用人员公告](https://www.gongkaoleida.com/article/2526785)
 
 [上海一加油站被质疑有爆炸风险：6根通气管紧邻停车场](https://m.163.com/news/article/K53N9FOS055040N3.html)
 
