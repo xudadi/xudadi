@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-23 19:53:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-23 20:45:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市人事考试中心考核招聘编外聘用人员公告](https://www.gongkaoleida.com/article/2526785)
+[渝北区悦港中学校地理教师招聘简章](https://www.gongkaoleida.com/article/2528035)
 
-[上海一加油站被质疑有爆炸风险：6根通气管紧邻停车场](https://m.163.com/news/article/K53N9FOS055040N3.html)
+[快递员之子669分圆梦北大:参加完竞赛7个月逆袭文化课](https://m.163.com/news/article/K564L4MI053469LG.html)
 
-[湖南一营地因纠纷被倒土封路 游客挖土2小时才离开](https://m.163.com/news/article/K53SD7PG0534P59R.html)
+[杭州部分小区供水异常调查情况再通报：7人被处分](https://m.163.com/news/article/K55V3GF50534A4SC.html)
 
-[润田矿泉水创始人妻子自曝"家丑"：老公有过四段婚姻](https://m.163.com/news/article/K53RH7LI051492T3.html)
+[张艺洋杀害女友被枪决 成娱乐圈首位被执行死刑的艺人](https://m.163.com/news/article/K55U304Q053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[公职人员下班后送外卖:一天能赚100 像打游戏一样快乐](https://m.163.com/news/article/K536256S0514D3UH.html)
+[尾号7个0手机号法拍:要预存100万话费每月最低消费5千](https://m.163.com/news/article/K55PL10R051492T3.html)
 
 ---end---
