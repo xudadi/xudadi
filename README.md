@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-24 19:51:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-24 20:45:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆统景旅游开发有限公司招聘启事](https://www.gongkaoleida.com/article/2529215)
+[奉节县教育事业单位2025年公开遴选工作人员简章](https://www.gongkaoleida.com/article/2530370)
 
-[炖个排骨结果造成损失超20万 男子回家崩溃](https://m.163.com/news/article/K581RNI50514R9OJ.html)
+[俄罗斯商品馆现关店潮 加盟商：一天营业额不到2000元](https://m.163.com/news/article/K58NNID3051492T3.html)
 
-[辛巴自创品牌卫生巾检出超高含量致癌物 30名用户患癌](https://m.163.com/news/article/K57G50C10512D3VJ.html)
+[矿企遇难6名学生遗体尚未火化 当地披露最新调查进度](https://m.163.com/news/article/K58L2RSQ05129QAF.html)
 
-[业内人士：浮选槽矿浆是有腐蚀性的"泥石流" 很难生还](https://m.163.com/news/article/K57R43G00550B6IS.html)
+[周静华被引渡回国 亚洲地区“百名红通人员”清零](https://m.163.com/news/article/K58IGPHC0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[终止在华发动机业务 三菱汽车彻底退出中国市场](https://m.163.com/news/article/K57NTH580534A4SC.html)
+[下乡帮扶人员吃饭打68张白条 餐馆老板讨要5年未果](https://m.163.com/news/article/K58DU2DR053469LG.html)
 
 ---end---
