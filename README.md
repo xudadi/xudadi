@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-24 14:34:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-24 15:00:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区悦港中学校地理教师招聘简章](https://www.gongkaoleida.com/article/2528035)
+[派往重庆统景旅游开发有限公司招聘启事](https://www.gongkaoleida.com/article/2529215)
 
-[男子海南文昌潜水失联十余天 官方通报：搜救仍在进行](https://m.163.com/news/article/K57HMFQU0534A4SC.html)
+[炖个排骨结果造成损失超20万 男子回家崩溃](https://m.163.com/news/article/K581RNI50514R9OJ.html)
 
-[6名大学生溺亡 涉事公司2月曾称已更换浮选车间格栅板](https://m.163.com/news/article/K57GO5B30512B07B.html)
+[辛巴自创品牌卫生巾检出超高含量致癌物 30名用户患癌](https://m.163.com/news/article/K57G50C10512D3VJ.html)
 
-[六大纪律全违反的县委书记被处理:盲目举债搞政绩工程](https://m.163.com/news/article/K564Q4U80530JPVV.html)
+[业内人士：浮选槽矿浆是有腐蚀性的"泥石流" 很难生还](https://m.163.com/news/article/K57R43G00550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子称妻子血小板明显异常医生未告知 1年后查出肿瘤](https://m.163.com/news/article/K568AE9U051492T3.html)
+[终止在华发动机业务 三菱汽车彻底退出中国市场](https://m.163.com/news/article/K57NTH580534A4SC.html)
 
 ---end---
