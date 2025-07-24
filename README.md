@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-25 02:31:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-25 02:59:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [奉节县教育事业单位2025年公开遴选工作人员简章](https://www.gongkaoleida.com/article/2530370)
 
-[俄罗斯商品馆现关店潮 加盟商：一天营业额不到2000元](https://m.163.com/news/article/K58NNID3051492T3.html)
+[棉密码卫生巾检出致癌物 辛选回应“合规合格”](https://m.163.com/news/article/K58PI5RR051492T3.html)
 
-[矿企遇难6名学生遗体尚未火化 当地披露最新调查进度](https://m.163.com/news/article/K58L2RSQ05129QAF.html)
+[演员阚清子晒孕照官宣怀孕：最好的礼物](https://m.163.com/news/article/K58PI5OV051492T3.html)
 
-[周静华被引渡回国 亚洲地区“百名红通人员”清零](https://m.163.com/news/article/K58IGPHC0534A4SC.html)
+[一名"溺亡"学生刚保送研究生 死前还拍了格栅板视频](https://m.163.com/news/article/K58PDSV605345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[下乡帮扶人员吃饭打68张白条 餐馆老板讨要5年未果](https://m.163.com/news/article/K58DU2DR053469LG.html)
+[山姆有机大豆被指“降质不降价” 山姆回应](https://m.163.com/news/article/K58P930105345ARG.html)
 
 ---end---
