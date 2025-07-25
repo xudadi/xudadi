@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-25 13:56:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-25 14:38:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆旅游职业学院2025年第二批编制外全职工作人员招聘简章](https://www.gongkaoleida.com/article/2529979)
+[重庆市西部产教融合研究院专家招募计划（2025年）](https://www.gongkaoleida.com/article/2531159)
 
-[女子称面试后想删个人信息被打致骨折 深圳警方已立案](https://m.163.com/news/article/K596274E053469LG.html)
+[男子水下失联5日获救：被救起时氧气只剩4% 细节披露](https://m.163.com/news/article/K5AKQPRI0534P59R.html)
 
-[花100万买房每月收租3千 结果20人发现房子不是自己的](https://m.163.com/news/article/K58CI4P00514EGPO.html)
+[饿了么前CEO韩鎏等人受贿 涉案金额达4000余万](https://m.163.com/news/article/K5AH62Q6051492T3.html)
 
-[中南大学：谭某兵严重违反社会公德 已暂停其工作](https://m.163.com/news/article/K58JKV9C0530JPVV.html)
+[业内人士谈大学生坠入浮选槽：极其罕见 很少会走到那](https://m.163.com/news/article/K5A95FSI05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[棉密码卫生巾检出致癌物 辛选回应“合规合格”](https://m.163.com/news/article/K58PI5RR051492T3.html)
+[609分考生称被"厦大马来分校"误录取：填报系统未区分](https://m.163.com/news/article/K58PARH00550B6IS.html)
 
 ---end---
