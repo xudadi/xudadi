@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-25 07:52:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-25 09:49:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[奉节县教育事业单位2025年公开遴选工作人员简章](https://www.gongkaoleida.com/article/2530370)
+[重庆旅游职业学院2025年第二批编制外全职工作人员招聘简章](https://www.gongkaoleida.com/article/2529979)
 
-[棉密码卫生巾检出致癌物 辛选回应“合规合格”](https://m.163.com/news/article/K58PI5RR051492T3.html)
+[女子称面试后想删个人信息被打致骨折 深圳警方已立案](https://m.163.com/news/article/K596274E053469LG.html)
 
-[演员阚清子晒孕照官宣怀孕：最好的礼物](https://m.163.com/news/article/K58PI5OV051492T3.html)
+[花100万买房每月收租3千 结果20人发现房子不是自己的](https://m.163.com/news/article/K58CI4P00514EGPO.html)
 
-[一名"溺亡"学生刚保送研究生 死前还拍了格栅板视频](https://m.163.com/news/article/K58PDSV605345ARG.html)
+[中南大学：谭某兵严重违反社会公德 已暂停其工作](https://m.163.com/news/article/K58JKV9C0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山姆有机大豆被指“降质不降价” 山姆回应](https://m.163.com/news/article/K58P930105345ARG.html)
+[棉密码卫生巾检出致癌物 辛选回应“合规合格”](https://m.163.com/news/article/K58PI5RR051492T3.html)
 
 ---end---
