@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-25 19:51:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-25 20:43:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市西部产教融合研究院专家招募计划（2025年）](https://www.gongkaoleida.com/article/2531159)
+[重庆交通产业投资有限公司招聘公告](https://www.gongkaoleida.com/article/2532810)
+
+[农夫山泉股价大涨 近2周市值暴增超800亿](https://m.163.com/news/article/K5ANPQRC0512B07B.html)
 
 [男子水下失联5日获救：被救起时氧气只剩4% 细节披露](https://m.163.com/news/article/K5AKQPRI0534P59R.html)
 
 [饿了么前CEO韩鎏等人受贿 涉案金额达4000余万](https://m.163.com/news/article/K5AH62Q6051492T3.html)
 
-[业内人士谈大学生坠入浮选槽：极其罕见 很少会走到那](https://m.163.com/news/article/K5A95FSI05129QAF.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[609分考生称被"厦大马来分校"误录取：填报系统未区分](https://m.163.com/news/article/K58PARH00550B6IS.html)
+[业内人士谈大学生坠入浮选槽：极其罕见 很少会走到那](https://m.163.com/news/article/K5A95FSI05129QAF.html)
 
 ---end---
