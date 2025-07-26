@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-26 14:30:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-26 14:55:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆交通产业投资有限公司招聘公告](https://www.gongkaoleida.com/article/2532810)
+[重庆飞驶特人力资源管理有限公司招聘派往某国有企业招聘启事](https://www.gongkaoleida.com/article/2533057)
 
-[徐瑛被通报：企业主自带食材和厨师到她家中为其烹饪](https://m.163.com/news/article/K5BNILA40512D3VJ.html)
+[31岁男子乘摩托艇遇难 家属：两个孩子1个7岁1个3岁](https://m.163.com/news/article/K5D4V44T053469LG.html)
 
-[男子被骗至缅甸妙瓦底获救 曾与记者往来邮件一百多封](https://m.163.com/news/article/K5A352PI0512D3VJ.html)
+[6名大学生在选矿厂遇难 涉事企业副总：制作了安全PPT](https://m.163.com/news/article/K5CR8SQV051492T3.html)
 
-[农夫山泉股价大涨 近2周市值暴增超800亿](https://m.163.com/news/article/K5ANPQRC0512B07B.html)
+[3元面馆因"48元一杯茅台"爆火 店主：身心俱疲 已下架](https://m.163.com/news/article/K5CPBELR00019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子水下失联5日获救：被救起时氧气只剩4% 细节披露](https://m.163.com/news/article/K5AKQPRI0534P59R.html)
+[俄罗斯官媒"寻人" 25年前与普京合影的中国男孩找到了](https://m.163.com/news/article/K5CMBVF200019K82.html)
 
 ---end---
