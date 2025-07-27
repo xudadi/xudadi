@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-27 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-27 20:41:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司招聘派往某国有企业招聘启事](https://www.gongkaoleida.com/article/2533057)
 
-[正部长级王受文有新职](https://m.163.com/news/article/K5DVI19J05345ARG.html)
+[3位厅干履新 有人的前一任已升副省部级](https://m.163.com/news/article/K5GDBVDQ0530JPVV.html)
 
-[动车疑因车头故障停留荒野4小时 12306回应](https://m.163.com/news/article/K5DTC1A90534P59R.html)
+[31岁陈梦否认已结婚领证：什么领证结婚 这个太离谱了](https://m.163.com/news/article/K5G66LDL05149FJ6.html)
 
-[官方：加强对婴幼儿食品等日常监管](https://m.163.com/news/article/K5DR40J80534A4SC.html)
+[生于1998年 张媛媛当选“全国重点镇”副镇长](https://m.163.com/news/article/K5G60EEB0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[当事人“写45万网文揭露华熙生物财务造假”](https://m.163.com/news/article/K5DNI9J3051492T3.html)
+[多位考生因被"厦大马来分校"误录准备复读 考试院回应](https://m.163.com/news/article/K5G2GLUV053469LG.html)
 
 ---end---
