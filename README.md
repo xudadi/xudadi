@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-28 19:52:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-28 20:47:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市兼善中学南北校区非编教师招聘](https://www.gongkaoleida.com/article/2534529)
+[重庆市渝北区空港佳园第二幼儿园教师招聘公告](https://www.gongkaoleida.com/article/2536060)
 
-["大罢免"被"剃光头" 外媒：民进党看开票结果不敢置信](https://m.163.com/news/article/K5HSIBQM05504DPG.html)
+[2000万元金饰被洪水冲走 店主：找回的金饰不足2公斤](https://m.163.com/news/article/K5IEIUU7053469LG.html)
 
-[考生收到一份来自香港的"未录取通知书" 校长写亲笔信](https://m.163.com/news/article/K5HUR1SQ053469LG.html)
+[居然智家再生变故 年内A股三大家居企业陷入风波](https://m.163.com/news/article/K5IE4F8N0514D3UH.html)
 
-["佛门CEO"释永信被查 进入少林寺时一片破败香火不旺](https://m.163.com/news/article/K5HR3I3C0519DDQ2.html)
+[北京密云遭遇特大暴雨 村干部徒步7小时找信号求援](https://m.163.com/news/article/K5I5PIBE0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["十四五"期间经济增长带动税费征收累计将超155万亿元](https://m.163.com/news/article/K5I0PS6N05346RC6.html)
+[深圳一女子身份证照片爆火 网友：穿越了](https://m.163.com/news/article/K5ICS7HI0514R9OJ.html)
 
 ---end---
