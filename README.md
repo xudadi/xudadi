@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-28 07:54:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-28 09:56:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司招聘派往某国有企业招聘启事](https://www.gongkaoleida.com/article/2533057)
+[重庆八中科学城中学教育集团西永中学招聘公告](https://www.gongkaoleida.com/article/2533631)
 
 [演员李小冉回应误删何炅微信：因为没有备注实名](https://m.163.com/news/article/K5GKC3K2053469LG.html)
 
