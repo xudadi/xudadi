@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-28 13:53:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-28 14:34:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆八中科学城中学教育集团西永中学招聘公告](https://www.gongkaoleida.com/article/2533631)
+[重庆市兼善中学南北校区非编教师招聘](https://www.gongkaoleida.com/article/2534529)
 
-[演员李小冉回应误删何炅微信：因为没有备注实名](https://m.163.com/news/article/K5GKC3K2053469LG.html)
+["大罢免"被"剃光头" 外媒：民进党看开票结果不敢置信](https://m.163.com/news/article/K5HSIBQM05504DPG.html)
 
-["释永信携34人潜逃"被辟谣 河南省最新回应](https://m.163.com/news/article/K5GF2FNE0001899O.html)
+[考生收到一份来自香港的"未录取通知书" 校长写亲笔信](https://m.163.com/news/article/K5HUR1SQ053469LG.html)
 
-["朱雀玄武敕令"自称被送精神病院并限制自由 医院回应](https://m.163.com/news/article/K5GDQFI805561G0D.html)
+["佛门CEO"释永信被查 进入少林寺时一片破败香火不旺](https://m.163.com/news/article/K5HR3I3C0519DDQ2.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[3位厅干履新 有人的前一任已升副省部级](https://m.163.com/news/article/K5GDBVDQ0530JPVV.html)
+["十四五"期间经济增长带动税费征收累计将超155万亿元](https://m.163.com/news/article/K5I0PS6N05346RC6.html)
 
 ---end---
