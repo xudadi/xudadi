@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-29 13:53:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-29 14:33:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区空港佳园第二幼儿园教师招聘公告](https://www.gongkaoleida.com/article/2536060)
+[中共重庆市委党校重庆行政学院2025年下半年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2537150)
 
-[4人在青海无人区失联超30小时 为求救曾徒步40多公里](https://m.163.com/news/article/K5IVKT6L053469M5.html)
+[59岁高建法因病去世 曾自掏腰包500多万建抗战纪念馆](https://m.163.com/news/article/K5KBJOUH051492LM.html)
 
-[女子亲历北京密云洪水：铲车车斗伸至二楼防盗窗救人](https://m.163.com/news/article/K5J9O6E3053469LG.html)
+["老虎"韩松落马半个月后 西安市委原常委康军官宣被查](https://m.163.com/news/article/K5KRM1SH051482MP.html)
 
-[火狐浏览器北京公司宣布终止运营](https://m.163.com/news/article/K5ICNMHF053469LG.html)
+[河北滦平因强降雨致山体滑坡8人失联 已确认4人遇难](https://m.163.com/news/article/K5KSSNG30001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[北京极端强降雨造成重大灾害 全市因灾死亡30人](https://m.163.com/news/article/K5K84HC60001899O.html)
+[苹果大连百年城店拟停业 或成为首家在华关停的直营店](https://m.163.com/news/article/K5KLHCNJ0534A4SC.html)
 
 ---end---
