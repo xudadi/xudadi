@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-29 19:52:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-29 20:47:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中共重庆市委党校重庆行政学院2025年下半年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2537150)
+[渝北区空港佳园小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2537524)
+
+[40岁货车司机称等红灯无聊 用弹弓射击致4名女子受伤](https://m.163.com/news/article/K5L1PM06051492LM.html)
+
+[媒体：北京密云两地四天下了近一年的雨](https://m.163.com/news/article/K5KU58UN0512D3VJ.html)
 
 [59岁高建法因病去世 曾自掏腰包500多万建抗战纪念馆](https://m.163.com/news/article/K5KBJOUH051492LM.html)
 
-["老虎"韩松落马半个月后 西安市委原常委康军官宣被查](https://m.163.com/news/article/K5KRM1SH051482MP.html)
-
-[河北滦平因强降雨致山体滑坡8人失联 已确认4人遇难](https://m.163.com/news/article/K5KSSNG30001899O.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[苹果大连百年城店拟停业 或成为首家在华关停的直营店](https://m.163.com/news/article/K5KLHCNJ0534A4SC.html)
+["老虎"韩松落马半个月后 西安市委原常委康军官宣被查](https://m.163.com/news/article/K5KRM1SH051482MP.html)
 
 ---end---
