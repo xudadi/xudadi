@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-30 07:54:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-30 09:52:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区空港佳园小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2537524)
+[中煤科工重庆设计研究院（集团）有限公司第一建筑设计院电气专业设计师岗位招聘启事](https://www.gongkaoleida.com/article/2538979)
 
-[40岁货车司机称等红灯无聊 用弹弓射击致4名女子受伤](https://m.163.com/news/article/K5L1PM06051492LM.html)
+[成都一小区退还940余万元物业费 业主最少能拿5000元](https://m.163.com/news/article/K5N1J6IQ0512B07B.html)
 
-[媒体：北京密云两地四天下了近一年的雨](https://m.163.com/news/article/K5KU58UN0512D3VJ.html)
+[云南哀牢山发现7株"冥界之花" 每年露出地表仅40多天](https://m.163.com/news/article/K5LN65J1051492T3.html)
 
-[59岁高建法因病去世 曾自掏腰包500多万建抗战纪念馆](https://m.163.com/news/article/K5KBJOUH051492LM.html)
+[落马贪官一副眼镜4.3万元拍卖 1000多人围观无人出价](https://m.163.com/news/article/K5MUV2HF053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["老虎"韩松落马半个月后 西安市委原常委康军官宣被查](https://m.163.com/news/article/K5KRM1SH051482MP.html)
+[孕妇和表哥遭"电诈"前科亲戚诱骗 失联前称"抢手机了"](https://m.163.com/news/article/K5LUSBDL053469LG.html)
 
 ---end---
