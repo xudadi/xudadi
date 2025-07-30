@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-30 19:52:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-30 20:47:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市荣昌区教育事业单位2025年面向公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2539426)
+[垫江县县属国有企业2025年第1次公开考试招聘工作人员公告](https://www.gongkaoleida.com/article/2540837)
+
+[徽州"国保"古宅内商拍摄影师点明火拍写真 警方已介入](https://m.163.com/news/article/K5L8CCVV053469M5.html)
+
+[2022年1月1日以后出生的婴幼儿均可领取育儿补贴](https://m.163.com/news/article/K5NK78JQ000189PS.html)
 
 [部署下半年经济工作 二十届四中全会将于10月召开](https://m.163.com/news/article/K5NJ8NK7000189PS.html)
 
-[上千万金饰被洪水冲走 店主：打捞队2天仅寻回70余克](https://m.163.com/news/article/K5NAJ4DC053469LG.html)
-
-["体检10年未发现患癌"当事人:非常期待爱康国宾起诉我](https://m.163.com/news/article/K5NCO9TD051492T3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[自然资源部针对浙江、上海启动海洋灾害二级应急响应](https://m.163.com/news/article/K5NEV5A505198CJN.html)
+[上千万金饰被洪水冲走 店主：打捞队2天仅寻回70余克](https://m.163.com/news/article/K5NAJ4DC053469LG.html)
 
 ---end---
