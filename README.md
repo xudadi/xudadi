@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-30 14:34:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-30 15:03:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中煤科工重庆设计研究院（集团）有限公司第一建筑设计院电气专业设计师岗位招聘启事](https://www.gongkaoleida.com/article/2538979)
+[重庆市荣昌区教育事业单位2025年面向公费师范生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2539426)
 
-[成都一小区退还940余万元物业费 业主最少能拿5000元](https://m.163.com/news/article/K5N1J6IQ0512B07B.html)
+[部署下半年经济工作 二十届四中全会将于10月召开](https://m.163.com/news/article/K5NJ8NK7000189PS.html)
 
-[云南哀牢山发现7株"冥界之花" 每年露出地表仅40多天](https://m.163.com/news/article/K5LN65J1051492T3.html)
+[上千万金饰被洪水冲走 店主：打捞队2天仅寻回70余克](https://m.163.com/news/article/K5NAJ4DC053469LG.html)
 
-[落马贪官一副眼镜4.3万元拍卖 1000多人围观无人出价](https://m.163.com/news/article/K5MUV2HF053469LG.html)
+["体检10年未发现患癌"当事人:非常期待爱康国宾起诉我](https://m.163.com/news/article/K5NCO9TD051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[孕妇和表哥遭"电诈"前科亲戚诱骗 失联前称"抢手机了"](https://m.163.com/news/article/K5LUSBDL053469LG.html)
+[自然资源部针对浙江、上海启动海洋灾害二级应急响应](https://m.163.com/news/article/K5NEV5A505198CJN.html)
 
 ---end---
