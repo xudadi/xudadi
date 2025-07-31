@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-31 19:52:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-31 20:44:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市医师协会2025年招聘工作人员启事](https://www.gongkaoleida.com/article/2541592)
+[重庆市璧山区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生考核招聘工作人员公告](https://www.gongkaoleida.com/article/2543063)
 
 [女教师遇害案时隔22年再开庭 丈夫被判无罪后又被起诉](https://m.163.com/news/article/K5PN3RVG0512D3VJ.html)
 
