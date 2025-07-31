@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-31 07:55:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-31 09:52:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [垫江县县属国有企业2025年第1次公开考试招聘工作人员公告](https://www.gongkaoleida.com/article/2540837)
 
-[徽州"国保"古宅内商拍摄影师点明火拍写真 警方已介入](https://m.163.com/news/article/K5L8CCVV053469M5.html)
+[中俄海军将举行联合演习 首提"联合应对西太安全威胁"](https://m.163.com/news/article/K5PD6V4R0514R9OJ.html)
 
-[2022年1月1日以后出生的婴幼儿均可领取育儿补贴](https://m.163.com/news/article/K5NK78JQ000189PS.html)
+[2024年结婚登记610.6万对](https://m.163.com/news/article/K5OI8JUG0519DDQ2.html)
 
-[部署下半年经济工作 二十届四中全会将于10月召开](https://m.163.com/news/article/K5NJ8NK7000189PS.html)
+[爱康集团："别指望几百元体检查出所有病"系断章取义](https://m.163.com/news/article/K5PE9SOG0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上千万金饰被洪水冲走 店主：打捞队2天仅寻回70余克](https://m.163.com/news/article/K5NAJ4DC053469LG.html)
+[被2.8万网友救助的男孩考上985 母亲曾退回59万捐款](https://m.163.com/news/article/K5N316VL05509IQZ.html)
 
 ---end---
