@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-07-31 13:58:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-07-31 14:44:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[垫江县县属国有企业2025年第1次公开考试招聘工作人员公告](https://www.gongkaoleida.com/article/2540837)
+[重庆市医师协会2025年招聘工作人员启事](https://www.gongkaoleida.com/article/2541592)
 
-[中俄海军将举行联合演习 首提"联合应对西太安全威胁"](https://m.163.com/news/article/K5PD6V4R0514R9OJ.html)
+[女教师遇害案时隔22年再开庭 丈夫被判无罪后又被起诉](https://m.163.com/news/article/K5PN3RVG0512D3VJ.html)
 
-[2024年结婚登记610.6万对](https://m.163.com/news/article/K5OI8JUG0519DDQ2.html)
+[国家网信办就芯片漏洞后门安全风险约谈英伟达公司](https://m.163.com/news/article/K5Q27I2C0001899O.html)
 
-[爱康集团："别指望几百元体检查出所有病"系断章取义](https://m.163.com/news/article/K5PE9SOG0534A4SC.html)
+[两"虎"被处理：一人被指"靠石油吃石油"、搞钱色交易](https://m.163.com/news/article/K5PS3K9M05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[被2.8万网友救助的男孩考上985 母亲曾退回59万捐款](https://m.163.com/news/article/K5N316VL05509IQZ.html)
+[医院院长涉骗保风波被查 潜逃后花了100多万"捞"自己](https://m.163.com/news/article/K5PRFS4H0514BE2Q.html)
 
 ---end---
