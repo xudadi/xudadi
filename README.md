@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-01 14:34:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-01 15:02:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆市某事业单位招聘启事](https://www.gongkaoleida.com/article/2543392)
+[重庆市綦江区新盛街道办事处公开招聘专业应急救援大队队员的公告](https://www.gongkaoleida.com/article/2543853)
 
 [女教师遇害案时隔22年再开庭 丈夫被判无罪后又被起诉](https://m.163.com/news/article/K5PN3RVG0512D3VJ.html)
 
