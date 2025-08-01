@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-01 19:52:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-01 20:45:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市綦江区新盛街道办事处公开招聘专业应急救援大队队员的公告](https://www.gongkaoleida.com/article/2543853)
+[重庆轮船(集团)有限公司交运游轮分公司招聘公告](https://www.gongkaoleida.com/article/2545655)
 
-[女教师遇害案时隔22年再开庭 丈夫被判无罪后又被起诉](https://m.163.com/news/article/K5PN3RVG0512D3VJ.html)
+[男子买探测仪挖到藏宝罐 39件宋元时期首饰卖20万被抓](https://m.163.com/news/article/K5ST6O7U053469KC.html)
 
-[国家网信办就芯片漏洞后门安全风险约谈英伟达公司](https://m.163.com/news/article/K5Q27I2C0001899O.html)
+[香港高院：宗馥莉暂不得挪用汇丰帐户的18亿美元资产](https://m.163.com/news/article/K5T6MLFB0001899O.html)
 
-[两"虎"被处理：一人被指"靠石油吃石油"、搞钱色交易](https://m.163.com/news/article/K5PS3K9M05345ARG.html)
+[武大：对肖某某纪律处分、杨某某论文等进行全面复核](https://m.163.com/news/article/K5T35PFU0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[医院院长涉骗保风波被查 潜逃后花了100多万"捞"自己](https://m.163.com/news/article/K5PRFS4H0514BE2Q.html)
+[物理老师自制"等离子炮"走红：材料很常见 花了2个月](https://m.163.com/news/article/K5T0UT4J0514D3UH.html)
 
 ---end---
