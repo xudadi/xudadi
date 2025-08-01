@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-02 01:46:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-02 02:31:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆轮船(集团)有限公司交运游轮分公司招聘公告](https://www.gongkaoleida.com/article/2545655)
 
+[14岁女孩暑假摆摊20多天赚2000元 父亲:钱她自己支配](https://m.163.com/news/article/K5T70JQ50534P59R.html)
+
+[乘龙卡车再回应"理想i8撞重卡"：用的旧车 请理性看待](https://m.163.com/news/article/K5TCHEEO05345ARG.html)
+
 [男子买探测仪挖到藏宝罐 39件宋元时期首饰卖20万被抓](https://m.163.com/news/article/K5ST6O7U053469KC.html)
-
-[香港高院：宗馥莉暂不得挪用汇丰帐户的18亿美元资产](https://m.163.com/news/article/K5T6MLFB0001899O.html)
-
-[武大：对肖某某纪律处分、杨某某论文等进行全面复核](https://m.163.com/news/article/K5T35PFU0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[物理老师自制"等离子炮"走红：材料很常见 花了2个月](https://m.163.com/news/article/K5T0UT4J0514D3UH.html)
+[香港高院：宗馥莉暂不得挪用汇丰帐户的18亿美元资产](https://m.163.com/news/article/K5T6MLFB0001899O.html)
 
 ---end---
