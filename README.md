@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-03 19:52:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-03 20:42:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆轮船(集团)有限公司交运游轮分公司招聘公告](https://www.gongkaoleida.com/article/2545655)
 
-[被亮证当事人：负责人说奔驰女没用警务通查我信息](https://m.163.com/news/article/K602F4FR0550B6IS.html)
+[高铁车厢"低人一等座"引争议 乘客:没扶手 没法调靠背](https://m.163.com/news/article/K622GVE805149FJ6.html)
 
-[亮证女为何知道男子信息 公安局长：恰好认得他的车](https://m.163.com/news/article/K601AJQ60001899O.html)
+[86岁"如来"朱龙广逝世 一生塑造了三个经典角色](https://m.163.com/news/article/K62CALRK05506BEH.html)
 
-[养殖棚遭强迁500多只兔子死亡 男子获赔后被副镇长举报](https://m.163.com/news/article/K6032B5V05561G0D.html)
+[残疾小哥背桶走路送外卖:1个月走373公里收入2200元](https://m.163.com/news/article/K62CI15P053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子盯上工地百万设备 花1万运走才卖了9万多](https://m.163.com/news/article/K5VVDBK20534P59R.html)
+[陆军首次披露无人化作战模式 "蜂群"、"狼群"协同作战](https://m.163.com/news/article/K61I95H1055040N3.html)
 
 ---end---
