@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-04 02:30:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-04 02:57:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆轮船(集团)有限公司交运游轮分公司招聘公告](https://www.gongkaoleida.com/article/2545655)
 
-[高铁车厢"低人一等座"引争议 乘客:没扶手 没法调靠背](https://m.163.com/news/article/K622GVE805149FJ6.html)
+[铁皮屋里背娃写作的作家上热搜 曾获赞现实版《活着》](https://m.163.com/news/article/K62MUL8905345ARG.html)
 
-[86岁"如来"朱龙广逝世 一生塑造了三个经典角色](https://m.163.com/news/article/K62CALRK05506BEH.html)
+[男童被卷入大海生死一线 游客拼尽全力逆浪将其拽回](https://m.163.com/news/article/K62HIMHE0514D3UH.html)
 
-[残疾小哥背桶走路送外卖:1个月走373公里收入2200元](https://m.163.com/news/article/K62CI15P053469M5.html)
+[理想汽车再回应理想i8与卡车碰撞测试：无引导性评价](https://m.163.com/news/article/K62OL0BC0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[陆军首次披露无人化作战模式 "蜂群"、"狼群"协同作战](https://m.163.com/news/article/K61I95H1055040N3.html)
+[云南哀牢山发现西南地区"最大天牛" 体长可达80毫米](https://m.163.com/news/article/K61J4DQ8051492T3.html)
 
 ---end---
