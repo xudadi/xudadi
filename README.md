@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-04 14:39:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-04 15:16:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆轮船(集团)有限公司交运游轮分公司招聘公告](https://www.gongkaoleida.com/article/2545655)
+[某单位文职岗招聘简章](https://www.gongkaoleida.com/article/2547173)
 
-[铁皮屋里背娃写作的作家上热搜 曾获赞现实版《活着》](https://m.163.com/news/article/K62MUL8905345ARG.html)
+[县委书记执意上马总投资2230万的项目 后陆续停止运营](https://m.163.com/news/article/K642QHLT0530M570.html)
 
-[男童被卷入大海生死一线 游客拼尽全力逆浪将其拽回](https://m.163.com/news/article/K62HIMHE0514D3UH.html)
+[漠河北极村民宿开始装空调 有游客在当地自驾热到中暑](https://m.163.com/news/article/K63R118P0514R9P4.html)
 
-[理想汽车再回应理想i8与卡车碰撞测试：无引导性评价](https://m.163.com/news/article/K62OL0BC0534A4SC.html)
+[赵露思开直播：在娱乐圈这些年有点积蓄 不行开个面馆](https://m.163.com/news/article/K627NP3M0550HXM1.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[云南哀牢山发现西南地区"最大天牛" 体长可达80毫米](https://m.163.com/news/article/K61J4DQ8051492T3.html)
+[24岁美女酷似大S走红 回应：没模仿她 以前没有整过容](https://m.163.com/news/article/K640G7SM05345ARG.html)
 
 ---end---
