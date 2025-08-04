@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-05 02:36:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-05 03:01:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆某国有企业保洁人员招聘启事](https://www.gongkaoleida.com/article/2548310)
+[重庆飞驶特人力资源管理有限公司大足分公司派往大足区某机关事业单位行政辅助工作人员招聘启事](https://www.gongkaoleida.com/article/2548425)
 
-[李嘉诚被传要出售香港深水湾道老宅 李泽钜辟谣](https://m.163.com/news/article/K64N9F850530KP1K.html)
+[旅客称长沙火车站免费充电孔损坏：租充电宝1小时6元](https://m.163.com/news/article/K64Q4DMG05561G0D.html)
 
-[许倬云一生只"为老百姓写史" 用两根手指完成托付之作](https://m.163.com/news/article/K64PQPJI051492LM.html)
+[摩友称在盘山公路被超车逆行奔驰逼停 对方猛踹其摩托](https://m.163.com/news/article/K657O9F405561G0D.html)
 
-[日付30元的"假装上班公司"来了几十名"员工" 老板发声](https://m.163.com/news/article/K64QM2TV053469LG.html)
+[骗取公务员身份升至厅级 蔡光辉被逮捕](https://m.163.com/news/article/K64QSB950512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["苏超"比赛常州队一球未进、一场未赢 官方发长文回应](https://m.163.com/news/article/K64IE6L105199NPP.html)
+[云南一县招聘教师现"笔试17分进入资格复审" 官方回应](https://m.163.com/news/article/K64ML5QK053469M5.html)
 
 ---end---
