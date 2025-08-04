@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-04 19:53:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-04 20:48:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[某单位文职岗招聘简章](https://www.gongkaoleida.com/article/2547173)
+[重庆飞驶特人力资源管理有限公司派往重庆某国有企业保洁人员招聘启事](https://www.gongkaoleida.com/article/2548310)
 
-[县委书记执意上马总投资2230万的项目 后陆续停止运营](https://m.163.com/news/article/K642QHLT0530M570.html)
+[李嘉诚被传要出售香港深水湾道老宅 李泽钜辟谣](https://m.163.com/news/article/K64N9F850530KP1K.html)
 
-[漠河北极村民宿开始装空调 有游客在当地自驾热到中暑](https://m.163.com/news/article/K63R118P0514R9P4.html)
+[许倬云一生只"为老百姓写史" 用两根手指完成托付之作](https://m.163.com/news/article/K64PQPJI051492LM.html)
 
-[赵露思开直播：在娱乐圈这些年有点积蓄 不行开个面馆](https://m.163.com/news/article/K627NP3M0550HXM1.html)
+[日付30元的"假装上班公司"来了几十名"员工" 老板发声](https://m.163.com/news/article/K64QM2TV053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[24岁美女酷似大S走红 回应：没模仿她 以前没有整过容](https://m.163.com/news/article/K640G7SM05345ARG.html)
+["苏超"比赛常州队一球未进、一场未赢 官方发长文回应](https://m.163.com/news/article/K64IE6L105199NPP.html)
 
 ---end---
