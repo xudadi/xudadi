@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-05 07:54:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-05 09:54:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司派往大足区某机关事业单位行政辅助工作人员招聘启事](https://www.gongkaoleida.com/article/2548425)
+[重庆市第八中学校招聘在职教师和2025年应届毕业生](https://www.gongkaoleida.com/article/2549111)
 
 [旅客称长沙火车站免费充电孔损坏：租充电宝1小时6元](https://m.163.com/news/article/K64Q4DMG05561G0D.html)
 
