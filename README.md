@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-06 02:34:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-06 03:02:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市南华中学校8月公开招聘编外教师](https://www.gongkaoleida.com/article/2551066)
 
-[妇产科主任自杀身亡 律师：若属实网暴者或被追究刑责](https://m.163.com/news/article/K67FCM510534P59R.html)
+[盒马最后一家会员店月底停业：店内大部分货架已清空](https://m.163.com/news/article/K67SM1250512D3VJ.html)
 
-[情侣旅游遭遇车祸死里逃生后当晚决定领证 当事人发声](https://m.163.com/news/article/K67HRKMI051492T3.html)
+[网友质疑小米骗取国补：净水器非国补地区能便宜600元](https://m.163.com/news/article/K67LVJAN0534P59R.html)
 
-[51岁游客疑坐护栏后仰坠崖身亡 文旅部门回应护栏高度](https://m.163.com/news/article/K67F5I1R05561G0D.html)
+[东风柳汽人士回应"车头掉落"疑云：大概率车头没锁止](https://m.163.com/news/article/K67D3UJI0519DDQ2.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[公职人员为偿还赌债让情人演"局长" 诈骗19人近200万](https://m.163.com/news/article/K67I6FQE0530M570.html)
+[正厅降为正处9年后 严正再被官方通报](https://m.163.com/news/article/K67P20T0053469LG.html)
 
 ---end---
