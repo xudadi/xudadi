@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-05 19:53:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-05 20:49:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市江津区双福第二中学校招聘公告](https://www.gongkaoleida.com/article/2549869)
+[重庆市南华中学校8月公开招聘编外教师](https://www.gongkaoleida.com/article/2551066)
 
-[90后王兴兴逆袭：曾严重偏科 高中时英语只及格过3次](https://m.163.com/news/article/K66MIJIT0514BE2Q.html)
+[妇产科主任自杀身亡 律师：若属实网暴者或被追究刑责](https://m.163.com/news/article/K67FCM510534P59R.html)
 
-[陕西一初中女生遭多名女生欺凌 警方：一人已被批捕](https://m.163.com/news/article/K66QF6QQ0514R9P4.html)
+[情侣旅游遭遇车祸死里逃生后当晚决定领证 当事人发声](https://m.163.com/news/article/K67HRKMI051492T3.html)
 
-[福建舰电磁弹射最新画面公布 "飞鲨"划破长空](https://m.163.com/news/article/K65EFSRP05345ARG.html)
+[51岁游客疑坐护栏后仰坠崖身亡 文旅部门回应护栏高度](https://m.163.com/news/article/K67F5I1R05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子255万拍校内51平商铺3年经营权 因不能卖烟酒弃租](https://m.163.com/news/article/K66K1R3B0514R9OJ.html)
+[公职人员为偿还赌债让情人演"局长" 诈骗19人近200万](https://m.163.com/news/article/K67I6FQE0530M570.html)
 
 ---end---
