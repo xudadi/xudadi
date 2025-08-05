@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-05 13:54:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-05 14:34:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市第八中学校招聘在职教师和2025年应届毕业生](https://www.gongkaoleida.com/article/2549111)
+[重庆市江津区双福第二中学校招聘公告](https://www.gongkaoleida.com/article/2549869)
 
-[旅客称长沙火车站免费充电孔损坏：租充电宝1小时6元](https://m.163.com/news/article/K64Q4DMG05561G0D.html)
+[90后王兴兴逆袭：曾严重偏科 高中时英语只及格过3次](https://m.163.com/news/article/K66MIJIT0514BE2Q.html)
 
-[摩友称在盘山公路被超车逆行奔驰逼停 对方猛踹其摩托](https://m.163.com/news/article/K657O9F405561G0D.html)
+[陕西一初中女生遭多名女生欺凌 警方：一人已被批捕](https://m.163.com/news/article/K66QF6QQ0514R9P4.html)
 
-[骗取公务员身份升至厅级 蔡光辉被逮捕](https://m.163.com/news/article/K64QSB950512D3VJ.html)
+[福建舰电磁弹射最新画面公布 "飞鲨"划破长空](https://m.163.com/news/article/K65EFSRP05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[云南一县招聘教师现"笔试17分进入资格复审" 官方回应](https://m.163.com/news/article/K64ML5QK053469M5.html)
+[男子255万拍校内51平商铺3年经营权 因不能卖烟酒弃租](https://m.163.com/news/article/K66K1R3B0514R9OJ.html)
 
 ---end---
