@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-06 07:54:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-06 09:53:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南华中学校8月公开招聘编外教师](https://www.gongkaoleida.com/article/2551066)
+[重庆市渝北职业教育中心2025-2026学年秋季外聘专任教师招聘启事](https://www.gongkaoleida.com/article/2551608)
 
 [盒马最后一家会员店月底停业：店内大部分货架已清空](https://m.163.com/news/article/K67SM1250512D3VJ.html)
 
