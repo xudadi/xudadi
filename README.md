@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-06 19:53:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-06 20:48:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市涪陵区武陵山镇人民政府关于专职消防、应急救援队员招聘公告](https://www.gongkaoleida.com/article/2552190)
 
-[盒马最后一家会员店月底停业：店内大部分货架已清空](https://m.163.com/news/article/K67SM1250512D3VJ.html)
+[就理想i8碰撞测试 相关三方发布联合声明](https://m.163.com/news/article/K6A6IJST0534A4SC.html)
 
-[网友质疑小米骗取国补：净水器非国补地区能便宜600元](https://m.163.com/news/article/K67LVJAN0534P59R.html)
+[曾瞒报债务、搞"七个有之" 秦如培受贿超2亿被判死缓](https://m.163.com/news/article/K6A54DK7051492T3.html)
 
-[东风柳汽人士回应"车头掉落"疑云：大概率车头没锁止](https://m.163.com/news/article/K67D3UJI0519DDQ2.html)
+[媒体评"亮证姐"处罚决定:构成"招摇撞骗"为何没处罚款](https://m.163.com/news/article/K69RO1A30514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[正厅降为正处9年后 严正再被官方通报](https://m.163.com/news/article/K67P20T0053469LG.html)
+[高考前2个月确诊 18岁白血病少年633分考入天津大学](https://m.163.com/news/article/K69PP5DV0530JPVV.html)
 
 ---end---
