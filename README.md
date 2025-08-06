@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-07 01:47:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-07 02:30:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市涪陵区武陵山镇人民政府关于专职消防、应急救援队员招聘公告](https://www.gongkaoleida.com/article/2552190)
 
-[就理想i8碰撞测试 相关三方发布联合声明](https://m.163.com/news/article/K6A6IJST0534A4SC.html)
+[北大录取通知书表述引争议 相同行文风格沿用近三十年](https://m.163.com/news/article/K6A4SAM90534P59R.html)
 
-[曾瞒报债务、搞"七个有之" 秦如培受贿超2亿被判死缓](https://m.163.com/news/article/K6A54DK7051492T3.html)
+[抗日将领李默庵的故居618万起拍 境外组织等不能参与](https://m.163.com/news/article/K6AAEKEA0534P59R.html)
 
-[媒体评"亮证姐"处罚决定:构成"招摇撞骗"为何没处罚款](https://m.163.com/news/article/K69RO1A30514R9P4.html)
+[男子除夕夜杀害7个月大侄女 弟弟在庭上与其对视痛哭](https://m.163.com/news/article/K69T7IG5051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高考前2个月确诊 18岁白血病少年633分考入天津大学](https://m.163.com/news/article/K69PP5DV0530JPVV.html)
+[为给她签字试药 男子与患白血病女友领证：她只有我了](https://m.163.com/news/article/K6A7VU440514R9OJ.html)
 
 ---end---
