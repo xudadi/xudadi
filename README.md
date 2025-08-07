@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-07 07:54:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-07 09:53:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区武陵山镇人民政府关于专职消防、应急救援队员招聘公告](https://www.gongkaoleida.com/article/2552190)
+[重庆市渝北区腾芳中学校(八中管理校)公开招聘编外教师公告](https://www.gongkaoleida.com/article/2553656)
 
 [北大录取通知书表述引争议 相同行文风格沿用近三十年](https://m.163.com/news/article/K6A4SAM90534P59R.html)
 
