@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-07 19:53:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-07 20:47:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆临空艺术团招聘简章](https://www.gongkaoleida.com/article/2554429)
+[重庆巫溪燃气有限责任公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2554937)
 
-[北大录取通知书表述引争议 相同行文风格沿用近三十年](https://m.163.com/news/article/K6A4SAM90534P59R.html)
+[1750瓶茅台将被司法拍卖：起拍价165万 与涉黑案有关](https://m.163.com/news/article/K6CL4K20053469LG.html)
 
-[抗日将领李默庵的故居618万起拍 境外组织等不能参与](https://m.163.com/news/article/K6AAEKEA0534P59R.html)
+[中介负责人“失联” 西安10余名租客押金未退还](https://m.163.com/news/article/K6CG9938051492T3.html)
 
-[男子除夕夜杀害7个月大侄女 弟弟在庭上与其对视痛哭](https://m.163.com/news/article/K69T7IG5051492T3.html)
+[新疆一吊桥侧倾致5死 事发前有人摇晃钢绳有断裂迹象](https://m.163.com/news/article/K6CG83AS05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[为给她签字试药 男子与患白血病女友领证：她只有我了](https://m.163.com/news/article/K6A7VU440514R9OJ.html)
+[女子35层坠楼奇迹生还：50多天历经10余次手术](https://m.163.com/news/article/K6CFUAIL051492T3.html)
 
 ---end---
