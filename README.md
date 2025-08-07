@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-08 02:33:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-08 03:01:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆巫溪燃气有限责任公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2554937)
 
-[1750瓶茅台将被司法拍卖：起拍价165万 与涉黑案有关](https://m.163.com/news/article/K6CL4K20053469LG.html)
+[17岁高中生在柬埔寨失联近两月 驻柬大使馆回应](https://m.163.com/news/article/K6CSF7I9053469LG.html)
 
-[中介负责人“失联” 西安10余名租客押金未退还](https://m.163.com/news/article/K6CG9938051492T3.html)
+[38岁健美选手刘一阳被传离世 系中山大学体育部副教授](https://m.163.com/news/article/K6CV3K08053469LG.html)
 
-[新疆一吊桥侧倾致5死 事发前有人摇晃钢绳有断裂迹象](https://m.163.com/news/article/K6CG83AS05129QAF.html)
+[爱康国宾向张晓玲索赔1000万 张晓玲回应](https://m.163.com/news/article/K6CSHVGA051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子35层坠楼奇迹生还：50多天历经10余次手术](https://m.163.com/news/article/K6CFUAIL051492T3.html)
+[女子车钥匙被土拨鼠"偷走"：花三个多小时用磁铁吸回](https://m.163.com/news/article/K6CT1PLF0514R9OJ.html)
 
 ---end---
