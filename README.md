@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-08 14:34:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-08 15:03:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市南岸区弹子石小学校语文老师招聘启事](https://www.gongkaoleida.com/article/2555724)
+[渝北区港航海事事务中心派遣制工作人员招聘简章](https://www.gongkaoleida.com/article/2556508)
 
-[17岁高中生在柬埔寨失联近两月 驻柬大使馆回应](https://m.163.com/news/article/K6CSF7I9053469LG.html)
+[男子杀女友后用她的钱打车逃亡：在家里我连猫都不如](https://m.163.com/news/article/K6CKQ8940514EGPO.html)
 
-[38岁健美选手刘一阳被传离世 系中山大学体育部副教授](https://m.163.com/news/article/K6CV3K08053469LG.html)
+[北京网友拍到"黑影御剑飞行穿越雷暴" 气象学家回应](https://m.163.com/news/article/K6EACHUH051492T3.html)
 
-[爱康国宾向张晓玲索赔1000万 张晓玲回应](https://m.163.com/news/article/K6CSHVGA051492T3.html)
+[朱孝天自称已删除贾玲微信 工作人员急切提醒：捂嘴](https://m.163.com/news/article/K6ECNPNO05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子车钥匙被土拨鼠"偷走"：花三个多小时用磁铁吸回](https://m.163.com/news/article/K6CT1PLF0514R9OJ.html)
+[妇产科主任跳楼自杀 同事:她太要强 眼里揉不得沙子](https://m.163.com/news/article/K6D2OJF3055040N3.html)
 
 ---end---
