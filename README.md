@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-09 01:52:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-09 02:34:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区港航海事事务中心派遣制工作人员招聘简章](https://www.gongkaoleida.com/article/2556508)
+[重庆市忠县事业单位面向2025年应届毕业公费师范生、服务期满且考核合格“特岗计划”教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2557707)
 
-[男子杀女友后用她的钱打车逃亡：在家里我连猫都不如](https://m.163.com/news/article/K6CKQ8940514EGPO.html)
+[长沙一盲道被护栏分割成"迷宫" 街道：为人车分流安装](https://m.163.com/news/article/K6FERUQA0534P59R.html)
 
-[北京网友拍到"黑影御剑飞行穿越雷暴" 气象学家回应](https://m.163.com/news/article/K6EACHUH051492T3.html)
+[业主订购样板间要求换材料 全友家居同意后称"做不了"](https://m.163.com/news/article/K6F9C2NU0534P59R.html)
 
-[朱孝天自称已删除贾玲微信 工作人员急切提醒：捂嘴](https://m.163.com/news/article/K6ECNPNO05345ARG.html)
+[抗日名将吉鸿昌后人回忆外祖父遗书：为时代而牺牲](https://m.163.com/news/article/K6FF13DL051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[妇产科主任跳楼自杀 同事:她太要强 眼里揉不得沙子](https://m.163.com/news/article/K6D2OJF3055040N3.html)
+[高中生暑假体验生活 干半个月外卖员离职还倒贴100元](https://m.163.com/news/article/K6FEQH600534P59R.html)
 
 ---end---
