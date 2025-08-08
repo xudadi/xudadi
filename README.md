@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-08 07:54:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-08 09:52:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆巫溪燃气有限责任公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2554937)
+[派往重庆市南岸区弹子石小学校语文老师招聘启事](https://www.gongkaoleida.com/article/2555724)
 
 [17岁高中生在柬埔寨失联近两月 驻柬大使馆回应](https://m.163.com/news/article/K6CSF7I9053469LG.html)
 
