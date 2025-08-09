@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-09 07:51:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-09 09:42:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市忠县事业单位面向2025年应届毕业公费师范生、服务期满且考核合格“特岗计划”教师考核招聘工作人员公告](https://www.gongkaoleida.com/article/2557707)
+[丰都县人民法院公开招聘１名司法警察（派遣制）](https://www.gongkaoleida.com/article/2558022)
 
 [长沙一盲道被护栏分割成"迷宫" 街道：为人车分流安装](https://m.163.com/news/article/K6FERUQA0534P59R.html)
 
