@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-10 19:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-10 20:40:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆交通大学材料学院教师参加2025年第三届能源转换与存储材料学术会议](https://www.gongkaoleida.com/article/2558552)
 
-[企业老总提议给自己发200万固定月薪 被投资人"手撕"](https://m.163.com/news/article/K6I4MTNQ0512B07B.html)
+[基层干部受"会多"困扰 有人曾一周五场会：没人敢缺席](https://m.163.com/news/article/K6KATUD10514BE2Q.html)
 
-[中俄联演中方现役主战舰艇齐发 有新面孔首秀](https://m.163.com/news/article/K6HKD6BP053469LG.html)
+[抗战胜利80周年天安门演练现场画面公布](https://m.163.com/news/article/K6KG7LF8000189PS.html)
 
-[车棚起火50余车烧毁损失超60万 事发4个月业主难维权](https://m.163.com/news/article/K6I330VJ05561G0D.html)
+[女子单手骑电动车摔倒 相隔数米的对向来车被认定次责](https://m.163.com/news/article/K6KCVUAV051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[多地俄罗斯商品馆清仓闭店 有门店开业40天亏16万关门](https://m.163.com/news/article/K6I2RBTV05345ARG.html)
+[媒体报道男子拒付52万婚宴食材款被诉 当事人：遭网暴](https://m.163.com/news/article/K6K1FGHO0001899O.html)
 
 ---end---
