@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-10 07:51:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-10 09:56:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区天堡寨幼儿园编外教师招聘公告](https://www.gongkaoleida.com/article/2558172)
+[重庆交通大学材料学院教师参加2025年第三届能源转换与存储材料学术会议](https://www.gongkaoleida.com/article/2558552)
 
 [企业老总提议给自己发200万固定月薪 被投资人"手撕"](https://m.163.com/news/article/K6I4MTNQ0512B07B.html)
 
