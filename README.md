@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-11 07:52:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-11 09:53:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆交通大学材料学院教师参加2025年第三届能源转换与存储材料学术会议](https://www.gongkaoleida.com/article/2558552)
+[重庆市渝北区天堡寨幼儿园编外教师招聘公告](https://www.gongkaoleida.com/article/2558172)
 
 [多名儿童在博物馆翻越围栏 有家长让孩子把标本抱手上](https://m.163.com/news/article/K6KKNG9O0514EGPO.html)
 
