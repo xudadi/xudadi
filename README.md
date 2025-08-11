@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-11 19:51:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-11 20:45:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学管理科学与房地产学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2559748)
+[重庆外国语学校森林小学招聘语文临聘教师公告](https://www.gongkaoleida.com/article/2560971)
 
-[多名儿童在博物馆翻越围栏 有家长让孩子把标本抱手上](https://m.163.com/news/article/K6KKNG9O0514EGPO.html)
+[三架飞机在俄罗斯被扣 山河智能：收到1.6亿保险赔款](https://m.163.com/news/article/K6N2BA1E051492T3.html)
 
-[男子发布12字评论被拘 湖南岳阳启动调查程序](https://m.163.com/news/article/K6KI987H0534A4SC.html)
+[陈幸同击败孙颖莎首次登顶WTT冠军赛:有点儿不敢相信](https://m.163.com/news/article/K6MUBI8P05506BEH.html)
 
-[基层干部受"会多"困扰 有人曾一周五场会：没人敢缺席](https://m.163.com/news/article/K6KATUD10514BE2Q.html)
+[女子称在洗浴店女浴区内撞见男子"溜达":逗留了半小时](https://m.163.com/news/article/K6MTTOCK053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[抗战胜利80周年天安门演练现场画面公布](https://m.163.com/news/article/K6KG7LF8000189PS.html)
+[自闭症男童已失联超48小时 涉事的夏令营公众号被注销](https://m.163.com/news/article/K6MLIRC3053469M5.html)
 
 ---end---
