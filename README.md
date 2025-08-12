@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-12 20:42:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-12 21:23:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[云阳县消防救援局2025年政府专职消防员招聘简章](https://www.gongkaoleida.com/article/2562005)
+[重庆市渝北区悦融小学校2025年秋期公开招聘编外教师公告](https://www.gongkaoleida.com/article/2563110)
 
-[三名厅官被处理 一人退休4年后主动投案](https://m.163.com/news/article/K6MS6CNG0530JPVV.html)
+[车主使用地图导航误入限行路段被罚 平台称"查无记录"](https://m.163.com/news/article/K6PLI0L105345ARG.html)
 
-[上海"器官农场"晒成果 培育出世界最大"生物人工心脏"](https://m.163.com/news/article/K6MF651B0512DU6N.html)
+[在整治"内卷式"竞争政策下 多个快递重镇启动涨价机制](https://m.163.com/news/article/K6P6A1FS0514BE2Q.html)
 
-[餐馆未打码曝光逃单食客引争议 店家：她必须要先结账](https://m.163.com/news/article/K6NC2OSV0514D3UH.html)
+[中国恒大：将于8月25日上午9时起取消上市地位](https://m.163.com/news/article/K6PKP12N0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[许昕谈张本智和医疗暂停：他暂停次数用完了 不知真假](https://m.163.com/news/article/K6N9OL4S0530JPVV.html)
+[宁德时代矿山停产引发巨震 江西宜春8座锂矿前途未明](https://m.163.com/news/article/K6PJ4TFK0512D03F.html)
 
 ---end---
