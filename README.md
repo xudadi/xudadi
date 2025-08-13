@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-13 19:50:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-13 20:43:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市城口县教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2564223)
+[重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司能量管理试验辅助招聘启事](https://www.gongkaoleida.com/article/2564989)
 
-[男子申请"777777"靓号转网被拒 桂林电信：得领导同意](https://m.163.com/news/article/K6PAKK0T05561G0D.html)
+[两部门征求意见：辅助驾驶不能当自动驾驶](https://m.163.com/news/article/K6S7PJ9G000189PS.html)
 
-[电梯不下反上5人被困轿厢半小时 业主:前1天刚维保过](https://m.163.com/news/article/K6P8RUBU05561G0D.html)
+[国内半导体设备龙头起诉美企：非法获取核心技术秘密](https://m.163.com/news/article/K6S5ECK20512B07B.html)
 
-[男童为治疗自闭症参加夏令营走失 机构收费3800元/周](https://m.163.com/news/article/K6PEBE2R051492T3.html)
+[旅客携20寸行李箱登机被要求托运未同机抵达 航司致歉](https://m.163.com/news/article/K6S7ACPM0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[导演郑某峰涉猥亵儿童被批捕 在《美人鱼》扮演"郑总"](https://m.163.com/news/article/K6PTIND405504DPG.html)
+[被指要求本土企业避免使用英伟达H20芯片 外交部回应](https://m.163.com/news/article/K6S3HASK0534A4SC.html)
 
 ---end---
