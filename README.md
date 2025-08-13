@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-14 02:29:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-14 02:53:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司能量管理试验辅助招聘启事](https://www.gongkaoleida.com/article/2564989)
 
-[两部门征求意见：辅助驾驶不能当自动驾驶](https://m.163.com/news/article/K6S7PJ9G000189PS.html)
+[26岁王凯莉买下一家上市公司 其父因猥亵女童获刑5年](https://m.163.com/news/article/K6SHOFAB0512B07B.html)
 
-[国内半导体设备龙头起诉美企：非法获取核心技术秘密](https://m.163.com/news/article/K6S5ECK20512B07B.html)
+[涠洲岛观光车司机威胁游客称"杀人不犯法" 被拘留7天](https://m.163.com/news/article/K6RVSAQS05345ARG.html)
 
-[旅客携20寸行李箱登机被要求托运未同机抵达 航司致歉](https://m.163.com/news/article/K6S7ACPM0514D3UH.html)
+["警虎"于涛被处理：违规设立私人会所、沉溺奢靡生活](https://m.163.com/news/article/K6SEAJDK05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[被指要求本土企业避免使用英伟达H20芯片 外交部回应](https://m.163.com/news/article/K6S3HASK0534A4SC.html)
+[官方通报"大理8岁失踪男童遇难"：初步排除刑案](https://m.163.com/news/article/K6SFPECU0001899O.html)
 
 ---end---
