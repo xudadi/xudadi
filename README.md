@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-13 14:31:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-13 14:58:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南政法大学2025年考核招聘事业单位工作人员公告](https://www.gongkaoleida.com/article/2563534)
+[重庆市城口县教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2564223)
 
 [男子申请"777777"靓号转网被拒 桂林电信：得领导同意](https://m.163.com/news/article/K6PAKK0T05561G0D.html)
 
