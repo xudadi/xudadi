@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-14 14:32:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-14 14:59:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司能量管理试验辅助招聘启事](https://www.gongkaoleida.com/article/2564989)
+[渝北区第三实验小学校公开招聘编外教师公告](https://www.gongkaoleida.com/article/2566407)
 
 [26岁王凯莉买下一家上市公司 其父因猥亵女童获刑5年](https://m.163.com/news/article/K6SHOFAB0512B07B.html)
 
