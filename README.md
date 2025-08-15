@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-15 14:31:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-15 14:57:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川外国语大学附中两江云锦中学校招聘](https://www.gongkaoleida.com/article/2567156)
+[派往重庆航运交易所招聘劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2568525)
 
-[网红"多肉饱饱"租车P存款诈骗 受害人:她画大饼有人信](https://m.163.com/news/article/K704TJGQ0512D3VJ.html)
+[女子称在珠海丢失40万卡地亚手镯 监控显示疑被捡走](https://m.163.com/news/article/K70PITFN053469LG.html)
 
-[3名成人带4个小孩多次免费续面遭拒绝 警方回应](https://m.163.com/news/article/K7080HH8053469LG.html)
+[男子买避孕药被药店联系到妻子导致离婚 律师：可起诉](https://m.163.com/news/article/K70PITBR053469LG.html)
 
-[石家庄一景区多人拿表格围观考核环卫工 涉事公司回应](https://m.163.com/news/article/K7031T8G0512D3VJ.html)
+[全球追索的恒大"二号人物"浮出水面 藏身美国加州尔湾](https://m.163.com/news/article/K70OLVFB0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江西"最强钉子户"一家人搬走:无法忍受噪音 外出租房](https://m.163.com/news/article/K6V8IKQ10514TTN3.html)
+[西安下架万余辆不合规网约车 官方进驻滴滴等平台检查](https://m.163.com/news/article/K70M3090051492T3.html)
 
 ---end---
