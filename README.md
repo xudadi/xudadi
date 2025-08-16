@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-17 01:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-17 02:26:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市黔江区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生、服务期满“特岗计划”教师及“三支一扶”人员公开招聘工作人员公告](https://www.gongkaoleida.com/article/2569747)
 
-[乘客吐槽坐高铁邻座400斤男子致拥挤 12306回应](https://m.163.com/news/article/K73N17QN0530JPVV.html)
+[广西一村疑现大型野生动物：脚印如拳大 已装监测设备](https://m.163.com/news/article/K73T92R2051492T3.html)
 
-[人民日报评论：所谓"全民强制社保"系误读政策](https://m.163.com/news/article/K73S3MRH0001899O.html)
+[卫健局回应"头上插刀女童淡定就医"：已做手术取出刀](https://m.163.com/news/article/K73TE5BV053469LG.html)
 
-[狸花猫将被拍卖抵债：500元起拍 目前已有1人报名参与](https://m.163.com/news/article/K73C33V7053469KC.html)
+["俄院士"自称"苏辙后人"签下33亿大单 项目3年后流产](https://m.163.com/news/article/K73ONKE50514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[落马官员受贿细节：行贿者把装198万现金拉杆箱放车里](https://m.163.com/news/article/K73OD0TB051492T3.html)
+[87岁范曾被指遭小50岁妻子卷走数亿财产 女儿称其失联](https://m.163.com/news/article/K743CVRG053469LG.html)
 
 ---end---
