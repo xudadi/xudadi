@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-16 19:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-16 20:38:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市黔江区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生、服务期满“特岗计划”教师及“三支一扶”人员公开招聘工作人员公告](https://www.gongkaoleida.com/article/2569747)
 
-[苏州"越野跑大神"误食毒蘑菇去世 送医时全身发黑](https://m.163.com/news/article/K72O3GVR05345ARG.html)
+[乘客吐槽坐高铁邻座400斤男子致拥挤 12306回应](https://m.163.com/news/article/K73N17QN0530JPVV.html)
 
-[四川一啤酒节现场桁架倒塌 致2人死亡3人重伤](https://m.163.com/news/article/K72PSQBL053469KC.html)
+[人民日报评论：所谓"全民强制社保"系误读政策](https://m.163.com/news/article/K73S3MRH0001899O.html)
 
-[84岁老太被大女儿带出养老院盗取40万存款 老人起诉了](https://m.163.com/news/article/K70S8QEA05561G0D.html)
+[狸花猫将被拍卖抵债：500元起拍 目前已有1人报名参与](https://m.163.com/news/article/K73C33V7053469KC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[42岁男子脑出血离世 8岁女儿哭着说"听不到你唱歌了"](https://m.163.com/news/article/K70J061C053469LG.html)
+[落马官员受贿细节：行贿者把装198万现金拉杆箱放车里](https://m.163.com/news/article/K73OD0TB051492T3.html)
 
 ---end---
