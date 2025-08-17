@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-17 20:39:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-17 21:16:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市黔江区事业单位面向2025年应届毕业公费师范生、农村订单定向医学生、服务期满“特岗计划”教师及“三支一扶”人员公开招聘工作人员公告](https://www.gongkaoleida.com/article/2569747)
+[重庆市潼南区人力资源和社会保障局重庆市潼南区教育系统2025年公开遴选事业单位工作人员公告](https://www.gongkaoleida.com/article/2570152)
 
-[77岁老人在大渡河游泳 被冲到乐山大佛脚下失联超3天](https://m.163.com/news/article/K75JPNH90514D3UH.html)
+[男子成"职业背债人"：觉得这是个机会 200万买断人生](https://m.163.com/news/article/K76FVAIM053469LG.html)
 
-[3女子在贵州买避暑房 散步被大树砸倒致1死2伤获赔偿](https://m.163.com/news/article/K75HHR2K05561G0D.html)
+[村干部吃喝"打白条" 饭店老板二十多年未要回20万饭钱](https://m.163.com/news/article/K764KQ20051282UI.html)
 
-[姑姑霸占侄女房子住10年 现场手撕协议：你爱住哪住哪](https://m.163.com/news/article/K75ILO58053469LG.html)
+[主人欠钱狸花猫被法拍：起拍价500元 有人愿出8000元](https://m.163.com/news/article/K76563OV0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[续面女顾客将起诉面馆老板:误导网友认为她只点一份面](https://m.163.com/news/article/K75EBU9305345ARG.html)
+[警方回应"87岁范曾疑被妻子带离住所失联":未接到报案](https://m.163.com/news/article/K763EU7205561G0D.html)
 
 ---end---
