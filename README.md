@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-18 14:34:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-18 15:00:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区人力资源和社会保障局重庆市潼南区教育系统2025年公开遴选事业单位工作人员公告](https://www.gongkaoleida.com/article/2570152)
+[重庆一中七十一中学校教师招聘公告](https://www.gongkaoleida.com/article/2571080)
 
 [女子被困25楼扔血书枕头自救：曾挥舞红衣两天没人理](https://m.163.com/news/article/K76L4QR4051492T3.html)
 
