@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-18 19:51:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-18 20:44:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆一中七十一中学校教师招聘公告](https://www.gongkaoleida.com/article/2571080)
+[铜梁区气象局招聘主持人招聘启事](https://www.gongkaoleida.com/article/2572029)
 
-[女子被困25楼扔血书枕头自救：曾挥舞红衣两天没人理](https://m.163.com/news/article/K76L4QR4051492T3.html)
+[爸爸带两个孩子从深圳徒步到长沙：31天走800多公里](https://m.163.com/news/article/K796EHDJ055040N3.html)
 
-[清华庞众望获感动中国年度人物 否认获300万科研奖金](https://m.163.com/news/article/K76JFL7H0530JPVV.html)
+[高兴夫被查 曾任浙江省副省长](https://m.163.com/news/article/K78RVETL05345ARG.html)
 
-[男子成"职业背债人"：觉得这是个机会 200万买断人生](https://m.163.com/news/article/K76FVAIM053469LG.html)
+[河南郏县通报"俄院士"33亿元投资项目问题：认真反思](https://m.163.com/news/article/K78R7VAB053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[村干部吃喝"打白条" 饭店老板二十多年未要回20万饭钱](https://m.163.com/news/article/K764KQ20051282UI.html)
+[华为重夺中国手机市场出货量榜首 小米降至第四](https://m.163.com/news/article/K78NSCHB0534A4SC.html)
 
 ---end---
