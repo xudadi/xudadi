@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-19 13:52:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-19 14:31:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[铜梁区气象局招聘主持人招聘启事](https://www.gongkaoleida.com/article/2572029)
+[重庆市渝北区悦港中学校公开招聘编外教师公告(第二次)](https://www.gongkaoleida.com/article/2573608)
 
-[辛巴宣布退出直播行业 此前自创品牌卫生巾检出致癌物](https://m.163.com/news/article/K79BUNC9053469LG.html)
+[男子被毒蛇咬伤拦车自救：当时可能把手指伸向蛇嘴里](https://m.163.com/news/article/K798EU4M051492T3.html)
 
-[广电总局：改进电视剧集数 推动优秀境外节目引进播出](https://m.163.com/news/article/K79CASUA0534A4SC.html)
+[10人露营遭山洪夜袭遇难 当天曾有人劝游客远离河槽](https://m.163.com/news/article/K79GEKFL0514D3J0.html)
 
-[女子悬赏上海一套房寻被拐26年儿子:线索确认一定兑现](https://m.163.com/news/article/K799R262053469LG.html)
+[男子称小区卖16个"违规车位"价值超百万 如今要求撤除](https://m.163.com/news/article/K798EHG80514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[续面事件老板道歉 其戏称顾客为"七匹狼"的言论被扒出](https://m.163.com/news/article/K79AB26B05345ARG.html)
+[辛巴宣布退出直播行业 此前自创品牌卫生巾检出致癌物](https://m.163.com/news/article/K79BUNC9053469LG.html)
 
 ---end---
