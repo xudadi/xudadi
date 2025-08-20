@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-20 20:40:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-20 21:20:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[童心小学教育集团教师招聘公告](https://www.gongkaoleida.com/article/2576138)
+[秀山县县属国有企业2025年面向社会公开招聘工作人员公告](https://www.gongkaoleida.com/article/2577593)
+
+[制造商主动揭开骗局 港府饮用水供应商冒用品牌被拘捕](https://m.163.com/news/article/K7DEGKQL05129QAF.html)
 
 [男童在苍山遇难 家属：当天改变登山路线 定位器失灵](https://m.163.com/news/article/K7DJ38HH0514BE2Q.html)
 
 [男子索要股份被拒纠集他人入户抢劫致1死 被核准死刑](https://m.163.com/news/article/K7DAM2OG051492T3.html)
 
-[云南大理市委书记字德海任上被查](https://m.163.com/news/article/K7DFGFV5053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[美政府被指想拿补助款换入股 台积电：不回答假性议题](https://m.163.com/news/article/K7DEDB7O0514R9OJ.html)
+[云南大理市委书记字德海任上被查](https://m.163.com/news/article/K7DFGFV5053469LG.html)
 
 ---end---
