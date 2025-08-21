@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-21 14:39:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-21 15:01:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[秀山县县属国有企业2025年面向社会公开招聘工作人员公告](https://www.gongkaoleida.com/article/2577593)
+[重庆人才服务股份有限公司招聘劳务派遣人员岗位若干](https://www.gongkaoleida.com/article/2578783)
 
-[女子登山骨折花6万找10人抬下山:他们开的价 我没还价](https://m.163.com/news/article/K7EE2U1E05345ARG.html)
+[长沙火车站站台15元盒饭引热议 工作人员：十年没涨价](https://m.163.com/news/article/K7G5D75T053469LG.html)
 
-[00后1天学10节网课后闯牛市:投了10万 赚钱再告诉父母](https://m.163.com/news/article/K7DOPLP50530NLC9.html)
+[女子开奔驰逼停摩托车并下车猛踹其尾箱 警方再通报](https://m.163.com/news/article/K7FUI6490534A4SC.html)
 
-[23岁男子失联两月疑在柬埔寨 家属曾收到死亡威胁短信](https://m.163.com/news/article/K7E9U47A0514D3UH.html)
+[国内首例 女子出差时被领导性侵认定工伤后获赔110万](https://m.163.com/news/article/K7FSTDPT053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[62岁千百惠因病去世 上个月刚抱孙子](https://m.163.com/news/article/K7EFFIJ9051492T3.html)
+[柳州市委书记：违建轻轨透支人民信任 教训极其深刻](https://m.163.com/news/article/K7FS3U8F05345ARG.html)
 
 ---end---
