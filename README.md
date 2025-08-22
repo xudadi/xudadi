@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-22 14:30:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-22 14:53:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[人和中学招聘非编教师](https://www.gongkaoleida.com/article/2579974)
+[重庆武隆旅游产业(集团)有限公司公开招聘财务人员公告](https://www.gongkaoleida.com/article/2581045)
 
-[6岁女童左腿被排水孔卡住溺亡于戏水池 事故原因披露](https://m.163.com/news/article/K7H35CDA0514R9P4.html)
+[8岁女孩被邻居带去长江游泳溺亡 其家人起诉索赔109万](https://m.163.com/news/article/K7IJ5TN705561G0D.html)
 
-[13人"恶势力团伙"均改判无罪 多人3年后仍有犯罪记录](https://m.163.com/news/article/K7GK1V370514R9P4.html)
+[川青铁路在建大桥施工绳索断裂 已致7人遇难](https://m.163.com/news/article/K7IBS0BA0001899O.html)
 
-[杭州一商场开业不到1年人去楼空 商家被断水断电关门](https://m.163.com/news/article/K7H6F4UD0001899O.html)
+[小米准车主遇30天尾款"通牒"：不支付2万元定金不退](https://m.163.com/news/article/K7IGQF4G0511U82T.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男网红被指娶三个残障老婆 抖音回应](https://m.163.com/news/article/K7GPJSGJ05561G0D.html)
+[南京市干部臧正金被查 16年前曾公开回应"家有4套房"](https://m.163.com/news/article/K7IG37OT0534A4SC.html)
 
 ---end---
