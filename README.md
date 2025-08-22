@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-22 20:39:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-22 21:17:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆武隆旅游产业(集团)有限公司公开招聘财务人员公告](https://www.gongkaoleida.com/article/2581045)
+[重庆轨道设计院招聘公告](https://www.gongkaoleida.com/article/2582593)
 
-[8岁女孩被邻居带去长江游泳溺亡 其家人起诉索赔109万](https://m.163.com/news/article/K7IJ5TN705561G0D.html)
+[2岁多女童失踪 父亲:孩子在家门口玩耍几分钟就不见了](https://m.163.com/news/article/K7JDJC5O053469LG.html)
 
-[川青铁路在建大桥施工绳索断裂 已致7人遇难](https://m.163.com/news/article/K7IBS0BA0001899O.html)
+[3岁女童被生父及其情人虐死 生父被判无期](https://m.163.com/news/article/K7JDJC4N053469LG.html)
 
-[小米准车主遇30天尾款"通牒"：不支付2万元定金不退](https://m.163.com/news/article/K7IGQF4G0511U82T.html)
+[法拍狸花猫撤拍后被爱猫人士领走 工作人员发声](https://m.163.com/news/article/K7JCJG0005561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[南京市干部臧正金被查 16年前曾公开回应"家有4套房"](https://m.163.com/news/article/K7IG37OT0534A4SC.html)
+[陕西一镇政府发搜寻跑失"狼犬"提示 当地回应](https://m.163.com/news/article/K7JCI8GH05561G0D.html)
 
 ---end---
