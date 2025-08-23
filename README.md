@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-23 20:36:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-23 21:12:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆旅投景典房地产开发有限公司所属子企业公开招聘公告](https://www.gongkaoleida.com/article/2582972)
+[重庆市农业机械化学校2025年非在编教师招聘启事](https://www.gongkaoleida.com/article/2583320)
 
-[中国渔民多次捞到"间谍鱼"：呈球形 上面有外国字](https://m.163.com/news/article/K7IDF1K10514R9OJ.html)
+[男子发12字评论被拘留5天:警察拿出一堆文件让我签字](https://m.163.com/news/article/K7KNP23V0514R9P4.html)
 
-[医学生被安排到电子厂实习还被克扣工资 当事学校回应](https://m.163.com/news/article/K7JHTV32053469LG.html)
+[老人29年前结婚时买的"老农保" 现仅能退本金200元](https://m.163.com/news/article/K7KMO3FD0514R9P4.html)
 
-["晴格格"王艳直播带货两场卖3000多万 丈夫已被"限高"](https://m.163.com/news/article/K7JEO8JT0512B07B.html)
+[211大学女生大一就被断供生活费:怎么会有这样的爸妈](https://m.163.com/news/article/K7IQL2SV05506O99.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海女子在卧室汗毛竖起来了 墙上突现3个洞正对着床](https://m.163.com/news/article/K7JHB0M0053469LG.html)
+[实习公司误缴社保致应届生无法落户上海 被判赔偿5万](https://m.163.com/news/article/K7L9QV9K05345ARG.html)
 
 ---end---
