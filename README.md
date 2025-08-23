@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-23 14:26:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-23 14:47:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆轨道设计院招聘公告](https://www.gongkaoleida.com/article/2582593)
+[重庆旅投景典房地产开发有限公司所属子企业公开招聘公告](https://www.gongkaoleida.com/article/2582972)
 
 [中国渔民多次捞到"间谍鱼"：呈球形 上面有外国字](https://m.163.com/news/article/K7IDF1K10514R9OJ.html)
 
