@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-25 14:32:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-25 14:57:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市农业机械化学校2025年非在编教师招聘启事](https://www.gongkaoleida.com/article/2583320)
+[公开选聘2名县属国有企业专职外部董事的公告](https://www.gongkaoleida.com/article/2584825)
 
 ["中国钓王"钓获73斤野生花鲢:觉得好重 现场看鱼真大](https://m.163.com/news/article/K7O0OBDO0530S6GI.html)
 
