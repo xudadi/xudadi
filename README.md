@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-25 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-25 20:41:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[公开选聘2名县属国有企业专职外部董事的公告](https://www.gongkaoleida.com/article/2584825)
+[重庆市云阳县事业单位2025年面向服务期满“三支一扶”人员、应届毕业农村订单定向医学生、应届毕业公费师范生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2586398)
 
-["中国钓王"钓获73斤野生花鲢:觉得好重 现场看鱼真大](https://m.163.com/news/article/K7O0OBDO0530S6GI.html)
+[横店影视城"缺爹"上热搜 部分剧组开5000元/日求"爹"](https://m.163.com/news/article/K7QE0HGM0514BE2Q.html)
 
-[剧院回应翟天临将出演新话剧：目前没有人反映不妥](https://m.163.com/news/article/K7O438O3053469LG.html)
+[女子买"载重3吨"电三轮改摩旅房车 发现载重仅200公斤](https://m.163.com/news/article/K7QTA0VC05561G0D.html)
 
-[天安门广场9月1日至3日暂停开放](https://m.163.com/news/article/K7OK63RI0001899O.html)
+[一名被通缉的中国黑帮头目被引渡回国 外交部回应](https://m.163.com/news/article/K7R0AN9N0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏一名23岁男子退租留满柜尿瓶 房东：纯粹懒](https://m.163.com/news/article/K7OH9Q66053469LG.html)
+[特大盗墓案披露：嫌犯看小说学盗墓 挖走20余件国宝](https://m.163.com/news/article/K7QU9S4A053469LG.html)
 
 ---end---
