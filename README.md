@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-26 13:52:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-26 14:30:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市云阳县事业单位2025年面向服务期满“三支一扶”人员、应届毕业农村订单定向医学生、应届毕业公费师范生公开招聘工作人员公告](https://www.gongkaoleida.com/article/2586398)
+[重庆飞驶特人力资源管理有限公司派往华商酒店安全专管员岗位招聘启事](https://www.gongkaoleida.com/article/2587579)
 
-["晴格格"王艳丈夫被"限高" 本人就直播带货争议致歉](https://m.163.com/news/article/K7RBTLKQ051492T3.html)
+[双胞胎兄弟高考同分考入山大同一专业 一家人都是校友](https://m.163.com/news/article/K7SU7JT0053469LG.html)
 
-[游客拍下大蛇捕鱼画面 神似千年文物“蛇蛙铜俎”场景](https://m.163.com/news/article/K7QVPS67051492T3.html)
+[网友称有人戴恐怖面具故意惊吓高速车辆 知情人士发声](https://m.163.com/news/article/K7STEDNE05345ARG.html)
 
-[村民捡野生菌遭小黑熊一路跟随：可能将黑狗认成熊妈](https://m.163.com/news/article/K7QVPS4H051492T3.html)
+[1.5公斤黄金抵押品因涉案被扣押14年 寄卖行申请国赔](https://m.163.com/news/article/K7T04PP80514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[武汉男子拍摄违停时被当街殴打 打人者被罚款500元](https://m.163.com/news/article/K7RCFU6N051492T3.html)
+[中候补陈永奇跨省履新后 再添新职](https://m.163.com/news/article/K7SNT12C055040N3.html)
 
 ---end---
