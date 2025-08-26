@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-26 20:42:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-26 21:21:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往华商酒店安全专管员岗位招聘启事](https://www.gongkaoleida.com/article/2587579)
+[两江新区人才发展集团外包岗位招聘简章](https://www.gongkaoleida.com/article/2588740)
 
 [双胞胎兄弟高考同分考入山大同一专业 一家人都是校友](https://m.163.com/news/article/K7SU7JT0053469LG.html)
 
