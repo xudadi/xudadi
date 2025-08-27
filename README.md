@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-27 14:28:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-27 14:49:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区人才发展集团外包岗位招聘简章](https://www.gongkaoleida.com/article/2588740)
+[重庆市杨家坪中学D区舞蹈艺术团带团教师招聘公告](https://www.gongkaoleida.com/article/2589649)
 
-[网友称高速有人疑戴恐怖面具惊吓过路车辆 警方通报](https://m.163.com/news/article/K7UVPECV0001899O.html)
+[小情侣吵架开着奔驰车坠入湖中 老人仅用3分钟救出2人](https://m.163.com/news/article/K7TD8AQA0514R9OJ.html)
 
-[多位网友称美团退款并未实际到账：有流程9年后才完成](https://m.163.com/news/article/K7U3THGQ05199DKK.html)
+[日台以"台湾有事"为前提签署所谓备忘录 国台办回应](https://m.163.com/news/article/K7VFSPVV0514R9OJ.html)
 
-[iPhone 17要来了 苹果官宣 9月10日凌晨举行发布会](https://m.163.com/news/article/K7UOTH9C0512B07B.html)
+[直播公司围猎初中辍学农村女孩:老板群发"撩汉全攻略"](https://m.163.com/news/article/K7V8RU6F0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子市区骑车遭横空绳索割喉 医生几乎为他"重造"喉部](https://m.163.com/news/article/K7SRG4T6051492T3.html)
+["老农保"29年后仅退200元本金 四川长宁：正全面核查](https://m.163.com/news/article/K7VGTUN80514R9P4.html)
 
 ---end---
