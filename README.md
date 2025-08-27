@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-27 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-27 09:27:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [两江新区人才发展集团外包岗位招聘简章](https://www.gongkaoleida.com/article/2588740)
 
-[双胞胎兄弟高考同分考入山大同一专业 一家人都是校友](https://m.163.com/news/article/K7SU7JT0053469LG.html)
+[网友称高速有人疑戴恐怖面具惊吓过路车辆 警方通报](https://m.163.com/news/article/K7UVPECV0001899O.html)
 
-[网友称有人戴恐怖面具故意惊吓高速车辆 知情人士发声](https://m.163.com/news/article/K7STEDNE05345ARG.html)
+[多位网友称美团退款并未实际到账：有流程9年后才完成](https://m.163.com/news/article/K7U3THGQ05199DKK.html)
 
-[1.5公斤黄金抵押品因涉案被扣押14年 寄卖行申请国赔](https://m.163.com/news/article/K7T04PP80514R9P4.html)
+[iPhone 17要来了 苹果官宣 9月10日凌晨举行发布会](https://m.163.com/news/article/K7UOTH9C0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中候补陈永奇跨省履新后 再添新职](https://m.163.com/news/article/K7SNT12C055040N3.html)
+[男子市区骑车遭横空绳索割喉 医生几乎为他"重造"喉部](https://m.163.com/news/article/K7SRG4T6051492T3.html)
 
 ---end---
