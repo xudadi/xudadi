@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-28 14:29:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-28 14:51:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院聘用人员招聘简章](https://www.gongkaoleida.com/article/2591228)
+[重庆市沙坪坝区双碑小学教师招聘公告](https://www.gongkaoleida.com/article/2591887)
 
-[军报批日本呼吁各国不参加九三阅兵:歪曲事实混淆视听](https://m.163.com/news/article/K80CPIIJ0514R9P4.html)
+[外媒记者问中国想通过阅兵传递什么信号 外交部回应](https://m.163.com/news/article/K81V7SA70001899O.html)
 
-[17分钟内连发3起事故致4名年轻人当场死亡 详情披露](https://m.163.com/news/article/K80GS29600019K82.html)
+[天安门广场布置年号台等要素](https://m.163.com/news/article/K81S37QR0001899O.html)
 
-[韩国总统特使：中方要求就韩国内"反华情绪"采取措施](https://m.163.com/news/article/K80506TH0514R9OJ.html)
+[14国50位友人或遗属将应邀出席抗战纪念活动](https://m.163.com/news/article/K81RJ296000189PS.html)
 
-[3](https://www.163.com/v/video/VT71BBJLN.html)
+[3](https://m.163.com/touch/news/sub/domestic)
 
-[12年前"带父乞讨"女孩考上大学：毕业想回家乡当老师](https://m.163.com/news/article/K80O60VL051492T3.html)
+[普京和金正恩等26位领导人将出席抗战纪念活动](https://m.163.com/news/article/K81R3CAH0001899O.html)
 
 ---end---
