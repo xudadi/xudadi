@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-28 20:39:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-28 21:17:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区双碑小学教师招聘公告](https://www.gongkaoleida.com/article/2591887)
+[江北区消防救援支队2025年政府专职消防员招聘简章](https://www.gongkaoleida.com/article/2592918)
+
+[九三纪念活动外方嘉宾全名单公布 日本前首相将出席](https://m.163.com/news/article/K8238073051482MP.html)
+
+[女子称251万存款"消失" 警方发现被多名老人分次取走](https://m.163.com/news/article/K8050AGO0514R9OJ.html)
 
 [外媒记者问中国想通过阅兵传递什么信号 外交部回应](https://m.163.com/news/article/K81V7SA70001899O.html)
 
-[天安门广场布置年号台等要素](https://m.163.com/news/article/K81S37QR0001899O.html)
-
-[14国50位友人或遗属将应邀出席抗战纪念活动](https://m.163.com/news/article/K81RJ296000189PS.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[普京和金正恩等26位领导人将出席抗战纪念活动](https://m.163.com/news/article/K81R3CAH0001899O.html)
+[天安门广场布置年号台等要素](https://m.163.com/news/article/K81S37QR0001899O.html)
 
 ---end---
