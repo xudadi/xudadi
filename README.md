@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-29 07:50:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-29 09:26:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[江北区消防救援支队2025年政府专职消防员招聘简章](https://www.gongkaoleida.com/article/2592918)
+[重庆市合川瑞山中学招聘物理学科顶岗教师公告](https://www.gongkaoleida.com/article/2593228)
 
 [九三纪念活动外方嘉宾全名单公布 日本前首相将出席](https://m.163.com/news/article/K8238073051482MP.html)
 
