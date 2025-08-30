@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-08-30 19:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-08-30 20:35:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南证券股份有限公司招聘公告](https://www.gongkaoleida.com/article/2595350)
+[重庆实验外国语学校财务人员招聘启事](https://www.gongkaoleida.com/article/2595583)
 
-[00后父亲割肝救女称"爸爸在呢" 奶奶忍不住落泪](https://m.163.com/news/article/K84QIK780534P59R.html)
+[大爷直播间花5000元买定制款"老头乐" 送到家后傻眼了](https://m.163.com/news/article/K85JBGRF05149FJ6.html)
 
-[上海女孩把海归博士前男友介绍给闺蜜 一年后收到请柬](https://m.163.com/news/article/K84Q5TQ9053469LG.html)
+[32岁网红"若童"肠癌去世 曾cos"光头强"角色走红](https://m.163.com/news/article/K87D8H3L051492T3.html)
 
-[寒武纪股价大涨成为"股王" 外媒：让英伟达紧张冒汗](https://m.163.com/news/article/K84ICAOR05504DOQ.html)
+[女生酒后从副驾驶坠落在ICU昏迷1个月 司机：尿急跳车](https://m.163.com/news/article/K875694I053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[福建舰将集齐舰载弹射战机、隐身战机等"航母五件套"](https://m.163.com/news/article/K838641E051482MP.html)
+[大陆的一条"机器狗"让台湾一些人跳脚 被指"无脑反中"](https://m.163.com/news/article/K85MAU6C05504DOQ.html)
 
 ---end---
