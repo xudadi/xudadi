@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-01 14:32:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-01 14:57:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡职业教育中心2025年秋季学期招聘教师公告](https://www.gongkaoleida.com/article/2595902)
+[重庆两江新区物业管理有限公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2596675)
 
-[女子游完泳之后狂吐瘦8斤 去看医生被指病危要肝移植](https://m.163.com/news/article/K8A6Q43R0534P59R.html)
+[4人违规攀爬苍山被立案:2人迷路求救耗费大量公共资源](https://m.163.com/news/article/K8CC7MSS0514R9P4.html)
 
-[银行副行长退休后嫌太闲重新上班：退休金上万 不差钱](https://m.163.com/news/article/K8AG7NPK0519APGA.html)
+[两台车在野生动物园猛兽区剐蹭车主下车沟通 园区回应](https://m.163.com/news/article/K8CEATL20534P59R.html)
 
-[夫妻自驾从安徽送儿子去新疆上大学：辛苦但快乐](https://m.163.com/news/article/K8ABMVSG0534P59R.html)
+[中国羽毛球价格上涨 世界羽联表态：情况尚未达到危机](https://m.163.com/news/article/K8CAPQEP05504DOQ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子占用他人车位半小时被堵车 不交200元对方不移车](https://m.163.com/news/article/K8AE61N90534P59R.html)
+["四子王旗警察枪击案"当事人刑满释放：我将继续申诉](https://m.163.com/news/article/K8C77JMT051492T3.html)
 
 ---end---
