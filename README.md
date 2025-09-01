@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-01 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-01 09:48:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆幼儿师范高等专科学校智能科技学院2025年秋季学期外聘教师招聘简章](https://www.gongkaoleida.com/article/2595789)
+[重庆市九龙坡职业教育中心2025年秋季学期招聘教师公告](https://www.gongkaoleida.com/article/2595902)
+
+[女子游完泳之后狂吐瘦8斤 去看医生被指病危要肝移植](https://m.163.com/news/article/K8A6Q43R0534P59R.html)
 
 [银行副行长退休后嫌太闲重新上班：退休金上万 不差钱](https://m.163.com/news/article/K8AG7NPK0519APGA.html)
 
 [夫妻自驾从安徽送儿子去新疆上大学：辛苦但快乐](https://m.163.com/news/article/K8ABMVSG0534P59R.html)
 
-[女子占用他人车位半小时被堵车 不交200元对方不移车](https://m.163.com/news/article/K8AE61N90534P59R.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[复旦大学硬核军训玩"真人CS" 学生：用上了激光镭射枪](https://m.163.com/news/article/K8A9BCE2053469M5.html)
+[女子占用他人车位半小时被堵车 不交200元对方不移车](https://m.163.com/news/article/K8AE61N90534P59R.html)
 
 ---end---
