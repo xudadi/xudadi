@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-02 14:30:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-02 14:52:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区两路幼儿园公开招聘编外教师公告](https://www.gongkaoleida.com/article/2597396)
+[重庆九洲智造科技有限公司关于招聘SMT技术员等岗位的公告](https://www.gongkaoleida.com/article/2599253)
 
-[李默庵故居将再拍卖：曾以2913万成交 买家未交易成功](https://m.163.com/news/article/K8DE2USN051492T3.html)
+[新型装备亮相 九三阅兵将实现多个"首次"](https://m.163.com/news/article/K8F0S361000189PS.html)
 
-[金正恩坐防弹专列来北京 路程超20小时](https://m.163.com/news/article/K8DE8F8J0514EGPO.html)
+[文旅官员被双开：违规配备专车专驾、专秘私厨](https://m.163.com/news/article/K8EUFVGV0514CDBK.html)
 
-[7人站桥栏上疑"跳水留影" 6人入水瞬间桥栏倒塌](https://m.163.com/news/article/K8DCUAPB05561G0D.html)
+[上市公司半年报出炉 A股全市场近六成公司营收正增长](https://m.163.com/news/article/K8EM0OHJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["甘蔗姐姐"筹钱救弟终成遗憾:弟弟移植后排异感染离世](https://m.163.com/news/article/K8D9H4R0053469LG.html)
+[众泰汽车公告称今年已无法复工复产 去年仅卖出14辆车](https://m.163.com/news/article/K8DNKQ040512B07B.html)
 
 ---end---
