@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-03 01:50:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-03 02:25:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区空港新城某公办幼儿园招聘信息](https://www.gongkaoleida.com/article/2600193)
 
-[新型装备亮相 九三阅兵将实现多个"首次"](https://m.163.com/news/article/K8F0S361000189PS.html)
+[夫妻骑电瓶车带两娃17天跨越2000公里：孩子们很享受](https://m.163.com/news/article/K8FP3UF6053469LG.html)
 
-[文旅官员被双开：违规配备专车专驾、专秘私厨](https://m.163.com/news/article/K8EUFVGV0514CDBK.html)
+[一完达山运奶车罐体漏奶且车体脏 奶企:不会污染牛奶](https://m.163.com/news/article/K8FNI8EQ0534P59R.html)
 
-[上市公司半年报出炉 A股全市场近六成公司营收正增长](https://m.163.com/news/article/K8EM0OHJ053469LG.html)
+[小伙花2万多"签约寻爱"却"竹篮打水"：见个面就叫约会](https://m.163.com/news/article/K8FMO95V05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[众泰汽车公告称今年已无法复工复产 去年仅卖出14辆车](https://m.163.com/news/article/K8DNKQ040512B07B.html)
+[戴军上papi酱节目火了 称自己给寒山寺的钟配音丢工作](https://m.163.com/news/article/K8FL7BQ4053469LG.html)
 
 ---end---
