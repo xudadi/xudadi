@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-02 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-02 09:27:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市渝北区两路幼儿园公开招聘编外教师公告](https://www.gongkaoleida.com/article/2597396)
 
+[李默庵故居将再拍卖：曾以2913万成交 买家未交易成功](https://m.163.com/news/article/K8DE2USN051492T3.html)
+
+[金正恩坐防弹专列来北京 路程超20小时](https://m.163.com/news/article/K8DE8F8J0514EGPO.html)
+
 [7人站桥栏上疑"跳水留影" 6人入水瞬间桥栏倒塌](https://m.163.com/news/article/K8DCUAPB05561G0D.html)
-
-["甘蔗姐姐"筹钱救弟终成遗憾:弟弟移植后排异感染离世](https://m.163.com/news/article/K8D9H4R0053469LG.html)
-
-["最快女护士"夺冠后哭诉让领导多给调休 被指道歉绑架](https://m.163.com/news/article/K8D9B2HP0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[21岁小伙不买房买车只想游中国：走过50多城只花2万多](https://m.163.com/news/article/K8DB3VH30001899O.html)
+["甘蔗姐姐"筹钱救弟终成遗憾:弟弟移植后排异感染离世](https://m.163.com/news/article/K8D9H4R0053469LG.html)
 
 ---end---
