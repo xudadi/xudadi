@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-02 20:40:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-02 21:18:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲智造科技有限公司关于招聘SMT技术员等岗位的公告](https://www.gongkaoleida.com/article/2599253)
+[渝北区空港新城某公办幼儿园招聘信息](https://www.gongkaoleida.com/article/2600193)
 
 [新型装备亮相 九三阅兵将实现多个"首次"](https://m.163.com/news/article/K8F0S361000189PS.html)
 
