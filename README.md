@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-03 07:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-03 09:22:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [渝北区空港新城某公办幼儿园招聘信息](https://www.gongkaoleida.com/article/2600193)
 
-[夫妻骑电瓶车带两娃17天跨越2000公里：孩子们很享受](https://m.163.com/news/article/K8FP3UF6053469LG.html)
+[新中国阅兵史上规模最大的军乐团亮相](https://m.163.com/news/article/K8H5IMLA051482MP.html)
 
-[一完达山运奶车罐体漏奶且车体脏 奶企:不会污染牛奶](https://m.163.com/news/article/K8FNI8EQ0534P59R.html)
+[霍震霆与两儿子齐聚北京：父子同场见证是一种光荣](https://m.163.com/news/article/K8H309HG0514EGPO.html)
 
-[小伙花2万多"签约寻爱"却"竹篮打水"：见个面就叫约会](https://m.163.com/news/article/K8FMO95V05561G0D.html)
+[集结完毕 3个关键词解锁受阅方队特点](https://m.163.com/news/article/K8H0OLVH0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[戴军上papi酱节目火了 称自己给寒山寺的钟配音丢工作](https://m.163.com/news/article/K8FL7BQ4053469LG.html)
+[台大教授出席九三阅兵：31日还不确定是否百分百受邀](https://m.163.com/news/article/K8GU4GPQ0514R9OJ.html)
 
 ---end---
