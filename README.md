@@ -13,18 +13,16 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-03 14:27:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-03 14:48:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区空港新城某公办幼儿园招聘信息](https://www.gongkaoleida.com/article/2600193)
+[军事专家：东风-5C能携带10枚分导弹头 战力已经倍增](https://m.163.com/news/article/K8HN1N41051492LM.html)
 
-[新中国阅兵史上规模最大的军乐团亮相](https://m.163.com/news/article/K8H5IMLA051482MP.html)
+[洪秀柱出席九三阅兵 谈"回去被批判"：我无所谓](https://m.163.com/news/article/K8HMB0D40001899O.html)
 
-[霍震霆与两儿子齐聚北京：父子同场见证是一种光荣](https://m.163.com/news/article/K8H309HG0514EGPO.html)
-
-[集结完毕 3个关键词解锁受阅方队特点](https://m.163.com/news/article/K8H0OLVH0530WJIN.html)
+[游客从西安赶到北京看阅兵 称看到战机编队"这趟值了"](https://m.163.com/news/article/K8HK8S61053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台大教授出席九三阅兵：31日还不确定是否百分百受邀](https://m.163.com/news/article/K8GU4GPQ0514R9OJ.html)
+[外媒聚焦九三阅兵：中国在世界舞台上的重要时刻到来](https://m.163.com/news/article/K8HG028N0530WJIN.html)
 
 ---end---
