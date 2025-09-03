@@ -13,7 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-03 19:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-03 20:38:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[重庆飞驶特人力资源管理有限公司武隆分公司派往武隆区人民法院司法警察招聘启事](https://www.gongkaoleida.com/article/2601746)
 
 [军事专家：东风-5C能携带10枚分导弹头 战力已经倍增](https://m.163.com/news/article/K8HN1N41051492LM.html)
 
