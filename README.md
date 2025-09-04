@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-04 20:37:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-04 21:13:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中交长江建设发展集团有限公司招聘公告](https://www.gongkaoleida.com/article/2602802)
+[重庆市卫生人才发展与对外交流中心招聘启事](https://www.gongkaoleida.com/article/2603670)
+
+[连锁药房老板忙活一年净亏2000多万元：亏得没办法了](https://m.163.com/news/article/K8K8P9KK0512B07B.html)
 
 [杭州一面馆一碗面卖2188元 店主:我的厨艺值这个价格](https://m.163.com/news/article/K8K2MD00055040N3.html)
 
 [10岁男孩帮妈妈拿洗衣机里衣物 右臂卷入致粉碎性骨折](https://m.163.com/news/article/K8K2L9M3055040N3.html)
 
-[九三阅兵当天赖清德诬蔑攻击大陆 国台办回应](https://m.163.com/news/article/K8K1QC2J0001899O.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["惊雷-1"空基远程导弹震撼亮相 台退将发声](https://m.163.com/news/article/K8K117040514R9OJ.html)
+[九三阅兵当天赖清德诬蔑攻击大陆 国台办回应](https://m.163.com/news/article/K8K1QC2J0001899O.html)
 
 ---end---
