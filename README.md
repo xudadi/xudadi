@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-06 01:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-06 02:24:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告](https://www.gongkaoleida.com/article/2605990)
 
-[贾利军已任公安部党委委员、政治部主任](https://m.163.com/news/article/K8NG2AUM0512D3VJ.html)
+[女子做微创手术致脑死亡 省医学会推翻市级医学会鉴定](https://m.163.com/news/article/K8NLUOF4053469LG.html)
 
-[医院："最快女护士"未被解聘 仍是全科医学科主管护师](https://m.163.com/news/article/K8N67AI70514BE2Q.html)
+[6岁男童家门口被亲戚带走杀害藏尸 凶手自首被判死缓](https://m.163.com/news/article/K8NJUI8H0534P59R.html)
 
-[出厂价0.8元卖到5元 板蓝根等因拒调价被上海暂停采购](https://m.163.com/news/article/K8N800SG0512D03F.html)
+[间隔5天先判被告方胜诉再判败诉 法院:发错判决书版本](https://m.163.com/news/article/K8NFP80205561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[兄妹遭胡蜂蜇数百次身亡 养蜂人:养2年它们从未叮过人](https://m.163.com/news/article/K8MHFE9U0514R9P4.html)
+[游客称在武大校园租电单车1小时36元 武汉12345回应](https://m.163.com/news/article/K8N9PN7B05561G0D.html)
 
 ---end---
