@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-05 20:37:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-05 21:14:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆理工大学期刊社2025年招聘启事](https://www.gongkaoleida.com/article/2604554)
+[重庆农投肉食品有限公司招聘公告](https://www.gongkaoleida.com/article/2605990)
 
-[医生将350万"灰色收入"存原保姆账户 对方发现后全取走](https://m.163.com/news/article/K8L0VNTJ05561G0D.html)
+[贾利军已任公安部党委委员、政治部主任](https://m.163.com/news/article/K8NG2AUM0512D3VJ.html)
 
-[00后小伙新疆"找矿"却因喂牛视频走红:主要找铜矿金矿](https://m.163.com/news/article/K8L07UOP0534P59R.html)
+[医院："最快女护士"未被解聘 仍是全科医学科主管护师](https://m.163.com/news/article/K8N67AI70514BE2Q.html)
 
-[兄妹遭蜂群蜇伤身亡:哥哥被蜇300多下 妹妹被蜇700多下](https://m.163.com/news/article/K8KUP040051492T3.html)
+[出厂价0.8元卖到5元 板蓝根等因拒调价被上海暂停采购](https://m.163.com/news/article/K8N800SG0512D03F.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海夫妻为买房假离婚未复婚 女方起诉分财产法院判了](https://m.163.com/news/article/K8KPU8AJ053469LG.html)
+[兄妹遭胡蜂蜇数百次身亡 养蜂人:养2年它们从未叮过人](https://m.163.com/news/article/K8MHFE9U0514R9P4.html)
 
 ---end---
