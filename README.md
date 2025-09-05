@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-05 14:28:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-05 14:49:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市卫生人才发展与对外交流中心招聘启事](https://www.gongkaoleida.com/article/2603670)
+[重庆理工大学期刊社2025年招聘启事](https://www.gongkaoleida.com/article/2604554)
 
 [医生将350万"灰色收入"存原保姆账户 对方发现后全取走](https://m.163.com/news/article/K8L0VNTJ05561G0D.html)
 
