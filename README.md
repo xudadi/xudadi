@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-06 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-06 09:22:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆农投肉食品有限公司招聘公告](https://www.gongkaoleida.com/article/2605990)
+[重庆飞驶特人力资源管理有限公司招聘派往某机关事业单位招聘简章](https://www.gongkaoleida.com/article/2606104)
 
 [女子做微创手术致脑死亡 省医学会推翻市级医学会鉴定](https://m.163.com/news/article/K8NLUOF4053469LG.html)
 
