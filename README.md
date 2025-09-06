@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-06 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-06 20:34:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司招聘派往某机关事业单位招聘简章](https://www.gongkaoleida.com/article/2606104)
+[重庆大学大数据与软件学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2606356)
 
-[女子做微创手术致脑死亡 省医学会推翻市级医学会鉴定](https://m.163.com/news/article/K8NLUOF4053469LG.html)
+[20岁女生35天穷游7国仅花万元：最省时1天只花几十元](https://m.163.com/news/article/K8Q15PC1053469LG.html)
 
-[6岁男童家门口被亲戚带走杀害藏尸 凶手自首被判死缓](https://m.163.com/news/article/K8NJUI8H0534P59R.html)
+["反诈老陈"账号被封禁 此前称"嘎子哥"卖的手机非正品](https://m.163.com/news/article/K8PJ6U2B053469LG.html)
 
-[间隔5天先判被告方胜诉再判败诉 法院:发错判决书版本](https://m.163.com/news/article/K8NFP80205561G0D.html)
+[国内两家杜莎夫人蜡像馆接连关停 北京馆票价刚下调](https://m.163.com/news/article/K8PVE5QF0512D03F.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[游客称在武大校园租电单车1小时36元 武汉12345回应](https://m.163.com/news/article/K8N9PN7B05561G0D.html)
+[山东一中学初一新生招94个班引关注 官方：招生巅峰期](https://m.163.com/news/article/K8P2LERP0512B07B.html)
 
 ---end---
