@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-08 02:23:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-08 02:42:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学大数据与软件学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2606356)
 
+[央视解码九三阅兵多个突破："忠诚僚机"从概念到实战](https://m.163.com/news/article/K8SMD5KD0514R9KQ.html)
+
+[13米挂车为摩友"挡风"20分钟 摩友寻到司机欲酬谢被拒](https://m.163.com/news/article/K8SHG79J053469LG.html)
+
 [38岁餐饮老板突发疾病去世 "赣超"球员双手指天悼念他](https://m.163.com/news/article/K8SCBKIH053469LG.html)
-
-[第一次坐飞机误开应急舱门 乘客被判赔偿国航7万多元](https://m.163.com/news/article/K8PRFGR60514D3UH.html)
-
-[降价超5000万 《三十而已》取景地二拍无人出价流拍](https://m.163.com/news/article/K8S5JGHH0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女乘客发自拍炫耀"第N次"带打火机登机 涉事机场回应](https://m.163.com/news/article/K8RVKA2G05561G0D.html)
+[第一次坐飞机误开应急舱门 乘客被判赔偿国航7万多元](https://m.163.com/news/article/K8PRFGR60514D3UH.html)
 
 ---end---
