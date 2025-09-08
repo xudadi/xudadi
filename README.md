@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-08 14:30:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-08 14:52:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学大数据与软件学院劳务派遣工作人员招聘启事](https://www.gongkaoleida.com/article/2606356)
+[派往华龙网新媒体运营(南岸区)招聘启事](https://www.gongkaoleida.com/article/2607413)
 
-[央视解码九三阅兵多个突破："忠诚僚机"从概念到实战](https://m.163.com/news/article/K8SMD5KD0514R9KQ.html)
+[女子游泳后瘦8斤患急性甲肝:呛了几口水 能感觉到异味](https://m.163.com/news/article/K8UA9BTH0534P59R.html)
 
-[13米挂车为摩友"挡风"20分钟 摩友寻到司机欲酬谢被拒](https://m.163.com/news/article/K8SHG79J053469LG.html)
+[演员许凯被指长期聚众赌博画面公布 许荔莎再向其宣战](https://m.163.com/news/article/K8U9M11S053469LG.html)
 
-[38岁餐饮老板突发疾病去世 "赣超"球员双手指天悼念他](https://m.163.com/news/article/K8SCBKIH053469LG.html)
+[许凯被指长期聚众赌博一年金额高达百万 警方回应](https://m.163.com/news/article/K8UCBPC90550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[第一次坐飞机误开应急舱门 乘客被判赔偿国航7万多元](https://m.163.com/news/article/K8PRFGR60514D3UH.html)
+[54岁中南大学博导被批捕 涉嫌侵占上市公司1.9亿资金](https://m.163.com/news/article/K8SN3ES905561G0D.html)
 
 ---end---
