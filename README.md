@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-08 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-08 20:41:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往华龙网新媒体运营(南岸区)招聘启事](https://www.gongkaoleida.com/article/2607413)
+[2025年四川美术学院科研助理岗位招聘公告](https://www.gongkaoleida.com/article/2607946)
 
-[女子游泳后瘦8斤患急性甲肝:呛了几口水 能感觉到异味](https://m.163.com/news/article/K8UA9BTH0534P59R.html)
+[女子跳河轻生 五旬卡车司机从18米高桥上纵身一跃救人](https://m.163.com/news/article/K8V2VTOB053469LG.html)
 
-[演员许凯被指长期聚众赌博画面公布 许荔莎再向其宣战](https://m.163.com/news/article/K8U9M11S053469LG.html)
+[乘客发视频炫耀"第N次"带打火机登机 警方通报](https://m.163.com/news/article/K8UVCMVO0534A4SC.html)
 
-[许凯被指长期聚众赌博一年金额高达百万 警方回应](https://m.163.com/news/article/K8UCBPC90550B6IS.html)
+[企业近2亿拍下灵宝黄金7354万股股份 付款5个月未过户](https://m.163.com/news/article/K8UM753F051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[54岁中南大学博导被批捕 涉嫌侵占上市公司1.9亿资金](https://m.163.com/news/article/K8SN3ES905561G0D.html)
+[被批贪婪无度、大搞权色交易 官方通报许雷案最新进展](https://m.163.com/news/article/K8URCNBP05345ARG.html)
 
 ---end---
