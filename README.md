@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-09 14:29:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-09 14:51:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2025年四川美术学院科研助理岗位招聘公告](https://www.gongkaoleida.com/article/2607946)
+[重庆市北碚区事业单位2025年面向服务期满且考核合格“三支一扶”人员考核招聘工作人员公告](https://www.gongkaoleida.com/article/2609556)
 
 [小区保安与居委会副主任争执被打耳光 副主任被拘5日](https://m.163.com/news/article/K8V7AM34051492T3.html)
 
