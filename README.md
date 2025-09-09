@@ -13,18 +13,18 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-09 19:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-09 20:41:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市北碚区事业单位2025年面向服务期满且考核合格“三支一扶”人员考核招聘工作人员公告](https://www.gongkaoleida.com/article/2609556)
+[重庆合川燃气有限责任公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2610079)
 
-[小区保安与居委会副主任争执被打耳光 副主任被拘5日](https://m.163.com/news/article/K8V7AM34051492T3.html)
+[公司董事长向明星女友透露内幕消息均被刑拘 详情披露](https://m.163.com/news/article/K91K3P7I051492T3.html)
 
-[10天内共有6名重庆官员先后落马](https://m.163.com/news/article/K8UT2FHB0530JPVV.html)
+[大草坪变成人工沙滩 深圳知名公园改造后被吐槽"太丑"](https://m.163.com/news/article/K9181LAQ05129QAF.html)
 
-[女老板被困冷库20分钟后获救 救人小哥婉拒赠送股份](https://m.163.com/news/article/K8V9NRVQ0514R9OJ.html)
+[网友称38年前的威力洗衣机还能用 厂家：公司没有倒闭](https://m.163.com/news/article/K90ULPNJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[柯文哲出来第一秒就瞄准赖清德：把台湾搞得四分五裂](https://m.163.com/news/article/K8URKPKM055080L4.html)
+[83岁博士造自行车1年卖4.5亿 公司9日上市高开36.36%](https://m.163.com/news/article/K91DIR1L0512B07B.html)
 
 ---end---
