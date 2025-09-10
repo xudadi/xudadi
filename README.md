@@ -13,9 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-10 13:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[重庆合川燃气有限责任公司外包岗位招聘简章](https://www.gongkaoleida.com/article/2610079)
+## Xudadi的每日更新(更新时间:2025-09-10 14:28:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [独居老人去世多日 小狗仍守在家中不肯离去瘦成皮包骨](https://m.163.com/news/article/K91OKIJF0514D3UH.html)
 
