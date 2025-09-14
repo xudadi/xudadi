@@ -13,16 +13,16 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-15 01:51:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-15 02:23:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[罗永浩宣布"停战"后西贝暂停后厨参观:"老罗"套餐下架](https://m.163.com/news/article/K9EBFM15053469LG.html)
+[航班因天气原因备降后有乘客激动下跪求解决 海航回应](https://m.163.com/news/article/K9EQNO7I0512D3VJ.html)
 
-[罗永浩"停战"后记者再探西贝 同款套餐仍有少了一道菜](https://m.163.com/news/article/K9E048FA0550B6IS.html)
+[西贝创始人贾国龙在行业群内道歉：我应对方式有错 改](https://m.163.com/news/article/K9EQ7LCC051492T3.html)
 
-[女子称车停成都却收到重庆罚单：车牌号后面都一样](https://m.163.com/news/article/K9DTE4II053469LG.html)
+[事关预制菜 人民日报、新华社、央视集体发文](https://m.163.com/news/article/K9EOUA400001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[西贝员工用漏勺疏通厨房下水道 锅里还有个相似漏勺](https://m.163.com/news/article/K9DSB4HT053469LG.html)
+[王毅表态：中国是负责任大国 中方不参与、不策划战争](https://m.163.com/news/article/K9DTPFJH051482MP.html)
 
 ---end---
