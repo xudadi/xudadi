@@ -13,16 +13,16 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-15 13:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-15 14:30:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[航班因天气原因备降后有乘客激动下跪求解决 海航回应](https://m.163.com/news/article/K9EQNO7I0512D3VJ.html)
+[小米16改名小米17 雷军：全面对标iPhone正面迎战](https://m.163.com/news/article/K9GFAA7J05129QAF.html)
 
-[西贝创始人贾国龙在行业群内道歉：我应对方式有错 改](https://m.163.com/news/article/K9EQ7LCC051492T3.html)
+[于东来再力挺西贝：很多方面很优秀 相信他们会改的](https://m.163.com/news/article/K9GI8921053469LG.html)
 
-[事关预制菜 人民日报、新华社、央视集体发文](https://m.163.com/news/article/K9EOUA400001899O.html)
+[罗永浩炮轰华与华：收6000万咨询费 教西贝糊弄人](https://m.163.com/news/article/K9GDT4RM0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[王毅表态：中国是负责任大国 中方不参与、不策划战争](https://m.163.com/news/article/K9DTPFJH051482MP.html)
+[浦发信用卡被集中盗刷:可用额度600多却被盗刷将近2万](https://m.163.com/news/article/K9GBA7MJ05561G0D.html)
 
 ---end---
