@@ -31,7 +31,7 @@ def get_link_info(feed_url, num):
 
 def main():
 
-    xudadi_info =  get_link_info("https://lab.xudadi.cn/feeds/cqgkld.xml", 5)
+    xudadi_info =  get_link_info("https://lab.xudadi.cn/feeds/all.xml", 5)
     print(xudadi_info)
     garss_info =  get_link_info("https://lab.xudadi.cn/feeds/163news.xml", 5)
     print(garss_info)
