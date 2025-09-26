@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-26 19:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-26 20:39:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -24,15 +24,15 @@
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[济南通报"育英中学教师体罚学生"事件:对老师处分适当](https://m.163.com/news/article/KACUJA680534A4SC.html)
+
+[官方首次披露：严世钦被撤职 从副厅降为四调](https://m.163.com/news/article/KACMBBU1053469LG.html)
 
 [广西一所小学仅15名师生 连续十年网上"晒"菜单和账本](https://m.163.com/news/article/KAB6FIVG051492T3.html)
 
-["孕妇坠崖离婚案"择期宣判 当事人庭前情绪几度失控](https://m.163.com/news/article/KACSROS60530WJIN.html)
-
-[5岁女童被碾压致死 车主服刑十月已满：将起诉特斯拉](https://m.163.com/news/article/KACI20K70534P59R.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[时值关税谈判敏感时刻 美国扣押台湾产自行车](https://m.163.com/news/article/KACJ7T8L05504DOQ.html)
+["孕妇坠崖离婚案"择期宣判 当事人庭前情绪几度失控](https://m.163.com/news/article/KACSROS60530WJIN.html)
 
 ---end---
