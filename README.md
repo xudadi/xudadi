@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-27 20:34:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-27 21:02:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -24,15 +24,15 @@
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[湖北现伪新能源加注站："地炼"柴油穿上"新能源"马甲](https://m.163.com/news/article/KAD5IDBG0514R9P4.html)
 
 ["西贝品味早读"视频号已设为私密 此前多条视频遭吐槽](https://m.163.com/news/article/KAFDEATB053469LG.html)
 
 [雷军：小米汽车是全网被黑得最惨的品牌之一](https://m.163.com/news/article/KAFDEB4P053469LG.html)
 
-[泰国坠崖孕妇：事发前俞某冬曾想将我卖到缅北妓院](https://m.163.com/news/article/KAFA93GU053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[22岁孕妇放牧时遭黑熊袭击装死逃生 头面部大面积撕裂](https://m.163.com/news/article/KAFA7QD30514R9OJ.html)
+[泰国坠崖孕妇：事发前俞某冬曾想将我卖到缅北妓院](https://m.163.com/news/article/KAFA93GU053469LG.html)
 
 ---end---
