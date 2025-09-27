@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-27 07:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-27 09:21:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[济南通报"育英中学教师体罚学生"事件:对老师处分适当](https://m.163.com/news/article/KACUJA680534A4SC.html)
+[工作人员开警车出现在山姆停车场 广东英德法院再通报](https://m.163.com/news/article/KADVK7TA0514R9OJ.html)
 
-[官方首次披露：严世钦被撤职 从副厅降为四调](https://m.163.com/news/article/KACMBBU1053469LG.html)
+[众泰汽车杭州工厂已被国资接手 重庆工厂流拍无人接盘](https://m.163.com/news/article/KAD07JVS0512B07B.html)
 
-[广西一所小学仅15名师生 连续十年网上"晒"菜单和账本](https://m.163.com/news/article/KAB6FIVG051492T3.html)
+[江西"鸡排哥"与顾客互动爆火 当地城管为他安排新摊位](https://m.163.com/news/article/KA8ATP820514TTN3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["孕妇坠崖离婚案"择期宣判 当事人庭前情绪几度失控](https://m.163.com/news/article/KACSROS60530WJIN.html)
+[甘肃陇西发生5.6级地震 有房屋倒塌](https://m.163.com/news/article/KAEOM7UO000189PS.html)
 
 ---end---
