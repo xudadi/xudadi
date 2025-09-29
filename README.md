@@ -13,9 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-30 01:50:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2638011)
+## Xudadi的每日更新(更新时间:2025-09-30 02:28:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多个省级政府领导班子调整 外交部新增"70后"部长助理](https://m.163.com/news/article/KAKN7MSU055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[赖清德"灾难级别"的勘灾引众怒：嬉皮笑脸 和台军击掌](https://m.163.com/news/article/KAKLDK58055040N3.html)
+[31岁女子为与25岁男友结婚和父母在家互殴 父母崩溃](https://m.163.com/news/article/KALB9S7E053469LG.html)
 
-[14岁休学少女进拓展营后死亡 曾哭喊"妈妈我不想死"](https://m.163.com/news/article/KAK25ENA0512D3VJ.html)
+[7旬老人每天用电动车运石头去江边 1年多后筑起"堤坝"](https://m.163.com/news/article/KAL8O2TK053469LG.html)
+
+[一在建船舶直降534万被拍出 建造15年未完工闲置13年](https://m.163.com/news/article/KAL1BR5I0511U82T.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[二十届四中全会于10月20日至23日在北京召开](https://m.163.com/news/article/KAKM6L050001899O.html)
+[工作时间打高尔夫的原区长被处理 两任区委原书记落马](https://m.163.com/news/article/KAL114AH055040N3.html)
 
 ---end---
