@@ -13,7 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-30 14:29:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-30 14:51:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[重庆工业职业技术大学2025年第一批合同制人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2639230)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -23,16 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[网友称因跛脚在入职当天被得力集团辞退 得力CEO致歉](https://m.163.com/news/article/KAMTPB2E053469LG.html)
 
-[美妆大佬再遭前妻起诉：孩子也要1675万股股份](https://m.163.com/news/article/KALQN3ST0512B07B.html)
+[幼童悬挂2楼阳台后坠落 女邻居徒手抱住：我腿都软了](https://m.163.com/news/article/KAN1TUFE053469LG.html)
 
-[区城管局副局长被指长期性侵继女 当地通报：已被批捕](https://m.163.com/news/article/KAMG8QHQ05345ARG.html)
-
-[上海父子"手搓"电磁弹射器 在63平家中挤房间建实验室](https://m.163.com/news/article/KALF699Q05345ARG.html)
+[化工厂因硫酸外溢流入化粪池致5死3伤 涉事企业已停产](https://m.163.com/news/article/KAN0JURC053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[31岁女子为与25岁男友结婚和父母在家互殴 父母崩溃](https://m.163.com/news/article/KALB9S7E053469LG.html)
+[江西"鸡排哥"爆火：每天一二十个镜头对着 我没有负担](https://m.163.com/news/article/KAN1TU8Q053469LG.html)
 
 ---end---
