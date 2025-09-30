@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-09-30 20:41:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-09-30 21:18:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工业职业技术大学2025年第一批合同制人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2639230)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[华南理工通报"校内车祸致1死1伤"：肇事者系学校教师](https://m.163.com/news/article/KAN94O8O0534A4SC.html)
 
 [网友称因跛脚在入职当天被得力集团辞退 得力CEO致歉](https://m.163.com/news/article/KAMTPB2E053469LG.html)
 
 [幼童悬挂2楼阳台后坠落 女邻居徒手抱住：我腿都软了](https://m.163.com/news/article/KAN1TUFE053469LG.html)
 
-[化工厂因硫酸外溢流入化粪池致5死3伤 涉事企业已停产](https://m.163.com/news/article/KAN0JURC053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江西"鸡排哥"爆火：每天一二十个镜头对着 我没有负担](https://m.163.com/news/article/KAN1TU8Q053469LG.html)
+[化工厂因硫酸外溢流入化粪池致5死3伤 涉事企业已停产](https://m.163.com/news/article/KAN0JURC053469LG.html)
 
 ---end---
