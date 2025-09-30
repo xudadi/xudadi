@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-01 01:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-01 02:24:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[华南理工通报"校内车祸致1死1伤"：肇事者系学校教师](https://m.163.com/news/article/KAN94O8O0534A4SC.html)
+[三胎孕妇遇熊装死保命 丈夫:不到万不得已不放弃孩子](https://m.163.com/news/article/KANRLB5S053469LG.html)
 
-[网友称因跛脚在入职当天被得力集团辞退 得力CEO致歉](https://m.163.com/news/article/KAMTPB2E053469LG.html)
+[一大波迎国庆手工看呆网友：火箭能飞、坦克能开](https://m.163.com/news/article/KANH16FG0534P59R.html)
 
-[幼童悬挂2楼阳台后坠落 女邻居徒手抱住：我腿都软了](https://m.163.com/news/article/KAN1TUFE053469LG.html)
+[21岁中国女子在埃及被捕:伙同7人搞电诈 绑架中国同胞](https://m.163.com/news/article/KANJ4KTU0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[化工厂因硫酸外溢流入化粪池致5死3伤 涉事企业已停产](https://m.163.com/news/article/KAN0JURC053469LG.html)
+[60岁江苏省长许昆林履新辽宁省委书记：15岁上大学](https://m.163.com/news/article/KANLI1NT053469LG.html)
 
 ---end---
