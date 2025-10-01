@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-01 14:29:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-01 14:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["带导盲犬夜爬泰山"当事人否认虐犬:狗狗体检是健康的](https://m.163.com/news/article/KAO7423H053469LG.html)
+[汕头两"世仇村"迎来世纪大和解：清末因抢水发生械斗](https://m.163.com/news/article/KAPIHFC5053469LG.html)
 
-[司机悬赏寻找丢失价值百万银砖：时隔20多天仍无进展](https://m.163.com/news/article/KAOBB8I6051492LM.html)
+[石家庄一海底捞门店国庆节首日举办婚宴 50桌花费3万](https://m.163.com/news/article/KANTSRF6053469LG.html)
 
-[有人称国庆接了270单宠物代喂 其中一大单9天赚8100元](https://m.163.com/news/article/KANNAKIF053469M5.html)
+[杭州网友打算自驾去青海：从杭州到合肥开了14个小时](https://m.163.com/news/article/KAPJ5LKG0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[三胎孕妇遇熊装死保命 丈夫:不到万不得已不放弃孩子](https://m.163.com/news/article/KANRLB5S053469LG.html)
+[王伟中已兼任内蒙古党校校长](https://m.163.com/news/article/KAPI04B00534A4SC.html)
 
 ---end---
