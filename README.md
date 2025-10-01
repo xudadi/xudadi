@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-02 02:27:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-02 02:49:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[汕头两"世仇村"迎来世纪大和解：清末因抢水发生械斗](https://m.163.com/news/article/KAPIHFC5053469LG.html)
+[西贝冷冻大黄鱼用X光去刺引争议 专家：可放心食用](https://m.163.com/news/article/KAQI89I40001899O.html)
 
-[石家庄一海底捞门店国庆节首日举办婚宴 50桌花费3万](https://m.163.com/news/article/KANTSRF6053469LG.html)
+[王腾快手被封禁、抖音已私密 此前因泄密被小米开除](https://m.163.com/news/article/KAQG7GGR0530JPVV.html)
 
-[杭州网友打算自驾去青海：从杭州到合肥开了14个小时](https://m.163.com/news/article/KAPJ5LKG0530JPVV.html)
+[女子提前半月出发蹭3000公里免费高速遭网暴:开心就好](https://m.163.com/news/article/KAQDC96A053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[王伟中已兼任内蒙古党校校长](https://m.163.com/news/article/KAPI04B00534A4SC.html)
+[台风致广西百色多家景区闭园 部分游客订民宿遇退费难](https://m.163.com/news/article/KAQCTNM1053469M5.html)
 
 ---end---
