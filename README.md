@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-02 14:28:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-02 14:48:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[老人国庆过80岁大寿 家里提前一周订的蛋糕被告知没做](https://m.163.com/news/article/KARQ3E980512DU6N.html)
+[数千名游客挤满政府食堂 有人赞价格亲民:9份小菜58元](https://m.163.com/news/article/KASCPK1F05345ARG.html)
 
-[新人国庆首日在海底捞门店办婚宴 共55桌近300人参加](https://m.163.com/news/article/KAQ8VAKJ053469LG.html)
+[过涵洞、坐"皮筏" 广西网友称因下雨参加婚礼"如闯关"](https://m.163.com/news/article/KASA6O6S051492T3.html)
 
-[上海网球大师赛46岁女子疯狂尖叫被抬走 警方深夜通报](https://m.163.com/news/article/KAQRV7DT051492LM.html)
+["鸡排哥疲惫"上热搜 国庆节首日连轴转15小时说不出话](https://m.163.com/news/article/KAS81CTJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[西贝降价网友不买账称"利润这么大""还是贵" 客服回应](https://m.163.com/news/article/KAQJQA92053469LG.html)
+[叶怀贯已任杭州市纪委书记 曾长期在浙江省纪委工作](https://m.163.com/news/article/KARU6HP8051482MP.html)
 
 ---end---
