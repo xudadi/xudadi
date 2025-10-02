@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-02 07:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-02 09:23:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[西贝冷冻大黄鱼用X光去刺引争议 专家：可放心食用](https://m.163.com/news/article/KAQI89I40001899O.html)
+[老人国庆过80岁大寿 家里提前一周订的蛋糕被告知没做](https://m.163.com/news/article/KARQ3E980512DU6N.html)
 
-[王腾快手被封禁、抖音已私密 此前因泄密被小米开除](https://m.163.com/news/article/KAQG7GGR0530JPVV.html)
+[新人国庆首日在海底捞门店办婚宴 共55桌近300人参加](https://m.163.com/news/article/KAQ8VAKJ053469LG.html)
 
-[女子提前半月出发蹭3000公里免费高速遭网暴:开心就好](https://m.163.com/news/article/KAQDC96A053469LG.html)
+[上海网球大师赛46岁女子疯狂尖叫被抬走 警方深夜通报](https://m.163.com/news/article/KAQRV7DT051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台风致广西百色多家景区闭园 部分游客订民宿遇退费难](https://m.163.com/news/article/KAQCTNM1053469M5.html)
+[西贝降价网友不买账称"利润这么大""还是贵" 客服回应](https://m.163.com/news/article/KAQJQA92053469LG.html)
 
 ---end---
