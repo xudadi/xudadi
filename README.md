@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-03 09:23:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-03 10:41:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640273)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[SUV在高速上左右偏移热心司机两次冒险救援 警方回应](https://m.163.com/news/article/KASBCVQD053469M5.html)
+[浙江男子堵崩溃了：通宵在高速上 服务区挤不进去](https://m.163.com/news/article/KASMPDB40530JPVV.html)
 
-[数千名游客挤满政府食堂 有人赞价格亲民:9份小菜58元](https://m.163.com/news/article/KASCPK1F05345ARG.html)
+[首次披露：九三阅兵式所用刺刀全开刃](https://m.163.com/news/article/KAT97I730001899O.html)
 
-[过涵洞、坐"皮筏" 广西网友称因下雨参加婚礼"如闯关"](https://m.163.com/news/article/KASA6O6S051492T3.html)
+["鸡排哥"被指赚得盆满钵满购置多套房产 本人幽默回应](https://m.163.com/news/article/KAT4DKK4053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["鸡排哥疲惫"上热搜 国庆节首日连轴转15小时说不出话](https://m.163.com/news/article/KAS81CTJ053469LG.html)
+[高速充电桩要排队叫号 车主：睡醒一觉还没轮到我](https://m.163.com/news/article/KAT3AC30055040N3.html)
 
 ---end---
