@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-03 20:38:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-03 21:13:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [秀山戍安保安公司派往秀山县公安局警务辅助岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640481)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[骨折女子出院当天 朋友将炒粉老板带到其楼下出摊火了](https://m.163.com/news/article/KASPE0FS051492T3.html)
+[女子开新能源车排队3小时充电1小时 一路充了5次电](https://m.163.com/news/article/KAUAB5VP053469LG.html)
 
-[浙江男子堵崩溃了：通宵在高速上 服务区挤不进去](https://m.163.com/news/article/KASMPDB40530JPVV.html)
+[女幼师遇害案凶手被执行死刑 被害者家属：仍然很悲凉](https://m.163.com/news/article/KAUQU3V005129QAF.html)
 
-[首次披露：九三阅兵式所用刺刀全开刃](https://m.163.com/news/article/KAT97I730001899O.html)
+[女子3年前拍"鸡排哥"预言他会爆火:鸡排口感全市唯一](https://m.163.com/news/article/KAUNV86H00019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["鸡排哥"被指赚得盆满钵满购置多套房产 本人幽默回应](https://m.163.com/news/article/KAT4DKK4053469LG.html)
+[山西吕梁致26死38伤重大火灾事故一审宣判 13人获刑](https://m.163.com/news/article/KAUPTFVF0534A4SC.html)
 
 ---end---
