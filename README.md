@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-04 20:34:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-04 21:02:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[秀山戍安保安公司派往秀山县公安局警务辅助岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640481)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆建筑工程职业学院2025年招聘非事业编制(合同制)工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640492)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[台风"麦德姆"将带来暴雨大暴雨 最新路径公布](https://m.163.com/news/article/KB0Q2HQR0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑永刚去世不到3年 72岁"民营船王"任元林欲入主杉杉](https://m.163.com/news/article/KAUNEQSR051492T3.html)
+[酒店1天办8场婚礼 8对新人共用1个充气拱门](https://m.163.com/news/article/KB1GAHCJ053469LG.html)
 
-[男子身家千万因无子被骂哭了一夜 网络交友还被骗4次](https://m.163.com/news/article/KAUUCHQA053469LG.html)
+[歼-20首飞画面官方首次公开 试飞员：没过瘾就下来了](https://m.163.com/news/article/KB1G6JMS0512B07B.html)
+
+[女子称游阿尔山无房可订住"医院"过夜 当地：系疗养院](https://m.163.com/news/article/KB1EH81V053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子开新能源车排队3小时充电1小时 一路充了5次电](https://m.163.com/news/article/KAUAB5VP053469LG.html)
+[女孩独自一人在海拔4700米处严重高反 驴友救助并报警](https://m.163.com/news/article/KB19GA70051492T3.html)
 
 ---end---
