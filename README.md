@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-05 13:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-05 14:26:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆建筑工程职业学院2025年招聘非事业编制(合同制)工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640492)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[酒店1天办8场婚礼 8对新人共用1个充气拱门](https://m.163.com/news/article/KB1GAHCJ053469LG.html)
+[婚庆司机恶意别车还谎称公安人员 被采取刑事强制措施](https://m.163.com/news/article/KB3RGFIQ0534A4SC.html)
 
-[歼-20首飞画面官方首次公开 试飞员：没过瘾就下来了](https://m.163.com/news/article/KB1G6JMS0512B07B.html)
+[女生瀑布前拍照空中"飘来"一排人：吊威亚的游客入镜](https://m.163.com/news/article/KB2FMUHS053469LG.html)
 
-[女子称游阿尔山无房可订住"医院"过夜 当地：系疗养院](https://m.163.com/news/article/KB1EH81V053469LG.html)
+[中央巡视后 广西、重庆、广东3地3位厅官落马](https://m.163.com/news/article/KB3FH6VO0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女孩独自一人在海拔4700米处严重高反 驴友救助并报警](https://m.163.com/news/article/KB19GA70051492T3.html)
+[3人编造"新娘临时加彩礼钱新郎坠江"谣言 被行政处罚](https://m.163.com/news/article/KB3ISB4I0001899O.html)
 
 ---end---
