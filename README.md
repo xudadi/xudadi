@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-06 20:40:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-06 21:18:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆建筑工程职业学院2025年招聘非事业编制(合同制)工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640492)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女游客落入滚水坝被村民救起：在漩涡里翻转了十几下](https://m.163.com/news/article/KB40EA90053469LG.html)
+[中秋夜胖东来人挤人：有人带3个月大的双胞胎前来打卡](https://m.163.com/news/article/KB7991ES053469LG.html)
 
-[婚庆司机恶意别车还谎称公安人员 被采取刑事强制措施](https://m.163.com/news/article/KB3RGFIQ0534A4SC.html)
+[白事主家回应“红白事路口相逢红布相隔婚车先行”](https://m.163.com/news/article/KB78SV70053469LG.html)
 
-[女生瀑布前拍照空中"飘来"一排人：吊威亚的游客入镜](https://m.163.com/news/article/KB2FMUHS053469LG.html)
+[游客景区内“捡板栗壳”与民宿老板起冲突 景区回应](https://m.163.com/news/article/KB78LB53051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中央巡视后 广西、重庆、广东3地3位厅官落马](https://m.163.com/news/article/KB3FH6VO0530JPVV.html)
+[中甲比赛中球员遭恶意犯规致重伤 俱乐部通报](https://m.163.com/news/article/KB743EMD0512D3VJ.html)
 
 ---end---
