@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-07 20:40:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-07 21:18:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆建筑工程职业学院2025年招聘非事业编制(合同制)工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640492)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港发生交通事故致1死3伤 离世女子困于货车与灯柱间](https://m.163.com/news/article/KB7FLUPL053469LG.html)
+[央视揭秘歼-16战机机库 工程师:它是无短板的完美战鹰](https://m.163.com/news/article/KB8QBS250514R9OJ.html)
 
-[学校组织"愧疚教育"活动 家长跪一排学生蒙眼背上踩过](https://m.163.com/news/article/KB7B7UQQ05561G0D.html)
+[知名房企上海总部大楼被6折甩卖 坐拥黄浦江一线江景](https://m.163.com/news/article/KB93HODH0512B07B.html)
 
-[天津海边疑似海豚搁浅 警方：死亡多时](https://m.163.com/news/article/KB7991K2053469LG.html)
+[广州铁路公安：一男子对7岁女童实施猥亵被刑拘](https://m.163.com/news/article/KB96QVKU0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中秋夜胖东来人挤人：有人带3个月大的双胞胎前来打卡](https://m.163.com/news/article/KB7991ES053469LG.html)
+[男孩在高速快车道独自奔跑：下车上厕所后找不着车了](https://m.163.com/news/article/KB8OLUHF0530JPVV.html)
 
 ---end---
