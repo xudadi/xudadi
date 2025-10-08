@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-08 19:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-08 20:40:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[渝北区长安锦绣实验小学招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640637)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市交通规划和技术发展中心招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640960)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[央视揭秘歼-16战机机库 工程师:它是无短板的完美战鹰](https://m.163.com/news/article/KB8QBS250514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[知名房企上海总部大楼被6折甩卖 坐拥黄浦江一线江景](https://m.163.com/news/article/KB93HODH0512B07B.html)
+[知名投资人肖庆平假期遇车祸去世 其投资总额近1亿元](https://m.163.com/news/article/KBBSF70I0512B07B.html)
 
-[广州铁路公安：一男子对7岁女童实施猥亵被刑拘](https://m.163.com/news/article/KB96QVKU0534A4SC.html)
+[百亿私募大佬但斌有了"新身份"：中国香港居民](https://m.163.com/news/article/KBBFN6L00512B07B.html)
+
+[青甘大环线有老外开敞篷老爷车行驶 有1955款劳斯莱斯](https://m.163.com/news/article/KBBRJHNB053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男孩在高速快车道独自奔跑：下车上厕所后找不着车了](https://m.163.com/news/article/KB8OLUHF0530JPVV.html)
+[在马来西亚失联男子姐姐:不知道弟弟是跟女生一起出游](https://m.163.com/news/article/KBBR7NRE053469LG.html)
 
 ---end---
