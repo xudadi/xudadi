@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-09 20:40:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-09 21:18:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院面向全球招聘行政管理部负责人 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2641582)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往某事业单位项目技术岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2642886)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[知名投资人肖庆平假期遇车祸去世 其投资总额近1亿元](https://m.163.com/news/article/KBBSF70I0512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[百亿私募大佬但斌有了"新身份"：中国香港居民](https://m.163.com/news/article/KBBFN6L00512B07B.html)
+[剑桥女博士疑在新加坡饿死:父亲成白骨 都来自东北](https://m.163.com/news/article/KBER472L0534P59R.html)
 
-[青甘大环线有老外开敞篷老爷车行驶 有1955款劳斯莱斯](https://m.163.com/news/article/KBBRJHNB053469LG.html)
+[网友吐槽德克士黑金藤椒小酥肉外形"抽象" 德克士回应](https://m.163.com/news/article/KBF08Q8K053469LG.html)
+
+[万岁山"顶流"吕婆婆回应辞职:由常驻演员转为客串演员](https://m.163.com/news/article/KBF08P0T053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[在马来西亚失联男子姐姐:不知道弟弟是跟女生一起出游](https://m.163.com/news/article/KBBR7NRE053469LG.html)
+[婚礼当天跳河男子遗体在大桥下游被找到 婚服上有名字](https://m.163.com/news/article/KBEPQEUJ053469LG.html)
 
 ---end---
