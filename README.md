@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-09 13:51:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-09 14:29:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市交通规划和技术发展中心招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2640960)
+[重庆信息与智慧医学研究院面向全球招聘行政管理部负责人 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2641582)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
