@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-10 20:40:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-10 21:15:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学党委学工部(心理中心)劳务派遣心理健康教育管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2643597)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往市公安局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2644587)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[新疆一官员痴迷"翻翻鸽"4年受贿95只 退休后获刑10年](https://m.163.com/news/article/KBF9SQSU051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子采摘蘑菇发现受伤豹猫 神农架国家公园管理局回应](https://m.163.com/news/article/KBEN5CQ10514D3UH.html)
+[罗永浩锐评iPhone：骂的话别人又说我自己手机干黄了](https://m.163.com/news/article/KBHGQOUO053469LG.html)
 
-[泰山陪爬者晒业绩:80人团队接了200单 年入30万是噱头](https://m.163.com/news/article/KBF7PGVN053469LG.html)
+[企业要求员工离职后退还部分工资 公司回应](https://m.163.com/news/article/KBHGQOTB053469LG.html)
+
+[台湾将建设名为“台湾穹顶”防空系统 外交部回应](https://m.163.com/news/article/KBH6LB3Q0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子网购鸵鸟养成200斤重的巨型萌宠:想更好地养活它](https://m.163.com/news/article/KBF659FQ05561G0D.html)
+[许家印家族77亿美元资产被接管冻结 包括飞机、游艇等](https://m.163.com/news/article/KBHFIDDL0512B07B.html)
 
 ---end---
