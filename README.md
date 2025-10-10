@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-11 02:27:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-11 02:47:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往市公安局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2644587)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学编外聘用人员招聘简章(2025年第9轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2644636)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[罗永浩锐评iPhone：骂的话别人又说我自己手机干黄了](https://m.163.com/news/article/KBHGQOUO053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[企业要求员工离职后退还部分工资 公司回应](https://m.163.com/news/article/KBHGQOTB053469LG.html)
+[广西一小学教师脚踢学生 官方：涉事教师进入解聘程序](https://m.163.com/news/article/KBHPJ5BD0514R9OJ.html)
 
-[台湾将建设名为“台湾穹顶”防空系统 外交部回应](https://m.163.com/news/article/KBH6LB3Q0514R9OJ.html)
+[徒步党岭高反女孩母亲发声：目前昏迷中 后续或追责](https://m.163.com/news/article/KBHNO61D0514D3UH.html)
+
+[罐车运输乱象调查拟获中国新闻奖](https://m.163.com/news/article/KBGLJ1TR0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[许家印家族77亿美元资产被接管冻结 包括飞机、游艇等](https://m.163.com/news/article/KBHFIDDL0512B07B.html)
+[罗永浩锐评iPhone：骂的话别人又说我自己手机干黄了](https://m.163.com/news/article/KBHGQOUO053469LG.html)
 
 ---end---
