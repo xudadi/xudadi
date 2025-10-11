@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-11 14:25:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-11 14:45:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学编外聘用人员招聘简章(2025年第9轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2644636)
+[重庆两江新区人才发展集团外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2644933)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
