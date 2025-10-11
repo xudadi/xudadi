@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-12 02:22:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-12 02:41:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司派往重庆融智创达城市建设开发有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2645866)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区事业单位2025年面向应届高校毕业生考核招聘工作人员(北京站)公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646058)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[疑被抛弃的失温女游客尚未脱离危险 男搭子或涉嫌犯罪](https://m.163.com/news/article/KBJRD65F0534P59R.html)
 
 [男子发现东北抗联用过的缝纫机残件 徒步20多里背下山](https://m.163.com/news/article/KBK3T4AO053469LG.html)
 
 [《清明上河图》时隔十年故宫展出 有人早上6点来排队](https://m.163.com/news/article/KBK2G19I051492T3.html)
 
-[官方：娃哈哈非国企 宗馥莉辞职不在审计监督范围内](https://m.163.com/news/article/KBK23FTK053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[宗馥莉的"娃小宗"首款饮料上线 与娃哈哈包装区分明显](https://m.163.com/news/article/KBK210FR0512B07B.html)
+[西贝"闭麦"后只是一味送券 店内午餐时段超半数满座](https://m.163.com/news/article/KBK5Q48I053469LG.html)
 
 ---end---
