@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-12 13:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-12 14:25:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆市粮油批发市场有限责任公司业务拓展岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646100)
+[重庆飞驶特人力资源管理有限公司大足分公司派往大足出版社南书局门店专职店员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646137)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
