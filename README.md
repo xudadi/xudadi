@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-12 07:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-12 09:35:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区事业单位2025年面向应届高校毕业生考核招聘工作人员(北京站)公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646058)
+[重庆飞驶特人力资源管理有限公司派往重庆市粮油批发市场有限责任公司业务拓展岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646100)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
