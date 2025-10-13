@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-13 14:31:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-13 14:55:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司派往大足出版社南书局门店专职店员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646137)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至重庆市某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646921)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[万科：董事长辛杰因个人原因辞职](https://m.163.com/news/article/KBO490CL0001899O.html)
 
 [闻泰科技回应：个别外籍高管试图颠覆公司治理结构](https://m.163.com/news/article/KBN0KCT20514R9P4.html)
 
 [女子旅游途中接到物业电话：你家发大水 把楼都淹了](https://m.163.com/news/article/KBMDJO700530JPVV.html)
 
-[被指住宿环境差 广东一高校回应：没那么夸张 是误会](https://m.163.com/news/article/KBMM66AI053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[父子在亲戚公司上班遇爆炸全身烧伤花费百万 亲戚回应](https://m.163.com/news/article/KBMON95F0534P59R.html)
+[被指住宿环境差 广东一高校回应：没那么夸张 是误会](https://m.163.com/news/article/KBMM66AI053469LG.html)
 
 ---end---
