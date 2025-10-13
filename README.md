@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-13 19:51:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-13 20:40:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至重庆市某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646921)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学附属第三医院人事2025年10月招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2647815)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[万科：董事长辛杰因个人原因辞职](https://m.163.com/news/article/KBO490CL0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[闻泰科技回应：个别外籍高管试图颠覆公司治理结构](https://m.163.com/news/article/KBN0KCT20514R9P4.html)
+[从尼泊尔回国手机因防诈骗被停机 机主将起诉中国移动](https://m.163.com/news/article/KBP6N0530534P59R.html)
 
-[女子旅游途中接到物业电话：你家发大水 把楼都淹了](https://m.163.com/news/article/KBMDJO700530JPVV.html)
+[女子因离婚纠纷持刀杀害丈夫外甥女 重庆警方通报](https://m.163.com/news/article/KBP9O1800534P59R.html)
+
+[司法部披露：有消防大队要求街镇每月罚款不少于2千元](https://m.163.com/news/article/KBP3GKOP0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[被指住宿环境差 广东一高校回应：没那么夸张 是误会](https://m.163.com/news/article/KBMM66AI053469LG.html)
+[号称10亿打造 西安"最豪华妇产医院"流拍](https://m.163.com/news/article/KBP3K698051492T3.html)
 
 ---end---
