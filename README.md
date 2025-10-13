@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-13 18:55:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-13 19:16:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [外派至重庆市某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2646921)
 
