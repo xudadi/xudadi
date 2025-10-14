@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-15 02:28:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-15 02:48:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市城口县事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2649207)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子找回在家门口被抢18年的儿子：他很好 很高很帅](https://m.163.com/news/article/KBRHSQLU053469LG.html)
+[左侧输尿管手术被误做在右侧 女子维权4年获判赔5.4万](https://m.163.com/news/article/KBRPI49N05561G0D.html)
 
-[三名市长同日履新 一人系从部委空降](https://m.163.com/news/article/KBRDC4MO0530JPVV.html)
+[入华8年极星汽车门店"清零" 知情人：基本没顾客进去](https://m.163.com/news/article/KBS1HHJN0512D3VJ.html)
 
-[业主私挖300平地下室 同楼住户:家里没一面墙是完整的](https://m.163.com/news/article/KBRCHHDE0550A0OW.html)
+[小区物业被解聘带走162万公共收益 业主将其告上法庭](https://m.163.com/news/article/KBRPTAON0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体：闻泰抢救半导体资产 探索构建中国供应链闭环](https://m.163.com/news/article/KBRPDTH10519DDQ2.html)
+[患病女孩网售5盒"安眠药"被控贩毒获刑 重审不予起诉](https://m.163.com/news/article/KBS1GJNH05345ARG.html)
 
 ---end---
