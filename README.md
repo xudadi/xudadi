@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-14 07:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-14 09:25:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属第三医院人事2025年10月招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2647815)
+[重庆三环建设监理咨询有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2648057)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
