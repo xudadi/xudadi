@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-15 20:41:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-15 21:20:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南华中学校面向2026届优秀毕业生招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2650037)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往重庆市风景园协技工学校招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2650674)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[匹克被指让拒绝降薪员工写检讨否则停发工资 当地回应](https://m.163.com/news/article/KBTMUUCK051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[医院设备采购项目预算300万中标价仅1000元 通报来了](https://m.163.com/news/article/KBTASJOR05345ARG.html)
+[唐向阳被逮捕：曾任长沙市公安局长 4名副局长均被查](https://m.163.com/news/article/KBU6Q17U053469LG.html)
 
-[熊黛林婉拒向郭富城三胎送祝福:多人送祝福 我不用了](https://m.163.com/news/article/KBTL3GEF053469LG.html)
+[十四届全国人大常委会第十八次会议24日至28日举行](https://m.163.com/news/article/KBUCH2I705346RC6.html)
+
+[饶毅称收到95万申报欧洲科学院院士推广信息 机构回应](https://m.163.com/news/article/KBUBO4610514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[海南一中学保安在校门口扔外卖 学校回应](https://m.163.com/news/article/KBTJ6R2N053469LG.html)
+[业主花千万买新房尚未交付 楼栋外立面已现大面积开裂](https://m.163.com/news/article/KBUAER3K0512DU6N.html)
 
 ---end---
