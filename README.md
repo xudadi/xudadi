@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-15 07:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-15 09:27:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市城口县事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2649207)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[左侧输尿管手术被误做在右侧 女子维权4年获判赔5.4万](https://m.163.com/news/article/KBRPI49N05561G0D.html)
+[骑手送山姆货物挂满电动车 配送点回应](https://m.163.com/news/article/KBS8I2RF053469LG.html)
 
-[入华8年极星汽车门店"清零" 知情人：基本没顾客进去](https://m.163.com/news/article/KBS1HHJN0512D3VJ.html)
+[青旅推4元特价房 禁止40岁以上男性30岁以上女性预定](https://m.163.com/news/article/KBSAS3O605345ARG.html)
 
-[小区物业被解聘带走162万公共收益 业主将其告上法庭](https://m.163.com/news/article/KBRPTAON0514R9OJ.html)
+[外交部新闻司副司长蒋小燕履新](https://m.163.com/news/article/KBS23O2S0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[患病女孩网售5盒"安眠药"被控贩毒获刑 重审不予起诉](https://m.163.com/news/article/KBS1GJNH05345ARG.html)
+[业主私挖近300平方米地下室 涉案人担任多家公司高管](https://m.163.com/news/article/KBSJ1D68051492T3.html)
 
 ---end---
