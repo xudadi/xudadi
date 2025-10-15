@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-15 14:29:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-15 14:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市城口县事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2649207)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市南华中学校面向2026届优秀毕业生招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2650037)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[骑手送山姆货物挂满电动车 配送点回应](https://m.163.com/news/article/KBS8I2RF053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[青旅推4元特价房 禁止40岁以上男性30岁以上女性预定](https://m.163.com/news/article/KBSAS3O605345ARG.html)
+[匹克被指让拒绝降薪员工写检讨否则停发工资 当地回应](https://m.163.com/news/article/KBTMUUCK051492T3.html)
 
-[外交部新闻司副司长蒋小燕履新](https://m.163.com/news/article/KBS23O2S0514R9P4.html)
+[医院设备采购项目预算300万中标价仅1000元 通报来了](https://m.163.com/news/article/KBTASJOR05345ARG.html)
+
+[熊黛林婉拒向郭富城三胎送祝福:多人送祝福 我不用了](https://m.163.com/news/article/KBTL3GEF053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[业主私挖近300平方米地下室 涉案人担任多家公司高管](https://m.163.com/news/article/KBSJ1D68051492T3.html)
+[海南一中学保安在校门口扔外卖 学校回应](https://m.163.com/news/article/KBTJ6R2N053469LG.html)
 
 ---end---
