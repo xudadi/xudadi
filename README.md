@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-16 20:41:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-16 21:20:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[关于重庆交通大学交通新能源材料与装备研究院招聘劳务派遣类人员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2651508)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[西南铝2026年度高校毕业生招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2652188)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[爷爷奶奶地里秋收4岁孙女车内睡觉失联 当地搜救未果](https://m.163.com/news/article/KC09K7KA053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[长颈鹿因贪玩脑袋不慎被卡进护栏内 动物园回应](https://m.163.com/news/article/KC09K7IU053469LG.html)
+[在职交警成了农民工还冒领了劳务费 当地回应](https://m.163.com/news/article/KC077OII05561G0D.html)
 
-[王健林及万达集团被起诉 此前被限高“一日游”](https://m.163.com/news/article/KC073SA40534A4SC.html)
+[兰州一民营医院就接诊人数发“喜报” 院方回应](https://m.163.com/news/article/KC077O5605561G0D.html)
+
+[情侣连续9年在千年古树下合影：18岁喜欢的人还在一起](https://m.163.com/news/article/KC0ATKEA0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[社区为入户消杀要求"单车房"业主交钥匙 否则强制开锁](https://m.163.com/news/article/KC02GMFD053469LG.html)
+[爷爷奶奶地里秋收4岁孙女车内睡觉失联 当地搜救未果](https://m.163.com/news/article/KC09K7KA053469LG.html)
 
 ---end---
