@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-16 14:29:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-16 14:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室胡彪研究员课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2650939)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[关于重庆交通大学交通新能源材料与装备研究院招聘劳务派遣类人员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2651508)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[14岁女孩被同学杀害案择日宣判 被告人在庭上跪求原谅](https://m.163.com/news/article/KBU9ECQ90534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[唐向阳被逮捕：曾任长沙市公安局长 4名副局长均被查](https://m.163.com/news/article/KBU6Q17U053469LG.html)
+[爷爷奶奶地里秋收4岁孙女车内睡觉失联 当地搜救未果](https://m.163.com/news/article/KC09K7KA053469LG.html)
 
-[十四届全国人大常委会第十八次会议24日至28日举行](https://m.163.com/news/article/KBUCH2I705346RC6.html)
+[长颈鹿因贪玩脑袋不慎被卡进护栏内 动物园回应](https://m.163.com/news/article/KC09K7IU053469LG.html)
+
+[王健林及万达集团被起诉 此前被限高“一日游”](https://m.163.com/news/article/KC073SA40534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[饶毅称收到95万申报欧洲科学院院士推广信息 机构回应](https://m.163.com/news/article/KBUBO4610514D3UH.html)
+[社区为入户消杀要求"单车房"业主交钥匙 否则强制开锁](https://m.163.com/news/article/KC02GMFD053469LG.html)
 
 ---end---
