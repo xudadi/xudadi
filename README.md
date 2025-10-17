@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-17 20:40:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-17 21:16:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆储备粮管理集团有限公司2026届高校毕业生校园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2652974)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[中国人民银行重庆市分支机构2026年度考试录用公务员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2653853)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子因诈骗被捕后7次因怀孕哺乳期取保 现丧失生育能力](https://m.163.com/news/article/KC17DV73051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[小伙带村里老人拍"夕阳红版三国" 持粪勺当青龙偃月刀](https://m.163.com/news/article/KC149U9N0514D3UH.html)
+[一家三口被撞身亡 司机事发前和女友发生口角原因披露](https://m.163.com/news/article/KC3DGFSF053469LG.html)
 
-[曹德旺回应退休：我儿子也55岁了 他很优秀](https://m.163.com/news/article/KC131EVS0519APGA.html)
+[走失女童被找到 村干部:真是命大 搜救期间下两夜大雨](https://m.163.com/news/article/KC3KDEML05561G0D.html)
+
+[媒体：将国产示波器性能提升500% 中国芯片黑马来了](https://m.163.com/news/article/KC3GUTVB0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[52岁影后首谈恋情:男友小她20岁 二人曾讨论孩子问题](https://m.163.com/news/article/KBUQ9UFG053469LG.html)
+[王宇燕任中华全国供销合作总社党组书记](https://m.163.com/news/article/KC3I2SPA0534A4SC.html)
 
 ---end---
