@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-18 14:26:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-18 14:46:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国人民银行重庆市分支机构2026年度考试录用公务员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2653853)
+[九龙坡区九龙小学2025年合同制教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654042)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
