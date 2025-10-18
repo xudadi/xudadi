@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-18 19:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-18 20:36:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[九龙坡区九龙小学2025年合同制教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654042)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市两江中学·西南政法大学附中面向2026届优秀毕业生招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654358)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[魏思琪接替王腾任小米中国区市场部总经理](https://m.163.com/news/article/KC3U3I8E0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[华为云CEO张平安连降三等 多名云业务高管被问责](https://m.163.com/news/article/KC3BP45V05129QAF.html)
+[风高浪急59岁大叔跳海成功救人 头被礁石割伤缝了15针](https://m.163.com/news/article/KC67ILCK053469LG.html)
 
-[男子4.5万买黄金遭平台"反悔" 没赚到钱反而损失千元](https://m.163.com/news/article/KC3B8DT30514D3UH.html)
+[郑丽文当选中国国民党主席](https://m.163.com/news/article/KC65525O0001899O.html)
+
+[清华大学设杨振宁吊唁处：18日晚开放吊唁 为期7天](https://m.163.com/news/article/KC61E1A20512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网红"增高药"阿基孚被检出兴奋剂成分 每瓶胶囊近千元](https://m.163.com/news/article/KC3M1FNU051492T3.html)
+[一家三口被撞身亡案第三次审限延期 家属要求嫌犯死刑](https://m.163.com/news/article/KC5PVU4E0514D3UH.html)
 
 ---end---
