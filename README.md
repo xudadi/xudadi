@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-19 14:27:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-19 14:47:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江中学·西南政法大学附中面向2026届优秀毕业生招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654358)
+[重庆空港人力资源管理有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654448)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
