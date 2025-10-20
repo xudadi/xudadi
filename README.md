@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-20 14:30:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-20 14:55:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆空港人力资源管理有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2654448)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆两江新区人才发展集团外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2655083)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[安世中国发布致全体员工信:目前公司生产经营一切如常](https://m.163.com/news/article/KC8I05IK053469RG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子被控杀害母子3人服刑20年 释放后申诉无罪被驳回](https://m.163.com/news/article/KC8T3EBO0514D3UH.html)
+[国家统计局：前三季度城镇调查失业率均值5.2%](https://m.163.com/news/article/KCAAPEC90001899O.html)
 
-["柴怼怼"被逮捕：因"打假"走红后售假 有人消费近10万](https://m.163.com/news/article/KC8K7LRR0514R9P4.html)
+[1-9月份全国固定资产投资下降0.5%](https://m.163.com/news/article/KCAAOPPM0001899N.html)
+
+[2025年9月份社会消费品零售总额增长3.0%](https://m.163.com/news/article/KCAAL5IR0001899N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[90后清华博士屈拓任漳州市国资委副主任](https://m.163.com/news/article/KC8R0B7A0514R9P4.html)
+[国家统计局：前9月全国房地产开发投资降13.9%](https://m.163.com/news/article/KCAAFCEJ0001899N.html)
 
 ---end---
