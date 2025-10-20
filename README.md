@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-21 02:29:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-21 02:52:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2655083)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至某国有企业法语翻译招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2656053)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国家统计局：前三季度城镇调查失业率均值5.2%](https://m.163.com/news/article/KCAAPEC90001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[1-9月份全国固定资产投资下降0.5%](https://m.163.com/news/article/KCAAOPPM0001899N.html)
+[上市公司董事长被采取刑事强制措施 43岁妻子紧急补位](https://m.163.com/news/article/KCBL5BM40512B07B.html)
 
-[2025年9月份社会消费品零售总额增长3.0%](https://m.163.com/news/article/KCAAL5IR0001899N.html)
+[贵州2岁失踪女童被找到 警方披露搜救细节](https://m.163.com/news/article/KCB5S4KA051492T3.html)
+
+[深圳男子发千余条视频反映城市问题 被称"多管局局长"](https://m.163.com/news/article/KCB43D2D053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国家统计局：前9月全国房地产开发投资降13.9%](https://m.163.com/news/article/KCAAFCEJ0001899N.html)
+[4岁女童失联44小时在山沟中被找到 曾让旁边人别生火](https://m.163.com/news/article/KCBE5ULO053469LG.html)
 
 ---end---
