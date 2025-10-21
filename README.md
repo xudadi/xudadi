@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-21 14:29:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-21 14:51:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至某国有企业法语翻译招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2656053)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆英斯凯药业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2656689)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上市公司董事长被采取刑事强制措施 43岁妻子紧急补位](https://m.163.com/news/article/KCBL5BM40512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贵州2岁失踪女童被找到 警方披露搜救细节](https://m.163.com/news/article/KCB5S4KA051492T3.html)
+["最快女护士"复出刷新个人最好成绩 就职医院回应](https://m.163.com/news/article/KCCQNIVH0512B07B.html)
 
-[深圳男子发千余条视频反映城市问题 被称"多管局局长"](https://m.163.com/news/article/KCB43D2D053469LG.html)
+[知名酒店客房花洒被指有粪便 消费者：不同意赔偿方案](https://m.163.com/news/article/KCCU4CHN055040N3.html)
+
+["旺仔小乔"被榜一大哥起诉退还80万 后者:难忍受被骗](https://m.163.com/news/article/KCCSEPQD053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[4岁女童失联44小时在山沟中被找到 曾让旁边人别生火](https://m.163.com/news/article/KCBE5ULO053469LG.html)
+[郑丽文公开强调"我是中国人" 蔡正元:强烈震撼了岛内](https://m.163.com/news/article/KCCRP9RB055080L4.html)
 
 ---end---
