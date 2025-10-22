@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-22 14:30:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-22 14:55:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至华龙网新媒体编辑岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2658097)
+[重庆长江人力资源有限公司面向社会招聘派遣制工作人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2658708)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
