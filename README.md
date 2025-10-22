@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-22 20:42:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-22 21:22:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江人力资源有限公司面向社会招聘派遣制工作人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2658708)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司外派至某国有企业形象保安招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2659778)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多名男女在呼伦贝尔大草原上跳起"纸片舞" 当地回应](https://m.163.com/news/article/KCD4J2N005345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海父亲患癌只能再活6个月教女儿直面别离 女儿发声](https://m.163.com/news/article/KCCVV0K70530JPVV.html)
+[网红小影夫妇被举报逃税 举报粉丝：她嚣张跋扈还骂人](https://m.163.com/news/article/KCGANUEG05561G0D.html)
 
-["最快女护士"复出刷新个人最好成绩 就职医院回应](https://m.163.com/news/article/KCCQNIVH0512B07B.html)
+[上海市教委：长周期贯通培养并非取消中考](https://m.163.com/news/article/KCG6PICD05506BEH.html)
+
+[好心载同事却出车祸遭索赔 法院:司机承担60%赔偿责任](https://m.163.com/news/article/KCG4I9UD053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[知名酒店客房花洒被指有粪便 消费者：不同意赔偿方案](https://m.163.com/news/article/KCCU4CHN055040N3.html)
+[获刑二年九个月 昔日"象棋第一人"王天一道歉](https://m.163.com/news/article/KCE0QKP90534A4SC.html)
 
 ---end---
