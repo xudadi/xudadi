@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-23 02:30:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-23 02:52:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司外派至某国有企业形象保安招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2659778)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网红小影夫妇被举报逃税 举报粉丝：她嚣张跋扈还骂人](https://m.163.com/news/article/KCGANUEG05561G0D.html)
+[花江峡谷大桥无绳蹦极原定23日开放 工作人员：已取消](https://m.163.com/news/article/KCFUR72D051492T3.html)
 
-[上海市教委：长周期贯通培养并非取消中考](https://m.163.com/news/article/KCG6PICD05506BEH.html)
+[iPhone Air开售遇冷 部分黄牛溢价不足百元](https://m.163.com/news/article/KCGITKNF0512B07B.html)
 
-[好心载同事却出车祸遭索赔 法院:司机承担60%赔偿责任](https://m.163.com/news/article/KCG4I9UD053469LG.html)
+[今年冬天是冷冬？专家给出判断](https://m.163.com/news/article/KCGERMHD0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[获刑二年九个月 昔日"象棋第一人"王天一道歉](https://m.163.com/news/article/KCE0QKP90534A4SC.html)
+[72岁患癌老人办生前告别式 四十多名宾客来到现场发言](https://m.163.com/news/article/KCGEU9IN053469LG.html)
 
 ---end---
