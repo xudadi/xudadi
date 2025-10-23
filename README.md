@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-23 14:29:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-23 14:51:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国有企业形象保安招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2659778)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司外派至某国企保洁员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2660519)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[金价惊魂1夜后:"囤金大爷大妈"挤爆金店 拿下百克金条](https://m.163.com/news/article/KCHQT8210512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[知名女演员老公行贿近千万 受贿者获刑10年半](https://m.163.com/news/article/KCHQTBJ7053469LG.html)
+[男子在西安嘉午台失联10天 被当地救援队找到时已遇难](https://m.163.com/news/article/KCI887JH051492T3.html)
 
-[近千万粉丝网红被追缴、罚款超2300万 23人实名举报](https://m.163.com/news/article/KCH0OS8Q0512B07B.html)
+[男子盗窃发现监控后转动摄像头逃避拍摄 反被全程记录](https://m.163.com/news/article/KCI887JG051492T3.html)
+
+[广东一小区装修超市拆了承重墙 官方：已制止并查封](https://m.163.com/news/article/KCI7NGD6053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[54岁"鸡排校长"病逝 家长：雨天他撑伞在门口接送学生](https://m.163.com/news/article/KCG7I8HR053469LG.html)
+[成都一烧鸟店遭“熊孩子”闯入破坏 当地回应](https://m.163.com/news/article/KCI6406H053469LG.html)
 
 ---end---
