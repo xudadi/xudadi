@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-23 20:42:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-23 21:21:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国企保洁员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2660519)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市铁路中学招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2661314)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子在西安嘉午台失联10天 被当地救援队找到时已遇难](https://m.163.com/news/article/KCI887JH051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子盗窃发现监控后转动摄像头逃避拍摄 反被全程记录](https://m.163.com/news/article/KCI887JG051492T3.html)
+[女子投诉称24万定期存款被骗子网上转走  相关方回应](https://m.163.com/news/article/KCILIOD305561G0D.html)
 
-[广东一小区装修超市拆了承重墙 官方：已制止并查封](https://m.163.com/news/article/KCI7NGD6053469LG.html)
+[一男一女切割小区内23部电梯钢绳被刑拘 业内人士发声](https://m.163.com/news/article/KCISKH9F053469LG.html)
+
+[中国共产党第二十届中央委员会第四次全体会议公报](https://m.163.com/news/article/KCIOTCCJ000189FH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[成都一烧鸟店遭“熊孩子”闯入破坏 当地回应](https://m.163.com/news/article/KCI6406H053469LG.html)
+[党的二十届四中全会审议通过"十五五"规划建议](https://m.163.com/news/article/KCIP5PS10001899O.html)
 
 ---end---
