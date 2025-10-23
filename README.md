@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-24 02:28:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-24 02:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市铁路中学招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2661314)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子投诉称24万定期存款被骗子网上转走  相关方回应](https://m.163.com/news/article/KCILIOD305561G0D.html)
+[安世中国驳斥荷兰安世：在华生产产品均满足技术标准](https://m.163.com/news/article/KCJ32VL905199NHJ.html)
 
-[一男一女切割小区内23部电梯钢绳被刑拘 业内人士发声](https://m.163.com/news/article/KCISKH9F053469LG.html)
+[司机丈夫脑出血半身瘫痪后 妻子考取驾照载着丈夫跑车](https://m.163.com/news/article/KCIVBR3N0514D3UH.html)
 
-[中国共产党第二十届中央委员会第四次全体会议公报](https://m.163.com/news/article/KCIOTCCJ000189FH.html)
+[安世中国:荷兰总部相关决定在中国境内不具备法律效力](https://m.163.com/news/article/KCJ3E02H05198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[党的二十届四中全会审议通过"十五五"规划建议](https://m.163.com/news/article/KCIP5PS10001899O.html)
+[女子投诉称24万定期存款被骗子网上转走  相关方回应](https://m.163.com/news/article/KCILIOD305561G0D.html)
 
 ---end---
