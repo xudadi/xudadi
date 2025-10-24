@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-24 14:28:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-24 14:50:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铁路中学招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2661314)
+[重庆人力”所属企业飞驶特公司招聘外派至某国有企业 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2662022)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
