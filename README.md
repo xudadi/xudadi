@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-24 20:42:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-24 21:20:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆人力”所属企业飞驶特公司招聘外派至某国有企业 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2662022)
+[新加坡国立大学重庆研究院招聘主任、执行员岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2662950)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -33,6 +33,6 @@
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子投诉称24万定期存款被骗子网上转走  相关方回应](https://m.163.com/news/article/KCILIOD305561G0D.html)
+[一男一女切割小区内23部电梯钢绳被刑拘 业内人士发声](https://m.163.com/news/article/KCISKH9F053469LG.html)
 
 ---end---
