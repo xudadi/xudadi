@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-25 20:35:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-25 21:04:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆新华出版集团有限公司总法律顾问招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663084)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663257)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子当远洋船船员晕船自杀 家属：他常年在内陆生活](https://m.163.com/news/article/KCN80K53051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["感动中国"的女孩当妈妈了 耳聋一路逆袭成清华博士](https://m.163.com/news/article/KCN1SNQL05345ARG.html)
+[西安一保时捷电车行驶中突发自燃烧成空架 保时捷回应](https://m.163.com/news/article/KCNLPN1G053469LG.html)
 
-[1.6万元LV大衣"撞衫"86元中学校服 LV回应：已售罄](https://m.163.com/news/article/KCLL4JQ10519DDQ2.html)
+[女孩被篮球砸头后确诊癔症自残失禁 母亲:我也不理解](https://m.163.com/news/article/KCNLGQI800019B3E.html)
+
+[河南农民花3200元自制烘干机 还帮农友烘了20万斤玉米](https://m.163.com/news/article/KCLV2IR7053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[闻泰科技：若安世控制权无法恢复 或面临收入下调风险](https://m.163.com/news/article/KCM3PDNJ0512B07B.html)
+[70后章中全已任公安部铁路公安局局长](https://m.163.com/news/article/KCNEHFNS053469LG.html)
 
 ---end---
