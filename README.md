@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-25 07:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-25 09:25:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[新加坡国立大学重庆研究院招聘主任、执行员岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2662950)
+[重庆经典物业管理有限公司社招公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663055)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
