@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-26 14:27:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-26 14:48:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663257)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆日报编辑部招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663387)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["河南登封拟对一镇征收房产税"引热议 相关文件已删除](https://m.163.com/news/article/KCOGDBM90512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[刘海被开除党籍：搞权钱交易 故意泄露国家秘密](https://m.163.com/news/article/KCO7JRN30530M570.html)
+[专家：设立台湾光复纪念日是捍卫主权合法性](https://m.163.com/news/article/KCPRLUCN053469LG.html)
 
-[遭知名歌手郑智化控诉"没人性" 深圳机场深夜再道歉](https://m.163.com/news/article/KCON5ILR0512B07B.html)
+[副市长江敦涛被查 重庆开会表态](https://m.163.com/news/article/KCQ0ION40001899O.html)
+
+[高校科研柑桔走红7天卖出25000斤 团队：初衷是为助学](https://m.163.com/news/article/KCM2U43N0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏启东通报观光车事故：致4人遇难 责任人被控制](https://m.163.com/news/article/KCPB85ON0001899O.html)
+[华为官网更新 余承东增任产品投资委员会主任](https://m.163.com/news/article/KCPSBNM6053469LG.html)
 
 ---end---
