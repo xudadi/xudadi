@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-27 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-27 20:42:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆新智文旅有限公司商业运营分公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663912)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665277)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[郑智化为"连滚带爬"表述道歉：一时气愤的遣词](https://m.163.com/news/article/KCSM7NL50001899O.html)
 
 [知情人士称祝丽丹已离职 曾是娃哈哈的核心高管](https://m.163.com/news/article/KCSLE06H0534A4SC.html)
 
 [大学副教授成老赖仍开宝马用新手机 一次餐费花8000元](https://m.163.com/news/article/KCSJ9M0H0512D3VJ.html)
 
-[中国人造太阳预计2027年竣工](https://m.163.com/news/article/KCSIF15805198CJN.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[唐敖齐去世:他向村民借4000元创业 做出370亿市值公司](https://m.163.com/news/article/KCSI9TSN051492T3.html)
+[中国人造太阳预计2027年竣工](https://m.163.com/news/article/KCSIF15805198CJN.html)
 
 ---end---
