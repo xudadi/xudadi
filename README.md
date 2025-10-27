@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-27 13:54:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-27 14:33:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆日报编辑部招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663387)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往重庆新智文旅有限公司商业运营分公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2663912)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[美财长：会谈后美方"不再考虑"对中国加征100%的关税](https://m.163.com/news/article/KCRV16G70514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[原研药赛能缺货致价格翻倍已有药店限购 相关企业回应](https://m.163.com/news/article/KCQIH21R051492T3.html)
+[知情人士称祝丽丹已离职 曾是娃哈哈的核心高管](https://m.163.com/news/article/KCSLE06H0534A4SC.html)
 
-["95后"女村支书4个月带全村老人免费旅游6地 本人回应](https://m.163.com/news/article/KCR33P8L053469LG.html)
+[大学副教授成老赖仍开宝马用新手机 一次餐费花8000元](https://m.163.com/news/article/KCSJ9M0H0512D3VJ.html)
+
+[中国人造太阳预计2027年竣工](https://m.163.com/news/article/KCSIF15805198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[卫生巾新国标已通过审查 正在批准](https://m.163.com/news/article/KCQU19LA0001899O.html)
+[唐敖齐去世:他向村民借4000元创业 做出370亿市值公司](https://m.163.com/news/article/KCSI9TSN051492T3.html)
 
 ---end---
