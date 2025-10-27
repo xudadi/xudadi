@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-28 02:29:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-28 02:50:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665277)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑智化为"连滚带爬"表述道歉：一时气愤的遣词](https://m.163.com/news/article/KCSM7NL50001899O.html)
+[官方通报男子酸菜池中抽烟吐痰：该批次酸菜已销毁](https://m.163.com/news/article/KCTLLDEF0534A4SC.html)
 
-[知情人士称祝丽丹已离职 曾是娃哈哈的核心高管](https://m.163.com/news/article/KCSLE06H0534A4SC.html)
+[14岁男生嬉闹时被女同学打中左胸心跳骤停 如今瘫痪](https://m.163.com/news/article/KCTEM6RU051492T3.html)
 
-[大学副教授成老赖仍开宝马用新手机 一次餐费花8000元](https://m.163.com/news/article/KCSJ9M0H0512D3VJ.html)
+[女子花6万相亲被介绍50岁男子 婚介:她要求收入200万](https://m.163.com/news/article/KCT3VHP405149FJ6.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国人造太阳预计2027年竣工](https://m.163.com/news/article/KCSIF15805198CJN.html)
+[男子把钱都给女友保管结果崩溃 女友花200多万在脸上](https://m.163.com/news/article/KCT2GUK60514R9OJ.html)
 
 ---end---
