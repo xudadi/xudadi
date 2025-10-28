@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-29 01:52:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-29 02:30:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2025重庆国际人才交流大会涪陵区国有企业公开招聘控制数工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2667038)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市南岸区事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2667143)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[68岁的北京电影学院原副院长尼跃红被查](https://m.163.com/news/article/KCVS0DRR051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[农妇收玉米时遇山体坍塌失联4天 周边马路出现大坑](https://m.163.com/news/article/KCVS0DI0051492T3.html)
+[贵州桐梓东山坡公园溶洞现垃圾死猪乱象 官方展开调查](https://m.163.com/news/article/KD06OGF805345ARG.html)
 
-[宁波植物园回应“鸟类被诱虫板误伤”：已撤下](https://m.163.com/news/article/KCVS0DCH051492T3.html)
+[范玮琪方发声明：“佩戴大S骨灰项链”不实](https://m.163.com/news/article/KD05NINH05345ARG.html)
+
+[女子称因私教训练不当受伤 健身馆:她伤前参加越野赛](https://m.163.com/news/article/KD00TCNJ051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[金价跌破3900美元 大学女生下跌时补仓结果亏得更多](https://m.163.com/news/article/KCVO5JAU0512B07B.html)
+[杨天真打不开自己特斯拉从后备箱爬进去 客服回应](https://m.163.com/news/article/KCVVIMN0053469LG.html)
 
 ---end---
