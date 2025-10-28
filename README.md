@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-28 07:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-28 09:27:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区人力资源和社会保障局重庆市潼南区事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665277)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市渝西中学教师、教职工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665457)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[官方通报男子酸菜池中抽烟吐痰：该批次酸菜已销毁](https://m.163.com/news/article/KCTLLDEF0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[14岁男生嬉闹时被女同学打中左胸心跳骤停 如今瘫痪](https://m.163.com/news/article/KCTEM6RU051492T3.html)
+[山姆门店50万售卖的"黄金大闸蟹"疑侵权:复刻12个细节](https://m.163.com/news/article/KCTNV17T05345ARG.html)
 
-[女子花6万相亲被介绍50岁男子 婚介:她要求收入200万](https://m.163.com/news/article/KCT3VHP405149FJ6.html)
+[国安部披露"红汞骗局"细节:伪造红头文件巧立名目骗钱](https://m.163.com/news/article/KCUKNS5E0514R9P4.html)
+
+[5岁女童被水泥杆砸中身亡 家属:事发40多天仍未有结果](https://m.163.com/news/article/KCTJPTPU05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子把钱都给女友保管结果崩溃 女友花200多万在脸上](https://m.163.com/news/article/KCT2GUK60514R9OJ.html)
+[男子恋爱1个月后喜当爹 摆20桌满月酒后才知娃非亲生](https://m.163.com/news/article/KCTCRAAU053469LG.html)
 
 ---end---
