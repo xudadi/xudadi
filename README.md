@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-28 14:31:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-28 14:56:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝西中学教师、教职工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665457)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆商务职业学院考核招聘非在编工作人员公告(常年招聘) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2665754)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山姆门店50万售卖的"黄金大闸蟹"疑侵权:复刻12个细节](https://m.163.com/news/article/KCTNV17T05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国安部披露"红汞骗局"细节:伪造红头文件巧立名目骗钱](https://m.163.com/news/article/KCUKNS5E0514R9P4.html)
+[抗日名将孙立人之子已正式向大陆申请 将父亲迁葬故里](https://m.163.com/news/article/KCUT776505504DPG.html)
 
-[5岁女童被水泥杆砸中身亡 家属:事发40多天仍未有结果](https://m.163.com/news/article/KCTJPTPU05345ARG.html)
+[男子进山捡垃圾10年捡10万个饮料瓶 卖了8000元都捐了](https://m.163.com/news/article/KCV7NBDN053469LG.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[80天内3人遇难 深圳大鹏半岛公园挂出"死亡警示牌"](https://m.163.com/news/article/KCV2U2RT051492T3.html)
 
-[男子恋爱1个月后喜当爹 摆20桌满月酒后才知娃非亲生](https://m.163.com/news/article/KCTCRAAU053469LG.html)
+[3](https://www.163.com/dy/article/KCSDU0870556BRHI.html)
+
+[2025胡润百富榜发布 钟睒睒刷新中国首富的财富纪录](https://m.163.com/news/article/KCV57I3I0519DFFO.html)
 
 ---end---
