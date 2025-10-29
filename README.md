@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-29 14:31:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-29 14:56:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南岸区事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2667143)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司外派至某国企保洁员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2667666)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张学良侄孙撰文：台湾光复的历史对未来有着深刻启示](https://m.163.com/news/article/KD1BNR5D0530M570.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[宝宝巴士就"APP推送低俗广告"致歉：系第三方平台接入](https://m.163.com/news/article/KD189GP40514R9P4.html)
+[宝宝巴士再回应APP出现不良广告:严肃处理审核负责人](https://m.163.com/news/article/KD1QI3V10514R9P4.html)
 
-[为谋取职务提拔樊新中2次送200万 后升任董事长、厅长](https://m.163.com/news/article/KD074L2R0530M570.html)
+[两位中央委员履新 继任者此前已官宣](https://m.163.com/news/article/KD1L15A4055040N3.html)
+
+[孙立人之子已申请将父亲遗骨迁回故里安葬 国台办回应](https://m.163.com/news/article/KD1QBPJV051482MP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[邱毅：大陆针对"台独"顽固分子首次出击 沈伯洋麻烦了](https://m.163.com/news/article/KD16JP1N0514R9OJ.html)
+[四川自考最年轻考生仅9岁 省教育考试院回应](https://m.163.com/news/article/KD1R5CT5051492T3.html)
 
 ---end---
