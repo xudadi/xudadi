@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-10-30 14:30:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-10-30 14:52:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国企保洁员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2667666)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[中国广电重庆公司彭水分公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2669161)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[厅官李润林被逮捕：曾受降级处分 被批对儿子失管失教](https://m.163.com/news/article/KD2TO7CV051482MP.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[特朗普：相信美国将与中国达成"对双方都有利的协议"](https://m.163.com/news/article/KD3PTRTQ0514R9OJ.html)
+[民企因假公章背上巨额债务连带责任 诉讼历时9年未决](https://m.163.com/news/article/KD4BK98E0514R9P4.html)
 
-[中央定调 未来五年房地产方向明确](https://m.163.com/news/article/KD2M6KNS053469LG.html)
+[多人工商银行APP中资产"被清零" 客服：数据显示延迟](https://m.163.com/news/article/KD47OT0S0514EGPO.html)
+
+[中美元首会晤结束 历时约1小时40分钟](https://m.163.com/news/article/KD48BB2H000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女数学家王虹斩获两项大奖 韦东奕曾连续3天听她讲课](https://m.163.com/news/article/KD2IJT4Q0514R9OJ.html)
+[70后80后90后一起飞天 神二十一航天员简历公布](https://m.163.com/news/article/KD47256P000189PS.html)
 
 ---end---
