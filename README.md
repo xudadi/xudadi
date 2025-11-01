@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-01 20:36:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-01 21:05:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区石桥铺实验幼儿园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2671898)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆国际投资咨询集团公开招聘决策咨询、行政秘书、薪酬管理等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672021)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[雷军旗下资本被指投资国货羽绒服 后者：不作回应](https://m.163.com/news/article/KD71O7LP0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网红被蛇咬放弃救治后一度失联 曾见到救援后弃车离开](https://m.163.com/news/article/KD6VNMT7051492T3.html)
+["台独"分子沈伯洋十分担忧求助台陆委会:不敢离开台湾](https://m.163.com/news/article/KD7VJ4P10514EGPO.html)
 
-["最帅展昭"在上海去世：终年59岁 去世前一天还发视频](https://m.163.com/news/article/KD6TEN52051492LM.html)
+[5岁女童被砸身亡 一个多月后致命电线杆仍"无人认领"](https://m.163.com/news/article/KD9KH4SG0512D3VJ.html)
+
+[凤凰网一主编被控受贿：为国企催收8.97亿元收210万元](https://m.163.com/news/article/KD98H0SM0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[租户欠租346万后反手举报房东：房屋系违建 应该免租](https://m.163.com/news/article/KD6NSEPJ05561G0D.html)
+[上海一业主去美国探亲接到一通越洋电话：你家被淹了](https://m.163.com/news/article/KD7PSHCN0514EGPO.html)
 
 ---end---
