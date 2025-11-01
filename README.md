@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-02 02:24:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-02 02:43:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国际投资咨询集团公开招聘决策咨询、行政秘书、薪酬管理等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672021)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["台独"分子沈伯洋十分担忧求助台陆委会:不敢离开台湾](https://m.163.com/news/article/KD7VJ4P10514EGPO.html)
+[女子遭家暴开车逃跑撞死丈夫:丈夫爬上机盖被甩到车门](https://m.163.com/news/article/KDAA9TEC0514BE2Q.html)
 
-[5岁女童被砸身亡 一个多月后致命电线杆仍"无人认领"](https://m.163.com/news/article/KD9KH4SG0512D3VJ.html)
+[舅舅照顾3个外甥近10年:姐姐姐夫去世 外甥有孤儿补贴](https://m.163.com/news/article/KDAHJEDM051492T3.html)
 
-[凤凰网一主编被控受贿：为国企催收8.97亿元收210万元](https://m.163.com/news/article/KD98H0SM0514R9P4.html)
+[郑丽文：台湾正处于最困难、最危险的时刻](https://m.163.com/news/article/KDA0C1B60514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海一业主去美国探亲接到一通越洋电话：你家被淹了](https://m.163.com/news/article/KD7PSHCN0514EGPO.html)
+[保洁上班第1天把同事撞下电梯井致其身亡 事后继续清扫](https://m.163.com/news/article/KD9SNB8C053469LG.html)
 
 ---end---
