@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-02 13:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-02 14:28:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院2025年第五批非事业编制工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672164)
+[重庆市望江中学校近期招聘教师启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672230)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
