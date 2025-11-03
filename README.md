@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-03 14:32:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-03 14:56:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巴南区消防救援局公开招聘消防宣传文员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672290)
+[重庆两江新区燃气有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672614)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
