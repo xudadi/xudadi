@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-04 02:28:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-04 02:47:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [金凤实验室丁彦青教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2674044)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[警方回应男子自驾失联2个多月：车已找到 车内无人](https://m.163.com/news/article/KDFE8H6G0001899O.html)
+[湖北恩施"最孤独动物园"获网友云买票支持 园长已85岁](https://m.163.com/news/article/KDF6U9M4053469M5.html)
 
-[57名储户在银行大厅受骗损失千万本金 当地成立调查组](https://m.163.com/news/article/KDFCR5NT0512D3VJ.html)
+[网友预约26元深夜上门开锁结果被收1300元 商家回应](https://m.163.com/news/article/KDFB5STV0534P59R.html)
 
-[郑丽文公开表态愿意访问大陆100次：要来解决2个问题](https://m.163.com/news/article/KDF683I505199DKK.html)
+[业主2000万买新房质量问题有130多处 维修2年仍未解决](https://m.163.com/news/article/KDFGI2PD0512DU6N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[奥运冠军江旻憓将参加香港立法会选举 申请放弃加护照](https://m.163.com/news/article/KDF79SDG0514R9P4.html)
+[官方首次披露龚晓莉已被查：在考试录用中泄露试题](https://m.163.com/news/article/KDFC8F670512D3VJ.html)
 
 ---end---
