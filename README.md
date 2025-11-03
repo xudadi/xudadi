@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-03 19:50:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-03 20:42:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区燃气有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2672614)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[金凤实验室丁彦青教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2674044)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海地铁一天十几人因带活的大闸蟹被拦 工作人员发声](https://m.163.com/news/article/KDD1242E0512DU6N.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["金融演说家"广西金融投资集团原董事长蒙坤伟被查](https://m.163.com/news/article/KDCQNPL70514R9P4.html)
+[警方回应男子自驾失联2个多月：车已找到 车内无人](https://m.163.com/news/article/KDFE8H6G0001899O.html)
 
-[《时代周刊》评出年度300项最佳发明 20余家中企入围](https://m.163.com/news/article/KDAN94FR051492T3.html)
+[57名储户在银行大厅受骗损失千万本金 当地成立调查组](https://m.163.com/news/article/KDFCR5NT0512D3VJ.html)
+
+[郑丽文公开表态愿意访问大陆100次：要来解决2个问题](https://m.163.com/news/article/KDF683I505199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[原价百万1针的CAR-T有望纳入创新药目录](https://m.163.com/news/article/KDCEH39A05199DKK.html)
+[奥运冠军江旻憓将参加香港立法会选举 申请放弃加护照](https://m.163.com/news/article/KDF79SDG0514R9P4.html)
 
 ---end---
