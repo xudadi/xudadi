@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-04 20:44:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-04 21:24:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国企打包工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2674807)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往市司法局行政复议助审员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2675625)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[湖北恩施"最孤独动物园"获网友云买票支持 园长已85岁](https://m.163.com/news/article/KDF6U9M4053469M5.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网友预约26元深夜上门开锁结果被收1300元 商家回应](https://m.163.com/news/article/KDFB5STV0534P59R.html)
+[男子自驾失联72天后车被找到 行车记录仪最后画面披露](https://m.163.com/news/article/KDHVGIIK053469LG.html)
 
-[业主2000万买新房质量问题有130多处 维修2年仍未解决](https://m.163.com/news/article/KDFGI2PD0512DU6N.html)
+[《今日说法》主持人被骗千元买茶 所遭遇骗局特征公布](https://m.163.com/news/article/KDHHGTAS0550A0OW.html)
+
+[女子团购26元开锁服务被收1300元 涉事商家下架失联](https://m.163.com/news/article/KDHS0SC60514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方首次披露龚晓莉已被查：在考试录用中泄露试题](https://m.163.com/news/article/KDFC8F670512D3VJ.html)
+["嘎子哥"谢孟伟再被限高 此前已被执行210万余元](https://m.163.com/news/article/KDHUP6A90534A4SC.html)
 
 ---end---
