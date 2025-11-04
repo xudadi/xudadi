@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-05 02:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-05 03:15:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往市司法局行政复议助审员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2675625)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子自驾失联72天后车被找到 行车记录仪最后画面披露](https://m.163.com/news/article/KDHVGIIK053469LG.html)
+[女生称参加校招遭群内工作人员辱骂 格力杭州公司回应](https://m.163.com/news/article/KDGQP1Q10552RUAA.html)
 
-[《今日说法》主持人被骗千元买茶 所遭遇骗局特征公布](https://m.163.com/news/article/KDHHGTAS0550A0OW.html)
+[明年假期公布 国庆拼假能休17天](https://m.163.com/news/article/KDHNMJ3F05129QAF.html)
 
-[女子团购26元开锁服务被收1300元 涉事商家下架失联](https://m.163.com/news/article/KDHS0SC60514D3UH.html)
+[民办学校多名教师称学费被挪用致欠薪数月 最新回应](https://m.163.com/news/article/KDI3MBIE0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["嘎子哥"谢孟伟再被限高 此前已被执行210万余元](https://m.163.com/news/article/KDHUP6A90534A4SC.html)
+[房企董事长被"天价悬赏" 提供线索者最高可获得2500万](https://m.163.com/news/article/KDI2QT390512B07B.html)
 
 ---end---
