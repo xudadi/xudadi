@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-05 14:31:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-05 14:56:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往市司法局行政复议助审员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2675625)
+[派往重庆市潼南区公安局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2676098)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
