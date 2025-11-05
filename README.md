@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-06 01:50:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-06 02:29:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市江北区事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2677185)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国足换帅 邵佳一曾被赞是在德国踢球最成功的中国球员](https://m.163.com/news/article/KDKFRSF5053469LG.html)
+[柯基犬主人持酒瓶暴打马犬被拘留 马犬已脱离危险期](https://m.163.com/news/article/KDKLKOLM053469LG.html)
 
-[小鹏全新飞行汽车亮相 续航超500公里](https://m.163.com/news/article/KDKGJ6IP0512B07B.html)
+[融创中国95.5亿美元境外债务实现实质性清零](https://m.163.com/news/article/KDKK6LVU0512B07B.html)
 
-[国台办回应未来或全球通缉"台独"顽固分子：终身追责](https://m.163.com/news/article/KDJLH561053469LG.html)
+[媒体解析为何选择邵佳一：郭士强经历让高层倾向土帅](https://m.163.com/news/article/KDKGI0L70514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[足协官宣 45岁邵佳一出任国足新主帅](https://m.163.com/news/article/KDKA9O27000189PS.html)
+[国足换帅 邵佳一曾被赞是在德国踢球最成功的中国球员](https://m.163.com/news/article/KDKFRSF5053469LG.html)
 
 ---end---
