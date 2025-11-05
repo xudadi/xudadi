@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-05 19:50:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-05 20:41:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市潼南区公安局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2676098)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市江北区事业单位2025年面向服务期满且考核合格“三支一扶”人员公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2677185)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女生称参加校招遭群内工作人员辱骂 格力杭州公司回应](https://m.163.com/news/article/KDGQP1Q10552RUAA.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[明年假期公布 国庆拼假能休17天](https://m.163.com/news/article/KDHNMJ3F05129QAF.html)
+[国足换帅 邵佳一曾被赞是在德国踢球最成功的中国球员](https://m.163.com/news/article/KDKFRSF5053469LG.html)
 
-[民办学校多名教师称学费被挪用致欠薪数月 最新回应](https://m.163.com/news/article/KDI3MBIE0514D3UH.html)
+[小鹏全新飞行汽车亮相 续航超500公里](https://m.163.com/news/article/KDKGJ6IP0512B07B.html)
+
+[国台办回应未来或全球通缉"台独"顽固分子：终身追责](https://m.163.com/news/article/KDJLH561053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[房企董事长被"天价悬赏" 提供线索者最高可获得2500万](https://m.163.com/news/article/KDI2QT390512B07B.html)
+[足协官宣 45岁邵佳一出任国足新主帅](https://m.163.com/news/article/KDKA9O27000189PS.html)
 
 ---end---
