@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-06 19:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-06 20:41:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往国家粮食和物资储备局四川局一五七处招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2678033)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[关于面向校内外公开招聘重庆大学未来教育研究院副院长的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2678447)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[柯基犬主人持酒瓶暴打马犬被拘留 马犬已脱离危险期](https://m.163.com/news/article/KDKLKOLM053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[融创中国95.5亿美元境外债务实现实质性清零](https://m.163.com/news/article/KDKK6LVU0512B07B.html)
+[两百多位村民"抬房搬家"视频火了：重约6吨 移动30米](https://m.163.com/news/article/KDMRE4RQ0514D3UH.html)
 
-[媒体解析为何选择邵佳一：郭士强经历让高层倾向土帅](https://m.163.com/news/article/KDKGI0L70514R9P4.html)
+[专家：神二十航天员能否安全返回 "关键点"有两个](https://m.163.com/news/article/KDMOGBG60514AM4I.html)
+
+[男子寄的40万劳力士丢失：保费333元 快递只赔1.85万](https://m.163.com/news/article/KDMQ2DSR0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国足换帅 邵佳一曾被赞是在德国踢球最成功的中国球员](https://m.163.com/news/article/KDKFRSF5053469LG.html)
+[未来3天大范围雨雪将影响超20省区市](https://m.163.com/news/article/KDN27KS9053469LG.html)
 
 ---end---
