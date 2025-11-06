@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-06 14:31:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-06 14:56:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国铝业集团高端制造股份有限公司副总经理竞聘上岗公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2677461)
+[派往国家粮食和物资储备局四川局一五七处招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2678033)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
