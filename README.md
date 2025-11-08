@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-08 19:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-08 20:36:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市气象部门2026年度事业单位公开招聘应届高校毕业生公告(二) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2679852)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[辽宁省政协副主席卢柯院士再度在《science》发文](https://m.163.com/news/article/KDQ07BEQ0514R9P4.html)
+[张家界荒野求生选手抓到了野猪 对着镜头吃得满嘴流油](https://m.163.com/news/article/KDS6NUGU053469LG.html)
 
-[中国第三代防空武器系统总设计师张福安逝世](https://m.163.com/news/article/KDPLMD7K0514R9P4.html)
+["全网最像夫妻"被喊话测DNA 妻子：做过婚检 越长越像](https://m.163.com/news/article/KDS0ESR505561G0D.html)
 
-[男孩回忆离世奶奶作文爆火 回应AI质疑：算另一种夸奖](https://m.163.com/news/article/KDPRUNBQ0534P59R.html)
+[官方声明:王硕威不是福建舰总设计师](https://m.163.com/news/article/KDS3Q8340534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[郑丽文表示将祭拜吴石将军：希望两岸和解、两岸和平](https://m.163.com/news/article/KDPT2TST0001899O.html)
+[因犯受贿罪获刑10年后 落马官员出狱当天又被逮捕](https://m.163.com/news/article/KDS62C1K0514BE2Q.html)
 
 ---end---
