@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-10 07:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-10 09:43:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市气象部门2026年度事业单位公开招聘应届高校毕业生公告(二) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2679852)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海老人开放30年的家庭民俗馆拆迁难:藏品有几千件](https://m.163.com/news/article/KDUUOGVP05561G0D.html)
+[价格涨幅超黄金 华强北存储产品被称为"年度最佳理财"](https://m.163.com/news/article/KE09EEF00514R9KQ.html)
 
-[孙中山、宋庆龄珍贵影像首次公开](https://m.163.com/news/article/KDTQT76K0514R9P4.html)
+[遭央视起底 台媒：沈伯洋内心已经相当恐惧](https://m.163.com/news/article/KE08PJ070001899O.html)
 
-[白百何方晒时间线回应东京电影节争议:只要真实的说法](https://m.163.com/news/article/KDUNARH3053469LG.html)
+[男子夜钓遭枪击 家属：行凶者把猎枪扔河里 警方找7天](https://m.163.com/news/article/KDV2GKAI05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[博主称甘肃有货车向河中排放粉紫色不明液体 官方回应](https://m.163.com/news/article/KDUASDVS053469LG.html)
+["1999年小朋友捐140元给国家造航母"热传 当事人发声](https://m.163.com/news/article/KDV5A06G051492LM.html)
 
 ---end---
