@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-11 02:29:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-11 02:49:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [两江新区多岗位招聘,最高月薪1.5万元 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2682570)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贝爷点赞张家界荒野求生挑战赛:唤起我野外探险的回忆](https://m.163.com/news/article/KE17GO71053469LG.html)
+[5岁女童玩水疑触电住进ICU 景区回应：涉事项目已停用](https://m.163.com/news/article/KE1K4BVJ0514D3UH.html)
 
-[“耳环风波”半年后 18岁黄杨钿甜首次发文](https://m.163.com/news/article/KE0VOKJS053469KC.html)
+[女子发现男友脖子"草莓印"及暧昧聊天后悔婚 法院判了](https://m.163.com/news/article/KE1J1U20051492T3.html)
 
-[河南有强奸前科老人猥亵幼女获刑2年 受害人家属发声](https://m.163.com/news/article/KE14M9IT053469LG.html)
+[女子怀疑孩子被抱错 医院通报](https://m.163.com/news/article/KE1HIM2I0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[企业在自然保护区建研学机构烂尾7年 致百亩农田荒废](https://m.163.com/news/article/KE14B0120514D3UH.html)
+[44岁微短剧导演意外身亡 妻子称剧组未购买保险](https://m.163.com/news/article/KE1HBDC9051492T3.html)
 
 ---end---
