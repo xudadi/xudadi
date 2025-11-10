@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-10 14:32:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-10 14:56:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市气象部门2026年度事业单位公开招聘应届高校毕业生公告(二) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2679852)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市长寿区人民医院党委办公室党务宣传岗位招聘需求 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2681397)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[价格涨幅超黄金 华强北存储产品被称为"年度最佳理财"](https://m.163.com/news/article/KE09EEF00514R9KQ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[遭央视起底 台媒：沈伯洋内心已经相当恐惧](https://m.163.com/news/article/KE08PJ070001899O.html)
+[商务部：暂停对5家美国相关子公司实施反制措施一年](https://m.163.com/news/article/KE0MPUO50534A4SC.html)
 
-[男子夜钓遭枪击 家属：行凶者把猎枪扔河里 警方找7天](https://m.163.com/news/article/KDV2GKAI05345ARG.html)
+[车主针对FSD功能起诉特斯拉案将开庭：要求退一赔三](https://m.163.com/news/article/KE0KT67J0512D3VJ.html)
+
+[老人花1500元装的净水器次日就漏水 生产厂家经营异常](https://m.163.com/news/article/KE0IUGB30514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["1999年小朋友捐140元给国家造航母"热传 当事人发声](https://m.163.com/news/article/KDV5A06G051492LM.html)
+[中方暂停对美船舶收取船舶特别港务费 为期一年](https://m.163.com/news/article/KE0KFQOE0534A4SC.html)
 
 ---end---
