@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-10 19:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-10 20:42:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市长寿区人民医院党委办公室党务宣传岗位招聘需求 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2681397)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江新区多岗位招聘,最高月薪1.5万元 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2682570)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[商务部：暂停对5家美国相关子公司实施反制措施一年](https://m.163.com/news/article/KE0MPUO50534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[车主针对FSD功能起诉特斯拉案将开庭：要求退一赔三](https://m.163.com/news/article/KE0KT67J0512D3VJ.html)
+[贝爷点赞张家界荒野求生挑战赛:唤起我野外探险的回忆](https://m.163.com/news/article/KE17GO71053469LG.html)
 
-[老人花1500元装的净水器次日就漏水 生产厂家经营异常](https://m.163.com/news/article/KE0IUGB30514D3UH.html)
+[“耳环风波”半年后 18岁黄杨钿甜首次发文](https://m.163.com/news/article/KE0VOKJS053469KC.html)
+
+[河南有强奸前科老人猥亵幼女获刑2年 受害人家属发声](https://m.163.com/news/article/KE14M9IT053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中方暂停对美船舶收取船舶特别港务费 为期一年](https://m.163.com/news/article/KE0KFQOE0534A4SC.html)
+[企业在自然保护区建研学机构烂尾7年 致百亩农田荒废](https://m.163.com/news/article/KE14B0120514D3UH.html)
 
 ---end---
