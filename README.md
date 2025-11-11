@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-11 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-11 20:41:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市邮政管理局招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2682245)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市永川区教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684002)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[云南通报"赤裸小孩"：孩子发育正常 正进行行为矫正](https://m.163.com/news/article/KE2RG8D70001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[居民50元职工150元 新乡门诊医保报销每日限额引关注](https://m.163.com/news/article/KE116A3A05561G0D.html)
+[律师银行柜台取现遭"盘问" 央视：反诈不应"加码误伤"](https://m.163.com/news/article/KE3F96E4000189PS.html)
 
-[小区车库沉降墙体开裂 所涉楼栋有业主未搬离：要退房](https://m.163.com/news/article/KE1PPI53053469LG.html)
+[农户种300亩杨树 23年后树成材却被纳入保护区禁采伐](https://m.163.com/news/article/KE3DFSU3053469LG.html)
+
+[胖东来公示 柴怼怼被判赔260万元](https://m.163.com/news/article/KE3D3JPB0519DFFO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中方回应日首相涉台言论:让人怀疑日本是否要重蹈覆辙](https://m.163.com/news/article/KE1R3J3I051482MP.html)
+[官方通报"儿子暴打93岁母亲"：涉事男子已被抓获](https://m.163.com/news/article/KE3CTDLN053469LG.html)
 
 ---end---
