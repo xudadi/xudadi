@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-12 01:52:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-12 02:28:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684002)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[律师银行柜台取现遭"盘问" 央视：反诈不应"加码误伤"](https://m.163.com/news/article/KE3F96E4000189PS.html)
+[男子打晕妻子"以为她死了"将其抛下悬崖 二人育有两子](https://m.163.com/news/article/KE4ADLG80514BE2Q.html)
 
-[农户种300亩杨树 23年后树成材却被纳入保护区禁采伐](https://m.163.com/news/article/KE3DFSU3053469LG.html)
+[赖清德喊话韩国瑜声援沈伯洋 蓝营回呛：关他什么事](https://m.163.com/news/article/KE4663S4055080L4.html)
 
-[胖东来公示 柴怼怼被判赔260万元](https://m.163.com/news/article/KE3D3JPB0519DFFO.html)
+[女老板实名举报国企负责人后被打 该负责人已被撤职](https://m.163.com/news/article/KE45UR14053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方通报"儿子暴打93岁母亲"：涉事男子已被抓获](https://m.163.com/news/article/KE3CTDLN053469LG.html)
+[5千平别墅酒店被指在耕地上违建 当地:土地属县烟草局](https://m.163.com/news/article/KE455BSS0514D3UH.html)
 
 ---end---
