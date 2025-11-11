@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-11 07:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-11 09:40:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区多岗位招聘,最高月薪1.5万元 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2682570)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆市邮政管理局招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2682245)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[5岁女童玩水疑触电住进ICU 景区回应：涉事项目已停用](https://m.163.com/news/article/KE1K4BVJ0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子发现男友脖子"草莓印"及暧昧聊天后悔婚 法院判了](https://m.163.com/news/article/KE1J1U20051492T3.html)
+[云南通报"赤裸小孩"：孩子发育正常 正进行行为矫正](https://m.163.com/news/article/KE2RG8D70001899O.html)
 
-[女子怀疑孩子被抱错 医院通报](https://m.163.com/news/article/KE1HIM2I0534A4SC.html)
+[居民50元职工150元 新乡门诊医保报销每日限额引关注](https://m.163.com/news/article/KE116A3A05561G0D.html)
+
+[小区车库沉降墙体开裂 所涉楼栋有业主未搬离：要退房](https://m.163.com/news/article/KE1PPI53053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[44岁微短剧导演意外身亡 妻子称剧组未购买保险](https://m.163.com/news/article/KE1HBDC9051492T3.html)
+[中方回应日首相涉台言论:让人怀疑日本是否要重蹈覆辙](https://m.163.com/news/article/KE1R3J3I051482MP.html)
 
 ---end---
