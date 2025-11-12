@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-12 19:50:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-12 20:42:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江公证处招聘金融调解员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684875)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆信息与智慧医学研究院聘用人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2685671)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女孩寒风中穿凉鞋路边捡吃的引发关注 当地民政局回应](https://m.163.com/news/article/KE5KHPLA0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[全运会吉祥物"大湾鸡"意外走红 系40名武校学生扮演](https://m.163.com/news/article/KE5SLUHS053469LG.html)
+[菜单上有"水煮鸡肉" 面馆老板揉面8年揉出个健美冠军](https://m.163.com/news/article/KE49I8SE05345ARG.html)
 
-[直播抓蛇被咬伤网红道歉：蛇被我甩开了 已被拘留8日](https://m.163.com/news/article/KE5TMSHB0534P59R.html)
+[证监会最新发声：坚决防止市场大起大落、急涨急跌](https://m.163.com/news/article/KE5SQ6830519DDQ2.html)
+
+[雪山艺术小镇被大股东申请破产 李亚鹏曾称2年卖70亿](https://m.163.com/news/article/KE5SR74B051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子9600元转卖新苹果手机 买家转账1万其妻卡被冻结](https://m.163.com/news/article/KE5L3K600530JPVV.html)
+[女孩寒风中穿凉鞋路边捡吃的引发关注 当地民政局回应](https://m.163.com/news/article/KE5KHPLA0534P59R.html)
 
 ---end---
