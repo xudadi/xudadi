@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-12 07:51:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-12 09:39:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684002)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子打晕妻子"以为她死了"将其抛下悬崖 二人育有两子](https://m.163.com/news/article/KE4ADLG80514BE2Q.html)
+[携500亿元比特币出逃 女商人钱志敏被抓捕时画面披露](https://m.163.com/news/article/KE5B3R1C051492LM.html)
 
-[赖清德喊话韩国瑜声援沈伯洋 蓝营回呛：关他什么事](https://m.163.com/news/article/KE4663S4055080L4.html)
+[13岁于子迪一鸣惊人 打破尘封13年的200米混亚洲纪录](https://m.163.com/news/article/KE47RV950514R9P4.html)
 
-[女老板实名举报国企负责人后被打 该负责人已被撤职](https://m.163.com/news/article/KE45UR14053469M5.html)
+[上海阿姨存了近30年的钱提不出傻眼 银行：找不到底根](https://m.163.com/news/article/KE49089V00019B3E.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[5千平别墅酒店被指在耕地上违建 当地:土地属县烟草局](https://m.163.com/news/article/KE455BSS0514D3UH.html)
+[男子打晕妻子"以为她死了"将其抛下悬崖 二人育有两子](https://m.163.com/news/article/KE4ADLG80514BE2Q.html)
 
 ---end---
