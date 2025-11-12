@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-12 14:31:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-12 14:56:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市永川区教育事业单位2025年面向应届毕业公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684002)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江公证处招聘金融调解员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2684875)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[携500亿元比特币出逃 女商人钱志敏被抓捕时画面披露](https://m.163.com/news/article/KE5B3R1C051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[13岁于子迪一鸣惊人 打破尘封13年的200米混亚洲纪录](https://m.163.com/news/article/KE47RV950514R9P4.html)
+[女孩寒风中穿凉鞋路边捡吃的引发关注 当地民政局回应](https://m.163.com/news/article/KE5KHPLA0534P59R.html)
 
-[上海阿姨存了近30年的钱提不出傻眼 银行：找不到底根](https://m.163.com/news/article/KE49089V00019B3E.html)
+[全运会吉祥物"大湾鸡"意外走红 系40名武校学生扮演](https://m.163.com/news/article/KE5SLUHS053469LG.html)
+
+[直播抓蛇被咬伤网红道歉：蛇被我甩开了 已被拘留8日](https://m.163.com/news/article/KE5TMSHB0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子打晕妻子"以为她死了"将其抛下悬崖 二人育有两子](https://m.163.com/news/article/KE4ADLG80514BE2Q.html)
+[男子9600元转卖新苹果手机 买家转账1万其妻卡被冻结](https://m.163.com/news/article/KE5L3K600530JPVV.html)
 
 ---end---
