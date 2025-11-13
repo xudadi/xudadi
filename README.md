@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-13 14:31:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-13 14:56:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院聘用人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2685671)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市南岸区老年大学劳务派遣人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2686322)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[瑞幸咖啡回应"重回美国主板上市"：没有确定的时间表](https://m.163.com/news/article/KE6R3FML0530JPVV.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[市民开车嘴里叼牙线棒被罚 当地交管复核后已撤销认定](https://m.163.com/news/article/KE6SUC9G0514R9OJ.html)
+[于媛媛被通报：多次收受皮草大衣、珠宝首饰 生活奢靡](https://m.163.com/news/article/KE8BT5HN053469LG.html)
 
-[奇瑞汽车就天门山挑战撞坏护栏致歉：将承担赔偿责任](https://m.163.com/news/article/KE7QHREM0534A4SC.html)
+[41岁男子为自己办"半个葬礼" 11.75岁女儿现场致悼词](https://m.163.com/news/article/KE8BT5IO053469LG.html)
+
+[受贿逾亿元 乒乓球前世界冠军滕义获刑十四年](https://m.163.com/news/article/KE87Q6IH0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[邱毅：感觉两岸统一的脚步越来越近了](https://m.163.com/news/article/KE7P0COH0514R9OJ.html)
+[深圳金融监管局点名553家公司:名称不能含"金控"字样](https://m.163.com/news/article/KE89NBOQ05199NPP.html)
 
 ---end---
