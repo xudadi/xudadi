@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-13 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-13 20:43:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南岸区老年大学劳务派遣人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2686322)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[西南大学2026年招聘专职辅导员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2687201)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[于媛媛被通报：多次收受皮草大衣、珠宝首饰 生活奢靡](https://m.163.com/news/article/KE8BT5HN053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[41岁男子为自己办"半个葬礼" 11.75岁女儿现场致悼词](https://m.163.com/news/article/KE8BT5IO053469LG.html)
+[4条猎犬围捕400斤大野猪牺牲 护农队:今年33条犬牺牲](https://m.163.com/news/article/KE959UB8053469LG.html)
 
-[受贿逾亿元 乒乓球前世界冠军滕义获刑十四年](https://m.163.com/news/article/KE87Q6IH0514R9P4.html)
+[律师取钱被要求说明用途 不接受道歉：错在银行管理层](https://m.163.com/news/article/KE8R4B2705561G0D.html)
+
+[跨境赌诈头目的集团建200个赌博平台 涉案金额超27亿](https://m.163.com/news/article/KE917L72051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[深圳金融监管局点名553家公司:名称不能含"金控"字样](https://m.163.com/news/article/KE89NBOQ05199NPP.html)
+[起拍价降至8000万 拍过多个电视剧的上海老洋房将四拍](https://m.163.com/news/article/KE917L52051492T3.html)
 
 ---end---
