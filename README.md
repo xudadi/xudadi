@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-14 19:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-14 20:41:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国企形象保安招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2688090)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市消防救援总队机关及直属单位2025年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2688793)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子持刀与警方对峙被路虎一脚油撞飞 品牌方发声](https://m.163.com/news/article/KE9C4O3L053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网红博主称从柬飞北京丢失350万元手镯手表 警方介入](https://m.163.com/news/article/KE9C4NP4053469LG.html)
+[中国网球选手李文夫、张瑾、陆鹏宇遭禁赛罚款处罚](https://m.163.com/news/article/KEBJA0F60514R9KQ.html)
 
-[青海大量联通用户手机突然断网、无信号 客服回应](https://m.163.com/news/article/KE9AL2RB053469LG.html)
+[范波跨省履新苏州市委书记 曾在国家发改委任职](https://m.163.com/news/article/KEBMB809055040N3.html)
+
+[MEGA电车在行驶中突然起火 理想问责14人](https://m.163.com/news/article/KEBG5F7205199NPP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小天才手表灰色产业链被扒：点赞50万账号卖500元](https://m.163.com/news/article/KE6UMQM40530U7LS.html)
+[陈冬、陈中瑞、王杰全部顺利出舱](https://m.163.com/news/article/KEBFADDU000189PS.html)
 
 ---end---
