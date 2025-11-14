@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-15 02:29:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-15 02:51:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市消防救援总队机关及直属单位2025年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2688793)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国网球选手李文夫、张瑾、陆鹏宇遭禁赛罚款处罚](https://m.163.com/news/article/KEBJA0F60514R9KQ.html)
+[视频称婚宴后百瓶茅台酒服务员仅归还三空瓶 酒店报警](https://m.163.com/news/article/KE9EGLLO05345ARG.html)
 
-[范波跨省履新苏州市委书记 曾在国家发改委任职](https://m.163.com/news/article/KEBMB809055040N3.html)
+[贵州盘州花亿元建"世界最大人造月亮"项目 已停运5年](https://m.163.com/news/article/KEBVV7RG051492T3.html)
 
-[MEGA电车在行驶中突然起火 理想问责14人](https://m.163.com/news/article/KEBG5F7205199NPP.html)
+[家长称孩子遭班主任"踢打吐口水"患心理疾病 校方回应](https://m.163.com/news/article/KEBV7CE3051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[陈冬、陈中瑞、王杰全部顺利出舱](https://m.163.com/news/article/KEBFADDU000189PS.html)
+[怀疑19.9元"原切牛肉卷"是合成肉消费者送检 多方回应](https://m.163.com/news/article/KEBKIBOB0514D3UH.html)
 
 ---end---
