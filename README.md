@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-14 09:40:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-14 11:04:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学《JournalofEnergyInfrastructure》期刊劳务派遣编辑招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2687494)
 
