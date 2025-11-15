@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-15 13:51:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-15 14:28:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市消防救援总队机关及直属单位2025年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2688793)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆工贸职业技术学院2025年非事业编制全职人员招聘公告(第三批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2689273)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[视频称婚宴后百瓶茅台酒服务员仅归还三空瓶 酒店报警](https://m.163.com/news/article/KE9EGLLO05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贵州盘州花亿元建"世界最大人造月亮"项目 已停运5年](https://m.163.com/news/article/KEBVV7RG051492T3.html)
+[北京市公安局副局长董亦军突发疾病去世](https://m.163.com/news/article/KEDA6OM90514R9P4.html)
 
-[家长称孩子遭班主任"踢打吐口水"患心理疾病 校方回应](https://m.163.com/news/article/KEBV7CE3051492T3.html)
+[男子徒步齐云山后失联 最新消息:遗体已找到 年仅32岁](https://m.163.com/news/article/KEC5F8FD051492LM.html)
+
+[广东一县环卫所招聘博士监管垃圾转运站 当地回应](https://m.163.com/news/article/KEBUFB970550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[怀疑19.9元"原切牛肉卷"是合成肉消费者送检 多方回应](https://m.163.com/news/article/KEBKIBOB0514D3UH.html)
+[女子认养动物园的东北虎2年 续费才知虎已死亡2个多月](https://m.163.com/news/article/KEDJ1PA00514D3UH.html)
 
 ---end---
