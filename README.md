@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-17 14:31:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-17 14:56:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[川外九龙附小2025年合同制教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2689513)
+[重庆飞驶特人力资源管理有限公司大足分公司派往南书局门店专职店员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2690392)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
