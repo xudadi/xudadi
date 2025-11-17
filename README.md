@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-18 02:29:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-18 02:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市大足区国衡商贸有限责任公司派往大足区某机关事业单位行政执法辅助工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2691086)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市南川区教育事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2691536)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[吉林白城回应"使用地砖铺贴河床"：系必要的工程措施](https://m.163.com/news/article/KEJG7K66053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[父亲辞职 带着多动症儿子从湖南徒步1000公里到达山东](https://m.163.com/news/article/KEJ43FBG0534P59R.html)
+[联想控股CEO调整 李蓬辞职"技术专家"于浩接任](https://m.163.com/news/article/KEJEV26G0512B07B.html)
 
-[副部级"老虎"被判无期 被留置前一晚仍在会所大吃大喝](https://m.163.com/news/article/KEJAM83O053469LG.html)
+[60岁男子见义勇为时被捅5刀 家属因高昂医疗费用求助](https://m.163.com/news/article/KEJKBNBS053469LG.html)
+
+[40多万宝马跑1年多四条轮胎均现龟裂 4S店拒免费更换](https://m.163.com/news/article/KEJ8G50B05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[开发商伪造公证书变卖房主34套房 当地房管局回应](https://m.163.com/news/article/KEJEDJ2A0512D3VJ.html)
+[赤峰通报"免费采捡白菜"事件：多人被处理 补偿已到位](https://m.163.com/news/article/KEJIU3VG0001899O.html)
 
 ---end---
