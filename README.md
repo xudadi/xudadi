@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-17 20:42:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-17 21:21:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司派往南书局门店专职店员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2690392)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市大足区国衡商贸有限责任公司派往大足区某机关事业单位行政执法辅助工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2691086)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张伟丽升级别不敌舍甫琴科 赛前说：不是成功就是成长](https://m.163.com/news/article/KEG7GKOK0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[高洪波履新1月后跑马拉松 半马跑了1小时48分](https://m.163.com/news/article/KEG72IQV053469LG.html)
+[吉林白城回应"使用地砖铺贴河床"：系必要的工程措施](https://m.163.com/news/article/KEJG7K66053469LG.html)
 
-[内蒙古包头举办“躺平大赛” 54人已躺超24小时](https://m.163.com/news/article/KEG72ILT053469LG.html)
+[父亲辞职 带着多动症儿子从湖南徒步1000公里到达山东](https://m.163.com/news/article/KEJ43FBG0534P59R.html)
+
+[副部级"老虎"被判无期 被留置前一晚仍在会所大吃大喝](https://m.163.com/news/article/KEJAM83O053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[福建选手回应与"四川甜妹"恋情：全运会开始前表白了](https://m.163.com/news/article/KEG67HKE051492T3.html)
+[开发商伪造公证书变卖房主34套房 当地房管局回应](https://m.163.com/news/article/KEJEDJ2A0512D3VJ.html)
 
 ---end---
