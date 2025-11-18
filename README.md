@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-19 02:30:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-19 02:56:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [两江新区多岗位招聘,月薪最高1.8万元! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2693300)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[日本演员矢野浩二发文：永远支持一个中国](https://m.163.com/news/article/KELRG8F90514R9OJ.html)
+[危桥被拆后村民为百名学生众筹搭便桥 政府一直没回话](https://m.163.com/news/article/KEMA5IOE053469LG.html)
 
-[于东来卸任总经理 胖东来多位高管变更](https://m.163.com/news/article/KELSF5D20519DFFO.html)
+[胖东来高层大调整：于东来卸任总经理 多名董事退出](https://m.163.com/news/article/KEMA0DIV0530JPVV.html)
 
-[国产大飞机C919实现中东首秀 空客、波音发声](https://m.163.com/news/article/KELQ7V1G0001899O.html)
+[受贿超1亿李石松被判十五年 曾被通报对统计造假失察](https://m.163.com/news/article/KELU1VUM051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[全国首家烧烤学院正式开班 26名学员都是烧烤店老板](https://m.163.com/news/article/KELNC0EA051492T3.html)
+[普京：中国公民赴俄免签政策将于近期生效](https://m.163.com/news/article/KEM9CCP30001899O.html)
 
 ---end---
