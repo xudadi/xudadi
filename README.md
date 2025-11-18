@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-18 20:42:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-18 21:21:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往大足区某机关事业单位工作人员的招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2692384)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江新区多岗位招聘,月薪最高1.8万元! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2693300)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[联想控股CEO调整 李蓬辞职"技术专家"于浩接任](https://m.163.com/news/article/KEJEV26G0512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[60岁男子见义勇为时被捅5刀 家属因高昂医疗费用求助](https://m.163.com/news/article/KEJKBNBS053469LG.html)
+[日本演员矢野浩二发文：永远支持一个中国](https://m.163.com/news/article/KELRG8F90514R9OJ.html)
 
-[40多万宝马跑1年多四条轮胎均现龟裂 4S店拒免费更换](https://m.163.com/news/article/KEJ8G50B05561G0D.html)
+[于东来卸任总经理 胖东来多位高管变更](https://m.163.com/news/article/KELSF5D20519DFFO.html)
+
+[国产大飞机C919实现中东首秀 空客、波音发声](https://m.163.com/news/article/KELQ7V1G0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[赤峰通报"免费采捡白菜"事件：多人被处理 补偿已到位](https://m.163.com/news/article/KEJIU3VG0001899O.html)
+[全国首家烧烤学院正式开班 26名学员都是烧烤店老板](https://m.163.com/news/article/KELNC0EA051492T3.html)
 
 ---end---
