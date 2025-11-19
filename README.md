@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-20 01:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-20 02:30:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆中医药学院2025年公开招聘学科带头人及学科骨干简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2694537)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贾跃亭称成立第二个还债信托：想尽快还债回国](https://m.163.com/news/article/KEOK3GQ8051492T3.html)
+[女友被车撞伤死亡男友自行离开 家属索赔31万法院判了](https://m.163.com/news/article/KEOPJEJ6051492T3.html)
 
-[应届生入职教育机构6个月成"诈骗犯"：转正业绩为10万](https://m.163.com/news/article/KEO70AIF0512BN99.html)
+[打满五场 山东队获得全运会乒乓球女团金牌](https://m.163.com/news/article/KEOPAO6M000189PS.html)
 
-[外交部第五次敦促日方收回错误言论:一切后果日方自担](https://m.163.com/news/article/KEOBLMI70514CDBK.html)
+[日本炒作"击沉福建舰" 军事专家反问：哪里来的底气](https://m.163.com/news/article/KEOL6AHJ05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[组委会回应"选手夺冠争议"：她是太太组冠军 颁错证书](https://m.163.com/news/article/KEO7GV1N053469LG.html)
+[超50万人取消赴日机票 俄罗斯、泰国积极争抢中国客源](https://m.163.com/news/article/KEOL9U7F05199NPP.html)
 
 ---end---
