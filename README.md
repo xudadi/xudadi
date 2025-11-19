@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-19 19:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-19 20:42:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学土木工程学院智能建造团队劳务派遣科研助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2693953)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆中医药学院2025年公开招聘学科带头人及学科骨干简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2694537)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女生借款13万被恶意垒高至1260万 抵押950万房产还债](https://m.163.com/news/article/KEMBUQKN051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[俞敏洪乘坐的邮轮被指入住价最高约148万元 要等2年](https://m.163.com/news/article/KENIVO010534A4SC.html)
+[贾跃亭称成立第二个还债信托：想尽快还债回国](https://m.163.com/news/article/KEOK3GQ8051492T3.html)
 
-[女子参加模特大赛夺"广东冠军" 因突破大众审美引争议](https://m.163.com/news/article/KENK1D6P053469LG.html)
+[应届生入职教育机构6个月成"诈骗犯"：转正业绩为10万](https://m.163.com/news/article/KEO70AIF0512BN99.html)
+
+[外交部第五次敦促日方收回错误言论:一切后果日方自担](https://m.163.com/news/article/KEOBLMI70514CDBK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["台独"分子沈伯洋被指怕了：怕消失 所以把大家拉下水](https://m.163.com/news/article/KENC1MEJ055080L4.html)
+[组委会回应"选手夺冠争议"：她是太太组冠军 颁错证书](https://m.163.com/news/article/KEO7GV1N053469LG.html)
 
 ---end---
