@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-19 14:30:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-19 14:55:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆文化艺术职业学院2025年财务与资产管理处(审计处)合同制人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2692829)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学土木工程学院智能建造团队劳务派遣科研助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2693953)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[危桥被拆后村民为百名学生众筹搭便桥 政府一直没回话](https://m.163.com/news/article/KEMA5IOE053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[胖东来高层大调整：于东来卸任总经理 多名董事退出](https://m.163.com/news/article/KEMA0DIV0530JPVV.html)
+[女生借款13万被恶意垒高至1260万 抵押950万房产还债](https://m.163.com/news/article/KEMBUQKN051492T3.html)
 
-[受贿超1亿李石松被判十五年 曾被通报对统计造假失察](https://m.163.com/news/article/KELU1VUM051492T3.html)
+[俞敏洪乘坐的邮轮被指入住价最高约148万元 要等2年](https://m.163.com/news/article/KENIVO010534A4SC.html)
+
+[女子参加模特大赛夺"广东冠军" 因突破大众审美引争议](https://m.163.com/news/article/KENK1D6P053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[普京：中国公民赴俄免签政策将于近期生效](https://m.163.com/news/article/KEM9CCP30001899O.html)
+["台独"分子沈伯洋被指怕了：怕消失 所以把大家拉下水](https://m.163.com/news/article/KENC1MEJ055080L4.html)
 
 ---end---
