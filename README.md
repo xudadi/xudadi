@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-19 07:50:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-19 09:39:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区多岗位招聘,月薪最高1.8万元! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2693300)
+[重庆文化艺术职业学院2025年财务与资产管理处(审计处)合同制人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2692829)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
