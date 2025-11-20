@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-21 02:30:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-21 02:56:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [外派至中铁建重庆投资集团有限公司有限公司主厨招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2695974)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子登山包和滑雪服挂吊牌被质疑恶意退货 当事人发声](https://m.163.com/news/article/KEQCRQ42053469LG.html)
+[11名驴友相约爬"野山"1人坠亡 官方追偿7.4万救援费用](https://m.163.com/news/article/KEREPMDP0512B07B.html)
 
-["最美光二代"高海纯即将大婚 新郎是霸王茶姬创始人](https://m.163.com/news/article/KEQOJTG20514R9P4.html)
+[摄影师拍的照片被视觉中国告侵权还收到威胁 法院判了](https://m.163.com/news/article/KER3A53U05345ARG.html)
 
-[郑丽文上任后首次拜会韩国瑜 称"希望未来并肩作战"](https://m.163.com/news/article/KER17L7R055080L4.html)
+[浙江省委副书记王成兼任宁波市委书记 系中央候补委员](https://m.163.com/news/article/KER6CHVJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[民航局发函 拟加强残疾人航空运输保障能力](https://m.163.com/news/article/KEQJ0EQ40514R9P4.html)
+[马龙王楚钦领衔 北京队获得全运会乒乓球男团金牌](https://m.163.com/news/article/KER90TEI000189PS.html)
 
 ---end---
