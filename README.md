@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-20 20:41:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-20 21:20:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[歌乐山社区卫生服务中心广纳人才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2695463)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至中铁建重庆投资集团有限公司有限公司主厨招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2695974)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女友被车撞伤死亡男友自行离开 家属索赔31万法院判了](https://m.163.com/news/article/KEOPJEJ6051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[打满五场 山东队获得全运会乒乓球女团金牌](https://m.163.com/news/article/KEOPAO6M000189PS.html)
+[女子登山包和滑雪服挂吊牌被质疑恶意退货 当事人发声](https://m.163.com/news/article/KEQCRQ42053469LG.html)
 
-[日本炒作"击沉福建舰" 军事专家反问：哪里来的底气](https://m.163.com/news/article/KEOL6AHJ05129QAF.html)
+["最美光二代"高海纯即将大婚 新郎是霸王茶姬创始人](https://m.163.com/news/article/KEQOJTG20514R9P4.html)
+
+[郑丽文上任后首次拜会韩国瑜 称"希望未来并肩作战"](https://m.163.com/news/article/KER17L7R055080L4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[超50万人取消赴日机票 俄罗斯、泰国积极争抢中国客源](https://m.163.com/news/article/KEOL9U7F05199NPP.html)
+[民航局发函 拟加强残疾人航空运输保障能力](https://m.163.com/news/article/KEQJ0EQ40514R9P4.html)
 
 ---end---
