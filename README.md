@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-20 14:30:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-20 14:56:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市轨道交通设计研究院有限责任公司2025年校园招聘工作方案 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2694900)
+[歌乐山社区卫生服务中心广纳人才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2695463)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
