@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-22 01:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-22 02:26:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市区县事业单位2025年第四季度考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697901)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市事业单位2025年第四季度公开招聘工作人员公告汇总 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697905)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[实习生抽中显卡被要求上交 律师：奖品不属于公司财产](https://m.163.com/news/article/KETLOJS6051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[两名高中生奸杀教师被判处无期徒刑 法院通报复查情况](https://m.163.com/news/article/KETNF7H40001899O.html)
+[恒大汽车两大子公司被广州国资接手 注册资本合计75亿](https://m.163.com/news/article/KETUGGKS0512B07B.html)
 
-[王永庆当选中国工程院院士 系歼-35A战机研制首席专家](https://m.163.com/news/article/KETCG8ES0514R9P4.html)
+[业主质疑外墙天然气管道安装像梯子 结果两业主家被盗](https://m.163.com/news/article/KETVC6C705561G0D.html)
+
+[公司被举报以合作养牛名义非法转让国有土地 当地回应](https://m.163.com/news/article/KETKGMHL053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19岁店主帮熟客兑5万现金反成被告 胜诉后重金搞演出](https://m.163.com/news/article/KETHIODH051492T3.html)
+[实习生抽中显卡被要求上交 律师：奖品不属于公司财产](https://m.163.com/news/article/KETLOJS6051492T3.html)
 
 ---end---
