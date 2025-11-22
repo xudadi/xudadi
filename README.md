@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-22 19:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-22 20:36:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市事业单位2025年第四季度公开招聘工作人员公告汇总 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697905)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[恒大汽车两大子公司被广州国资接手 注册资本合计75亿](https://m.163.com/news/article/KETUGGKS0512B07B.html)
+[鸭绒价格两个月上涨约两成 产业链上市公司跟随获益](https://m.163.com/news/article/KF03D4S105198CJN.html)
 
-[业主质疑外墙天然气管道安装像梯子 结果两业主家被盗](https://m.163.com/news/article/KETVC6C705561G0D.html)
+[上海机场原总经理黄铮霖被查 上个月刚因个人原因辞职](https://m.163.com/news/article/KF08P4230512B07B.html)
 
-[公司被举报以合作养牛名义非法转让国有土地 当地回应](https://m.163.com/news/article/KETKGMHL053469LG.html)
+[《哪吒2》未入选奥斯卡最佳动画长片大名单 片方回应](https://m.163.com/news/article/KF08P40T0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[实习生抽中显卡被要求上交 律师：奖品不属于公司财产](https://m.163.com/news/article/KETLOJS6051492T3.html)
+[男子在宝马4S店购买延期质保 原址改名变新店后不认了](https://m.163.com/news/article/KF07VBBR05561G0D.html)
 
 ---end---
