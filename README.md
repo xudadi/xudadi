@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-23 19:50:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-23 20:36:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市事业单位2025年第四季度公开招聘工作人员公告汇总 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697905)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["张家口13伤车祸"遇难者:为给4个孩子做饭搭同事顺车](https://m.163.com/news/article/KF0GG7PM05561G0D.html)
+[6岁男童被广场扶梯夹伤致脚趾截肢 家属索赔40万](https://m.163.com/news/article/KF2Q6D98051492T3.html)
 
-[贾乃亮站上风口浪尖 背后手握70位明星的公司亏了34亿](https://m.163.com/news/article/KETQBVBF0514BE2Q.html)
+[山东一火锅店误加燃料致11人入院 官方通报](https://m.163.com/news/article/KF2LFGV20534A4SC.html)
 
-[虎跳峡"发疯石"禁入村民收百元一人"带路费" 当地回应](https://m.163.com/news/article/KF03D48N053469M5.html)
+[眉山"偷甘蔗"太火爆 老板累到让顾客宣传"这里不好玩"](https://m.163.com/news/article/KF2FK6DE05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[视觉中国就摄影师起诉侵权一案发布声明：下架并致歉](https://m.163.com/news/article/KF0AT409051492T3.html)
+[舞蹈家黄豆豆获破格提拔 已任副局级领导干部](https://m.163.com/news/article/KF2BSQK305561G0D.html)
 
 ---end---
