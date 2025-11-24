@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-25 01:52:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-25 02:31:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市璧山区人力资源和社会保障局公开招聘非在编人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2700329)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子被拐打黑工11年追回38万工资：最忙一天只睡4小时](https://m.163.com/news/article/KF58HC2Q05561G0D.html)
+[眉山"偷甘蔗农场"爆火开收入场费 周末结束游客减三成](https://m.163.com/news/article/KF5NL8J5051492T3.html)
 
-[男子乱停车占用他人车位 带人殴打保安并破坏监控设备](https://m.163.com/news/article/KF5EE5H805561G0D.html)
+[网友质疑水渠上水泥"一下就掰开" 当地:满足设计要求](https://m.163.com/news/article/KF5DB69U05561G0D.html)
 
-[荒野求生"老中医"鞋垫中偷藏线：鞋垫粉丝送的 不知情](https://m.163.com/news/article/KF55NP4B053469LG.html)
+[一群游客掏相机"围堵"彝族老人 不先沟通不顾对方感受](https://m.163.com/news/article/KF5GF92M0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[曾偷税749万被罚1330万的炫富网红“柏公子”复出](https://m.163.com/news/article/KF5C468U053469LG.html)
+[男子被拐打黑工11年追回38万工资：最忙一天只睡4小时](https://m.163.com/news/article/KF58HC2Q05561G0D.html)
 
 ---end---
