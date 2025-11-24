@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-24 14:32:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-24 14:56:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市事业单位2025年第四季度公开招聘工作人员公告汇总 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697905)
+[沙区保安公司派往重庆市公安局沙坪坝区分局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2699010)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
