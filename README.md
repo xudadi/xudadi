@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-24 07:50:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-24 09:46:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市事业单位2025年第四季度公开招聘工作人员公告汇总 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2697905)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[6岁男童被广场扶梯夹伤致脚趾截肢 家属索赔40万](https://m.163.com/news/article/KF2Q6D98051492T3.html)
+[上海被指试点"老头乐"C7驾照 多方否认](https://m.163.com/news/article/KF2MOQD50550B6IS.html)
 
-[山东一火锅店误加燃料致11人入院 官方通报](https://m.163.com/news/article/KF2LFGV20534A4SC.html)
+[万岁山武侠城营收破10.68亿 距全年"对赌"目标差一步](https://m.163.com/news/article/KF2TNRAF053469LG.html)
 
-[眉山"偷甘蔗"太火爆 老板累到让顾客宣传"这里不好玩"](https://m.163.com/news/article/KF2FK6DE05561G0D.html)
+[男子小鹏4S店试车被导购指责损坏玻璃门:你的脚夹到门](https://m.163.com/news/article/KF2IKV7205561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[舞蹈家黄豆豆获破格提拔 已任副局级领导干部](https://m.163.com/news/article/KF2BSQK305561G0D.html)
+[6岁男童被广场扶梯夹伤致脚趾截肢 家属索赔40万](https://m.163.com/news/article/KF2Q6D98051492T3.html)
 
 ---end---
