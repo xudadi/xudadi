@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-26 01:54:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-26 02:31:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往重庆市涪陵区国土规划测绘站招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2701009)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[大爷花2万多网购"高配卡宴" 到手变老头乐"保时捷鹿"](https://m.163.com/news/article/KF7FI28S053469LG.html)
+[街头现神秘车辆车身积灰 车主被指离奇失踪真相来了](https://m.163.com/news/article/KF7T3AOP0514R9OJ.html)
 
-[学术骗子被指仅有高中学历 手下博士生退学：他很邋遢](https://m.163.com/news/article/KF6TS1BO0512D3VJ.html)
+[男子41天荒野求生挺进决赛 几天休整期胖了十几斤](https://m.163.com/news/article/KF7R3IVL053469LG.html)
 
-[男子犯病救命药滞留酒店前台5个小时后死亡 酒店回应](https://m.163.com/news/article/KF5UREI90514D3UH.html)
+[21岁员工宿舍猝死未获工伤认定 监控显示其凌晨搬宿舍](https://m.163.com/news/article/KF8C2C1C051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[两壮汉上门60元开锁变500元换锁 业主拒付私款遭踹门](https://m.163.com/news/article/KF73F9TH0514D3UH.html)
+[河南8岁失联女孩遇难 走失前被奶奶用绳子绑电动车上](https://m.163.com/news/article/KF84EJSU0534P59R.html)
 
 ---end---
