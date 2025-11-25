@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-25 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-25 20:43:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往重庆市涪陵区国土规划测绘站招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2701009)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[眉山"偷甘蔗农场"爆火开收入场费 周末结束游客减三成](https://m.163.com/news/article/KF5NL8J5051492T3.html)
+[大爷花2万多网购"高配卡宴" 到手变老头乐"保时捷鹿"](https://m.163.com/news/article/KF7FI28S053469LG.html)
 
-[网友质疑水渠上水泥"一下就掰开" 当地:满足设计要求](https://m.163.com/news/article/KF5DB69U05561G0D.html)
+[学术骗子被指仅有高中学历 手下博士生退学：他很邋遢](https://m.163.com/news/article/KF6TS1BO0512D3VJ.html)
 
-[一群游客掏相机"围堵"彝族老人 不先沟通不顾对方感受](https://m.163.com/news/article/KF5GF92M0550A0OW.html)
+[男子犯病救命药滞留酒店前台5个小时后死亡 酒店回应](https://m.163.com/news/article/KF5UREI90514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子被拐打黑工11年追回38万工资：最忙一天只睡4小时](https://m.163.com/news/article/KF58HC2Q05561G0D.html)
+[两壮汉上门60元开锁变500元换锁 业主拒付私款遭踹门](https://m.163.com/news/article/KF73F9TH0514D3UH.html)
 
 ---end---
