@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-26 14:32:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-26 14:57:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学能源与动力工程学院工程热物理研究所劳务派遣财务助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2702085)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往某国有企业机械设计制图岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2702555)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[演员仝卓表弟柬埔寨失联 大使馆回应](https://m.163.com/news/article/KF9DRSO00001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[清华保研生撰文缅怀亡父获百万赞 遭网暴造谣"不孝子"](https://m.163.com/news/article/KF88G9PI053469LG.html)
+[国台办回应“一国两制”在台湾的具体实现形式](https://m.163.com/news/article/KF9V0T440514BQ68.html)
 
-[街头现神秘车辆车身积灰 车主被指离奇失踪真相来了](https://m.163.com/news/article/KF7T3AOP0514R9OJ.html)
+[知名餐饮公司创办人去世儿子接班 餐厅数量超210间](https://m.163.com/news/article/KF9SQ63D0512B07B.html)
+
+[辽宁一局长在渔船倾覆后见死不救被查 媒体披露](https://m.163.com/news/article/KF9U9AQD0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子41天荒野求生挺进决赛 几天休整期胖了十几斤](https://m.163.com/news/article/KF7R3IVL053469LG.html)
+[全军统一制发《中国人民解放军预备役人员证》](https://m.163.com/news/article/KF9N044C05346RC6.html)
 
 ---end---
