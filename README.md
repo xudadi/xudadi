@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-27 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-27 09:38:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人工智能学院2025年非事业编工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2703087)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑丽文忧虑台湾或等不到2028年"和平选举" 国台办回应](https://m.163.com/news/article/KFA5DPF605504DPG.html)
+[香港中联办：协调必要援助 全力支持香港处置火灾事故](https://m.163.com/news/article/KFC1DF3Q0514DG98.html)
 
-[台当局官员发表近年来"拒统"最强烈言论 国台办驳斥](https://m.163.com/news/article/KF9NEC6D0514R9OJ.html)
+[香港火灾发生后 有高层住户连夜下单防火面罩、灭火器](https://m.163.com/news/article/KFC0G4P30534P59R.html)
 
-[行长挪用278名储户超2亿 一储户诉银行索回3755万败诉](https://m.163.com/news/article/KFAJB2T905561G0D.html)
+[美国将部分对华关税豁免期延长至2026年11月10日](https://m.163.com/news/article/KFBUVBHD0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[反诈老陈首度公开辞职后收入:3年收入约百万 但没攒下](https://m.163.com/news/article/KFAUP9NV0001899O.html)
+[香港火灾已致超40人遇难 3名工程负责人涉"误杀"被捕](https://m.163.com/news/article/KFBRVBAP0534A4SC.html)
 
 ---end---
