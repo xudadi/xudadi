@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-27 14:32:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-27 14:58:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆人工智能学院2025年非事业编工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2703087)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江川外附中2025年教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2704125)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港中联办：协调必要援助 全力支持香港处置火灾事故](https://m.163.com/news/article/KFC1DF3Q0514DG98.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港火灾发生后 有高层住户连夜下单防火面罩、灭火器](https://m.163.com/news/article/KFC0G4P30534P59R.html)
+[起火高楼所在小区房屋被指窗户"特别小" 不好伸出脑袋](https://m.163.com/news/article/KFCF3AHU0512D3VJ.html)
 
-[美国将部分对华关税豁免期延长至2026年11月10日](https://m.163.com/news/article/KFBUVBHD0534A4SC.html)
+[专业人士：竹棚经过防火处理 并非导致火灾的根本原因](https://m.163.com/news/article/KFCF3C7C0514R9P4.html)
+
+[娃哈哈发生工商变更 宗馥莉卸任公司董事长](https://m.163.com/news/article/KFCGO0VH0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[香港火灾已致超40人遇难 3名工程负责人涉"误杀"被捕](https://m.163.com/news/article/KFBRVBAP0534A4SC.html)
+[湖南一对恋人结婚前一天先后坠楼身亡 官方通报](https://m.163.com/news/article/KFCFQBT20534A4SC.html)
 
 ---end---
