@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-28 02:28:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-28 02:49:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江川外附中2025年教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2704125)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2704806)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[起火高楼所在小区房屋被指窗户"特别小" 不好伸出脑袋](https://m.163.com/news/article/KFCF3AHU0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[专业人士：竹棚经过防火处理 并非导致火灾的根本原因](https://m.163.com/news/article/KFCF3C7C0514R9P4.html)
+[湖北67岁光芯片测试专家被河北抓捕 羁押1年多未开庭](https://m.163.com/news/article/KFCL526B051492T3.html)
 
-[娃哈哈发生工商变更 宗馥莉卸任公司董事长](https://m.163.com/news/article/KFCGO0VH0001899O.html)
+[卫生服务站长期骗保 套现后可现场换购米面粮油](https://m.163.com/news/article/KFDEJPHV055040N3.html)
+
+[男子欲出售闲置房屋 挂牌时意外发现房屋已被查封5年](https://m.163.com/news/article/KFDAI5H905345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南一对恋人结婚前一天先后坠楼身亡 官方通报](https://m.163.com/news/article/KFCFQBT20534A4SC.html)
+[2.99元"偷甘蔗"爆火 记者提浪费问题被指"问敏感问题"](https://m.163.com/news/article/KFD331F2053469LG.html)
 
 ---end---
