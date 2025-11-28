@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-28 14:32:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-28 14:57:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2704806)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司外派海航航空食品（重庆）公司工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2705162)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[列车售货员因多收旅客1块钱和2只烧鸡被停职 官方通报](https://m.163.com/news/article/KFDGUM1H0512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港大火警方发现2点不寻常 有人崩溃:我全家都在里面](https://m.163.com/news/article/KFCN5CUA055040N3.html)
+[建行原高管获刑："逃逸式"离职 在房企领高额"安家费"](https://m.163.com/news/article/KFF4AVPC05129QAF.html)
 
-[湖北67岁光芯片测试专家被河北抓捕 羁押1年多未开庭](https://m.163.com/news/article/KFCL526B051492T3.html)
+[香港廉署拘捕2人 就宏福苑维修工程可能涉贪展开调查](https://m.163.com/news/article/KFF5I2HS0001899O.html)
+
+[中央港澳办协调广东省为香港救灾工作提供协助和支援](https://m.163.com/news/article/KFEVMJ000534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[卫生服务站长期骗保 套现后可现场换购米面粮油](https://m.163.com/news/article/KFDEJPHV055040N3.html)
+[荒野求生赛爆火 3年前才开业的景区被100个"野人"救了](https://m.163.com/news/article/KFERR9AP0514BE2Q.html)
 
 ---end---
