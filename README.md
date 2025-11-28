@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-28 20:41:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-28 21:20:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派海航航空食品（重庆）公司工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2705162)
+[【校招】重庆市地质矿产勘查开发集团有限公司关于2026届毕业生招聘的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2706451)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
