@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-29 14:29:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-29 14:51:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[【校招】重庆市地质矿产勘查开发集团有限公司关于2026届毕业生招聘的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2706451)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆高速公路集团有限公司校园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2706762)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[数千架空客A320飞机需紧急更换软件 多家航司已停飞](https://m.163.com/news/article/KFGVCF260534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[日本目的地全删除 爱达邮轮更改明年第一季度航线计划](https://m.163.com/news/article/KFH4LH1I0534P59R.html)
+[官方部署开展高层建筑重大火灾风险隐患排查整治行动](https://m.163.com/news/article/KFHOHQMO0001899O.html)
 
-[福建75亿元项目被指偷工减料 多名监理人员曾接受宴请](https://m.163.com/news/article/KFG6GMKL0512B07B.html)
+[特斯拉前高管透露：特斯拉曾拆解中国厂商的电动汽车](https://m.163.com/news/article/KFHJ3I84051492T3.html)
+
+[业内人士谈香港火灾：装修过程中用发泡胶"错得离谱"](https://m.163.com/news/article/KFG6U3TO053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[香港女子回忆大火现场被救过程:消防员真的用命救我们](https://m.163.com/news/article/KFFBSL2G0512B07B.html)
+[银行取款不再"一刀切"式询问 取款超5万不再需要登记](https://m.163.com/news/article/KFHIAP6O05198CJN.html)
 
 ---end---
