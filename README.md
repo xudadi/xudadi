@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-29 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-29 09:37:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [【校招】重庆市地质矿产勘查开发集团有限公司关于2026届毕业生招聘的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2706451)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[建行原高管获刑："逃逸式"离职 在房企领高额"安家费"](https://m.163.com/news/article/KFF4AVPC05129QAF.html)
+[数千架空客A320飞机需紧急更换软件 多家航司已停飞](https://m.163.com/news/article/KFGVCF260534A4SC.html)
 
-[香港廉署拘捕2人 就宏福苑维修工程可能涉贪展开调查](https://m.163.com/news/article/KFF5I2HS0001899O.html)
+[日本目的地全删除 爱达邮轮更改明年第一季度航线计划](https://m.163.com/news/article/KFH4LH1I0534P59R.html)
 
-[中央港澳办协调广东省为香港救灾工作提供协助和支援](https://m.163.com/news/article/KFEVMJ000534A4SC.html)
+[福建75亿元项目被指偷工减料 多名监理人员曾接受宴请](https://m.163.com/news/article/KFG6GMKL0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[荒野求生赛爆火 3年前才开业的景区被100个"野人"救了](https://m.163.com/news/article/KFERR9AP0514BE2Q.html)
+[香港女子回忆大火现场被救过程:消防员真的用命救我们](https://m.163.com/news/article/KFFBSL2G0512B07B.html)
 
 ---end---
