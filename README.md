@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-11-30 19:50:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-11-30 20:38:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市望江中学校近期招聘教师启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2706987)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
+[淀粉做的假奶粉销往全国 12名嫌疑人被抓](https://m.163.com/news/article/KFK2HE32051492LM.html)
+
 ["首席科学家"郭伟被查 中介透露其曾花250万买下别墅](https://m.163.com/news/article/KFK704TL0534A4SC.html)
 
 [市政工程违法分包 156名农民工的工资遭拖欠八年未结](https://m.163.com/news/article/KFK3TO6C0514R9P4.html)
 
-[香港消防处为殉职消防员何伟豪募捐 其原定12月结婚](https://m.163.com/news/article/KFK4SGMA053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[副部级陈伟俊周末被查 曾是浙江最年轻副省长](https://m.163.com/news/article/KFK2388N0534A4SC.html)
+[香港消防处为殉职消防员何伟豪募捐 其原定12月结婚](https://m.163.com/news/article/KFK4SGMA053469LG.html)
 
 ---end---
