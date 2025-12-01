@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-02 02:34:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-02 03:01:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国网重庆市电力公司2026年高校毕业生招聘考试(第一批)安排公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2708891)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港大埔宏福苑有居民家当全没了 不少人只剩一部手机](https://m.163.com/news/article/KFNFKJHB0514BE2Q.html)
+[王励勤任体育总局乒羽中心副主任](https://m.163.com/news/article/KFNOLLND0001899O.html)
 
-[市民房子没住人供暖报停2年失败 能报停了要交2960元](https://m.163.com/news/article/KFNCKL0B05561G0D.html)
+[中国男篮76比90惨败韩国男篮 短短4天之内输了两次](https://m.163.com/news/article/KFNKFH9G0514BE2Q.html)
 
-[女子花百万买新房 开门验房发现住着陌生人"水电全通"](https://m.163.com/news/article/KFN9NOSP05345ARG.html)
+[定居香港的杭州人亲历大火:70岁儿媳敲邻居门喊"快走"](https://m.163.com/news/article/KFNJT48B051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贵州网红在非洲遭绑架打断腿：全身水肿 双腿呈斜状态](https://m.163.com/news/article/KFN8GQT7053469M5.html)
+[大连一药房外主供热管道爆裂 有人员烫伤被抬上救护车](https://m.163.com/news/article/KFNMCLI7053469LG.html)
 
 ---end---
