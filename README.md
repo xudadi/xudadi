@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-01 20:44:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-01 21:25:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆市某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2707916)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国网重庆市电力公司2026年高校毕业生招聘考试(第一批)安排公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2708891)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[淀粉做的假奶粉销往全国 12名嫌疑人被抓](https://m.163.com/news/article/KFK2HE32051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["首席科学家"郭伟被查 中介透露其曾花250万买下别墅](https://m.163.com/news/article/KFK704TL0534A4SC.html)
+[香港大埔宏福苑有居民家当全没了 不少人只剩一部手机](https://m.163.com/news/article/KFNFKJHB0514BE2Q.html)
 
-[市政工程违法分包 156名农民工的工资遭拖欠八年未结](https://m.163.com/news/article/KFK3TO6C0514R9P4.html)
+[市民房子没住人供暖报停2年失败 能报停了要交2960元](https://m.163.com/news/article/KFNCKL0B05561G0D.html)
+
+[女子花百万买新房 开门验房发现住着陌生人"水电全通"](https://m.163.com/news/article/KFN9NOSP05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[香港消防处为殉职消防员何伟豪募捐 其原定12月结婚](https://m.163.com/news/article/KFK4SGMA053469LG.html)
+[贵州网红在非洲遭绑架打断腿：全身水肿 双腿呈斜状态](https://m.163.com/news/article/KFN8GQT7053469M5.html)
 
 ---end---
