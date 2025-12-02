@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-02 19:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-02 20:45:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆高新技术产业研究院有限责任公司关于公开选拔(聘)二级机构负责人的简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2709605)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往重庆市南岸区弹子石小学校招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2710357)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王励勤任体育总局乒羽中心副主任](https://m.163.com/news/article/KFNOLLND0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国男篮76比90惨败韩国男篮 短短4天之内输了两次](https://m.163.com/news/article/KFNKFH9G0514BE2Q.html)
+[老牌央企陷入偷工减料风波 多名监管人员接受有偿陪侍](https://m.163.com/news/article/KFPRGFDT0534A4SC.html)
 
-[定居香港的杭州人亲历大火:70岁儿媳敲邻居门喊"快走"](https://m.163.com/news/article/KFNJT48B051492LM.html)
+[王励勤履新 成为新周期中国乒乓“掌舵人”](https://m.163.com/news/article/KFQ2MNIA0550A0OW.html)
+
+[三星发布三折叠手机 罗永浩:定义产品的人不知在想啥](https://m.163.com/news/article/KFPOAT54053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大连一药房外主供热管道爆裂 有人员烫伤被抬上救护车](https://m.163.com/news/article/KFNMCLI7053469LG.html)
+[男子到车站洗手间贴涉黄广告被抓:月薪提高到一两万](https://m.163.com/news/article/KFPLBS5O05561G0D.html)
 
 ---end---
