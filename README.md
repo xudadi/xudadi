@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-03 01:46:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-03 02:33:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司派往重庆市南岸区弹子石小学校招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2710357)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[老牌央企陷入偷工减料风波 多名监管人员接受有偿陪侍](https://m.163.com/news/article/KFPRGFDT0534A4SC.html)
+[25岁小伙去世2小时被离职 曾向朋友倾诉加班到"嘴渗血"](https://m.163.com/news/article/KFQ2OGC50550B6IS.html)
 
-[王励勤履新 成为新周期中国乒乓“掌舵人”](https://m.163.com/news/article/KFQ2MNIA0550A0OW.html)
+[男子银行取170万遭抢劫:歹徒也没给我机会 照头就一枪](https://m.163.com/news/article/KFQ49NNO0514BE2Q.html)
 
-[三星发布三折叠手机 罗永浩:定义产品的人不知在想啥](https://m.163.com/news/article/KFPOAT54053469LG.html)
+[大专生报考事业编成绩第一 被市卫健局"判定"不合格](https://m.163.com/news/article/KFQ450M00514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子到车站洗手间贴涉黄广告被抓:月薪提高到一两万](https://m.163.com/news/article/KFPLBS5O05561G0D.html)
+[老牌央企陷入偷工减料风波 多名监管人员接受有偿陪侍](https://m.163.com/news/article/KFPRGFDT0534A4SC.html)
 
 ---end---
