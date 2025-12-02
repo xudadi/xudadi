@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-02 14:33:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-02 14:59:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国网重庆市电力公司2026年高校毕业生招聘考试(第一批)安排公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2708891)
+[重庆高新技术产业研究院有限责任公司关于公开选拔(聘)二级机构负责人的简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2709605)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
