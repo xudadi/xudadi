@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-04 01:52:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-04 02:33:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司派往某国有物业公司工程维修岗位招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2711449)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[企业涉产销儿童特征"情趣娃娃" 东莞通报](https://m.163.com/news/article/KFSLQ9B50534A4SC.html)
+[荒地现无名男尸穿着内衣被毛毯包裹着 20年后真相披露](https://m.163.com/news/article/KFRINFGM0512DU6N.html)
 
-[湖南又一名中管干部被查：爱好摄影 已退休近4年](https://m.163.com/news/article/KFSI5KMM0534A4SC.html)
+[80岁富豪去世 妻子将名下超20亿股份平分给一儿一女](https://m.163.com/news/article/KFSPTCJ00512B07B.html)
 
-[中国科学家取得量子研究新进展](https://m.163.com/news/article/KFSKVFS00512D3VJ.html)
+[武汉警方通报：男子持刀伤人致1人死亡 已被抓获](https://m.163.com/news/article/KFSQJDKH0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[李霄飞任中国大唐副总经理](https://m.163.com/news/article/KFSI9SU10534A4SC.html)
+[上市企业子公司现雷人标语：进厂区请放弃一切自由](https://m.163.com/news/article/KFSIH4NL051492T3.html)
 
 ---end---
