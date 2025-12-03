@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-03 19:50:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-03 20:46:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆明月湖实验室人才招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2711315)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往某国有物业公司工程维修岗位招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2711449)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[25岁小伙去世2小时被离职 曾向朋友倾诉加班到"嘴渗血"](https://m.163.com/news/article/KFQ2OGC50550B6IS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子银行取170万遭抢劫:歹徒也没给我机会 照头就一枪](https://m.163.com/news/article/KFQ49NNO0514BE2Q.html)
+[企业涉产销儿童特征"情趣娃娃" 东莞通报](https://m.163.com/news/article/KFSLQ9B50534A4SC.html)
 
-[大专生报考事业编成绩第一 被市卫健局"判定"不合格](https://m.163.com/news/article/KFQ450M00514R9P4.html)
+[湖南又一名中管干部被查：爱好摄影 已退休近4年](https://m.163.com/news/article/KFSI5KMM0534A4SC.html)
+
+[中国科学家取得量子研究新进展](https://m.163.com/news/article/KFSKVFS00512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[老牌央企陷入偷工减料风波 多名监管人员接受有偿陪侍](https://m.163.com/news/article/KFPRGFDT0534A4SC.html)
+[李霄飞任中国大唐副总经理](https://m.163.com/news/article/KFSI9SU10534A4SC.html)
 
 ---end---
