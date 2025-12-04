@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-04 14:32:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-04 14:58:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[谢家湾幼儿园招聘教职员工若干名 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2712263)
+[重庆理工大学2025年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2712722)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
