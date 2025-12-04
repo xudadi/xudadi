@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-05 01:52:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-05 02:34:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆信息与智慧医学研究院聘用人员招聘简章(2025年12月) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2713338)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[航天专家：火箭回收是大趋势 迟早会成功](https://m.163.com/news/article/KFV0M8V8051492T3.html)
+[女子考编第一因学历重叠政审不合格 其遭遇并非个例](https://m.163.com/news/article/KFVAGG32053469LG.html)
 
-[老君山金殿现"护宗大阵"奇观 拍摄男子强调绝非AI合成](https://m.163.com/news/article/KFV65OMH053469M5.html)
+[商家称半年内被同一人"仅退款"225个包裹 损失5万多元](https://m.163.com/news/article/KFVANBEA05345ARG.html)
 
-[香港宣布将火灾灾民生活补贴增至每户10万港元](https://m.163.com/news/article/KFV6QDAF05345ARG.html)
+[乐视网回应拟拿1.8亿"炒股"却不还债：想挣钱活下去](https://m.163.com/news/article/KFVDF7HN051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[台媒：台当局声称即日起封锁小红书一年](https://m.163.com/news/article/KFV19RID0001899O.html)
+[郑丽文公布两项新人事任命 连战次子担任国民党要职](https://m.163.com/news/article/KFVCDGSE0001899O.html)
 
 ---end---
