@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-05 14:33:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-05 14:58:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院聘用人员招聘简章(2025年12月) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2713338)
+[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司外派至重庆铁建置业有限公司工程人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2713765)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
