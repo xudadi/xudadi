@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-05 19:51:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-05 20:43:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司外派至重庆铁建置业有限公司工程人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2713765)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[巴南就业•一职为你巴南区2025年人力资源市场专项招聘活动线上招聘信息! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2714902)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子考编第一因学历重叠政审不合格 其遭遇并非个例](https://m.163.com/news/article/KFVAGG32053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[商家称半年内被同一人"仅退款"225个包裹 损失5万多元](https://m.163.com/news/article/KFVANBEA05345ARG.html)
+[深圳法院再次挂拍两块百达翡丽腕表 每块价值超4000万](https://m.163.com/news/article/KG1NLK7A053469LG.html)
 
-[乐视网回应拟拿1.8亿"炒股"却不还债：想挣钱活下去](https://m.163.com/news/article/KFVDF7HN051492T3.html)
+[网络车评人陈震偷税被查 税务部门公布案件细节](https://m.163.com/news/article/KG1JSRA2000189PS.html)
+
+[三大航司公告：中日航线免费退改签延长至明年3月28日](https://m.163.com/news/article/KG1HHAHS0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[郑丽文公布两项新人事任命 连战次子担任国民党要职](https://m.163.com/news/article/KFVCDGSE0001899O.html)
+[71岁苏增添被判死缓：28年间受贿近2亿 搞钱色交易](https://m.163.com/news/article/KG1HEM6F0534A4SC.html)
 
 ---end---
