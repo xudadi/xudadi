@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-06 01:52:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-06 02:28:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[巴南就业•一职为你巴南区2025年人力资源市场专项招聘活动线上招聘信息! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2714902)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2715063)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[深圳法院再次挂拍两块百达翡丽腕表 每块价值超4000万](https://m.163.com/news/article/KG1NLK7A053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网络车评人陈震偷税被查 税务部门公布案件细节](https://m.163.com/news/article/KG1JSRA2000189PS.html)
+[小红书被封 郑丽文：民进党终究活成自己最讨厌的样子](https://m.163.com/news/article/KG1PR3NL05345ARG.html)
 
-[三大航司公告：中日航线免费退改签延长至明年3月28日](https://m.163.com/news/article/KG1HHAHS0001899O.html)
+["全网最忙5人组"出现在各种名单中 多方回应](https://m.163.com/news/article/KG1VV8PS051492T3.html)
+
+[马克龙访问四川大学 称此行只有一个遗憾](https://m.163.com/news/article/KG21K2I80001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[71岁苏增添被判死缓：28年间受贿近2亿 搞钱色交易](https://m.163.com/news/article/KG1HEM6F0534A4SC.html)
+[博物馆10枚企鹅蛋标本遭游客破坏 馆方全网征集目击者](https://m.163.com/news/article/KG1E2JUL051492LM.html)
 
 ---end---
