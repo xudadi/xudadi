@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-07 02:27:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-07 02:48:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2715063)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[媒体："最忙五人组"越挖越多 解决办法绝不是一抹了事](https://m.163.com/news/article/KG42NLD2051492T3.html)
+["外卖新国标"落地 外卖员闯灯少了：更希望提高配送费](https://m.163.com/news/article/KG4165CA051492T3.html)
 
-[先导智能辟谣"四名工程师去印度出差遭侵害"：已报警](https://m.163.com/news/article/KG44IRBB0514R9P4.html)
+[应王毅外长邀请 德国外长瓦德富尔将访华](https://m.163.com/news/article/KG4DHP3N0530M570.html)
 
-[福彩公益金助学项目部分受助人名单来自网络 高校通报](https://m.163.com/news/article/KG42ADC1000189PS.html)
+[湖南株洲一辆哈啰无人驾驶车撞倒路人 伤者已送医](https://m.163.com/news/article/KG4AKRMC0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[起拍价下降2.8亿至10.8亿元 广州"铜钱大厦"将再拍卖](https://m.163.com/news/article/KG40GHEH053469LG.html)
+[团伙组织公考"枪手"替考89次敛财千万 案情披露](https://m.163.com/news/article/KG49OTR90514R9OJ.html)
 
 ---end---
