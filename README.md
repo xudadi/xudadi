@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-08 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-08 09:43:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江人力资源有限公司派往重庆三峡学院工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2715063)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆人力所属企业飞驶特公司招聘派往某国有物业公司工程维修岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2715370)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[央视披露劣迹"网红"账号被禁封细节 郭美美等人被点名](https://m.163.com/news/article/KG4IH1IJ0530M570.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["外卖新国标"落地 外卖员闯灯少了：更希望提高配送费](https://m.163.com/news/article/KG4165CA051492T3.html)
+[三门峡一项目工程发生塌方致5人遇难 4人来自同一个村](https://m.163.com/news/article/KG77D6JS053469LG.html)
 
-[应王毅外长邀请 德国外长瓦德富尔将访华](https://m.163.com/news/article/KG4DHP3N0530M570.html)
+[男子不会打字遭柬电诈园区转卖 意外脱身后获同胞救助](https://m.163.com/news/article/KG6HVKML0514D3UH.html)
+
+[8比1战胜日本队 国乒11战全胜实现混团世界杯三连冠](https://m.163.com/news/article/KG73TH0O0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南株洲一辆哈啰无人驾驶车撞倒路人 伤者已送医](https://m.163.com/news/article/KG4AKRMC0001899O.html)
+[靠一台电脑和3D打印机 80后男子在杭州车库手搓机器人](https://m.163.com/news/article/KG7338C20514R9OJ.html)
 
 ---end---
