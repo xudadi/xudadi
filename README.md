@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-08 20:44:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-08 21:24:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[长安科技智驾领域校招招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2716195)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市永川区教育事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2717162)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[三门峡一项目工程发生塌方致5人遇难 4人来自同一个村](https://m.163.com/news/article/KG77D6JS053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子不会打字遭柬电诈园区转卖 意外脱身后获同胞救助](https://m.163.com/news/article/KG6HVKML0514D3UH.html)
+[女子半年仅退款225次被质疑有同伙 商家晒出新证据](https://m.163.com/news/article/KG8TJGVT053469LG.html)
 
-[8比1战胜日本队 国乒11战全胜实现混团世界杯三连冠](https://m.163.com/news/article/KG73TH0O0514R9P4.html)
+[村民拆迁手握大量房票"买爆"广州全城 半月买了600套](https://m.163.com/news/article/KG858M780530KP1K.html)
+
+[媒体：台日竟然还想夹击解放军 笑话](https://m.163.com/news/article/KG8GKOMD05504DPG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[靠一台电脑和3D打印机 80后男子在杭州车库手搓机器人](https://m.163.com/news/article/KG7338C20514R9OJ.html)
+[26岁闵超任浙江大学博导：1999年出生 本科毕业才4年](https://m.163.com/news/article/KG8LMMME053469LG.html)
 
 ---end---
