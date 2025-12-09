@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-09 14:34:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-09 14:59:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市永川区教育事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2717162)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市万盛经开区教育事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2718190)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[《自然》杂志评出2025年度十大科学人物 梁文锋入选](https://m.163.com/news/article/KGAQICP405198CJN.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[2026年货币政策定调](https://m.163.com/news/article/KG9UBLD10519DDQ2.html)
+[厅官带头聚餐饮酒致1人死亡 官方最新通报](https://m.163.com/news/article/KGBB8NGI0519DDQ2.html)
 
-[江苏男子贵州投资养羊损失近百万 543只羊被"躲猫猫"](https://m.163.com/news/article/KG9P7UU405345ARG.html)
+[河北杀妻案男方被判死刑 被害人家属将争取孩子抚养权](https://m.163.com/news/article/KGB9Q44F053469LG.html)
+
+[男子离婚冷静期毒杀儿女 派出所2次接警不出警被查](https://m.163.com/news/article/KGAVKQJR05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[40岁北京本地独生女想结婚被网暴:乐于生育和相夫教子](https://m.163.com/news/article/KG8VUND605506O99.html)
+[小米中国区多人员职务调整 涉及手机、汽车等核心岗位](https://m.163.com/news/article/KGB27NIA0534A4SC.html)
 
 ---end---
