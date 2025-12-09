@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-09 20:46:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-09 21:36:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万盛经开区教育事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2718190)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆建工投资控股有限责任公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2718440)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[厅官带头聚餐饮酒致1人死亡 官方最新通报](https://m.163.com/news/article/KGBB8NGI0519DDQ2.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [河北杀妻案男方被判死刑 被害人家属将争取孩子抚养权](https://m.163.com/news/article/KGB9Q44F053469LG.html)
 
 [男子离婚冷静期毒杀儿女 派出所2次接警不出警被查](https://m.163.com/news/article/KGAVKQJR05345ARG.html)
 
+[小米中国区多人员职务调整 涉及手机、汽车等核心岗位](https://m.163.com/news/article/KGB27NIA0534A4SC.html)
+
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小米中国区多人员职务调整 涉及手机、汽车等核心岗位](https://m.163.com/news/article/KGB27NIA0534A4SC.html)
+[男子开保时捷偷190多块电瓶 父母原让他当顺风车司机](https://m.163.com/news/article/KGB0J36D0534P59R.html)
 
 ---end---
