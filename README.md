@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-10 14:34:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-10 14:59:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆建工投资控股有限责任公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2718440)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[招商局检测认证(重庆)有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2719900)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子买的吉利"新车"刚到手发现已充电35次 多方回应](https://m.163.com/news/article/KGC4IAGR053469KC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广东汕头一自建房起火造成8人死亡 4人被送医抢救](https://m.163.com/news/article/KGCSEV7I0001899O.html)
+[2026年总台春晚主题、主标识发布](https://m.163.com/news/article/KGDVO1EK000189PS.html)
 
-[女子在水汇洗澡被老阿姨偷拍 对方手机里有多人裸照](https://m.163.com/news/article/KGC8R9VV053469LG.html)
+["最快女护士"被处分 医院通报：依规依纪处理](https://m.163.com/news/article/KGDRTJEM0001899O.html)
+
+[两名正部级"老虎"获刑 一人被通报搞权色、权钱交易](https://m.163.com/news/article/KGDQU3UN055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["一家五口被害案"凶手上诉：并非预谋 是一时激愤杀人](https://m.163.com/news/article/KGCARA430514BE2Q.html)
+[广东汕头一栋自建房起火 事故造成12人遇难](https://m.163.com/news/article/KGDQVQ2O0001899O.html)
 
 ---end---
