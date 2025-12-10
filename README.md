@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-10 19:50:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-10 20:46:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招商局检测认证(重庆)有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2719900)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆燃气集团股份有限公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2720616)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[2026年总台春晚主题、主标识发布](https://m.163.com/news/article/KGDVO1EK000189PS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["最快女护士"被处分 医院通报：依规依纪处理](https://m.163.com/news/article/KGDRTJEM0001899O.html)
+[搞钱色交易受贿跨度近20年 海关总署原副署长获刑13年](https://m.163.com/news/article/KGEJKTBV051492T3.html)
 
-[两名正部级"老虎"获刑 一人被通报搞权色、权钱交易](https://m.163.com/news/article/KGDQU3UN055040N3.html)
+[湖南催收巨头再降1000万卖总部大楼:年租金超400万元](https://m.163.com/news/article/KGEIU647053469LG.html)
+
+[网红冯提莫停播近1年后复播：甲状腺癌复发并转移](https://m.163.com/news/article/KGEE2LS905345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广东汕头一栋自建房起火 事故造成12人遇难](https://m.163.com/news/article/KGDQVQ2O0001899O.html)
+[小鹏汽车就"AI生成低俗视频事件"报警 广州警方通报](https://m.163.com/news/article/KGEC7JVA0001899O.html)
 
 ---end---
