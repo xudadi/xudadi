@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-11 19:51:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-11 20:48:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工业职业技术大学2025年第二批劳务派遣人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2721285)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆燃气集团股份有限公司外包岗位人员储备招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2722163)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网红名下控股公司涉嫌逃税超1600万 今日直播已取消](https://m.163.com/news/article/KGGIUL140514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[相恋6年"军官女友"收60余万后消失 警方证实其已落网](https://m.163.com/news/article/KGGFRL0B051492T3.html)
+[翁帆首次发声追忆杨振宁 在讲话过程几度因哽咽而中断](https://m.163.com/news/article/KGGVUNI60550A0OW.html)
 
-[中兴通讯：正与美国司法部就有关事项进行沟通](https://m.163.com/news/article/KGGEV0ID0534A4SC.html)
+[携程被指不正当竞争 官方征集证据](https://m.163.com/news/article/KGGVFHQQ053469LG.html)
+
+[磷虾油磷脂含量实测为0 北京同仁堂涉嫌造假将被约谈](https://m.163.com/news/article/KGGU8PVP05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["失联风波"过后 画家范曾首度公开露面：近期喜得独子](https://m.163.com/news/article/KGGDD4P60001899O.html)
+["最快女护士"被传已离职 院方：尚未收到她的辞职申请](https://m.163.com/news/article/KGGT9SNR051492T3.html)
 
 ---end---
