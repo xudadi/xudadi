@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-12 02:31:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-12 02:59:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆燃气集团股份有限公司外包岗位人员储备招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2722163)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至某机关事业单位从事相关辅助性工作招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2722431)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[翁帆首次发声追忆杨振宁 在讲话过程几度因哽咽而中断](https://m.163.com/news/article/KGGVUNI60550A0OW.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[携程被指不正当竞争 官方征集证据](https://m.163.com/news/article/KGGVFHQQ053469LG.html)
+[中央明确：普通高中、优质本科扩招](https://m.163.com/news/article/KGH986O90519DDQ2.html)
 
-[磷虾油磷脂含量实测为0 北京同仁堂涉嫌造假将被约谈](https://m.163.com/news/article/KGGU8PVP05129QAF.html)
+[被父亲断绝关系 范曾女儿回应：无可奉告](https://m.163.com/news/article/KGHASE0M0001899O.html)
+
+["最快女护士"近50天获奖金超20万 院长:没离职还在岗](https://m.163.com/news/article/KGH9U2V00512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["最快女护士"被传已离职 院方：尚未收到她的辞职申请](https://m.163.com/news/article/KGGT9SNR051492T3.html)
+[女子遭同小区大狗扑咬 男子从二楼冲下死死摁住肇事狗](https://m.163.com/news/article/KGH8PRU20534P59R.html)
 
 ---end---
