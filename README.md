@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-12 20:45:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-12 21:25:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区杨石路小学校教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2722953)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆渝海物业管理有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2723830)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[湖北十堰通报中标公告出现"最忙五人组"：多人被处分](https://m.163.com/news/article/KGJ7IV6V0001899O.html)
+
+[张家界"荒野求生"停赛：剩下8名选手夺冠平分48万奖金](https://m.163.com/news/article/KGISL9SA05561G0D.html)
 
 [33岁中国女子参加世界扇耳光大赛:大多数人看得挺开心](https://m.163.com/news/article/KGIVCUPT0514R9P4.html)
 
-[村支书称卖谷物小米被小米法务投诉下架视频 小米回应](https://m.163.com/news/article/KGIT8HV405561G0D.html)
-
-[曾因监狱疫情防控不力被免职 解维俊5年多后又被查](https://m.163.com/news/article/KGISJO170534A4SC.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小区业委会查账发现前物业重大问题 追讨17万公共收益](https://m.163.com/news/article/KGIR78570514R9OJ.html)
+[村支书称卖谷物小米被小米法务投诉下架视频 小米回应](https://m.163.com/news/article/KGIT8HV405561G0D.html)
 
 ---end---
