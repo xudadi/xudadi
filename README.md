@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-12 07:51:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-12 09:45:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [外派至某机关事业单位从事相关辅助性工作招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2722431)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中央明确：普通高中、优质本科扩招](https://m.163.com/news/article/KGH986O90519DDQ2.html)
+[夫妻带家人薅免费停车福利转卖 致多个商场损失超50万](https://m.163.com/news/article/KGHAUU6F053469LG.html)
 
-[被父亲断绝关系 范曾女儿回应：无可奉告](https://m.163.com/news/article/KGHASE0M0001899O.html)
+[寒潮+暴雪+大风 中央气象台继续三预警齐发](https://m.163.com/news/article/KGIFEEJJ0534A4SC.html)
 
-["最快女护士"近50天获奖金超20万 院长:没离职还在岗](https://m.163.com/news/article/KGH9U2V00512B07B.html)
+[从"排队租房"到月租金直降千元 主播撤离"杭漂第一楼"](https://m.163.com/news/article/KGHDJJCM051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子遭同小区大狗扑咬 男子从二楼冲下死死摁住肇事狗](https://m.163.com/news/article/KGH8PRU20534P59R.html)
+[家里两个月用水2203吨水费超1.5万元 女子：我太冤了](https://m.163.com/news/article/KGHFCOLA0514D3UH.html)
 
 ---end---
