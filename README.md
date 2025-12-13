@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-13 07:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-13 09:39:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆渝海物业管理有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2723830)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[湖北十堰通报中标公告出现"最忙五人组"：多人被处分](https://m.163.com/news/article/KGJ7IV6V0001899O.html)
+[女子被狗咬断手筋 小伙冲下2楼摁住肇事狗手掌被咬穿](https://m.163.com/news/article/KGJQ6NOP0514R9OJ.html)
 
-[张家界"荒野求生"停赛：剩下8名选手夺冠平分48万奖金](https://m.163.com/news/article/KGISL9SA05561G0D.html)
+[女子全款买房住9年 陌生人突然上门要求她付18万搬走](https://m.163.com/news/article/KGJU64150001899O.html)
 
-[33岁中国女子参加世界扇耳光大赛:大多数人看得挺开心](https://m.163.com/news/article/KGIVCUPT0514R9P4.html)
+[10人聚餐后9人离开 最后1人拒付餐费:付钱就是冤大头](https://m.163.com/news/article/KGJRUF2S0530U7LS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[村支书称卖谷物小米被小米法务投诉下架视频 小米回应](https://m.163.com/news/article/KGIT8HV405561G0D.html)
+[小伙5天从上海徒步到杭州 走了35万步还捡到千元现金](https://m.163.com/news/article/KGJQI379055040N3.html)
 
 ---end---
