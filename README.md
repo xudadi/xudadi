@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-13 13:54:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-13 14:31:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆渝海物业管理有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2723830)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[航天时代低空科技有限公司招聘行政人员劳务派遣岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2724294)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子被狗咬断手筋 小伙冲下2楼摁住肇事狗手掌被咬穿](https://m.163.com/news/article/KGJQ6NOP0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子全款买房住9年 陌生人突然上门要求她付18万搬走](https://m.163.com/news/article/KGJU64150001899O.html)
+[芯原股份重大资产重组终止 公司股价今年已上涨超180%](https://m.163.com/news/article/KGK9SSH50512B07B.html)
 
-[10人聚餐后9人离开 最后1人拒付餐费:付钱就是冤大头](https://m.163.com/news/article/KGJRUF2S0530U7LS.html)
+[两企业多占土地超10年每平米处罚5元引关注 官方回应](https://m.163.com/news/article/KGJPHSFP05561G0D.html)
+
+[大学教授被控贪污40余万二审获刑两年半 坚持申诉6年](https://m.163.com/news/article/KGLJTKM905561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小伙5天从上海徒步到杭州 走了35万步还捡到千元现金](https://m.163.com/news/article/KGJQI379055040N3.html)
+[36岁救援队员搜救失联女孩3天:女孩找到 她在ICU抢救](https://m.163.com/news/article/KGK090FQ053469LG.html)
 
 ---end---
