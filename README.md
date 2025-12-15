@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-15 19:51:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-15 20:49:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市高新技术产业开发区消防救援支队2025年政府专职消防员招录（聘）公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2725306)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[工艺员、销售顾问、新媒体运营……两江新区多岗位招聘! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2726487)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[数名驴友无防护攀爬悬崖峭壁 村镇回应：峭壁深数百米](https://m.163.com/news/article/KGOS8JDC0514TTN3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海大伯向女儿隐瞒姑姑遗赠 让女儿丢掉价值百万房产](https://m.163.com/news/article/KGONJ3PD0512DU6N.html)
+[2025式人民警察制式服装正式列装](https://m.163.com/news/article/KGR9KJL4000189PS.html)
 
-[已婚女为男友生娃后回归家庭 男友自行抚养孩子5年多](https://m.163.com/news/article/KGJUIAJG0514D3UH.html)
+[赖清德：解放军2027年前有夺台能力 必须做最坏的打算](https://m.163.com/news/article/KGR7G8610001899O.html)
+
+[当当网创始人李国庆再创业做线上高端会员店 回应来了](https://m.163.com/news/article/KGR7CJ2T0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[何晴术后曾与好友抱头痛哭 生前总拿李雪健给自己打气](https://m.163.com/news/article/KGONES3I055040N3.html)
+[首批L3级自动驾驶车型产品获得准入许可](https://m.163.com/news/article/KGR3EDHR05198CJN.html)
 
 ---end---
