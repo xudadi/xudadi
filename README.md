@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-16 07:51:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-16 09:46:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[工艺员、销售顾问、新媒体运营……两江新区多岗位招聘! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2726487)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[西部科学城重庆高新区2025年公开招聘急需紧缺人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2726276)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[麦当劳涨价 部分餐品的价格上涨0.5元到1元](https://m.163.com/news/article/KGRBP2AM0530M570.html)
+
+[快手好友假冒客服来电骗走男子14万养老钱 警方回应](https://m.163.com/news/article/KGRJAKNR051492T3.html)
 
 [2025式人民警察制式服装正式列装](https://m.163.com/news/article/KGR9KJL4000189PS.html)
 
-[赖清德：解放军2027年前有夺台能力 必须做最坏的打算](https://m.163.com/news/article/KGR7G8610001899O.html)
-
-[当当网创始人李国庆再创业做线上高端会员店 回应来了](https://m.163.com/news/article/KGR7CJ2T0534P59R.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[首批L3级自动驾驶车型产品获得准入许可](https://m.163.com/news/article/KGR3EDHR05198CJN.html)
+[赖清德：解放军2027年前有夺台能力 必须做最坏的打算](https://m.163.com/news/article/KGR7G8610001899O.html)
 
 ---end---
