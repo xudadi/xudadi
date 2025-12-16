@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-16 13:46:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-16 14:34:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西部科学城重庆高新区2025年公开招聘急需紧缺人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2726276)
+[重庆某国企财务助理实习生岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2727079)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
