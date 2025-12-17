@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-17 19:52:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-17 20:47:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2729112)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司大足分公司公开招聘派遣制工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2729868)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[官方:预计2025年全年经济增长5%左右](https://m.163.com/news/article/KGU8706O05198CJN.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[8岁自闭症男童遇难涉事机构被罚5万 家属：难以接受](https://m.163.com/news/article/KGU6RA5M051492T3.html)
+[献血年龄拟延长至65周岁 献血法修订草案公开征求意见](https://m.163.com/news/article/KH0A2HE70512B07B.html)
 
-[4S店销售回应玛莎拉蒂大降价：会说是2022年库存新车](https://m.163.com/news/article/KGU5VICP053469LG.html)
+[女教师坠亡前一天发取消婚礼通知 父母不同意让照常办](https://m.163.com/news/article/KH0736O50001899O.html)
+
+[76岁大爷要手机遭拒赌气躲深山 靠一瓶白酒"荒野求生"](https://m.163.com/news/article/KH07IILK0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[83岁婆婆被自家铁门砸伤住进ICU 家属:大门仅买2年多](https://m.163.com/news/article/KGTUC02M053469LG.html)
+[知名连锁店突发公告：将关闭中国内地所有门店](https://m.163.com/news/article/KH080III0550B6IS.html)
 
 ---end---
