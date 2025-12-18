@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-18 20:44:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-18 21:26:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司代招某行政机关派遣制工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2730555)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市江津保安服务有限公司派往重庆市江津区公安局警务辅助岗位工作人员2025年第四期招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2731247)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[高位截瘫患者因脑机接口"再就业"：钱不多 供儿读大学](https://m.163.com/news/article/KH0G89RF055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[献血年龄拟延长至65周岁 献血法修订草案公开征求意见](https://m.163.com/news/article/KH0A2HE70512B07B.html)
+[康师傅换帅：CEO陈应让将退休 创始人之子魏宏丞接棒](https://m.163.com/news/article/KH360CA90534A4SC.html)
 
-[女教师坠亡前一天发取消婚礼通知 父母不同意让照常办](https://m.163.com/news/article/KH0736O50001899O.html)
+[成都女生家门口被捅刺10刀身亡 家属：嫌犯有预谋行凶](https://m.163.com/news/article/KH320ESM0534P59R.html)
+
+[带货博主称账号遭盗用 盗用者向商家要试用品不给骂人](https://m.163.com/news/article/KH31EC1K053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[76岁大爷要手机遭拒赌气躲深山 靠一瓶白酒"荒野求生"](https://m.163.com/news/article/KH07IILK0534P59R.html)
+[小米新车主还未开出园区便撞倒人：被撞者已不幸离世](https://m.163.com/news/article/KH2UD3U80001899O.html)
 
 ---end---
