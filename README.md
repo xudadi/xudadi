@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-18 13:46:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-18 14:34:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司公开招聘派遣制工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2729868)
+[重庆飞驶特人力资源管理有限公司大足分公司代招某行政机关派遣制工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2730555)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
