@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-19 13:55:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-19 14:35:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市江津保安服务有限公司派往重庆市江津区公安局警务辅助岗位工作人员2025年第四期招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2731247)
+[重庆飞驶特人力资源管理有限公司派往重庆旅游资产管理有限公司统景景区管理分公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2731986)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
