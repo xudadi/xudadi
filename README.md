@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-21 02:27:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-21 02:48:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2733058)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子停车救人没想到救的是自己老婆：那条路平日不走](https://m.163.com/news/article/KH85BGM70514R9OJ.html)
+[轿车高速狂飙近500公里无法减速 业内人士发声](https://m.163.com/news/article/KH8F6JK5051492T3.html)
 
-[女子持刀捅死邻居被判死缓 法院认为其行为不构成自首](https://m.163.com/news/article/KH7TLTJJ0514R9P4.html)
+[网友称"烧伤超人阿宝"补缴税款84万余元 当事人发声](https://m.163.com/news/article/KH8ISJTL0514D3UH.html)
 
-[宁波5月大女婴手术后去世 家属公布部分尸检报告结果](https://m.163.com/news/article/KH7U7SQK051492T3.html)
+[一腿定乾坤 河南小伙刘梦阳52秒TKO泰国名将](https://m.163.com/news/article/KH7O3B6E05149HGO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["成都女子家门口遇害案"一审宣判 被告人被判死缓](https://m.163.com/news/article/KH7QP2OS0001899O.html)
+[气温3度老人被困岩缝里 200斤重的村书记脱光外衣救人](https://m.163.com/news/article/KH8AJH0E0534P59R.html)
 
 ---end---
