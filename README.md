@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-22 02:29:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-22 02:50:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2733058)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子的车凌晨狂奔到外地 "好心人"收800元称愿帮送回](https://m.163.com/news/article/KHANM90C00019SNS.html)
+[骑车下班路被堵 "较真哥"9天举报92次违停](https://m.163.com/news/article/KH5ES1SK0514D3UH.html)
 
-[彭珮云同志逝世](https://m.163.com/news/article/KHAMO5T305346RC6.html)
+[必胜客牛排口感奇怪遭质疑"到底用的什么肉" 官方介入](https://m.163.com/news/article/KHB75NO40512B07B.html)
 
-[副部级尹建业任上落马 长期在云南任职](https://m.163.com/news/article/KHAM6ACL0534A4SC.html)
+[遇到多辆车用远光灯 男子开车时射碎5辆车玻璃被刑拘](https://m.163.com/news/article/KH8JR3FF00019SNS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[外来商户涌入掀起赶海"价格战"游客乱挖 政府出台禁令](https://m.163.com/news/article/KHAIF1VH0530U7LS.html)
+[小区电梯故障致祖孙三人被困近4小时 物业被罚10万元](https://m.163.com/news/article/KH9SCQ5J0514R9P4.html)
 
 ---end---
