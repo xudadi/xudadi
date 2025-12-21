@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-21 19:50:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-21 20:40:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2733058)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[轿车高速狂飙近500公里无法减速 业内人士发声](https://m.163.com/news/article/KH8F6JK5051492T3.html)
+[男子的车凌晨狂奔到外地 "好心人"收800元称愿帮送回](https://m.163.com/news/article/KHANM90C00019SNS.html)
 
-[网友称"烧伤超人阿宝"补缴税款84万余元 当事人发声](https://m.163.com/news/article/KH8ISJTL0514D3UH.html)
+[彭珮云同志逝世](https://m.163.com/news/article/KHAMO5T305346RC6.html)
 
-[一腿定乾坤 河南小伙刘梦阳52秒TKO泰国名将](https://m.163.com/news/article/KH7O3B6E05149HGO.html)
+[副部级尹建业任上落马 长期在云南任职](https://m.163.com/news/article/KHAM6ACL0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[气温3度老人被困岩缝里 200斤重的村书记脱光外衣救人](https://m.163.com/news/article/KH8AJH0E0534P59R.html)
+[外来商户涌入掀起赶海"价格战"游客乱挖 政府出台禁令](https://m.163.com/news/article/KHAIF1VH0530U7LS.html)
 
 ---end---
