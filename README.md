@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-22 07:50:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-22 09:50:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2733058)
+[重庆机场集团有限公司2026年校园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2733475)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
