@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-22 20:44:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-22 21:24:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区鹅公岩小学校2025年12月临聘教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2734086)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[工程师、车间主任……两江新区多岗位招聘,月薪最高1.5万元 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735078)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[骑车下班路被堵 "较真哥"9天举报92次违停](https://m.163.com/news/article/KH5ES1SK0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[必胜客牛排口感奇怪遭质疑"到底用的什么肉" 官方介入](https://m.163.com/news/article/KHB75NO40512B07B.html)
+[外卖员劝架扑倒持锤行凶者反被其索赔12万元 法院判了](https://m.163.com/news/article/KHDJAFT60514R9OJ.html)
 
-[遇到多辆车用远光灯 男子开车时射碎5辆车玻璃被刑拘](https://m.163.com/news/article/KH8JR3FF00019SNS.html)
+[上海"最好吃的黄鱼面"被立案：后厨画面让人头皮发麻](https://m.163.com/news/article/KHD68VVH051492LM.html)
+
+[男子参加公务员遴选 笔试成绩、综合成绩均第一却落选](https://m.163.com/news/article/KHDH58AC05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小区电梯故障致祖孙三人被困近4小时 物业被罚10万元](https://m.163.com/news/article/KH9SCQ5J0514R9P4.html)
+[山西废止烟花爆竹禁令背后：5年前最严"禁炮令"出台](https://m.163.com/news/article/KHD4A2TM0514R9P4.html)
 
 ---end---
