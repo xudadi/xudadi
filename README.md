@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-23 19:51:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-23 20:46:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市某国有企业2025年12月档案管理储备实习生招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735906)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市大足区国衡商贸有限责任公司公开招聘派遣制工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2736786)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[热力公司入户测温佩戴的记录仪上印着警徽 住户报警](https://m.163.com/news/article/KHF98ENN05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子杀害侄女划伤母亲还挟持父亲 弟弟：不会出谅解书](https://m.163.com/news/article/KHF7DJO60534P59R.html)
+[高盛再度唱多中国股市：至2027年底有望上涨38%](https://m.163.com/news/article/KHFV27QS0514R9P4.html)
 
-[优衣库被指"偷拍"消费者 店长甚至下达偷拍顾客指标](https://m.163.com/news/article/KHFB4QAO0530WJIN.html)
+[海南"零关税"豪车引热议 保时捷卡宴鲜有符合要求车型](https://m.163.com/news/article/KHFPOS7E0512B07B.html)
+
+[中方回应乌克兰或将制裁中国公民](https://m.163.com/news/article/KHFMJB4R0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["上海第一黄鱼面馆"塌房 当着执法队员面使用过期香干](https://m.163.com/news/article/KHFBMQLJ0534P59R.html)
+[外媒问中方是否允许"韩流"重新进入中国大陆 中方回应](https://m.163.com/news/article/KHFMJ7B00514R9P4.html)
 
 ---end---
