@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-23 13:47:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-23 14:35:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学实验室及设备管理处劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735262)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市某国有企业2025年12月档案管理储备实习生招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735906)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[汽车刹车失灵狂奔490公里 4S店赔偿4.5万要求车主保密](https://m.163.com/news/article/KHDRLH1P0550A7UY.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[爆雷高达200亿 浙商大佬涉嫌犯罪被采取刑事强制措施](https://m.163.com/news/article/KHE1DC4U0512B07B.html)
+[热力公司入户测温佩戴的记录仪上印着警徽 住户报警](https://m.163.com/news/article/KHF98ENN05561G0D.html)
 
-[小区自来水变蓝8个月有20多人检出身体异常 官方回应](https://m.163.com/news/article/KHDTD6IJ0514D3UH.html)
+[男子杀害侄女划伤母亲还挟持父亲 弟弟：不会出谅解书](https://m.163.com/news/article/KHF7DJO60534P59R.html)
+
+[优衣库被指"偷拍"消费者 店长甚至下达偷拍顾客指标](https://m.163.com/news/article/KHFB4QAO0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[韩媒：韩国四大集团掌门人拟明年1月随团访华](https://m.163.com/news/article/KHDM5MCR0514R9OJ.html)
+["上海第一黄鱼面馆"塌房 当着执法队员面使用过期香干](https://m.163.com/news/article/KHFBMQLJ0534P59R.html)
 
 ---end---
