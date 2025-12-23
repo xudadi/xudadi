@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-23 07:51:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-23 09:46:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[工程师、车间主任……两江新区多岗位招聘,月薪最高1.5万元 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735078)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学实验室及设备管理处劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2735262)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[韩媒：韩国四大集团掌门人拟明年1月随团访华](https://m.163.com/news/article/KHDM5MCR0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山西大同发生4.2级地震 北京、天津等地网友称有震感](https://m.163.com/news/article/KHDNER410001899O.html)
+[汽车刹车失灵狂奔490公里 4S店赔偿4.5万要求车主保密](https://m.163.com/news/article/KHDRLH1P0550A7UY.html)
 
-[国足年终排名公布 创下自2014年以来的年终排名新低](https://m.163.com/news/article/KHDKCEJU053469LG.html)
+[爆雷高达200亿 浙商大佬涉嫌犯罪被采取刑事强制措施](https://m.163.com/news/article/KHE1DC4U0512B07B.html)
+
+[小区自来水变蓝8个月有20多人检出身体异常 官方回应](https://m.163.com/news/article/KHDTD6IJ0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[明年1月1日起 向好友发淫秽信息违法](https://m.163.com/news/article/KHDDUTI10534P59R.html)
+[韩媒：韩国四大集团掌门人拟明年1月随团访华](https://m.163.com/news/article/KHDM5MCR0514R9OJ.html)
 
 ---end---
