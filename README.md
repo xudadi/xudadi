@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-24 14:35:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-24 15:00:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆广播电视集团（总台）重庆广播新闻中心政务服务团队人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2737011)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学输变电装备技术全国重点实验室劳务派遣项目研究人员招聘公告(长期有效) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2737499)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国网球新星操纵22场比赛赌球 生涯总奖金约4000美元](https://m.163.com/news/article/KHHHMAQO0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[热力公司员工戴警徽记录仪入户测温 公司回应](https://m.163.com/news/article/KHHHLQ650534A4SC.html)
+[幼儿园园长载着多名幼儿落水致8死 疑用私家车当校车](https://m.163.com/news/article/KHHV5UGK05561G0D.html)
 
-[足协纪委原主任王小平受贿案二审维持原判](https://m.163.com/news/article/KHHHCR970001899O.html)
+["孤胆姐姐"为亡弟追凶27年 在弟弟墓地哭着念判决结果](https://m.163.com/news/article/KHGBUQ1D0534P59R.html)
+
+[5万月薪招185＋腹肌陪滑官 景区：薪资属实 竞争激烈](https://m.163.com/news/article/KHHR9GLT0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[成都27岁女子家门口被杀 凶手因被认定患精神病获死缓](https://m.163.com/news/article/KHHF7NS50514R9P4.html)
+[新生儿住院治疗黄疸时死亡 官方通报](https://m.163.com/news/article/KHHP1VK60534A4SC.html)
 
 ---end---
