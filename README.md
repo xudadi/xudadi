@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-24 20:44:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-24 21:22:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学输变电装备技术全国重点实验室劳务派遣项目研究人员招聘公告(长期有效) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2737499)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某国有物业公司巴南工程维修岗位招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2738270)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[幼儿园园长载着多名幼儿落水致8死 疑用私家车当校车](https://m.163.com/news/article/KHHV5UGK05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["孤胆姐姐"为亡弟追凶27年 在弟弟墓地哭着念判决结果](https://m.163.com/news/article/KHGBUQ1D0534P59R.html)
+[丽江旅拍协会:已委托律师就大量不实避雷帖起诉小红书](https://m.163.com/news/article/KHIOBIHL053469KC.html)
 
-[5万月薪招185＋腹肌陪滑官 景区：薪资属实 竞争激烈](https://m.163.com/news/article/KHHR9GLT0514D3UH.html)
+[果农再次开启"赛博助农"：在"魔兽世界"卖3.5万斤橙子](https://m.163.com/news/article/KHIJCL2J053469M5.html)
+
+[金价、银价、铜价均创历史新高 机构称金价明年还会涨](https://m.163.com/news/article/KHI3VRSU0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[新生儿住院治疗黄疸时死亡 官方通报](https://m.163.com/news/article/KHHP1VK60534A4SC.html)
+[女子进入深圳在建地铁隧道拍照 两单位被追责](https://m.163.com/news/article/KHIEOVNA0534A4SC.html)
 
 ---end---
