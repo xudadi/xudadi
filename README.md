@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-26 02:30:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-26 02:56:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市开州区事业单位2025年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2739592)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆科技大学2025年下半年非事业编制工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2739705)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海知名网红店人挤人低头拿面包 网友担心面包有病菌](https://m.163.com/news/article/KHKKR94E055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[南京博物馆镇馆之宝 99%含金量的"西汉金兽"掉色了](https://m.163.com/news/article/KHKDROQV05561G0D.html)
+[国民党2026首波提名公布 岛内学者:郑丽文已具协调能力](https://m.163.com/news/article/KHK8BPV7055080L4.html)
 
-[雷神山医院原院长王行环被撤销政协委员](https://m.163.com/news/article/KHKGH77T0001899O.html)
+[男子信访被劝返收镇干部4300元路费获罪 二审驳回上诉](https://m.163.com/news/article/KHJ0L8140530WJIN.html)
+
+[独居老人凌晨去世 消失的手机在冰箱里卧室还格外整洁](https://m.163.com/news/article/KHD77FCN0512BEVO.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[南博镇馆之宝金兽被指"脱皮掉色"短期不展出 院方回应](https://m.163.com/news/article/KHKF9FK4053469M5.html)
+[朱孝天道歉:此前提及"国台办"相关言论与实际情况不符](https://m.163.com/news/article/KHLKKBLO051492LM.html)
 
 ---end---
