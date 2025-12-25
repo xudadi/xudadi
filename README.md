@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-25 14:34:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-25 14:59:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往某国有物业公司巴南工程维修岗位招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2738270)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某事业单位科研技术与项目技术招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2738979)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[陈芋汐谈被网暴经历 称与全红婵的友情不会被舆论左右](https://m.163.com/news/article/KHITAAL2053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑州中原保时捷中心疑闭店跑路 近两百名车主拉群维权](https://m.163.com/news/article/KHILC7DM05345ARG.html)
+[上海知名网红店人挤人低头拿面包 网友担心面包有病菌](https://m.163.com/news/article/KHKKR94E055040N3.html)
 
-[独居女子离世 上海市虹口区民政局担任其遗产管理人](https://m.163.com/news/article/KHIUU7NG0001899O.html)
+[南京博物馆镇馆之宝 99%含金量的"西汉金兽"掉色了](https://m.163.com/news/article/KHKDROQV05561G0D.html)
+
+[雷神山医院原院长王行环被撤销政协委员](https://m.163.com/news/article/KHKGH77T0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小伙坐68天公交从安徽到哈尔滨 跨越25座城花费1万多](https://m.163.com/news/article/KHISMNER0514D3UH.html)
+[南博镇馆之宝金兽被指"脱皮掉色"短期不展出 院方回应](https://m.163.com/news/article/KHKF9FK4053469M5.html)
 
 ---end---
