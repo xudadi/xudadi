@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-26 13:45:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-26 14:33:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某国有物业公司巴南工程维修岗位招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2739861)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市九龙坡区火炬小学校合同制教师招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2740338)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女生吃镇痛药成瘾吞下20多片 戒断后70个小时无法入睡](https://m.163.com/news/article/KHMKPFKG0514D9AO.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[火锅店腌制肉被指含20余种添加剂 二次加工过程不透明](https://m.163.com/news/article/KHLT628P0514D3UH.html)
+[13岁男孩遭老师掌掴致眼睛九级伤残 校方被判赔70.6万](https://m.163.com/news/article/KHN7F1VA05561G0D.html)
 
-[医学本科生一年发40多篇论文 业内人士：匪夷所思](https://m.163.com/news/article/KHLHEKLC053469LG.html)
+[钟南山妻子入选中国篮球名人堂 两人女儿是专业运动员](https://m.163.com/news/article/KHN4TI8T053469LG.html)
+
+[男子住院5天点48顿VIP餐续保被拒 一家三口想换换不了](https://m.163.com/news/article/KHN3A61M05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[蔡英文最新发声引热议 郑丽文讽：让赖清德芒刺在背](https://m.163.com/news/article/KHKQLPPN055080L4.html)
+[水井坊回应被收购传闻：报道不属实](https://m.163.com/news/article/KHMK15M80514R9P4.html)
 
 ---end---
