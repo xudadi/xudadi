@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-27 13:52:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-27 14:32:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学保卫处劳务派遣消防技术工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741175)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[新国大重庆研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741333)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[老人婚宴上被提醒孙女非亲生 做鉴定后忍3年忍不了了](https://m.163.com/news/article/KHO5V8K60001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[黑老大2名表超5千万成交 深圳原政法委书记是其保护伞](https://m.163.com/news/article/KHNURJ1800019B3E.html)
+[云南严肃问责142人 其中厅级16人、处级47人](https://m.163.com/news/article/KHPNPDI40530M570.html)
 
-[食堂承包商举报校领导2年拿走300多万现金 官方回应](https://m.163.com/news/article/KHNU5UJN0530M570.html)
+[郑丽文计划明年到访大陆：黄花岗起义纪念日不错](https://m.163.com/news/article/KHO8BTHV0514EGPO.html)
+
+[20家美国军工企业和10名企业高管被中方反制 名单公布](https://m.163.com/news/article/KHO6UBS90514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[特大"职业背债人"贷款诈骗案披露:300多人骗贷上千万元](https://m.163.com/news/article/KHO576GN051492LM.html)
+[中方反制美国对台军售 对美连发"三个停止"警告](https://m.163.com/news/article/KHNMPEGR0519DDQ2.html)
 
 ---end---
