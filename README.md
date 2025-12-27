@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-27 20:41:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-27 21:18:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [新国大重庆研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741333)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
+[中南大学59岁副校长郭学益被查 系长江学者特聘教授](https://m.163.com/news/article/KHPO2L090534A4SC.html)
+
 [云南严肃问责142人 其中厅级16人、处级47人](https://m.163.com/news/article/KHPNPDI40530M570.html)
 
-[郑丽文计划明年到访大陆：黄花岗起义纪念日不错](https://m.163.com/news/article/KHO8BTHV0514EGPO.html)
-
-[20家美国军工企业和10名企业高管被中方反制 名单公布](https://m.163.com/news/article/KHO6UBS90514R9OJ.html)
+[北京部分区域骑手成抢手资源 "转会费"最高奖励3000元](https://m.163.com/news/article/KHO482RL0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中方反制美国对台军售 对美连发"三个停止"警告](https://m.163.com/news/article/KHNMPEGR0519DDQ2.html)
+[原告被要求给被告支付拘留体检费 涉事法官被批评教育](https://m.163.com/news/article/KHO5GBP905561G0D.html)
 
 ---end---
