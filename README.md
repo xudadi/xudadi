@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-28 13:47:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-28 14:32:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [新国大重庆研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741333)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[四川原副省长叶寒冰被通报:长期出入私人会所聚餐饮酒](https://m.163.com/news/article/KHQEQL1I053469LG.html)
+[国务院拟放开放宽除个别超大城市外的落户限制](https://m.163.com/news/article/KHS86EOS05199NPP.html)
 
-[贯彻中央部署的重要委员会成立 王兴兴等获聘新职](https://m.163.com/news/article/KHRRJN8L0514R9KQ.html)
+[财政部：明年将推动相关公共服务随人走、可携带](https://m.163.com/news/article/KHS70G2L0534A4SC.html)
 
-[女子因朋友少谦卑求助网友:奶奶喜丧 能来送最后一程吗](https://m.163.com/news/article/KHQCODFB0534P59R.html)
+[实探封关后的海南三亚：消费者无法全岛"零关税"购物](https://m.163.com/news/article/KHS5GN860519DDQ2.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子戒毒后随领导出差被警察带走验尿 回家后工作没了](https://m.163.com/news/article/KHPUAJ2005561G0D.html)
+[财政部：明年财政将促进居民就业增收](https://m.163.com/news/article/KHS7D5D600018AOR.html)
 
 ---end---
