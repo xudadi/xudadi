@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-29 19:52:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-29 20:47:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[新国大重庆研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741333)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学附属第一医院“群峰计划”项目科研助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2742973)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[专家：解放军选择现在演习 背后是美台勾连"三个升级"](https://m.163.com/news/article/KHV0JMHU0512D3VJ.html)
 
 ["最快女护士"发新视频 官宣将参加东极抚远新年马拉松](https://m.163.com/news/article/KHUVLADJ053469LG.html)
 
 [成都警方再通报4S店燃爆事件："店方不退定金"不实](https://m.163.com/news/article/KHUQ7AQA0001899O.html)
 
-[视频：解放军台岛周边演习现场画面](https://m.163.com/news/article/KHUNTE9N0001899O.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[解放军举行围台军演 郑丽文：赖清德把自己的路走绝了](https://m.163.com/news/article/KHUJPC76055080L4.html)
+[视频：解放军台岛周边演习现场画面](https://m.163.com/news/article/KHUNTE9N0001899O.html)
 
 ---end---
