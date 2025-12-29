@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-29 14:36:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-29 15:02:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [新国大重庆研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2741333)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[茅台董事长：明年要让市场更"稳" 不再使用分销方式](https://m.163.com/news/article/KHTHCSVL0514R9P4.html)
+["最快女护士"发新视频 官宣将参加东极抚远新年马拉松](https://m.163.com/news/article/KHUVLADJ053469LG.html)
 
-[学者解读演习代号：强调解放军行动的正当性、合法性](https://m.163.com/news/article/KHUCCJSB0514R9OJ.html)
+[成都警方再通报4S店燃爆事件："店方不退定金"不实](https://m.163.com/news/article/KHUQ7AQA0001899O.html)
 
-[东部战区：军演是对"台独"和外部干涉势力的严重警告](https://m.163.com/news/article/KHU9FHCO000189PS.html)
+[视频：解放军台岛周边演习现场画面](https://m.163.com/news/article/KHUNTE9N0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[东部战区在台岛周边5个方位海域和空域进行军演](https://m.163.com/news/article/KHU996MG0001899O.html)
+[解放军举行围台军演 郑丽文：赖清德把自己的路走绝了](https://m.163.com/news/article/KHUJPC76055080L4.html)
 
 ---end---
