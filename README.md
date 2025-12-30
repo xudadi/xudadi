@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-31 01:46:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-31 02:32:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2025重庆长江轮船有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2743342)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女游客就餐时遭老板言语骚扰称"露丝袜免单" 警方通报](https://m.163.com/news/article/KI272A4F0534A4SC.html)
+[18年前女子在服装店被害 口中一块皮肤组织成破案关键](https://m.163.com/news/article/KI2EHEJG051492T3.html)
 
-[副局长婚内与异性开房 前妻向纪委举报其违规接受宴请](https://m.163.com/news/article/KI1VQE0S0514BE2Q.html)
+[年末恒大又有新动向：高尔夫球场将被拍卖起拍价1.5亿](https://m.163.com/news/article/KI2E0DLB0512B07B.html)
 
-[明年个人消费者购买4类产品 按产品价格的15%给予补贴](https://m.163.com/news/article/KI20B77H0534A4SC.html)
+[车主质疑步行街停车扫私人码缴费不合规 物业公司回应](https://m.163.com/news/article/KI20KGUP051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[港大发布严正声明：从未授权任何内地中介招生](https://m.163.com/news/article/KI1T3I2J0001899O.html)
+[汽车"国补"将调整为按比例补贴：购新能源车最高补12%](https://m.163.com/news/article/KI29IDFE0514R9P4.html)
 
 ---end---
