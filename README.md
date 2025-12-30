@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-30 13:48:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-30 14:34:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属第一医院“群峰计划”项目科研助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2742973)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[2025重庆长江轮船有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2743342)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[媒体：解放军围台军演 台军演练"集体逃亡"画面滑稽](https://m.163.com/news/article/KHVU495H055080L4.html)
 
 [媒体：解放军明显在为应对台海"最坏情况"做先期准备](https://m.163.com/news/article/KHVORQCO055080L4.html)
 
 [500万别墅空置遭邻居占用 地下室疑被撬锁沦为鸡鸭舍](https://m.163.com/news/article/KHVS39IF05345ARG.html)
 
-["黄河画家"徐惠君126平尺画作被人无意泼墨 本人发声](https://m.163.com/news/article/KHVLL3JJ053469LG.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[45岁女子遭邻居砍死 丈夫回家目睹因骨折无法施救](https://m.163.com/news/article/KHVJ1GMI053469LG.html)
+["黄河画家"徐惠君126平尺画作被人无意泼墨 本人发声](https://m.163.com/news/article/KHVLL3JJ053469LG.html)
 
 ---end---
