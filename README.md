@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-01 01:51:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-01 02:31:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆鈊渝金融租赁股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2745853)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
+[镇政府食堂拖欠蔬菜店近9万元 当事方：暂无解决办法](https://m.163.com/news/article/KI4G552K05561G0D.html)
+
+[38岁女主持人被"老头乐"撞倒离世 肇事人酒驾已被控制](https://m.163.com/news/article/KI4P8C8U0514D3UH.html)
+
 [中国芯片自主研发今年有新突破](https://m.163.com/news/article/KI4LTOIR000189PS.html)
-
-[中国经济总量今年预计达到140万亿元](https://m.163.com/news/article/KI4LPU0Q000189PS.html)
-
-[东部战区圆满完成正义使命2025演习](https://m.163.com/news/article/KI4I8HVE0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[解放军演习开始后 赖清德被指用装甲车巡逻护己周全](https://m.163.com/news/article/KI4E61AD0001899O.html)
+[中国经济总量今年预计达到140万亿元](https://m.163.com/news/article/KI4LPU0Q000189PS.html)
 
 ---end---
