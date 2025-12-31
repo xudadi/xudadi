@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-31 07:51:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-31 09:47:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2025重庆长江轮船有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2743342)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学微电子与通信工程学院科研团队劳务派遣工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2744654)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[18年前女子在服装店被害 口中一块皮肤组织成破案关键](https://m.163.com/news/article/KI2EHEJG051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[年末恒大又有新动向：高尔夫球场将被拍卖起拍价1.5亿](https://m.163.com/news/article/KI2E0DLB0512B07B.html)
+[罗永浩称患ADHD：若体能问题不改善 将不再办大型活动](https://m.163.com/news/article/KI3F6M6S053469LG.html)
 
-[车主质疑步行街停车扫私人码缴费不合规 物业公司回应](https://m.163.com/news/article/KI20KGUP051492T3.html)
+[东部战区围台军演 “越海杀器”震撼出鞘](https://m.163.com/news/article/KI3BCSRH0514R9OJ.html)
+
+[车被收费公司私自挪至收费车位 车主：电池底部有划伤](https://m.163.com/news/article/KI2DAFCS05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[汽车"国补"将调整为按比例补贴：购新能源车最高补12%](https://m.163.com/news/article/KI29IDFE0514R9P4.html)
+[18年前女子在服装店被害 口中一块皮肤组织成破案关键](https://m.163.com/news/article/KI2EHEJG051492T3.html)
 
 ---end---
