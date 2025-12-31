@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-31 13:48:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-31 14:34:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学微电子与通信工程学院科研团队劳务派遣工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2744654)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆市林业科学研究院劳务人员的招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2745217)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[罗永浩称患ADHD：若体能问题不改善 将不再办大型活动](https://m.163.com/news/article/KI3F6M6S053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[东部战区围台军演 “越海杀器”震撼出鞘](https://m.163.com/news/article/KI3BCSRH0514R9OJ.html)
+[患癌晚期寻女18年未果的杜金龙抱憾离世:眼睛都没闭上](https://m.163.com/news/article/KI3P2SJ6053469LG.html)
 
-[车被收费公司私自挪至收费车位 车主：电池底部有划伤](https://m.163.com/news/article/KI2DAFCS05561G0D.html)
+["1家5口被邻居杀害案"被告人撤回上诉 死刑判决正核准](https://m.163.com/news/article/KI3VTH68051492T3.html)
+
+[杭州一业主群来了豪气邻居 砸1600万给小区外立面升级](https://m.163.com/news/article/KI3U9SSE05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[18年前女子在服装店被害 口中一块皮肤组织成破案关键](https://m.163.com/news/article/KI2EHEJG051492T3.html)
+[全国育儿补贴发放超2400万人](https://m.163.com/news/article/KI3RMQGO000189PS.html)
 
 ---end---
