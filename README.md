@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2025-12-31 19:50:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2025-12-31 20:44:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市林业科学研究院劳务人员的招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2745217)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆鈊渝金融租赁股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2745853)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[患癌晚期寻女18年未果的杜金龙抱憾离世:眼睛都没闭上](https://m.163.com/news/article/KI3P2SJ6053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["1家5口被邻居杀害案"被告人撤回上诉 死刑判决正核准](https://m.163.com/news/article/KI3VTH68051492T3.html)
+[中国芯片自主研发今年有新突破](https://m.163.com/news/article/KI4LTOIR000189PS.html)
 
-[杭州一业主群来了豪气邻居 砸1600万给小区外立面升级](https://m.163.com/news/article/KI3U9SSE05561G0D.html)
+[中国经济总量今年预计达到140万亿元](https://m.163.com/news/article/KI4LPU0Q000189PS.html)
+
+[东部战区圆满完成正义使命2025演习](https://m.163.com/news/article/KI4I8HVE0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[全国育儿补贴发放超2400万人](https://m.163.com/news/article/KI3RMQGO000189PS.html)
+[解放军演习开始后 赖清德被指用装甲车巡逻护己周全](https://m.163.com/news/article/KI4E61AD0001899O.html)
 
 ---end---
