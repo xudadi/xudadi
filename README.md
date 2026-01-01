@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-02 02:31:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-02 02:57:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746155)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[岛内最新民调:高达63%的台湾人不愿自身或家人上战场](https://m.163.com/news/article/KI4HOHTT055080L4.html)
+[女子称奶奶去世公司不批假被逼离职 公司法人:害群之马](https://m.163.com/news/article/KI76NRLP0534P59R.html)
 
-[中国AI公司获巨额融资 现金储备超100亿元不着急上市](https://m.163.com/news/article/KI52KJ120512B07B.html)
+[男子1800元购物商家称单价少个0拒发货 法院:买家败诉](https://m.163.com/news/article/KI71MDPV05561G0D.html)
 
-[射击国家级教练因走私武器罪获刑10年 报关避开"枪"字](https://m.163.com/news/article/KI5AAKB8051492T3.html)
+[美国男子在武当山习武15年金发变黑发：没有染发](https://m.163.com/news/article/KI6UUITJ0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海女子掏空公司3500万养上百只猫：只能去牢里改造了](https://m.163.com/news/article/KI6DG65R0514R9OJ.html)
+[歼20飞越恒春上空台军没侦查到 台前空军副司令揭真相](https://m.163.com/news/article/KI6RPGI000019K82.html)
 
 ---end---
