@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-01 13:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-01 14:34:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆鈊渝金融租赁股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2745853)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746155)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[镇政府食堂拖欠蔬菜店近9万元 当事方：暂无解决办法](https://m.163.com/news/article/KI4G552K05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[38岁女主持人被"老头乐"撞倒离世 肇事人酒驾已被控制](https://m.163.com/news/article/KI4P8C8U0514D3UH.html)
+[岛内最新民调:高达63%的台湾人不愿自身或家人上战场](https://m.163.com/news/article/KI4HOHTT055080L4.html)
 
-[中国芯片自主研发今年有新突破](https://m.163.com/news/article/KI4LTOIR000189PS.html)
+[中国AI公司获巨额融资 现金储备超100亿元不着急上市](https://m.163.com/news/article/KI52KJ120512B07B.html)
+
+[射击国家级教练因走私武器罪获刑10年 报关避开"枪"字](https://m.163.com/news/article/KI5AAKB8051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国经济总量今年预计达到140万亿元](https://m.163.com/news/article/KI4LPU0Q000189PS.html)
+[上海女子掏空公司3500万养上百只猫：只能去牢里改造了](https://m.163.com/news/article/KI6DG65R0514R9OJ.html)
 
 ---end---
