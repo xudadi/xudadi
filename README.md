@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-02 13:55:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-02 14:35:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746155)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国家级射击女教练获刑 多省射击队购其走私的枪支配件](https://m.163.com/news/article/KI79FJRM05561G0D.html)
+[男子花500万建的别墅被邻居侵占养鸡鸭 邻居:能交租金](https://m.163.com/news/article/KI94FM3M053469LG.html)
 
-[女子称奶奶去世公司不批假被逼离职 公司法人:害群之马](https://m.163.com/news/article/KI76NRLP0534P59R.html)
+[跨年晚会女主持人穿上冬装 告别“美丽冻人”](https://m.163.com/news/article/KI94FM3I053469LG.html)
 
-[男子1800元购物商家称单价少个0拒发货 法院:买家败诉](https://m.163.com/news/article/KI71MDPV05561G0D.html)
+[夺冠第二天 "最快女护士"张水华受邀直播丈夫陪伴](https://m.163.com/news/article/KI94FM2J053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[美国男子在武当山习武15年金发变黑发：没有染发](https://m.163.com/news/article/KI6UUITJ0550B6IS.html)
+[洛阳博物馆一唐代陶马倒下断裂  馆方工作人员:正调查](https://m.163.com/news/article/KI91M09L053469LG.html)
 
 ---end---
