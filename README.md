@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-03 01:52:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-03 02:31:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746155)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子花500万建的别墅被邻居侵占养鸡鸭 邻居:能交租金](https://m.163.com/news/article/KI94FM3M053469LG.html)
+[男子花1.6万买奔驰保养套餐 用了不到一半4S店人去楼空](https://m.163.com/news/article/KIA6TRU60001899O.html)
 
-[跨年晚会女主持人穿上冬装 告别“美丽冻人”](https://m.163.com/news/article/KI94FM3I053469LG.html)
+[业主刚扔的垃圾又回到家门口 得知真相后其觉得被侮辱](https://m.163.com/news/article/KI9V0T7B0001899O.html)
 
-[夺冠第二天 "最快女护士"张水华受邀直播丈夫陪伴](https://m.163.com/news/article/KI94FM2J053469LG.html)
+[高速收费员全年为陌生人垫付10万过路费 司机全额归还](https://m.163.com/news/article/KI9QURCF0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[洛阳博物馆一唐代陶马倒下断裂  馆方工作人员:正调查](https://m.163.com/news/article/KI91M09L053469LG.html)
+[19岁女生独自跨越1700公里登上长城 哽咽背诗走红](https://m.163.com/news/article/KI9PK3C80550B6IS.html)
 
 ---end---
