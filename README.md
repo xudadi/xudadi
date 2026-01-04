@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-04 09:58:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-04 11:55:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国家电投集团重庆公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746155)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江新区人民医院劳务派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2746304)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子花1.6万买奔驰保养套餐 用了不到一半4S店人去楼空](https://m.163.com/news/article/KIA6TRU60001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[业主刚扔的垃圾又回到家门口 得知真相后其觉得被侮辱](https://m.163.com/news/article/KI9V0T7B0001899O.html)
+[雷军称小米汽车2026年交付目标55万辆 回应"小字营销"](https://m.163.com/news/article/KICUDADS0512B07B.html)
 
-[高速收费员全年为陌生人垫付10万过路费 司机全额归还](https://m.163.com/news/article/KI9QURCF0514R9OJ.html)
+[永州通报老板承诺夺冠每人奖台车却食言:企业面临困难](https://m.163.com/news/article/KID2650A0512B07B.html)
+
+[男子在小区当"勇士"第一个封窗 结果其他业主不干了](https://m.163.com/news/article/KIA6PVV10001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19岁女生独自跨越1700公里登上长城 哽咽背诗走红](https://m.163.com/news/article/KI9PK3C80550B6IS.html)
+[男子花1.6万买奔驰保养套餐 用了不到一半4S店人去楼空](https://m.163.com/news/article/KIA6TRU60001899O.html)
 
 ---end---
