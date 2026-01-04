@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-05 02:30:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-05 02:52:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆科学城走马中学校英语顶岗教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2747642)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[销售承诺买房送72万黄金未兑现 业主：我首付都是借的](https://m.163.com/news/article/KIEEL9VI0514R9OJ.html)
+[女网红流落柬埔寨街头 中使馆：已联系其家属准备接回](https://m.163.com/news/article/KIF80PSQ0514D3UH.html)
 
-[外交部：中方呼吁美方立即释放马杜罗总统和夫人](https://m.163.com/news/article/KIEDL40J0534A4SC.html)
+[双星鞋业84岁创始人宣布断绝父子关系:儿子抢公章夺权](https://m.163.com/news/article/KIF243FO051492T3.html)
 
-[多人追赶殴打疑似偷车贼致死获刑 有前科从犯被判10年](https://m.163.com/news/article/KIEB1RK8051492T3.html)
+[双星名人创始人父子决裂 父亲称被儿子扣工资借钱维生](https://m.163.com/news/article/KIEVUIUF053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["i茅台"连续4天秒空 茅台批发价再度跌破1499元](https://m.163.com/news/article/KIE2S96B0519DDQ2.html)
+[2026年新年首个工作日 中纪委连打4“虎”](https://m.163.com/news/article/KIEPS0MR05129QAF.html)
 
 ---end---
