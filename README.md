@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-05 19:52:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-05 20:49:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[巫山县林业局公开招聘森林消防专业队员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2748306)
+[重庆市永川区人民法院公开招聘聘用制书记员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2749045)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
