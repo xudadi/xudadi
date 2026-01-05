@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-06 01:53:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-06 02:34:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市永川区人民法院公开招聘聘用制书记员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2749045)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[校园情侣199元买"恋爱保险" 10年后结婚申领1万保金](https://m.163.com/news/article/KIGRF61O053469LG.html)
+[父母花84元网购测血糖"神奇手表" 儿子发现能测万物](https://m.163.com/news/article/KIHICOSR0514R9OJ.html)
 
-[小区数百户住宅被注册成企业 业主担心被卷入违法犯罪](https://m.163.com/news/article/KIGRF60J053469LG.html)
+[女子0.1元打网约车打到保时捷卡宴：太炸裂了](https://m.163.com/news/article/KIHGJDSN053469LG.html)
 
-[宇树放出H2机器人新训练视频：腾空侧踢"逼退"王兴兴](https://m.163.com/news/article/KIGQ912T0534A4SC.html)
+[男子3年给女友转账190万连面都没见上 相识时女方16岁](https://m.163.com/news/article/KIHNMMOO055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小鹏汽车高层再现变动：传副总裁陈永海离职](https://m.163.com/news/article/KIGNO7790514R9OJ.html)
+[8件文玩字画寄存文物商店后失踪 店家：库房没有](https://m.163.com/news/article/KIHGH1KP05561G0D.html)
 
 ---end---
