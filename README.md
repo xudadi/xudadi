@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-05 14:40:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-05 15:16:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆科学城走马中学校英语顶岗教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2747642)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[巫山县林业局公开招聘森林消防专业队员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2748306)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女网红流落柬埔寨街头 中使馆：已联系其家属准备接回](https://m.163.com/news/article/KIF80PSQ0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[双星鞋业84岁创始人宣布断绝父子关系:儿子抢公章夺权](https://m.163.com/news/article/KIF243FO051492T3.html)
+[校园情侣199元买"恋爱保险" 10年后结婚申领1万保金](https://m.163.com/news/article/KIGRF61O053469LG.html)
 
-[双星名人创始人父子决裂 父亲称被儿子扣工资借钱维生](https://m.163.com/news/article/KIEVUIUF053469LG.html)
+[小区数百户住宅被注册成企业 业主担心被卷入违法犯罪](https://m.163.com/news/article/KIGRF60J053469LG.html)
 
-[3](https://www.163.com/dy/article/KIEDV27J0556BRHI.html)
+[宇树放出H2机器人新训练视频：腾空侧踢"逼退"王兴兴](https://m.163.com/news/article/KIGQ912T0534A4SC.html)
 
-[2026年新年首个工作日 中纪委连打4“虎”](https://m.163.com/news/article/KIEPS0MR05129QAF.html)
+[3](https://m.163.com/touch/news/sub/domestic)
+
+[小鹏汽车高层再现变动：传副总裁陈永海离职](https://m.163.com/news/article/KIGNO7790514R9OJ.html)
 
 ---end---
