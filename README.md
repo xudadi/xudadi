@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-06 13:55:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-06 14:35:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市永川区人民法院公开招聘聘用制书记员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2749045)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[九龙坡区蟠龙小学2026年第1次合同制教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2749670)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[父母花84元网购测血糖"神奇手表" 儿子发现能测万物](https://m.163.com/news/article/KIHICOSR0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子0.1元打网约车打到保时捷卡宴：太炸裂了](https://m.163.com/news/article/KIHGJDSN053469LG.html)
+["马茅"上市首日遭热炒 1899元基础款黄牛喊价3000元](https://m.163.com/news/article/KIJDF0MV0519DDQ2.html)
 
-[男子3年给女友转账190万连面都没见上 相识时女方16岁](https://m.163.com/news/article/KIHNMMOO055040N3.html)
+[2026年全国广播电视工作会议：推动微短剧精品化发展](https://m.163.com/news/article/KIJEKP9D05198CJN.html)
+
+[新生儿剪脐带时被剪断手指 官方通报](https://m.163.com/news/article/KIJ5IV460516BU8U.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[8件文玩字画寄存文物商店后失踪 店家：库房没有](https://m.163.com/news/article/KIHGH1KP05561G0D.html)
+[距开庭时间已过去两年 "兰州瓜农刺死城管"案一审宣判](https://m.163.com/news/article/KIJ9VJ8M0001899O.html)
 
 ---end---
