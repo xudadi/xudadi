@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-07 19:52:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-07 20:48:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市教科院巴蜀实验学校教师招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2750908)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市九龙坡区实幼石桥铺园招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2751630)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中建三局被指拖欠18名工人41万工资5个月 负责人回应](https://m.163.com/news/article/KIM47MAM05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[许家印再被执行4700万 被执行总金额超30亿](https://m.163.com/news/article/KIM0JOSQ05345ARG.html)
+[20岁女生治疗精神病出院后坠亡 坠亡前想住院治疗被拒](https://m.163.com/news/article/KIMGQHPO05561G0D.html)
 
-[老人为救孙砍伤醉汉服刑 认定"正当防卫"后获国赔17万](https://m.163.com/news/article/KIKFVSAG0514D3UH.html)
+[新修订殡葬条例公布：遏制过高收费](https://m.163.com/news/article/KIMFN5N8000189PS.html)
+
+["1盒内存条堪比上海1套房"上热搜 业内人士：1天1个价](https://m.163.com/news/article/KIM8BOQ405199NPP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子凌晨打车嫌98元车费太贵 和的哥在派出所耗到天亮](https://m.163.com/news/article/KIM023ML0514R9OJ.html)
+[媒体:民进党为突破僵局推动"绿白合" 柯文哲不能犯浑](https://m.163.com/news/article/KILTU8A1055080L4.html)
 
 ---end---
