@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-07 07:51:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-07 09:48:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中新互联互通投资基金管理有限公司2026年上半年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2750461)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆水利电力职业技术学院高层次人才长期招聘简章(更正) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2750621)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[麻雀"定居"游泳馆内近一年：一直有投喂 无法捕获放生](https://m.163.com/news/article/KIIRCBEA05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["马茅"上市首日遭热炒 1899元基础款黄牛喊价3000元](https://m.163.com/news/article/KIJDF0MV0519DDQ2.html)
+[计划投放KOL遭粉丝抵制 小米发布处罚通报](https://m.163.com/news/article/KIKLAEEH053469KC.html)
 
-[2026年全国广播电视工作会议：推动微短剧精品化发展](https://m.163.com/news/article/KIJEKP9D05198CJN.html)
+[上错车引冲突 车主被殴打后开车撞碾致1死1伤获死缓](https://m.163.com/news/article/KIK2Q5OR051492T3.html)
+
+[中铁建工集团欠1193万拿广州6套房抵 债权方:还亏188万](https://m.163.com/news/article/KIK6LHRI0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[新生儿剪脐带时被剪断手指 官方通报](https://m.163.com/news/article/KIJ5IV460516BU8U.html)
+[女子做产后康复被忽悠做天价按摩 3小时花了68000元](https://m.163.com/news/article/KIKDDR4N0534P59R.html)
 
 ---end---
