@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-08 19:53:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-08 20:49:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某单位行政后勤综合岗的招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2752255)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆人力”所属企业飞驶特公司招聘派往某单位工艺岗 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2752974)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子花3万请网红带货：下599单仅成交4单收入700元](https://m.163.com/news/article/KILVICOS0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国内多条航线机票价格“大跳水” 1折机票来了](https://m.163.com/news/article/KIOELIHC0514R9OJ.html)
+[万科旗下公司清退深圳亏损房源 涉及房源约为三四万间](https://m.163.com/news/article/KIP66Q1D05199DKK.html)
 
-[起底太子集团创始人陈志](https://m.163.com/news/article/KIOFBDEK0514BE2Q.html)
+[锂电池产业非理性竞争 宁德时代、比亚迪等企业被警示](https://m.163.com/news/article/KIP5VB1L0534A4SC.html)
+
+[中国石油化工集团有限公司与中国航空油料集团有限公司实施重组](https://m.163.com/news/article/KIP5JGLC0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[退休官员王明晏被查 曾任北京奥组委行政部处长](https://m.163.com/news/article/KIOEN56E0001899O.html)
+[被判赔偿220万元 海底捞"小便门"当事人登报道歉](https://m.163.com/news/article/KIOD9US5055040N3.html)
 
 ---end---
