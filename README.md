@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-08 07:52:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-08 09:49:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区实幼石桥铺园招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2751630)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至招商局检测车辆技术研究院有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2751935)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[20岁女生治疗精神病出院后坠亡 坠亡前想住院治疗被拒](https://m.163.com/news/article/KIMGQHPO05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[新修订殡葬条例公布：遏制过高收费](https://m.163.com/news/article/KIMFN5N8000189PS.html)
+[雷军回应"营销大师"标签:现在听到营销两字都有点恶心](https://m.163.com/news/article/KINA4BID0512B07B.html)
 
-["1盒内存条堪比上海1套房"上热搜 业内人士：1天1个价](https://m.163.com/news/article/KIM8BOQ405199NPP.html)
+[三兄弟连续11年给家乡老人发放救助金 累计发600多万](https://m.163.com/news/article/KIMUAPTJ053469LG.html)
+
+[和府捞面再陷预制菜风波：浇头汤底都是袋装](https://m.163.com/news/article/KIMRS5AL0511U82T.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体:民进党为突破僵局推动"绿白合" 柯文哲不能犯浑](https://m.163.com/news/article/KILTU8A1055080L4.html)
+[3人穿越"小鳌太"遇难 有人把鳌太线5千罚款当"门票"](https://m.163.com/news/article/KIMRS8370534P59R.html)
 
 ---end---
