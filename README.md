@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-09 20:47:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-09 21:38:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区沙滨幼儿园·寻光分园编外教职工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2753314)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆双福农产品批发市场有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2754245)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郁亮到龄退休35年万科生涯结束 8年前曾喊出"活下去"](https://m.163.com/news/article/KIPDFCIV05129QAF.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[车费89元索要92元还吼游客 沈阳"假出租车"能开真发票](https://m.163.com/news/article/KIP5M13D05561G0D.html)
+[年终奖领导30万员工1万 员工直播控诉遭殴打:已被停职](https://m.163.com/news/article/KIRRMFSU051492T3.html)
 
-[10岁抗癌"王子"病情恶化 家人"放弃治疗"孩子憧憬出院](https://m.163.com/news/article/KIPBMLPM05561G0D.html)
+[海底捞"尿不湿入锅"事件后 涉事店生意冷清仅几桌用餐](https://m.163.com/news/article/KIRMH94405561G0D.html)
+
+[10岁抗癌"小王子"病情加重：用药都已无效 不能吃饭](https://m.163.com/news/article/KIRL6P0V053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大爷拍"素颜巴黎"火了：欧洲行费用1万多 不会说英语](https://m.163.com/news/article/KIP7AF65053469LG.html)
+[南京理工大学回应"高数成绩落后家长陪读"](https://m.163.com/news/article/KIRHOV510001899O.html)
 
 ---end---
