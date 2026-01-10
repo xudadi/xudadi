@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-11 02:30:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-11 02:53:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆双福农产品批发市场有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2754245)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
+[男子精神分裂砍死同学的弟弟 第二次精神鉴定结果变了](https://m.163.com/news/article/KIUJ9MNS051492T3.html)
+
+[宜家宣布将关7家店 有人"打卡"告别](https://m.163.com/news/article/KIUEJ0II051492T3.html)
+
 [上海男子进不了门有家难回崩溃求救 网友狠狠共情了](https://m.163.com/news/article/KIU88H7C0514R9OJ.html)
-
-[“死了么”App爆火 开发者回应](https://m.163.com/news/article/KIU44D8A05561G0D.html)
-
-[1年夺8冠的30岁健美冠军猝死 其师父去年死于心脏骤停](https://m.163.com/news/article/KIS2STMG0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子花600万买340平别墅铺上"古堡灰" 结果感觉不对劲](https://m.163.com/news/article/KITV3BSK0001899O.html)
+[海南上演追尾"神剧情" 酒驾司机撞的"受害者"也是酒驾](https://m.163.com/news/article/KIU8871E0514R9OJ.html)
 
 ---end---
