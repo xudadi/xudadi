@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-12 02:30:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-12 02:56:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆双福农产品批发市场有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2754245)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[居民醒来发现防盗窗上"趴着"百元大钞 边感叹边报警](https://m.163.com/news/article/KJ13D1Q10514R9OJ.html)
+[中国U23男足战胜澳大利亚队 距亚洲杯出线一步之遥](https://m.163.com/news/article/KJ18RFSG053469LG.html)
 
-[中央戏剧学院发声：否认闫学晶之子就读"中戏新疆班"](https://m.163.com/news/article/KJ12793K0001899O.html)
+[霍启刚公开个人财产：多项房产为其与郭晶晶共同持有](https://m.163.com/news/article/KJ1ACH530550B6IS.html)
 
-[女子称取240万元"给外甥当彩礼" 外甥：根本没有对象](https://m.163.com/news/article/KJ11IC1400019SNS.html)
+[老板为给唐仁健庆生 清空酒店大楼供其亲友团连玩3天](https://m.163.com/news/article/KJ1AB38G051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[《我不是药神》原型陆勇时隔5年重返印度](https://m.163.com/news/article/KJ0SMR90051492T3.html)
+[闫学晶就"哭穷"争议发文致歉：习惯被人捧着却忘了本](https://m.163.com/news/article/KJ18BC72051492T3.html)
 
 ---end---
