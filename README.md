@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-13 19:53:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-13 20:50:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学微电子与通信工程学院诚邀海内外英才加盟 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2756972)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆人力所属企业飞驶特公司招聘外派至招商局重庆交通科研设计院有限公司硬件开发工程师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2757924)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[蔡依林演唱会被举报"搞邪教仪式" 30米机械蛇等引争议](https://m.163.com/news/article/KJ30ANCA05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上千网友帮女孩杀猪 主厨：这么多张嘴挂身上压力太大](https://m.163.com/news/article/KJ304HIM053469LG.html)
+[蒋超良被商人渗透式"围猎"：对方拿60万给其保姆买房](https://m.163.com/news/article/KJ694DV10514R9OJ.html)
 
-[22岁女医学生遭前男友杀害 临终遗言：我没有对不起你](https://m.163.com/news/article/KJ2S07SB05561G0D.html)
+[香港女学生为还10万港元卡债赴内地"假结婚" 官方发声](https://m.163.com/news/article/KJ65K2A00512B07B.html)
+
+[海底捞董事会迎来调整：张勇兼任CEO 多位新面孔亮相](https://m.163.com/news/article/KJ65LJTQ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上马8项目7个停摆 唐仁健:西部农民生活艰苦我很自责](https://m.163.com/news/article/KJ18G94L05561G0D.html)
+[官方通报贵州省博文物丢失或被盗：成立联合调查组](https://m.163.com/news/article/KJ65DIA00001899O.html)
 
 ---end---
