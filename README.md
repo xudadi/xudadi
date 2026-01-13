@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-13 13:54:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-13 14:35:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝高中学校2026年招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2756243)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学微电子与通信工程学院诚邀海内外英才加盟 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2756972)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[蔡依林演唱会被举报"搞邪教仪式" 30米机械蛇等引争议](https://m.163.com/news/article/KJ30ANCA05345ARG.html)
 
 [上千网友帮女孩杀猪 主厨：这么多张嘴挂身上压力太大](https://m.163.com/news/article/KJ304HIM053469LG.html)
 
 [22岁女医学生遭前男友杀害 临终遗言：我没有对不起你](https://m.163.com/news/article/KJ2S07SB05561G0D.html)
 
-[上马8项目7个停摆 唐仁健:西部农民生活艰苦我很自责](https://m.163.com/news/article/KJ18G94L05561G0D.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[闫学晶和儿子接连道歉 儿子连说两遍"娘的错儿子担"](https://m.163.com/news/article/KJ30FSAN0001899O.html)
+[上马8项目7个停摆 唐仁健:西部农民生活艰苦我很自责](https://m.163.com/news/article/KJ18G94L05561G0D.html)
 
 ---end---
