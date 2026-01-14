@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-14 19:45:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-14 20:49:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工信职业学院2026年非编工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2758593)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往重庆医疗器械质量检验中心招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2759342)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["北京退休人员产检也可报销"引热议 专家发声](https://m.163.com/news/article/KJ6ETQRT051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[民营医院为骗保"围猎"不同层级领导 9名公职人员沦陷](https://m.163.com/news/article/KJ6D6GGE0530M570.html)
+[宜家否认"撤离中国"：未来2年内将开设超10家小型门店](https://m.163.com/news/article/KJ8RKO2105129QAF.html)
 
-[深圳"望郎归"片区13日起封闭 2天前曾有游客徒步遇难](https://m.163.com/news/article/KJ6C2VTF0530JPVV.html)
+[夫妻开车夜行高速遭男子拦车 对方拍打玻璃大喊"救命"](https://m.163.com/news/article/KJ829F5F053469LG.html)
+
+[博士学历女厅官袭燕被双开：违规收受礼金、消费卡](https://m.163.com/news/article/KJ8J9ME5051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[落马副部培植"小圈子"：中专学历亲戚成了公司董事长](https://m.163.com/news/article/KJ6CCKU60514R9P4.html)
+[媒体梳理：去年国内狂犬病发病及死亡数创五年内新高](https://m.163.com/news/article/KJ8KT7JT0534A4SC.html)
 
 ---end---
