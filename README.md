@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-14 07:51:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-14 09:53:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆人力所属企业飞驶特公司招聘外派至招商局重庆交通科研设计院有限公司硬件开发工程师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2757924)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至某国有企业党务专员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2758023)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[蒋超良被商人渗透式"围猎"：对方拿60万给其保姆买房](https://m.163.com/news/article/KJ694DV10514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港女学生为还10万港元卡债赴内地"假结婚" 官方发声](https://m.163.com/news/article/KJ65K2A00512B07B.html)
+["北京退休人员产检也可报销"引热议 专家发声](https://m.163.com/news/article/KJ6ETQRT051492T3.html)
 
-[海底捞董事会迎来调整：张勇兼任CEO 多位新面孔亮相](https://m.163.com/news/article/KJ65LJTQ053469LG.html)
+[民营医院为骗保"围猎"不同层级领导 9名公职人员沦陷](https://m.163.com/news/article/KJ6D6GGE0530M570.html)
+
+[深圳"望郎归"片区13日起封闭 2天前曾有游客徒步遇难](https://m.163.com/news/article/KJ6C2VTF0530JPVV.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方通报贵州省博文物丢失或被盗：成立联合调查组](https://m.163.com/news/article/KJ65DIA00001899O.html)
+[落马副部培植"小圈子"：中专学历亲戚成了公司董事长](https://m.163.com/news/article/KJ6CCKU60514R9P4.html)
 
 ---end---
