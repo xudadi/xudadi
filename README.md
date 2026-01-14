@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-14 13:49:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-14 14:35:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至某国有企业党务专员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2758023)
+[重庆工信职业学院2026年非编工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2758593)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
