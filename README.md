@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-15 01:57:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-15 02:42:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司派往重庆医疗器械质量检验中心招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2759342)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[宜家否认"撤离中国"：未来2年内将开设超10家小型门店](https://m.163.com/news/article/KJ8RKO2105129QAF.html)
+[与辉同行83元3只的"皖西麻黄鸡"遭打假 产业协会发声](https://m.163.com/news/article/KJ90HGEC0512B07B.html)
 
-[夫妻开车夜行高速遭男子拦车 对方拍打玻璃大喊"救命"](https://m.163.com/news/article/KJ829F5F053469LG.html)
+[物业公司为抢业务"带资超百万进场" "抢盘大战"非个例](https://m.163.com/news/article/KJ90HGB20512B07B.html)
 
-[博士学历女厅官袭燕被双开：违规收受礼金、消费卡](https://m.163.com/news/article/KJ8J9ME5051492T3.html)
+[观致汽车常熟工厂二拍起拍价8.6亿 姚振华:系80亿资产](https://m.163.com/news/article/KJ8TIAIJ0511U82T.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体梳理：去年国内狂犬病发病及死亡数创五年内新高](https://m.163.com/news/article/KJ8KT7JT0534A4SC.html)
+[姚前用"马甲账户"收虚拟币买别墅 别墅还没装好就被抓](https://m.163.com/news/article/KJ8U2T1F0534A4SC.html)
 
 ---end---
