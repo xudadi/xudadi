@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-15 20:48:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-15 21:40:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业重庆人才服务股份有限公司招聘派往重庆经开区物业管理有限公司客服人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2759817)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市2026年度从优秀村(社区)干部中考试录用公务员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2760800)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[蔡琴演唱会部分门票送茅台 每瓶价格超1500元已售罄](https://m.163.com/news/article/KJAJHDB0053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[裁判文书上网隐去法官姓名 被指"破了几十年的规矩"](https://m.163.com/news/article/KJAJ08CI0514BE2Q.html)
+["死了么"APP创始人:目标用户是五地超25岁的独居群体](https://m.163.com/news/article/KJB84U4M053469LG.html)
 
-[北京女子在超市6次盗窃车厘子被刑拘 其做法务收入高](https://m.163.com/news/article/KJAH9HCT05561G0D.html)
+[贺娇龙离世前几天仍在宣传新疆 曾称自己也想去美容院](https://m.163.com/news/article/KJB19P5S0550A0OW.html)
+
+[央行发布一批货币金融政策 降准降息仍有空间](https://m.163.com/news/article/KJB7055F0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[聂卫平10多年前做直肠癌手术瘦40斤:我怎么能听天由命](https://m.163.com/news/article/KJAGEMBB053469LG.html)
+[香港大埔火灾死亡人数增至168人](https://m.163.com/news/article/KJB87ND5000189PS.html)
 
 ---end---
