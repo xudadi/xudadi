@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-15 14:36:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-15 15:02:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆医疗器械质量检验中心招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2759342)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业重庆人才服务股份有限公司招聘派往重庆经开区物业管理有限公司客服人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2759817)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[聂卫平病逝细节：曾经患癌 去年突发脑梗昏迷12天](https://m.163.com/news/article/KJA6ILH905129QAF.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[聂卫平家属发讣告: 围棋界巨大损失](https://m.163.com/news/article/KJA5VR230001899O.html)
+[蔡琴演唱会部分门票送茅台 每瓶价格超1500元已售罄](https://m.163.com/news/article/KJAJHDB0053469LG.html)
 
-[聂卫平女儿悼念父亲：为什么上天这样无情](https://m.163.com/news/article/KJA4SPBO053469LG.html)
+[裁判文书上网隐去法官姓名 被指"破了几十年的规矩"](https://m.163.com/news/article/KJAJ08CI0514BE2Q.html)
+
+[北京女子在超市6次盗窃车厘子被刑拘 其做法务收入高](https://m.163.com/news/article/KJAH9HCT05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贺娇龙意外坠马头部重伤离世 最后一条朋友圈与马有关](https://m.163.com/news/article/KJ9C90EO051492T3.html)
+[聂卫平10多年前做直肠癌手术瘦40斤:我怎么能听天由命](https://m.163.com/news/article/KJAGEMBB053469LG.html)
 
 ---end---
