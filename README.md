@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-16 13:54:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-16 14:35:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市2026年度从优秀村(社区)干部中考试录用公务员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2760800)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往中国人寿重庆市分公司业务服务人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2761132)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["死了么"APP创始人:目标用户是五地超25岁的独居群体](https://m.163.com/news/article/KJB84U4M053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贺娇龙离世前几天仍在宣传新疆 曾称自己也想去美容院](https://m.163.com/news/article/KJB19P5S0550A0OW.html)
+[车主称4S店只卖套餐不给单换：刹车油线下价是线上3倍](https://m.163.com/news/article/KJASRBD60514D3UH.html)
 
-[央行发布一批货币金融政策 降准降息仍有空间](https://m.163.com/news/article/KJB7055F0514R9P4.html)
+[东北多趟高铁车次带"雪"字 官方：可携带雪具上车](https://m.163.com/news/article/KJBJ3UL1053469LG.html)
+
+[电信用户称在家手机网速远低于套餐标注:苏超都没法看](https://m.163.com/news/article/KJBF3PF4051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[香港大埔火灾死亡人数增至168人](https://m.163.com/news/article/KJB87ND5000189PS.html)
+[聂卫平38年前获颁"棋圣"证书 曾坦言非常不安了几十年](https://m.163.com/news/article/KJB5HTVP0550B6IS.html)
 
 ---end---
