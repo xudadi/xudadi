@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-17 19:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-17 20:41:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室谢鹏教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762301)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学城人民小学招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762502)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[罗永浩、贾国龙微博账号均被禁言](https://m.163.com/news/article/KJE7R3KT05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[嫣然天使儿童医院陷"欠租风波" 18万网友2天捐款900万](https://m.163.com/news/article/KJE7UNFK053469LG.html)
+[深圳水贝和诚行银楼被指"跑路" 有商户称损失超过30万](https://m.163.com/news/article/KJGEP82L051492T3.html)
 
-[上海车主遭遇"罗生门" 68升油箱加了74升油](https://m.163.com/news/article/KJE61I3S0001899O.html)
+[美舰船过航台湾海峡 东部战区：全程跟监警戒](https://m.163.com/news/article/KJGCGV4E0001899O.html)
+
+[区民政局副局长"靠老欺老"：8年侵吞公共财物1257万](https://m.163.com/news/article/KJFB92HQ0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[渔船在渤海海峡失联：卫星信号消失 5名渔民杳无音讯](https://m.163.com/news/article/KJE5IE73051492T3.html)
+[计划投资上亿元 湖南常德一大桥停工沦为"摆设"六七年](https://m.163.com/news/article/KJDAK7U80514TTN3.html)
 
 ---end---
