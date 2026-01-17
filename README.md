@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-17 14:57:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-17 15:25:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [金凤实验室谢鹏教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762301)
 
