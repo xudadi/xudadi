@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-18 02:29:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-18 02:52:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学城人民小学招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762502)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[深圳水贝和诚行银楼被指"跑路" 有商户称损失超过30万](https://m.163.com/news/article/KJGEP82L051492T3.html)
+[内存条价格翻倍暴涨 商家：明天什么价没人知道](https://m.163.com/news/article/KJGOQFE80512B07B.html)
 
-[美舰船过航台湾海峡 东部战区：全程跟监警戒](https://m.163.com/news/article/KJGCGV4E0001899O.html)
+[河南将迎大范围暴雪 国家防减救灾办派出工作组赴河南](https://m.163.com/news/article/KJGM9T8K0514R9OJ.html)
 
-[区民政局副局长"靠老欺老"：8年侵吞公共财物1257万](https://m.163.com/news/article/KJFB92HQ0514BE2Q.html)
+[公司今年涨20元月薪给员工发致歉信 已连续37年涨薪](https://m.163.com/news/article/KJGLGH9L0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[计划投资上亿元 湖南常德一大桥停工沦为"摆设"六七年](https://m.163.com/news/article/KJDAK7U80514TTN3.html)
+[江苏9辆退役警车公开拍卖：起拍价9元 成交价51009元](https://m.163.com/news/article/KJGLD2LI0001899O.html)
 
 ---end---
