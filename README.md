@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-19 02:29:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-19 02:51:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [中冶堃元（重庆）金属材料研究院有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762652)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[内存条价格翻倍暴涨 商家：明天什么价没人知道](https://m.163.com/news/article/KJGOQFE80512B07B.html)
+[“天安门墙绘”创作者获赠五菱汽车 当事人回应](https://m.163.com/news/article/KJJ5M5NM053469LG.html)
 
-[河南将迎大范围暴雪 国家防减救灾办派出工作组赴河南](https://m.163.com/news/article/KJGM9T8K0514R9OJ.html)
+[包钢分厂爆炸震碎10公里外玻璃门 商户：听到一声响](https://m.163.com/news/article/KJJ524C8053469LG.html)
 
-[公司今年涨20元月薪给员工发致歉信 已连续37年涨薪](https://m.163.com/news/article/KJGLGH9L0514D3UH.html)
+[涮火锅的牛肉丸牛肉含量让人挠头 男子称遇丸子"刺客"](https://m.163.com/news/article/KJJ2PP5I05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏9辆退役警车公开拍卖：起拍价9元 成交价51009元](https://m.163.com/news/article/KJGLD2LI0001899O.html)
+[投入6.78亿元 清华大学自筹资金改造12栋学生公寓楼](https://m.163.com/news/article/KJIR6UKL0512B07B.html)
 
 ---end---
