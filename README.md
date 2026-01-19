@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-19 07:51:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-19 09:55:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中冶堃元（重庆）金属材料研究院有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762652)
+[重庆机电控股（集团）公司所属西南计算机有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2762765)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
