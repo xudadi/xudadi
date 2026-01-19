@@ -13,17 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-19 22:28:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[和济小学语文教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764301)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+## Xudadi的每日更新(更新时间:2026-01-19 22:55:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [高校通报"食堂花生米黄曲霉毒素超标11倍":学生未食用](https://m.163.com/news/article/KJL7H2OG05561G0D.html)
 
