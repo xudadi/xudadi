@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-19 19:55:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-19 20:52:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往某事业单位财务会计岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2763325)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[和济小学语文教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764301)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[“天安门墙绘”创作者获赠五菱汽车 当事人回应](https://m.163.com/news/article/KJJ5M5NM053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[包钢分厂爆炸震碎10公里外玻璃门 商户：听到一声响](https://m.163.com/news/article/KJJ524C8053469LG.html)
+[高校通报"食堂花生米黄曲霉毒素超标11倍":学生未食用](https://m.163.com/news/article/KJL7H2OG05561G0D.html)
 
-[涮火锅的牛肉丸牛肉含量让人挠头 男子称遇丸子"刺客"](https://m.163.com/news/article/KJJ2PP5I05345ARG.html)
+[投资铜条1公斤280元 网友再也不敢叫"破铜烂铁"了](https://m.163.com/news/article/KJL0DUAQ0519DFFO.html)
+
+[李亚鹏不享有嫣然医院经济回报](https://m.163.com/news/article/KJLBFDLQ0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[投入6.78亿元 清华大学自筹资金改造12栋学生公寓楼](https://m.163.com/news/article/KJIR6UKL0512B07B.html)
+[太原一网红餐厅被指圈养鲨鱼企鹅供观赏 当地回应](https://m.163.com/news/article/KJL68PAC053469M5.html)
 
 ---end---
