@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-20 07:54:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-20 09:50:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[和济小学语文教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764301)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[万盛幼儿园教师招聘方案 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764448)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[高校通报"食堂花生米黄曲霉毒素超标11倍":学生未食用](https://m.163.com/news/article/KJL7H2OG05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[投资铜条1公斤280元 网友再也不敢叫"破铜烂铁"了](https://m.163.com/news/article/KJL0DUAQ0519DFFO.html)
+[1月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/KJN3599S0001899O.html)
 
-[李亚鹏不享有嫣然医院经济回报](https://m.163.com/news/article/KJLBFDLQ0001899O.html)
+[著名相声表演艺术家杨振华逝世](https://m.163.com/news/article/KJMUN4CV0001899O.html)
+
+[31岁新疆舞蹈老师因罕见病去世 从确诊到离世仅2个月](https://m.163.com/news/article/KJKSM7O2051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[太原一网红餐厅被指圈养鲨鱼企鹅供观赏 当地回应](https://m.163.com/news/article/KJL68PAC053469M5.html)
+[高一学生因带手机被停课一个月 教育局：有一定合理性](https://m.163.com/news/article/KJLNPP7Q05561G0D.html)
 
 ---end---
