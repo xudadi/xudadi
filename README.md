@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-20 19:57:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-20 21:01:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆第二师范学院直属幼儿园教职工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764585)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学自动化学院智慧系统团队劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2765598)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[重马一跑者倒地去世 跑友：他在跑圈被称为"破三大神"](https://m.163.com/news/article/KJNJDFA4051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多人赶往嫣然医院捐款 有捐助者现场抱着工作人员哭泣](https://m.163.com/news/article/KJNKNQFV05561G0D.html)
+[卖了3199万元 德信集团董事长杭州豪宅被拍卖抵债](https://m.163.com/news/article/KJO2R1K1051492T3.html)
 
-[大伯晨练在公园发现年轻女尸 29年后警方公布案件详情](https://m.163.com/news/article/KJNKJ6V000019K82.html)
+[中国足协：将建立球迷黑名单制度](https://m.163.com/news/article/KJNVOH7805346RC6.html)
+
+[重马"破三"选手终点附近倒地离世 业内人士：切勿透支](https://m.163.com/news/article/KJNVI5PH05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[嫣然天使基金发声：会珍惜并妥善使用善款](https://m.163.com/news/article/KJNK70DM0001899O.html)
+[国乒多人离队 总教练秦志戬回应](https://m.163.com/news/article/KJNV707F05299A2L.html)
 
 ---end---
