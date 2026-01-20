@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-20 13:52:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-20 14:38:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[万盛幼儿园教师招聘方案 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764448)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆第二师范学院直属幼儿园教职工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2764585)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[1月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/KJN3599S0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[著名相声表演艺术家杨振华逝世](https://m.163.com/news/article/KJMUN4CV0001899O.html)
+[重马一跑者倒地去世 跑友：他在跑圈被称为"破三大神"](https://m.163.com/news/article/KJNJDFA4051492T3.html)
 
-[31岁新疆舞蹈老师因罕见病去世 从确诊到离世仅2个月](https://m.163.com/news/article/KJKSM7O2051492T3.html)
+[多人赶往嫣然医院捐款 有捐助者现场抱着工作人员哭泣](https://m.163.com/news/article/KJNKNQFV05561G0D.html)
+
+[大伯晨练在公园发现年轻女尸 29年后警方公布案件详情](https://m.163.com/news/article/KJNKJ6V000019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高一学生因带手机被停课一个月 教育局：有一定合理性](https://m.163.com/news/article/KJLNPP7Q05561G0D.html)
+[嫣然天使基金发声：会珍惜并妥善使用善款](https://m.163.com/news/article/KJNK70DM0001899O.html)
 
 ---end---
