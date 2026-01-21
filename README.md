@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-21 19:48:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-21 20:52:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南大学附属中学招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2766374)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市九龙坡区锦苑小学校招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2767201)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子强奸嫂嫂出狱又刺死村民被判死缓 省高院决定再审](https://m.163.com/news/article/KJQ4Q473051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[乳企使用2.9亿扶贫基金到期未还 担保国企一同被起诉](https://m.163.com/news/article/KJNKK9SR0514R9P4.html)
+[路面多个深坑老人骑电动车摔骨折 记者找到责任主体](https://m.163.com/news/article/KJQQNVC905561G0D.html)
 
-[女子用600块彩色冰砖"手搓"冰屋 因"翻车"意外走红](https://m.163.com/news/article/KJPU91VA053469LG.html)
+[祖斌任中国保利集团有限公司党委书记、董事长](https://m.163.com/news/article/KJQQI3O00534A4SC.html)
+
+[风波中的西贝股权发生变化 新荣记张勇对贾国龙伸援手](https://m.163.com/news/article/KJQQ32E40534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[钻石价格大跌 十年前1.8万买的钻戒如今只能卖180元](https://m.163.com/news/article/KJNSBDVF0512B07B.html)
+[女子发文称14岁侄子疑受到虐待致死 生父已被刑拘](https://m.163.com/news/article/KJQMQ37F051492T3.html)
 
 ---end---
