@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-22 14:36:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-22 15:03:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市九龙坡区锦苑小学校招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2767201)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆渝海物业管理有限责任公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2767586)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女干部全国购入30多处房产 否认受贿：买房钱都是借的](https://m.163.com/news/article/KJS72GAV00018AOQ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[辽宁海城500万买进"百强县"榜单被通报 评选机构回应](https://m.163.com/news/article/KJQCLIE70519DDQ2.html)
+[纪录片《重返狼群》一夜间翻红 "狼王"格林目前无下落](https://m.163.com/news/article/KJQRG07K0550A0OW.html)
 
-[茅台确认"马茅"包装少写一撇：消费者可更换](https://m.163.com/news/article/KJS440Q10519C6T9.html)
+[31省份去年人均可支配收入公布](https://m.163.com/news/article/KJSK6G4V0519DDQ2.html)
+
+[7岁男孩误喝火锅燃料多器官衰竭 目前已脱离生命危险](https://m.163.com/news/article/KJSNB5NT053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子雪天开越野车上高架桥 免费帮近20辆"趴窝"车脱困](https://m.163.com/news/article/KJR3A5ID053469LG.html)
+["塔斯汀"打假"塔诗汀" 一审获赔500万](https://m.163.com/news/article/KJSME4K0051492T3.html)
 
 ---end---
