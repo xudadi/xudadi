@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-22 07:56:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-22 10:02:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市九龙坡区锦苑小学校招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2767201)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[路面多个深坑老人骑电动车摔骨折 记者找到责任主体](https://m.163.com/news/article/KJQQNVC905561G0D.html)
+[女干部全国购入30多处房产 否认受贿：买房钱都是借的](https://m.163.com/news/article/KJS72GAV00018AOQ.html)
 
-[祖斌任中国保利集团有限公司党委书记、董事长](https://m.163.com/news/article/KJQQI3O00534A4SC.html)
+[辽宁海城500万买进"百强县"榜单被通报 评选机构回应](https://m.163.com/news/article/KJQCLIE70519DDQ2.html)
 
-[风波中的西贝股权发生变化 新荣记张勇对贾国龙伸援手](https://m.163.com/news/article/KJQQ32E40534A4SC.html)
+[茅台确认"马茅"包装少写一撇：消费者可更换](https://m.163.com/news/article/KJS440Q10519C6T9.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子发文称14岁侄子疑受到虐待致死 生父已被刑拘](https://m.163.com/news/article/KJQMQ37F051492T3.html)
+[男子雪天开越野车上高架桥 免费帮近20辆"趴窝"车脱困](https://m.163.com/news/article/KJR3A5ID053469LG.html)
 
 ---end---
