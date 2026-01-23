@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-23 19:45:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-23 20:50:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至招商局检测车辆技术研究院有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2769123)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆两江假日酒店管理有限公司第二批职业经理人公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770126)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[甘肃岷县"工地挖到银元"系谣言:有人恶意拼接图文视频](https://m.163.com/news/article/KJTKBKO9053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国太空旅游来了票价300万 乘客有院士、公司高管](https://m.163.com/news/article/KJTGTL690512B07B.html)
+[俄航班遇紧急状态降落兰州 原因公布](https://m.163.com/news/article/KJVS3ILF0001899O.html)
 
-[业主称地下室长期渗水墙外有积水 住建局回应](https://m.163.com/news/article/KJTGROBN0514R9P4.html)
+[53岁女子被一次性拔牙12颗后心梗休克 涉事诊所发声](https://m.163.com/news/article/KJVLUG5U051492T3.html)
 
-[3](https://www.163.com/dy/article/KJSMLJL00556BRHI.html)
+[小伙和"师妹"网恋被困传销窝 老板硬核带队跨省救员工](https://m.163.com/news/article/KJVLA0V40514R9OJ.html)
 
-[知名餐饮连锁店水饺托盘发霉并存在大量霉斑 公司回应](https://m.163.com/news/article/KJTFPO420512DU6N.html)
+[3](https://m.163.com/touch/news/sub/domestic)
+
+[美国表示将允许中国购买委石油 外交部回应](https://m.163.com/news/article/KJVGIGQ705198CJN.html)
 
 ---end---
