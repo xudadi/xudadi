@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-23 07:54:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-23 09:50:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[江津六中教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2768798)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区新丝路小学校招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2768928)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子捐器官救6人 因死亡时间超出48小时无法认定工伤](https://m.163.com/news/article/KJT9T80N051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[“生肖水”被炒至1999元一套 农夫山泉：只送不卖](https://m.163.com/news/article/KJT6EBS40530JPVV.html)
+[甘肃岷县"工地挖到银元"系谣言:有人恶意拼接图文视频](https://m.163.com/news/article/KJTKBKO9053469LG.html)
 
-[女大学生白血病病危 确诊一月后发现自己非父母亲生](https://m.163.com/news/article/KJSVI0HE051492T3.html)
+[中国太空旅游来了票价300万 乘客有院士、公司高管](https://m.163.com/news/article/KJTGTL690512B07B.html)
+
+[业主称地下室长期渗水墙外有积水 住建局回应](https://m.163.com/news/article/KJTGROBN0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[32岁程序员猝死当天有4项工作任务待完成 人社局发声](https://m.163.com/news/article/KJT3ERF5053469LG.html)
+[知名餐饮连锁店水饺托盘发霉并存在大量霉斑 公司回应](https://m.163.com/news/article/KJTFPO420512DU6N.html)
 
 ---end---
