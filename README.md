@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-24 13:55:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-24 14:33:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆市南岸区弹子石小学校信科教师招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770322)
+[重庆机电集团动力科技有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770637)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
