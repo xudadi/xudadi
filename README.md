@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-24 20:42:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-24 21:21:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆机电集团动力科技有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770637)
+[重庆市渝北区保安服务有限责任公司2026年公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770807)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
