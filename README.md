@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-24 07:54:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-24 09:46:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江假日酒店管理有限公司第二批职业经理人公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770126)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往重庆市南岸区弹子石小学校信科教师招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770322)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[俄航班遇紧急状态降落兰州 原因公布](https://m.163.com/news/article/KJVS3ILF0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[53岁女子被一次性拔牙12颗后心梗休克 涉事诊所发声](https://m.163.com/news/article/KJVLUG5U051492T3.html)
+[妻子驾车致丈夫受伤保险拒赔 丈夫起诉妻子和保险公司](https://m.163.com/news/article/KK068348051492T3.html)
 
-[小伙和"师妹"网恋被困传销窝 老板硬核带队跨省救员工](https://m.163.com/news/article/KJVLA0V40514R9OJ.html)
+[赌徒当着儿子面杀死前妻 检方量刑建议为死刑立即执行](https://m.163.com/news/article/KJVQUSDH05561G0D.html)
+
+[上海豪宅买家发文称被开发商索偿1200余万元 房企回应](https://m.163.com/news/article/KJTQJ0ST0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[美国表示将允许中国购买委石油 外交部回应](https://m.163.com/news/article/KJVGIGQ705198CJN.html)
+[U23国足决赛对战日本队 转播计划出炉](https://m.163.com/news/article/KK02U1SH0530M570.html)
 
 ---end---
