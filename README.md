@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-26 19:54:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-26 20:51:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆南开三十二中学校中学数学及地理教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2771380)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市广播电视和网络视听协会招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2772567)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[印度现尼帕疫情 中国已将该病毒列入出入境监测目录](https://m.163.com/news/article/KK6N9A780534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[当当网公司因员工超长加班被罚12150元](https://m.163.com/news/article/KK6TG02R05345ARG.html)
+[6名中国男子日本滑雪被困获救 救援费为每人100万日元](https://m.163.com/news/article/KK7ID5AC053469LG.html)
 
-[脱口秀演员王越确诊甲状腺癌 手术后晒照报平安](https://m.163.com/news/article/KK6SSFEH051492T3.html)
+[广东佛山路边停车为收费出"奇招" 车主吐槽：吃相难看](https://m.163.com/news/article/KK7AJ10C0514BE2Q.html)
+
+[2026年2月已有49条中日航线取消全部航班](https://m.163.com/news/article/KK7DFQDP05198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[被自称前女友的网友实名举报涉毒 短剧"顶流"：别搞我](https://m.163.com/news/article/KK5B1JF9053469LG.html)
+[外交部提醒中国公民春节期间避免前往日本](https://m.163.com/news/article/KK7DGHCT0001899O.html)
 
 ---end---
