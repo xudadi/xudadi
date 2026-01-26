@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-26 07:53:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-26 09:59:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝北区保安服务有限责任公司2026年公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2770807)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学附属江津医院招聘启事收费员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2771163)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[幼儿园园长涉贪千万："是否属于公职人员"成争论焦点](https://m.163.com/news/article/KK4PACSR053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浙江嵊泗教改：取消中考选拔功能、普通高中全员直升](https://m.163.com/news/article/KK538FUU0514R9P4.html)
+[女子家厨房"下小雨"苦不堪言 楼上邻居开出"维修条款"](https://m.163.com/news/article/KK5FB63E05345ARG.html)
 
-[男子棒杀侄女后无悔罪表现一审被判死刑 作案细节披露](https://m.163.com/news/article/KK529CL4051492T3.html)
+[帅小伙给爬山摔断腿女士当"人肉靠垫"数小时 女方发声](https://m.163.com/news/article/KK5H4H1K05345ARG.html)
+
+[台媒：美新版国防报告未提台湾 台当局要相当"恐惧"](https://m.163.com/news/article/KK69U0F50514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[最新版美国防战略报告发布 台媒：0次提及台湾](https://m.163.com/news/article/KK4CJTFO05504DOQ.html)
+[加拿大华人医生夫妇携幼女到上海求医 花16万保下脾脏](https://m.163.com/news/article/KK51JDUQ0519DDQ2.html)
 
 ---end---
