@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-27 19:47:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-27 20:53:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区覃家岗小学校招聘科学教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2773247)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国核电力规划设计研究院重庆有限公司招聘电气设计岗、费控工程师等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2774067)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[李想临时召开线上公司全员会谈AI 不少员工称"听不懂"](https://m.163.com/news/article/KK7BM54H05199NPP.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[村民用无人机吊运年猪挂住高压线致停电 维修成本近万](https://m.163.com/news/article/KK71DKCL0514D3UH.html)
+[中国汽车出口“三连冠” 第一目的国易主](https://m.163.com/news/article/KKA8VSDF0534A4SC.html)
 
-[国企董事长打伤要债人被拘 被打男子：80万元一直不给](https://m.163.com/news/article/KK7LHEQO0514BE2Q.html)
+[洋河股份16万名投资者收到"重磅炸弹"：70亿分红没了](https://m.163.com/news/article/KKA8NEGV0514BE2Q.html)
+
+[花费498万买进"百强县"榜单被通报 辽宁海城官方回应](https://m.163.com/news/article/KKA3AGJ20514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[6名中国男子日本滑雪被困获救 救援费为每人100万日元](https://m.163.com/news/article/KK7ID5AC053469LG.html)
+[小伙贷款30万炒"数字藏品" 共70多万充进平台打水漂](https://m.163.com/news/article/KKA2HT9R0514R9OJ.html)
 
 ---end---
