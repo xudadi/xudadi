@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-28 02:00:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-28 02:57:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国核电力规划设计研究院重庆有限公司招聘电气设计岗、费控工程师等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2774067)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国汽车出口“三连冠” 第一目的国易主](https://m.163.com/news/article/KKA8VSDF0534A4SC.html)
+["金融女神"李蓓称上个月已清空黄金](https://m.163.com/news/article/KKAHDSV60512B07B.html)
 
-[洋河股份16万名投资者收到"重磅炸弹"：70亿分红没了](https://m.163.com/news/article/KKA8NEGV0514BE2Q.html)
+[国科大星际航行学院正式成立 官网发文诚聘海外英才](https://m.163.com/news/article/KKA3NV08053469LG.html)
 
-[花费498万买进"百强县"榜单被通报 辽宁海城官方回应](https://m.163.com/news/article/KKA3AGJ20514BE2Q.html)
+[26岁男子从杭州徒步回重庆过年 途经湖北获邀吃杀猪饭](https://m.163.com/news/article/KKAB3UN4053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小伙贷款30万炒"数字藏品" 共70多万充进平台打水漂](https://m.163.com/news/article/KKA2HT9R0514R9OJ.html)
+[男子术后被输过期注射液医护称"没有坏处" 官方已介入](https://m.163.com/news/article/KKAA03760514R9P4.html)
 
 ---end---
