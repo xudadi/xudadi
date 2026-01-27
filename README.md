@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-27 13:51:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-27 14:37:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市广播电视和网络视听协会招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2772567)
+[重庆市沙坪坝区覃家岗小学校招聘科学教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2773247)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
