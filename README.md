@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-28 14:37:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-28 15:04:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国核电力规划设计研究院重庆有限公司招聘电气设计岗、费控工程师等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2774067)
+[沙坪坝区学府悦园第三幼儿园顶岗教师招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2774751)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
