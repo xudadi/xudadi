@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-29 02:40:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-29 03:04:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026重庆礼嘉中学招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2775483)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学编外聘用人员招聘简章(2026年第4轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2775556)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[盒马误配送水仙致老人孩子中毒 家属：不接受7万赔偿](https://m.163.com/news/article/KKCLDEMG05567I2C.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[市价不到两百的护眼灯校园采购价却达七八百 媒体调查](https://m.163.com/news/article/KKBJ0H4S0514R9P4.html)
+[企业在采购冻干草莓中检出禁用农药残留 市监不予立案](https://m.163.com/news/article/KKCOP2P105561G0D.html)
 
-[知名手办工厂凌晨起火 公司回应：系临时工故意纵火](https://m.163.com/news/article/KKCLDSEO0530U7LS.html)
+[骗住家保姆贷款20万买宝马给自己开 限高"负婆"被刑拘](https://m.163.com/news/article/KKCN6AF2051492T3.html)
+
+[政协委员建议"每周休2.5天"引发热议 多地曾发文鼓励](https://m.163.com/news/article/KKCG3T020514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[字节跳动发布新规 禁止员工利用公司资源做号谋利](https://m.163.com/news/article/KKCL3SS505561G0D.html)
+[入住新房2年4次整改仍能听到噪音 业主确诊神经性耳鸣](https://m.163.com/news/article/KKD1N8S205561G0D.html)
 
 ---end---
