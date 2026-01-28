@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-28 19:46:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-28 20:53:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[沙坪坝区学府悦园第三幼儿园顶岗教师招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2774751)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[2026重庆礼嘉中学招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2775483)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["金融女神"李蓓称上个月已清空黄金](https://m.163.com/news/article/KKAHDSV60512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国科大星际航行学院正式成立 官网发文诚聘海外英才](https://m.163.com/news/article/KKA3NV08053469LG.html)
+[盒马误配送水仙致老人孩子中毒 家属：不接受7万赔偿](https://m.163.com/news/article/KKCLDEMG05567I2C.html)
 
-[26岁男子从杭州徒步回重庆过年 途经湖北获邀吃杀猪饭](https://m.163.com/news/article/KKAB3UN4053469LG.html)
+[市价不到两百的护眼灯校园采购价却达七八百 媒体调查](https://m.163.com/news/article/KKBJ0H4S0514R9P4.html)
+
+[知名手办工厂凌晨起火 公司回应：系临时工故意纵火](https://m.163.com/news/article/KKCLDSEO0530U7LS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子术后被输过期注射液医护称"没有坏处" 官方已介入](https://m.163.com/news/article/KKAA03760514R9P4.html)
+[字节跳动发布新规 禁止员工利用公司资源做号谋利](https://m.163.com/news/article/KKCL3SS505561G0D.html)
 
 ---end---
