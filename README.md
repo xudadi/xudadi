@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-30 04:59:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-30 05:36:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人力”所属企业飞驶特公司招聘外派至AIGC项目 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2776857)
 
