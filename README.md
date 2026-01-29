@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-29 14:00:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-29 15:06:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招商局检测认证(重庆)有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2775697)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[沙磁幼儿园招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2776086)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[缅北明家犯罪集团案11名罪犯被执行死刑](https://m.163.com/news/article/KKEH8AF1000189PS.html)
+
+[网友称车还没通过升降柱就提前抬升 管理方拒付维修费](https://m.163.com/news/article/KKCC2R5105561G0D.html)
 
 [企业在采购冻干草莓中检出禁用农药残留 市监不予立案](https://m.163.com/news/article/KKCOP2P105561G0D.html)
 
-[骗住家保姆贷款20万买宝马给自己开 限高"负婆"被刑拘](https://m.163.com/news/article/KKCN6AF2051492T3.html)
-
-[政协委员建议"每周休2.5天"引发热议 多地曾发文鼓励](https://m.163.com/news/article/KKCG3T020514R9OJ.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[入住新房2年4次整改仍能听到噪音 业主确诊神经性耳鸣](https://m.163.com/news/article/KKD1N8S205561G0D.html)
+[骗住家保姆贷款20万买宝马给自己开 限高"负婆"被刑拘](https://m.163.com/news/article/KKCN6AF2051492T3.html)
 
 ---end---
