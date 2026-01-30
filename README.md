@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-31 02:04:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-01-31 03:02:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至重庆医科大学招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2777876)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆国际物流枢纽园区建设有限责任公司及子公司2026年面向社会公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778072)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[喜之郎果冻微博删除金晨代言](https://m.163.com/news/article/KKH542P30001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[四川一辅警从三楼外墙破窗连救三人:没多想 就是快救人](https://m.163.com/news/article/KKH1J3G40514D3UH.html)
+[山西疑有学校七八百元买LED灯 其他区域采购价仅400多](https://m.163.com/news/article/KKI23A2K05561G0D.html)
 
-[当保安的武汉理工毕业生：干两月被辞退 公司怕受波及](https://m.163.com/news/article/KKFPMRLD05345ARG.html)
+[商户称外卖平台"商战"让实体店掏钱:莫名让我优惠50年](https://m.163.com/news/article/KKHJO1K305561G0D.html)
+
+[百万网红"小黑妮"顺利产女 丈夫曾称孩子可以跟她姓](https://m.163.com/news/article/KKHNQ8770534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[珠宝公司员工将12公斤黄金忘高铁上 价值近2000万元](https://m.163.com/news/article/KKGPC8AE05561G0D.html)
+[1.8亿理财资金剩44万 大连银行称嫌犯伪造单据并失踪](https://m.163.com/news/article/KKHLQBV90001899O.html)
 
 ---end---
