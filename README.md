@@ -13,17 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-01-31 06:54:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[重庆国际物流枢纽园区建设有限责任公司及子公司2026年面向社会公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778072)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+## Xudadi的每日更新(更新时间:2026-01-31 07:26:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [山西疑有学校七八百元买LED灯 其他区域采购价仅400多](https://m.163.com/news/article/KKI23A2K05561G0D.html)
 
