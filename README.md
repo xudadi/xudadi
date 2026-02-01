@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-01 13:59:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-01 15:01:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[石桥铺小学诚聘英语教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778554)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[南岸区南坪镇中心幼儿园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778636)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[年轻人沉浸"拼豆":有人开7家店 有人拼《清明上河图》](https://m.163.com/news/article/KKLS07OI0530WJIN.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["杰我睿"爆雷前西安门店开业 总部负责人：首个线下点](https://m.163.com/news/article/KKKPDK4G05561G0D.html)
+[28岁川大博士在意失联十余天 原计划毕业后到昆明工作](https://m.163.com/news/article/KKME4GJK053469LG.html)
 
-[女子接受造血干细胞移植后 血型从B型变成AB型](https://m.163.com/news/article/KKKSKCRP053469LG.html)
+[中国最北宜家闭店前一日：家居展区几乎空了 食品售罄](https://m.163.com/news/article/KKME4GF6053469LG.html)
+
+[王石社交媒体发文疑自证 此前有失联传言流出](https://m.163.com/news/article/KKM93QFM0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[律师在银行取4万元遭盘问报警 起诉银行案下周将开庭](https://m.163.com/news/article/KKJVM6BU0514D3UH.html)
+[1斤瓜子价格贵过猪肉 高端炒货价格猛涨至200元/斤](https://m.163.com/news/article/KKKPLJCN05199NPP.html)
 
 ---end---
