@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-01 16:34:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-01 17:03:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [南岸区南坪镇中心幼儿园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778636)
 
