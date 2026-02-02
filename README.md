@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-02 07:49:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-02 10:22:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金港小学公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2778736)
+[重庆市某企业外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2779005)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
