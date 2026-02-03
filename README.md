@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-03 19:49:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-03 21:02:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学化学化工学院科研团队劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2780614)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市某单位外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2781363)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[家长质疑家委会收263.3元被踢出群 副校长被批评教育](https://m.163.com/news/article/KKPCO91V05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[牧民称22头骆驼被狼咬死损失15万 保险只赔2000元](https://m.163.com/news/article/KKPBSFHA053469LG.html)
+[2026年中央一号文件全文发布](https://m.163.com/news/article/KKS4H2D805346RC6.html)
 
-[刘晓庆卖字一个"福"售价过千 工作人员：挂中堂有排面](https://m.163.com/news/article/KKPO1IS005561G0D.html)
+[零跑年会被员工吐槽没空调、自备干粮 董事长回应](https://m.163.com/news/article/KKS15FH2051492T3.html)
+
+[受贿1.17亿 湖南省政协原主席李微微被判无期](https://m.163.com/news/article/KKS05EJH0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[TVB演员称丈夫生命垂危时她选择放弃抢救 遭儿子责怪](https://m.163.com/news/article/KKPAK3E70550A0OW.html)
+[业主房买了三年多1%的补贴却没领到 当地：还没排到](https://m.163.com/news/article/KKRVE6DK05561G0D.html)
 
 ---end---
