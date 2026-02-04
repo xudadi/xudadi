@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-04 14:31:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-04 15:32:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆科学城驿都实验学校初中语文、体育教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2781914)
+[重庆市田家炳中学B区发布招聘初中教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2782356)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
