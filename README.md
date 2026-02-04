@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-04 19:47:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-04 21:01:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市田家炳中学B区发布招聘初中教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2782356)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆人力”所属企业飞驶特公司招聘派往某国有企业 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2783040)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[周生生回应"足金挂坠检出铁银钯"：完全符合国家标准](https://m.163.com/news/article/KKSDO6J40001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子强奸大嫂又杀他人 被害人儿子:向其大嫂索赔132万](https://m.163.com/news/article/KKS8UV0O053469LG.html)
+[宝马车商场停8101小时费用16900元 商场:车主一直没来](https://m.163.com/news/article/KKUP78S9051492T3.html)
 
-[2026年中央一号文件全文发布](https://m.163.com/news/article/KKS4H2D805346RC6.html)
+[追觅办演唱会当年会撒贝宁主持 李克勤、张信哲等献唱](https://m.163.com/news/article/KKUK0TS6053469LG.html)
+
+[国家医保局约谈精神疾病类医保定点医疗机构](https://m.163.com/news/article/KKUJJB97000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[零跑年会被员工吐槽没空调、自备干粮 董事长回应](https://m.163.com/news/article/KKS15FH2051492T3.html)
+[4岁女童在温泉酒店泳池溺水 两名女子跪地抢救20分钟](https://m.163.com/news/article/KKUIH8Q3051492T3.html)
 
 ---end---
