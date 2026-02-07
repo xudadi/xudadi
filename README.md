@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-07 14:02:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-07 15:01:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中冶赛迪电气装备（重庆）有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2785677)
+[重庆城市职业学院2026年非事业编制工作人员长期招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2785787)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
