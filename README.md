@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-10 14:42:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-10 15:44:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[陆军军医大学招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2787710)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某国企劳务外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2787965)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[深圳第一批返乡人已堵在路上：开了9个小时还没出广东](https://m.163.com/news/article/KLDK3BRD0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中央委员易炼红被查 今年已有三名正部级官员任上落马](https://m.163.com/news/article/KLDK8JS0055040N3.html)
+[涉长和巴拿马港口问题 李家超发声](https://m.163.com/news/article/KLDN3GNE0534A4SC.html)
 
-[4名骑手跑腿买药被判贩卖毒品罪获刑 最高法公布案情](https://m.163.com/news/article/KLBR5BD405561G0D.html)
+[数百辆公交车因电池故障大面积停运 公司索赔4.31亿](https://m.163.com/news/article/KLC5VJUE051492T3.html)
+
+[易炼红被查 浙江省委：坚决拥护党中央决定](https://m.163.com/news/article/KLDLRADK0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[影视飓风Tim称字节新模型恐怖:传照片就生成相似声音](https://m.163.com/news/article/KLC083QD0512B07B.html)
+[深圳第一批返乡人已堵在路上：开了9个小时还没出广东](https://m.163.com/news/article/KLDK3BRD0514R9OJ.html)
 
 ---end---
