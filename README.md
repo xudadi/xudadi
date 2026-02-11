@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-11 08:01:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-11 11:25:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某学校劳务派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2788501)
+[重庆丹源安保服务有限公司派往垫江县人武部招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2788837)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
