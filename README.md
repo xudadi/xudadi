@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-12 20:30:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-12 21:52:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆中烟工业有限责任公司2026年高层次人才招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2790033)
+[彭水苗族土家族自治县消防救援大队2026年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2790632)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
