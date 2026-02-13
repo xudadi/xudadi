@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-13 14:14:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-13 15:17:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[彭水苗族土家族自治县消防救援大队2026年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2790632)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[万盛经济技术开发区消防救援大队公开招聘合同制消防救援人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2791152)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[媒体：赖清德气急败坏挟"三军司令"勒索军购 黔驴技穷](https://m.163.com/news/article/KLI2VC1L0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["路虎哥"撞歹徒被认定见义勇为 因歹徒家境普通未索赔](https://m.163.com/news/article/KLH1GM8U05561G0D.html)
+[男子和女子相亲第五天在泳池亲密 事后让他大跌眼镜](https://m.163.com/news/article/KLL9QL0P0001899O.html)
 
-[高金素梅遭调查震动台湾 其中一个被查原因与大陆有关](https://m.163.com/news/article/KLFO4AHU05504DOQ.html)
+[小伙职高毕业 5个月用AI做了120多个App在海外火了](https://m.163.com/news/article/KLL9KTR0051492LM.html)
+
+[中戏表演系主任王鑫被查 系易烊千玺的老师](https://m.163.com/news/article/KLL7IJMA053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子好心帮助女孩结果被骂"细狗"：我是真忍不了](https://m.163.com/news/article/KLG50BUC0001899O.html)
+[中戏院长落马不足两个月 两任表演系主任主动投案](https://m.163.com/news/article/KLL4MQQO053469M5.html)
 
 ---end---
