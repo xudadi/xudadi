@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-14 08:02:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-14 11:07:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[万盛经济技术开发区消防救援大队公开招聘合同制消防救援人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2791152)
+[重庆飞驶特人力资源管理有限公司派往某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2791726)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
