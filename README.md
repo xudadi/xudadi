@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-14 14:26:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-14 15:10:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某国有企业招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2791726)
+[潼南区2026年上半年政府专职消防队员和消防文员招录简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792145)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
