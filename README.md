@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-15 19:45:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-15 20:53:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[潼南区2026年上半年政府专职消防队员和消防文员招录简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792145)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至某国有企业智慧运维专组人员招聘启示 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792353)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[开直升机返乡男子：并非首次 打算为乡亲准备体验活动](https://m.163.com/news/article/KLOQOMEA05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王毅：日本如果再赌一次 只能败得更快输得更惨](https://m.163.com/news/article/KLOORL4H0534A4SC.html)
+[孙悦将在山东春晚演唱《祝你平安》:没想到歌又翻红了](https://m.163.com/news/article/KLR3QD7V05561G0D.html)
 
-[加码南美市场 比亚迪与吉利或竞购奔驰墨西哥工厂](https://m.163.com/news/article/KLOLQ6F50512B07B.html)
+[导演刘家良等多位名人骨灰被盗 香港警方披露案件进展](https://m.163.com/news/article/KLR2LR9V05561G0D.html)
+
+[网红带货"100%纯牛肉"涉虚假宣传 事后道歉但拒绝赔偿](https://m.163.com/news/article/KLQMHKE30512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[硕博生83页材料联合举报博导王竹卿 川大通报](https://m.163.com/news/article/KLOLDV55053469LG.html)
+[男子参加"同学聚会"被下药设赌局 药效发作感觉不对劲](https://m.163.com/news/article/KLQK2QRF053469LG.html)
 
 ---end---
