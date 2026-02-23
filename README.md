@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-23 19:54:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-23 21:07:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区学府悦园第一小学校招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792918)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学城沙坪坝小学语文非编教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792987)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[8岁男童大年初五在虎跳峡坠崖遇难 游客目击事发全程](https://m.163.com/news/article/KMCQ02UI053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浏阳烟花秀数万游客为救护车让出通道 烟花暂停数分钟](https://m.163.com/news/article/KMCPV36I0534P59R.html)
+[尼泊尔一辆大巴车在行驶中坠河 中国公民1死1伤](https://m.163.com/news/article/KMF8ACVR0534A4SC.html)
 
-[两初中女生扶老人被定次责遭索赔22万 律师解读](https://m.163.com/news/article/KMCPCP3S0512EFP0.html)
+[谷爱凌得知外婆去世后落泪 其外婆曾在交通运输部任职](https://m.163.com/news/article/KMDJJPU30514R9P4.html)
+
+[上海一辆汽车突然失控撞向人行道 男子在一旁猛喝热水](https://m.163.com/news/article/KMENBU82055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[春节档票房超50亿元 多家上市公司受益](https://m.163.com/news/article/KMD4U5CE0512B07B.html)
+[问界通报广东惠州车辆起火事件：非车辆自身原因导致](https://m.163.com/news/article/KMF617HT0534A4SC.html)
 
 ---end---
