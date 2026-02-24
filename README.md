@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-25 01:55:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-25 03:03:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆某国企劳务外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794053)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[最爱发钱老板开工刷屏：2小时订单破亿 客户排队交钱](https://m.163.com/news/article/KMG402Q6053469LG.html)
+[男子大年初六在限放区放烟花炸中胸部身亡 当地回应](https://m.163.com/news/article/KMIHQ12C05561G0D.html)
 
-[26岁男子春节离家失联5天 父亲：其手机留多条"遗言"](https://m.163.com/news/article/KMHLDCTJ051492T3.html)
+[11岁男童服务区被撞身亡女司机被控制 男童父亲发声](https://m.163.com/news/article/KMI1SBJ4053469LG.html)
 
-[高速广告牌显示草莓360元/斤 种植企业：用牛奶浇的地](https://m.163.com/news/article/KMHKIJ55053469LG.html)
+[女子被堵高速 花半小时举报20多辆占用应急车道私家车](https://m.163.com/news/article/KMI0EVLS05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[68岁老年痴呆老人离家走失8天 以树叶为食奇迹生还](https://m.163.com/news/article/KMHIPN68051492T3.html)
+[夫妻春节不回家送外卖1个月赚4万 骑手站长发声](https://m.163.com/news/article/KMHU2IKJ05561G0D.html)
 
 ---end---
