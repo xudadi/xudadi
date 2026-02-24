@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-24 07:46:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-24 10:11:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学城沙坪坝小学语文非编教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2792987)
+[重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2793099)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
