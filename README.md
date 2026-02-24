@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-24 20:01:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-24 21:43:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市疾病预防控制中心招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2793359)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某国企劳务外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794053)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[尼泊尔一辆大巴车在行驶中坠河 中国公民1死1伤](https://m.163.com/news/article/KMF8ACVR0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[谷爱凌得知外婆去世后落泪 其外婆曾在交通运输部任职](https://m.163.com/news/article/KMDJJPU30514R9P4.html)
+[最爱发钱老板开工刷屏：2小时订单破亿 客户排队交钱](https://m.163.com/news/article/KMG402Q6053469LG.html)
 
-[上海一辆汽车突然失控撞向人行道 男子在一旁猛喝热水](https://m.163.com/news/article/KMENBU82055040N3.html)
+[26岁男子春节离家失联5天 父亲：其手机留多条"遗言"](https://m.163.com/news/article/KMHLDCTJ051492T3.html)
+
+[高速广告牌显示草莓360元/斤 种植企业：用牛奶浇的地](https://m.163.com/news/article/KMHKIJ55053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[问界通报广东惠州车辆起火事件：非车辆自身原因导致](https://m.163.com/news/article/KMF617HT0534A4SC.html)
+[68岁老年痴呆老人离家走失8天 以树叶为食奇迹生还](https://m.163.com/news/article/KMHIPN68051492T3.html)
 
 ---end---
