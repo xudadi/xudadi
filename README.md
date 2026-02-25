@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-25 07:55:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-25 10:20:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某国企劳务外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794053)
+[重庆市璧山区枫香湖小学校招聘临聘音乐教师1名 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794367)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
