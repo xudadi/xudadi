@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-25 15:03:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-25 16:00:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市璧山区枫香湖小学校招聘临聘音乐教师1名 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794367)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[2026年垫江县新民镇树仁小学校招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794611)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子大年初六在限放区放烟花炸中胸部身亡 当地回应](https://m.163.com/news/article/KMIHQ12C05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[11岁男童服务区被撞身亡女司机被控制 男童父亲发声](https://m.163.com/news/article/KMI1SBJ4053469LG.html)
+[15岁少女和姐姐吵架后失联半月 父亲悬赏100万寻人](https://m.163.com/news/article/KMKAICU10514BE2Q.html)
 
-[女子被堵高速 花半小时举报20多辆占用应急车道私家车](https://m.163.com/news/article/KMI0EVLS05345ARG.html)
+[32岁小伙瘦骨嶙峋确诊罕见癌症：我连病友都找不到](https://m.163.com/news/article/KMK5S2DP053469LG.html)
+
+[老人被大狗撕咬骨折住进ICU 犬主付1000元后驾车离开](https://m.163.com/news/article/KMIQ5PRT05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[夫妻春节不回家送外卖1个月赚4万 骑手站长发声](https://m.163.com/news/article/KMHU2IKJ05561G0D.html)
+[上海发布楼市"沪七条"：进一步调减住房限购政策](https://m.163.com/news/article/KMK7M6PR0001899O.html)
 
 ---end---
