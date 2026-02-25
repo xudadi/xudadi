@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-25 19:53:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-25 21:07:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026年垫江县新民镇树仁小学校招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2794611)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆育才中学2026年面向社会公开招聘非编初中语文、历史教师简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2795389)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[15岁少女和姐姐吵架后失联半月 父亲悬赏100万寻人](https://m.163.com/news/article/KMKAICU10514BE2Q.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[32岁小伙瘦骨嶙峋确诊罕见癌症：我连病友都找不到](https://m.163.com/news/article/KMK5S2DP053469LG.html)
+[多地"新春第一会"点名AI 释放重大投资信号](https://m.163.com/news/article/KMKTQLBD05199NPP.html)
 
-[老人被大狗撕咬骨折住进ICU 犬主付1000元后驾车离开](https://m.163.com/news/article/KMIQ5PRT05345ARG.html)
+[新房被淹男子12年未交物业费 春节前后家中停水超50天](https://m.163.com/news/article/KMKN58BJ05561G0D.html)
+
+[铁路部门回应“半夜候补成功1700元车票作废”报道](https://m.163.com/news/article/KMKP734E0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海发布楼市"沪七条"：进一步调减住房限购政策](https://m.163.com/news/article/KMK7M6PR0001899O.html)
+[魅族手机或将成为历史：业务实质性停摆 3月正式退市](https://m.163.com/news/article/KMKPMCCP0534A4SC.html)
 
 ---end---
