@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-26 19:55:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-26 21:08:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学编外聘用人员招聘简章(2026年第5轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2796347)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[公开选聘1名县属国有企业专职外部董事的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2796838)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[残疾人横穿快速路被撞身亡 家属索赔150万法院判了](https://m.163.com/news/article/KMKQFJ36055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中德联合声明公布：双方愿深化互利共赢合作](https://m.163.com/news/article/KML69USK0519DDQ2.html)
+[曾年薪200万元的地产人改行做陪诊师 每单收费两三百](https://m.163.com/news/article/KMN82C510512B07B.html)
 
-[中国男篮公布对阵日本队12人名单 胡明轩、赵嘉义落选](https://m.163.com/news/article/KML59KSJ0514R9KQ.html)
+[网约车司机突然发病昏迷撞路边停下后去世 平台回应](https://m.163.com/news/article/KMNGT4O9051492T3.html)
+
+[县委书记抖音账号成"民情留言板" 当事人回应](https://m.163.com/news/article/KMNDTECQ0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[平顶山打人夫妻被逮捕 律师：最高可判五年有期徒刑](https://m.163.com/news/article/KML04SPO053469LG.html)
+[八旬老翁说唱表白老伴"甜"翻网友 结婚60年吵过一次架](https://m.163.com/news/article/KMNDT5LJ0514D3UH.html)
 
 ---end---
