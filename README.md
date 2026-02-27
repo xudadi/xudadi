@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-27 20:00:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-27 21:31:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往仙桃数据谷人工智能训练师、内容审核专员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2797697)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆主城某小学教师派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2798128)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[蔚来销售接电话辱骂客户不料被录音 客户公开聊天截图](https://m.163.com/news/article/KMNJGNDJ05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网红徒步路线"大圣之眼"收6元卫生费 村委会:已备案](https://m.163.com/news/article/KMNIVA4C05561G0D.html)
+[米哈游内部通报员工意外离世:不存在春节期间加班情况](https://m.163.com/news/article/KMQ3RBLE05198CJN.html)
 
-[曾年薪200万元的地产人改行做陪诊师 每单收费两三百](https://m.163.com/news/article/KMN82C510512B07B.html)
+["手机涨价"冲上热搜 多家品牌客服称未接到通知](https://m.163.com/news/article/KMQ3TNFT053469LG.html)
+
+[7个月被收10次"幽灵快递" 女子投诉后申通至今无说法](https://m.163.com/news/article/KMQ1R1O10512DU6N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[县委书记抖音账号成"民情留言板" 当事人回应](https://m.163.com/news/article/KMNDTECQ0514D3UH.html)
+[男乘客抢夺方向盘致出租车撞树 跳车逃跑后被警方控制](https://m.163.com/news/article/KMPVONC5053469LG.html)
 
 ---end---
