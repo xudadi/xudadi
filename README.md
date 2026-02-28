@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-28 13:48:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-28 14:39:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆主城某小学教师派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2798128)
+[重庆市高新技术产业开发区消防救援支队2026年政府专职消防队员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2798875)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
