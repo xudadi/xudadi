@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-02-28 19:53:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-02-28 20:48:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市高新技术产业开发区消防救援支队2026年政府专职消防队员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2798875)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某事业单位管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2799648)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子以1.8万保价寄核雕手串 途中受损快递仅愿赔三百](https://m.163.com/news/article/KMQAR00705345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子在中虎跳峡落水失踪女友崩溃 系5天内第二起事故](https://m.163.com/news/article/KMQ3AUP20512DU6N.html)
+[中国驻伊朗使馆：目前未接到中国公民伤亡情况](https://m.163.com/news/article/KMSNNS4B0001899O.html)
 
-["反诈老陈"抖音账号被罚 160万粉丝主账号已搜索不到](https://m.163.com/news/article/KMQC6P3T05345ARG.html)
+[女子替父亲请假两小时遭拒父亲随后被开除 店铺道歉](https://m.163.com/news/article/KMSLNTIG053469LG.html)
+
+[男子和同学约饭饮酒时猝死 家属索赔187万被法院驳回](https://m.163.com/news/article/KMRSIL77051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[博主指认贾平凹、杨本芬等作家"涉嫌抄袭" 杨本芬致歉](https://m.163.com/news/article/KMQ4I3D00550A0OW.html)
+[京东外卖披露用户数达2.4亿 年内冲击30%市占目标](https://m.163.com/news/article/KMS9UM0B0534A4SC.html)
 
 ---end---
