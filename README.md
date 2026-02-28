@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-01 01:56:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-01 02:37:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往某事业单位管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2799648)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆人力所属子企业重庆汇人数智科技有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2799757)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国驻伊朗使馆：目前未接到中国公民伤亡情况](https://m.163.com/news/article/KMSNNS4B0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子替父亲请假两小时遭拒父亲随后被开除 店铺道歉](https://m.163.com/news/article/KMSLNTIG053469LG.html)
+[五粮液：董事长曾从钦被留置 公司生产经营情况正常](https://m.163.com/news/article/KMSSPTHD05198CJN.html)
 
-[男子和同学约饭饮酒时猝死 家属索赔187万被法院驳回](https://m.163.com/news/article/KMRSIL77051492T3.html)
+[美国和以色列军事打击伊朗 中方表态](https://m.163.com/news/article/KMSSB2970534A4SC.html)
+
+[游客称朱元璋玩偶眼睛像"美元符号" 明孝陵博物馆回应](https://m.163.com/news/article/KMS72MK305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[京东外卖披露用户数达2.4亿 年内冲击30%市占目标](https://m.163.com/news/article/KMS9UM0B0534A4SC.html)
+[伊朗华联会联络员最新发声：有300多在伊华人联系撤离](https://m.163.com/news/article/KMSH5ETR053469LG.html)
 
 ---end---
