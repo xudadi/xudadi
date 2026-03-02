@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-02 19:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-02 21:00:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某单位前台接待岗 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2800860)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[金凤实验室张新立教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2801511)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子花50多万全款买婚房5年多未等来房产证 官方回应](https://m.163.com/news/article/KMUM1L1S05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[BOSS直聘回应"伊朗记者急招炮兵/坦克兵"：是P图](https://m.163.com/news/article/KMV9PBQG05561G0D.html)
+[最高法：夫妻单方将共同财产赠与第三人的行为无效](https://m.163.com/news/article/KN1ATQIC051492T3.html)
 
-[外交部：提醒中国公民暂勿前往伊朗周边地区](https://m.163.com/news/article/KMVA7AE90534A4SC.html)
+[男子8小时撤离德黑兰：7个中国人以700美元包了一辆车](https://m.163.com/news/article/KN1QFKPA0534P59R.html)
+
+[椰树集团再陷低俗营销风波 被监管部门约谈](https://m.163.com/news/article/KN1GV3020534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[香港机管局：今明两日飞中东航班全部取消](https://m.163.com/news/article/KMV84QLI05199NPP.html)
+[女子1天接五六通催收电话崩溃:欠钱的是不熟的前同事](https://m.163.com/news/article/KN1F4MNJ0514R9OJ.html)
 
 ---end---
