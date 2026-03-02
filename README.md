@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-02 14:37:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-02 15:38:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学城第一小学校2025-2026学年下期教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2799959)
+[重庆飞驶特人力资源管理有限公司派往某单位前台接待岗 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2800860)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
