@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-03 07:59:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-03 10:52:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[金凤实验室张新立教授课题组招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2801511)
+[重庆市渝北职业教育中心2025-2026学年春季学期外聘专任教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2801813)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
