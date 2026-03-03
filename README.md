@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-04 01:59:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-04 03:04:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司派往某大型国有企业市政设计岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2802740)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国石油：短期油价波动存在较大不确定性](https://m.163.com/news/article/KN4DRCVD0534A4SC.html)
+[王毅同以外长通电话：呼吁立即停止军事行动](https://m.163.com/news/article/KN4IF7RJ000189PS.html)
 
-[全国政协委员刘永好：建议下调首付比例和贷款利率](https://m.163.com/news/article/KN1NNEDO05199NPP.html)
+["三桶油"晚间齐发公告提示油价波动风险](https://m.163.com/news/article/KN4HECHK0534A4SC.html)
 
-[最高涨80% A股半导体公司集体发涨价函](https://m.163.com/news/article/KN4AJC7105199NPP.html)
+[全国人大代表方燕建议：家暴情形不适用离婚冷静期](https://m.163.com/news/article/KN463PPC05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["爸爸买了张哪也不去的车票"帖文感动全网 当事人发声](https://m.163.com/news/article/KN46A8L3051492T3.html)
+[东北小伙走丢25年回国认亲：对亲生父母没有任何怨言](https://m.163.com/news/article/KN46A8FP051492T3.html)
 
 ---end---
