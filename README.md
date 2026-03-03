@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-03 20:00:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-03 21:18:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市自然资源利用事务中心工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2802158)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往某大型国有企业市政设计岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2802740)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[霍尔木兹海峡关闭 中国船员：波斯湾有数百条船只滞留](https://m.163.com/news/article/KN22UHS30514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[阿联酋航空和迪拜航空恢复有限航班运营](https://m.163.com/news/article/KN24D29K0514R9OJ.html)
+[中国石油：短期油价波动存在较大不确定性](https://m.163.com/news/article/KN4DRCVD0534A4SC.html)
 
-[胜诉的原告成被执行人遭"限高"7年多 法院：输入错了](https://m.163.com/news/article/KN1PELHQ05561G0D.html)
+[全国政协委员刘永好：建议下调首付比例和贷款利率](https://m.163.com/news/article/KN1NNEDO05199NPP.html)
+
+[最高涨80% A股半导体公司集体发涨价函](https://m.163.com/news/article/KN4AJC7105199NPP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子到阿联酋旅游失联11天又逢战乱 妻子：他不会外语](https://m.163.com/news/article/KN1Q2FHU053469LG.html)
+["爸爸买了张哪也不去的车票"帖文感动全网 当事人发声](https://m.163.com/news/article/KN46A8L3051492T3.html)
 
 ---end---
