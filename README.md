@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-04 07:57:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-04 10:43:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往某大型国有企业市政设计岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2802740)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[某单位外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2803104)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[阿里千问负责人林俊旸官宣离职 曾是阿里最年轻的P10](https://m.163.com/news/article/KN5HDVER0512B07B.html)
+
+[全国政协委员彭静建议：禁止12岁以下坐副驾](https://m.163.com/news/article/KN4JNJQ00514BE2Q.html)
 
 [王毅同以外长通电话：呼吁立即停止军事行动](https://m.163.com/news/article/KN4IF7RJ000189PS.html)
 
-["三桶油"晚间齐发公告提示油价波动风险](https://m.163.com/news/article/KN4HECHK0534A4SC.html)
-
-[全国人大代表方燕建议：家暴情形不适用离婚冷静期](https://m.163.com/news/article/KN463PPC05561G0D.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[东北小伙走丢25年回国认亲：对亲生父母没有任何怨言](https://m.163.com/news/article/KN46A8FP051492T3.html)
+["三桶油"晚间齐发公告提示油价波动风险](https://m.163.com/news/article/KN4HECHK0534A4SC.html)
 
 ---end---
