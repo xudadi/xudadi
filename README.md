@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-05 13:49:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-05 14:54:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[万州清泉中学高中俄语教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2804355)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市涪陵区石沱镇人民政府关于公开招聘专业应急救援大队队员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2804823)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[政府工作报告：2025年GDP增长5%](https://m.163.com/news/article/KN8D004R0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[只要4599块 苹果推出史上最低价的MacBook](https://m.163.com/news/article/KN7KP6EI05198CJN.html)
+[演员夫妇谈迪拜避难细节：住平房 告知家人银行卡密码](https://m.163.com/news/article/KN8IJ5NU055040N3.html)
 
-[数百艘油轮船只被困霍尔木兹海峡 中国海员：GPS失效](https://m.163.com/news/article/KN7I19P20514D3UH.html)
+[阿里CEO吴泳铭回应林俊旸离职：已决定批准 感谢付出](https://m.163.com/news/article/KN8J2EM40534A4SC.html)
+
+[养老金月最低标准再提20元](https://m.163.com/news/article/KN8FVC1P0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[12岁世界功夫冠军街头表演被围观 曾创吉尼斯世界记录](https://m.163.com/news/article/KN6CT9K9053469LG.html)
+[居民医保人均补助标准提高24元](https://m.163.com/news/article/KN8FT1QJ0001899O.html)
 
 ---end---
