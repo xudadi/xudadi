@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-05 21:02:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-05 22:06:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区石沱镇人民政府关于公开招聘专业应急救援大队队员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2804823)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学编外聘用人员招聘简章(2026年第6轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2805460)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[演员夫妇谈迪拜避难细节：住平房 告知家人银行卡密码](https://m.163.com/news/article/KN8IJ5NU055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[阿里CEO吴泳铭回应林俊旸离职：已决定批准 感谢付出](https://m.163.com/news/article/KN8J2EM40534A4SC.html)
+[委员建议明确下班后有权拒回工作消息](https://m.163.com/news/article/KN9BAOLS0001899O.html)
 
-[养老金月最低标准再提20元](https://m.163.com/news/article/KN8FVC1P0001899O.html)
+[谷歌DeepMind向千问团队抛出橄榄枝](https://m.163.com/news/article/KN981QCI053469LG.html)
+
+[全国人大代表庹庆明建议：通话计费单位由分调整为秒](https://m.163.com/news/article/KN953GMF053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[居民医保人均补助标准提高24元](https://m.163.com/news/article/KN8FT1QJ0001899O.html)
+[雷军回应内存芯片价格暴涨:会努力降低消费者接受难度](https://m.163.com/news/article/KN9687AG053469LG.html)
 
 ---end---
