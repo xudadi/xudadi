@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-06 02:21:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-06 03:42:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学编外聘用人员招聘简章(2026年第6轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2805460)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市奉节县事业单位2026年“绿色通道”引进高层次人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2805557)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[委员建议明确下班后有权拒回工作消息](https://m.163.com/news/article/KN9BAOLS0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[谷歌DeepMind向千问团队抛出橄榄枝](https://m.163.com/news/article/KN981QCI053469LG.html)
+[老伴治病欠下30万 82岁老太摆摊卖鹌鹑蛋：十年没涨价](https://m.163.com/news/article/KN8V9IAE05561G0D.html)
 
-[全国人大代表庹庆明建议：通话计费单位由分调整为秒](https://m.163.com/news/article/KN953GMF053469LG.html)
+[男子称5000元买到假银条 商家失联平台拒先行退一赔三](https://m.163.com/news/article/KN96CV9105561G0D.html)
+
+[青少年“短视频成瘾” 代表建议夜间强制未成年人下线](https://m.163.com/news/article/KN96R98Q0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[雷军回应内存芯片价格暴涨:会努力降低消费者接受难度](https://m.163.com/news/article/KN9687AG053469LG.html)
+["活力28"将开新厂：一度濒临倒闭 "三个老头"直播救厂](https://m.163.com/news/article/KN9LCTIS051492T3.html)
 
 ---end---
