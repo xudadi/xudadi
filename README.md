@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-06 19:53:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-06 20:58:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝小学招聘财务公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2806358)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆新华出版集团有限公司下属企业招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2806955)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浙江17岁高中生发现新物种联合发文登上SCI 本人回应](https://m.163.com/news/article/KNBCM8J50534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中东滞留旅客：狂刷8张机票 或走8小时陆路再飞](https://m.163.com/news/article/KN9TI5KA0534A4SC.html)
+[虎跳峡落水失踪男子遗体被找到：卡在石缝里 仍在打捞](https://m.163.com/news/article/KNBV8LB0051492T3.html)
 
-[78.88万元黄金耳机盒现货已售 周大福：就一件 可定制](https://m.163.com/news/article/KNB3GO0J053469LG.html)
+[长城汽车董事长魏建军就海报抄袭路虎致歉](https://m.163.com/news/article/KNC4SUU4053469LG.html)
+
+[媒体:西贝创始成员董俊义任CEO 内部下发薪酬缓发计划](https://m.163.com/news/article/KNC0B6TG0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[岛内骂民进党中东救援不力:自己无作为还怕大陆"统战"](https://m.163.com/news/article/KN9FHMQ80552G199.html)
+[官方："十五五"时期普通高中将增加学位200万个以上](https://m.163.com/news/article/KNBRU48U0534A4SC.html)
 
 ---end---
