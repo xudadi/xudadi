@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-07 14:42:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-07 15:17:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026年重庆数字资源集团有限公司招聘人工智能菁英工程师20名，计算机、数学等专业可报 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2807167)
+[重庆市第九十四初级中学校公开招聘地理教师简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2807302)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
