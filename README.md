@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-09 19:49:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-09 21:05:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[璧山区政务服务管理办公室招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2808426)
+[两江新区多岗位招聘,最高月薪1.9万元! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2809330)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
