@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-10 19:54:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-10 21:03:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学编外聘用人员招聘简章(2026年第7轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2810179)
+[重庆市渝中区培智学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2810563)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -27,12 +27,12 @@
 
 [经历168小时返程5次改机票 滞留邮轮上旅游团终于回家](https://m.163.com/news/article/KNLP403H053469LG.html)
 
-[电动车宣称功能永久免费用后却要求付费升级 官方立案](https://m.163.com/news/article/KNL2E8PM05345ARG.html)
+[深圳福田首批"政务龙虾"上线 仅有3000多行代码](https://m.163.com/news/article/KNK5NK77051492T3.html)
 
-[博纳影业回应董事长于冬欠赌债传闻：不实信息](https://m.163.com/news/article/KNLJPMGD051492T3.html)
+[电动车宣称功能永久免费用后却要求付费升级 官方立案](https://m.163.com/news/article/KNL2E8PM05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[孙光芝代表：建议将不得强迫游客购物写进旅游法](https://m.163.com/news/article/KNIIS3650534A4SC.html)
+[博纳影业回应董事长于冬欠赌债传闻：不实信息](https://m.163.com/news/article/KNLJPMGD051492T3.html)
 
 ---end---
