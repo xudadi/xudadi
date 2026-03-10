@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-10 14:29:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-10 15:25:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆市綦江区公安局辅警岗位工作人员 招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2809556)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学编外聘用人员招聘简章(2026年第7轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2810179)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[外卖小哥追尾轿车提出400元私了 车主反手给千元红包](https://m.163.com/news/article/KNJD9MOL0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子举报母亲去世后被"嫁给"亲弟弟 案件已提级调查](https://m.163.com/news/article/KNJM5K8005561G0D.html)
+[经历168小时返程5次改机票 滞留邮轮上旅游团终于回家](https://m.163.com/news/article/KNLP403H053469LG.html)
 
-[74岁老人与牌友聚餐后离世女儿索赔34万 对方喊冤](https://m.163.com/news/article/KNK00DP3055040N3.html)
+[电动车宣称功能永久免费用后却要求付费升级 官方立案](https://m.163.com/news/article/KNL2E8PM05345ARG.html)
+
+[博纳影业回应董事长于冬欠赌债传闻：不实信息](https://m.163.com/news/article/KNLJPMGD051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[OpenClaw使用者：将工作邮箱交给它被删除数百封邮件](https://m.163.com/news/article/KNJV4ULQ0514D3UH.html)
+[孙光芝代表：建议将不得强迫游客购物写进旅游法](https://m.163.com/news/article/KNIIS3650534A4SC.html)
 
 ---end---
