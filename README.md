@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-11 07:57:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-11 10:40:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝中区培智学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2810563)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[忠县卫生健康事业单位2026年一季度公开招聘临时聘用人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2811167)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[俩法国小伙辞职走路到中国:耗时2年 走出新疆花了45天](https://m.163.com/news/article/KNM337A60550A0OW.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[在华伊朗小伙毅然回国守护家人 前老板:已联系不上他](https://m.163.com/news/article/KNMBS114053469LG.html)
+[屠海鸣委员：去年港交所新股募资总额居全球第一](https://m.163.com/news/article/KNNPEFAN0534A4SC.html)
 
-[坦克500智慧巡航突然降速至22公里 车主冒险拍下证据](https://m.163.com/news/article/KNM038FC05561G0D.html)
+["一对老夫妻双双129岁相恋100年"视频引热议 当地回应](https://m.163.com/news/article/KNMBS10F053469LG.html)
+
+[车险续保"悲喜两重天"：有人降价 有人未出险涨了1千](https://m.163.com/news/article/KNM9P34R05199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[9岁女孩在埃及飚英语维权:8个月起就跟爸爸"浪迹天涯"](https://m.163.com/news/article/KNM8M8KO0534P59R.html)
+[小伙辗转8天回国：后悔赚钱赚到伊朗 赴死的心都有了](https://m.163.com/news/article/KNMBL3FB0534P59R.html)
 
 ---end---
