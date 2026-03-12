@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-12 19:59:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-12 21:21:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南大学附属小学2026年春季招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2812973)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市万州区事业单位2026年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2813823)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[9个集装箱滞留阿曼湾 浙江老板:再过一周工厂只能停产](https://m.163.com/news/article/KNQKH69K05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[业主举报违建次日接到"邻居"电话 物业经理被行政处罚](https://m.163.com/news/article/KNQV90L80512DU6N.html)
+[拆解“宁王”最强年报：每秒盈利约2290元](https://m.163.com/news/article/KNRG3K990512B07B.html)
 
-["万吨大驱"上新 军事专家：在四个方面都有大幅度提升](https://m.163.com/news/article/KNQBRP070514R9OJ.html)
+[两男子从上海打车去珠峰 13天跑6千多公里司机净赚1万](https://m.163.com/news/article/KNR198AK053469LG.html)
+
+[腾讯回应OpenClaw之父Peter的“抄袭”指责](https://m.163.com/news/article/KNR503OI05198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[为皇帝造的老君骑马像遭"浓妆艳抹" 村民觉得是做好事](https://m.163.com/news/article/KNQUDQ2H0514R9P4.html)
+[十四届全国人大四次会议闭幕 表决通过多项决议和法律](https://m.163.com/news/article/KNR4VA6C051497H3.html)
 
 ---end---
