@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-17 14:13:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-17 15:30:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往长寿区城市管理综合行政执法支队工作人员的招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2817785)
+[“重庆人力”所属企业飞驶特公司招聘：派往大足区某机关事业单位工作人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2818527)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
