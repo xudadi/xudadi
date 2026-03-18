@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-18 20:35:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-18 22:06:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[财达证券股份有限公司财富管理与机构业务委员会重庆分公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2820432)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[某国企外包岗位(前台工作人员)招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2821083)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[拿奥数金牌的"天才"从北大退学：修得0学分受巨大打击](https://m.163.com/news/article/KO5F07E50512BN99.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子捉奸妻子收情夫补偿费获罪 改判无罪后又有新进展](https://m.163.com/news/article/KO7S1H9805129QAF.html)
+[小伙坐16楼栏杆外轻生：我被生活压得喘不过气 再见吧](https://m.163.com/news/article/KOAE2PV1051492LM.html)
 
-[上海业主买小区车位不办产证 10年后房已卖办不了了](https://m.163.com/news/article/KO7MRR1N0514EGPO.html)
+[女子火车上来例假弄脏床单被要求清洗或赔偿 本人回应](https://m.163.com/news/article/KOAG5R5H05561G0D.html)
+
+[马拉松选手赛途中心脏骤停送医后离世 官方证实](https://m.163.com/news/article/KOAMQEOI053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[感冒后施行"宫颈环扎"术 女子诞龙凤胎夭折维权近8年](https://m.163.com/news/article/KO8K48NK05345ARG.html)
+[湖南一汽修店老板给货车轮胎充气被炸飞 专家提醒](https://m.163.com/news/article/KOALG9DE05561G0D.html)
 
 ---end---
