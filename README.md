@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-18 08:02:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-18 11:20:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江鱼复智选假日酒店劳务派遣岗位(前厅部经理)招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2819294)
+[重庆市发展和改革委员会公开招聘劳务派遣工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2819737)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
