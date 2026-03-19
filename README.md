@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-19 19:50:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-19 21:07:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘派往重庆市林业科学研究院劳务派遣人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2821548)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学核能技术创新研究院劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2821742)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑丽文希望4月至6月来大陆 国台办回应](https://m.163.com/news/article/KOAUE6TH0514BQ68.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[第二轮土地承包到期后再延长30年试点](https://m.163.com/news/article/KOARPIED05346RC6.html)
+[贵州银行原行长受贿过亿获死缓 现任是该行首位女行长](https://m.163.com/news/article/KODBDD3F05199DKK.html)
 
-[小伙坐16楼栏杆外轻生：我被生活压得喘不过气 再见吧](https://m.163.com/news/article/KOAE2PV1051492LM.html)
+[2月城镇16-24岁劳动力失业率16.1%](https://m.163.com/news/article/KOD5T5K005198CJN.html)
+
+[马拉松裁判拦停冠军冲线被追加处罚 涉事选手再发声](https://m.163.com/news/article/KOD4QHTR051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子火车上来例假弄脏床单被要求清洗或赔偿 本人回应](https://m.163.com/news/article/KOAG5R5H05561G0D.html)
+[知名博主帮人追讨买法拉利的定金被打 头部挨了十余次](https://m.163.com/news/article/KOD4BJKO05129QAF.html)
 
 ---end---
