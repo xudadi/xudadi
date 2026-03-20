@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-20 14:57:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-20 15:49:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学核能技术创新研究院劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2821742)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[万友人才招聘外派至重庆市综合交通运输研究所有限公司工作简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2823518)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[以一敌二！“万吨大驱”南昌舰逼退外舰 细节公布](https://m.163.com/news/article/KOEUGH4C0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[3月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/KOF0J3TK0534A4SC.html)
+[同村7只被偷小狗结伴逃亡17公里回家 狗主人发声](https://m.163.com/news/article/KOFAH7CO053469LG.html)
 
-[10天购8瓶茅台均为假货 买家索赔遭商家反怼法院判了](https://m.163.com/news/article/KODSETGE053469LG.html)
+[云南昆明滇中新区三名招商局长联合讨薪 金额近千万元](https://m.163.com/news/article/KOFE0POE0514BE2Q.html)
+
+[运营港口被强行接管 李嘉诚旗下长和最新发声](https://m.163.com/news/article/KOFCTRIR05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[厦门有人钓到560斤金枪鱼 在市场分割每500克卖100元](https://m.163.com/news/article/KODTVR4C053469LG.html)
+[主动请缨抓捕命案逃犯 37岁警察不幸中弹牺牲](https://m.163.com/news/article/KOF9VSHC051492T3.html)
 
 ---end---
