@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-21 02:24:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-21 03:11:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团重庆西科水运工程咨询有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2824317)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市地质矿产勘查开发集团有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2824316)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[同村7只被偷小狗结伴逃亡17公里回家 狗主人发声](https://m.163.com/news/article/KOFAH7CO053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[云南昆明滇中新区三名招商局长联合讨薪 金额近千万元](https://m.163.com/news/article/KOFE0POE0514BE2Q.html)
+[重庆市长胡衡华被查 曾因自建房倒塌致54死事故被处分](https://m.163.com/news/article/KOFLNNCE0534A4SC.html)
 
-[运营港口被强行接管 李嘉诚旗下长和最新发声](https://m.163.com/news/article/KOFCTRIR05345ARG.html)
+[年薪60万男子找36名同事借200万被辞 向公司索赔240万](https://m.163.com/news/article/KOFS6D470514CRLH.html)
+
+[母亲带1岁儿子看病如厕时把娃交人照看 儿子失踪36年](https://m.163.com/news/article/KOFMB03R051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[主动请缨抓捕命案逃犯 37岁警察不幸中弹牺牲](https://m.163.com/news/article/KOF9VSHC051492T3.html)
+[指导价12.59万的车成交价击穿8.4万 4S店:卖1辆亏1辆](https://m.163.com/news/article/KOG4S9U5051492LM.html)
 
 ---end---
