@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-20 20:00:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-20 21:20:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[万友人才招聘外派至重庆市综合交通运输研究所有限公司工作简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2823518)
+[重庆设计集团重庆西科水运工程咨询有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2824317)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
