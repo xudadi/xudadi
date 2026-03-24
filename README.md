@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-24 20:34:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-24 22:04:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆悦来两江国际酒店会议管理有限公司希尔顿格芮酒店招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2827470)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司招聘派往重庆市粮油批发市场有限责任公司市场拓展部业务拓展岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2827958)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["亿元村"出现饮水难 有村民接屋檐雨水、喝腥臭溪沟水](https://m.163.com/news/article/KOPQ6V8J0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[楼上打工楼下透析续命 广州一制衣厂56名工人患尿毒症](https://m.163.com/news/article/KOP4S3BL055040N3.html)
+[欧盟智库鼓噪"和中国打贸易战" 媒体：打不赢也打不起](https://m.163.com/news/article/KOQE9P480514R9OJ.html)
 
-[女子自称"家里资产四个亿" 男友给50多万彩礼如今哭了](https://m.163.com/news/article/KOOCN7OF051494GR.html)
+[男子投保遭拒发现名下有手术记录 医院称系其亲人冒用](https://m.163.com/news/article/KOQAJCQJ053469LG.html)
+
+[业主反映家中墙体像面粉"一抠就碎" 物业：并非承重墙](https://m.163.com/news/article/KOPPS03305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[美团App被指删除用户手机内的数百张照片 客服回应](https://m.163.com/news/article/KOPLDBJ4051492T3.html)
+[内存价格暴涨 有人用7部旧手机换回1个二手iPhone 11](https://m.163.com/news/article/KONJK5UC0530WJIN.html)
 
 ---end---
