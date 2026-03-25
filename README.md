@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-25 19:56:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-25 21:18:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆小蚂蚁人力资源服务集团有限公司公开招聘劳务派遣员工简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2829265)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市政协新闻宣传中心(重庆政协报社)2026年招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2829871)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[研究所所长被指涉嫌猥亵下属 信达证券：已暂停其工作](https://m.163.com/news/article/KOSD31S40514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张雪峰医疗文件疑遭泄露 苏州卫健委回应](https://m.163.com/news/article/KOS5I93S0001899O.html)
+[山西太原一路面塌出约80平米大坑外卖员坠坑 官方回应](https://m.163.com/news/article/KOT5792D053469LG.html)
 
-[美方评估中方未计划2027年"武力攻台" 国台办回应](https://m.163.com/news/article/KOS1O0KT0514R9OJ.html)
+[中远海运恢复海湾国家订舱 船舶暂不过霍尔木兹海峡](https://m.163.com/news/article/KOT3CFCV05198CJN.html)
+
+[自称有点自闭的年轻人留言想找工作 官方回复走红网络](https://m.163.com/news/article/KORRCOR00512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[郑州大学校友会发文：沉痛悼念知名校友张雪峰先生](https://m.163.com/news/article/KOS1JO7B05149AGP.html)
+[研究所所长被指涉嫌猥亵下属 已被刑拘](https://m.163.com/news/article/KOSVA0T10001899O.html)
 
 ---end---
