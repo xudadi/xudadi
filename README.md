@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-25 07:46:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-25 10:22:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司招聘派往重庆市粮油批发市场有限责任公司市场拓展部业务拓展岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2827958)
+[重庆飞驶特人力资源管理有限公司派往重庆市沙坪坝区人民法院2026年度公开招聘派遣制书记员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2828575)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
