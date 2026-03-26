@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-26 14:43:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-26 15:47:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学光电工程学院先进激光及精密测量团队劳务派遣科研秘书招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2830255)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市两江新区人才发展集团外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2830617)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[成都宝妈1年买5套"老破小"实现以租养贷：首付100多万](https://m.163.com/news/article/KOT7912R0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[覆盖全民 中国加快建立长期护理保险制度](https://m.163.com/news/article/KOT9AFB40001899O.html)
+[台湾民众党前主席柯文哲一审被判17年](https://m.163.com/news/article/KOV2EFL0000189PS.html)
 
-[首次全流程展示 国产无人机蜂群作战系统亮相](https://m.163.com/news/article/KOSF4M570514R9OJ.html)
+[75岁阿婆卖房凑120万元帮还贷反而无家可归 女儿喊冤](https://m.163.com/news/article/KOT105T60512EFR8.html)
+
+[男子离奇失踪1年车停半山腰 家属：活要见人死要见尸](https://m.163.com/news/article/KOUQ87NJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大学生家里有三层大酒店却装穷骗取助学金 举报人发声](https://m.163.com/news/article/KOSIAV5K05561G0D.html)
+[杭州78岁大伯离世后捐献遗体 妻子一封信看哭很多人](https://m.163.com/news/article/KOUPM8980001899O.html)
 
 ---end---
