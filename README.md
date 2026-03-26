@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-27 02:40:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-27 03:42:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往某公司检修工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2831279)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[64岁"宝贝回家"创始人：期待"关闭网站"的那一天](https://m.163.com/news/article/KOVH3F9F053469LG.html)
+[医院“慰问用水果篮”中标价492元/份 纪检办回应](https://m.163.com/news/article/KOVFVK88053469LG.html)
 
-[美团：2025年营收3648.5亿元 全年净亏损233.6亿元](https://m.163.com/news/article/KOVCK7CP05198CJN.html)
+[罗技侮辱消费者"一降价还不是像狗跑过来" 品牌方回应](https://m.163.com/news/article/KOVORNUG0530WJIN.html)
 
-[男子从四家公司贷出共计356万元 实际到手却仅8万多元](https://m.163.com/news/article/KOVA4O5305561G0D.html)
+[中国无人飞枪首次亮相 演练画面公布](https://m.163.com/news/article/KOVO59SR000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[iPhone半夜自动打电话 苹果官网发文回应](https://m.163.com/news/article/KOV641BK0534A4SC.html)
+[高速有货车侧翻五常大米洒满一地 多人协助把大米搬走](https://m.163.com/news/article/KOVL61IU051492T3.html)
 
 ---end---
