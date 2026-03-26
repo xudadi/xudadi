@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-26 20:00:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-26 21:50:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区人才发展集团外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2830617)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某公司检修工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2831279)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[台湾民众党前主席柯文哲一审被判17年](https://m.163.com/news/article/KOV2EFL0000189PS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[75岁阿婆卖房凑120万元帮还贷反而无家可归 女儿喊冤](https://m.163.com/news/article/KOT105T60512EFR8.html)
+[64岁"宝贝回家"创始人：期待"关闭网站"的那一天](https://m.163.com/news/article/KOVH3F9F053469LG.html)
 
-[男子离奇失踪1年车停半山腰 家属：活要见人死要见尸](https://m.163.com/news/article/KOUQ87NJ053469LG.html)
+[美团：2025年营收3648.5亿元 全年净亏损233.6亿元](https://m.163.com/news/article/KOVCK7CP05198CJN.html)
+
+[男子从四家公司贷出共计356万元 实际到手却仅8万多元](https://m.163.com/news/article/KOVA4O5305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[杭州78岁大伯离世后捐献遗体 妻子一封信看哭很多人](https://m.163.com/news/article/KOUPM8980001899O.html)
+[iPhone半夜自动打电话 苹果官网发文回应](https://m.163.com/news/article/KOV641BK0534A4SC.html)
 
 ---end---
