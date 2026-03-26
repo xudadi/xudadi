@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-26 08:04:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-26 11:26:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市政协新闻宣传中心(重庆政协报社)2026年招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2829871)
+[重庆大学光电工程学院先进激光及精密测量团队劳务派遣科研秘书招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2830255)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
