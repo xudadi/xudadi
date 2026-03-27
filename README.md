@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-27 14:15:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-27 15:36:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往某公司检修工招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2831279)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业重庆人才服务股份有限公司招聘派往某人力资源公司的工程档案、文书及会计档案整理岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2832279)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[医院“慰问用水果篮”中标价492元/份 纪检办回应](https://m.163.com/news/article/KOVFVK88053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[罗技侮辱消费者"一降价还不是像狗跑过来" 品牌方回应](https://m.163.com/news/article/KOVORNUG0530WJIN.html)
+[女留学生坐飞机一落地上海立马报案 有人被骗走30万元](https://m.163.com/news/article/KOVQQB270514R9OJ.html)
 
-[中国无人飞枪首次亮相 演练画面公布](https://m.163.com/news/article/KOVO59SR000189PS.html)
+[媒体：和张雪峰一样 还有多位名人也因猝死骤然离世](https://m.163.com/news/article/KP1FIILC0550A0OW.html)
+
+["梅姨"曾藏匿于乡间穿着鲜艳 被男友求婚后离开](https://m.163.com/news/article/KP1FD6460514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高速有货车侧翻五常大米洒满一地 多人协助把大米搬走](https://m.163.com/news/article/KOVL61IU051492T3.html)
+[男孩被抢走17年后找到生母 对"命好"的弟弟感情微妙](https://m.163.com/news/article/KP0TC0OJ0512D3VJ.html)
 
 ---end---
