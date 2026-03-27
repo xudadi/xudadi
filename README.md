@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-27 20:05:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-27 21:43:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业重庆人才服务股份有限公司招聘派往某人力资源公司的工程档案、文书及会计档案整理岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2832279)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆机电智能制造有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2832942)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女留学生坐飞机一落地上海立马报案 有人被骗走30万元](https://m.163.com/news/article/KOVQQB270514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[媒体：和张雪峰一样 还有多位名人也因猝死骤然离世](https://m.163.com/news/article/KP1FIILC0550A0OW.html)
+[唯一女儿去世 八旬母亲花光退休金网购快递箱堆积如山](https://m.163.com/news/article/KP254INE053469LG.html)
 
-["梅姨"曾藏匿于乡间穿着鲜艳 被男友求婚后离开](https://m.163.com/news/article/KP1FD6460514D3UH.html)
+[小鹏汽车公司中文名称将变更为“小鹏集团”](https://m.163.com/news/article/KP21O07C051492T3.html)
+
+[乐华与王一博续约 曾建议有条件向其授出1250万股股份](https://m.163.com/news/article/KP213002051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男孩被抢走17年后找到生母 对"命好"的弟弟感情微妙](https://m.163.com/news/article/KP0TC0OJ0512D3VJ.html)
+[丰田在华发起14年来最大召回计划 总计超56万辆](https://m.163.com/news/article/KP1MHI860519DDQ2.html)
 
 ---end---
