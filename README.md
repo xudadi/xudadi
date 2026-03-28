@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-28 20:00:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-28 21:18:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆机电智能制造有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2832942)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[豹子岭"最难"营救后续:两名任性"驴友"被追偿1万余元](https://m.163.com/news/article/KP286NNG053469LG.html)
+[27吨冻牛头牛蹄跨省运输后部分发霉变质 多部门已介入](https://m.163.com/news/article/KP4P28A7051492T3.html)
 
-[唯一女儿去世 八旬母亲花光退休金网购快递箱堆积如山](https://m.163.com/news/article/KP254INE053469LG.html)
+[猪价跌破5元创历史新低](https://m.163.com/news/article/KP4O30R505199NPP.html)
 
-[小鹏汽车公司中文名称将变更为“小鹏集团”](https://m.163.com/news/article/KP21O07C051492T3.html)
+[店主寄递10箱茅台酒总价超12万 司机虚假"送达"后失联](https://m.163.com/news/article/KP2D1I4B0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[乐华与王一博续约 曾建议有条件向其授出1250万股股份](https://m.163.com/news/article/KP213002051492T3.html)
+[企业负责人称因修路被迫停产多年 状告县政府索赔无果](https://m.163.com/news/article/KP4G5764053469LG.html)
 
 ---end---
