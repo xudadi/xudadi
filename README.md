@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-30 02:02:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-30 03:01:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市第一中学校2026—2027年重点新建工程项目管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833302)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[列车停电被困隧道3小时 乘客称小孩热哭了但不让砸窗](https://m.163.com/news/article/KP77I3JJ053469LG.html)
+[韩国网友偷广州美景图配文"这就是首尔" 博文现已删除](https://m.163.com/news/article/KP6SJQIA053469M5.html)
 
-[多艘新入列舰艇赴南海开展实战化训练](https://m.163.com/news/article/KP7854NC0514R9OJ.html)
+[广东公布首批25家国际医疗服务试点医院](https://m.163.com/news/article/KP7HLK350512B07B.html)
 
-[女子在周大生门店买到周大金戒指 涉事金店已退货赔款](https://m.163.com/news/article/KP73VBK8053469LG.html)
+[女子被羁押821天无罪释放申请国赔遭叫停 本人再发声](https://m.163.com/news/article/KP7441CH0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贵州发文落实带薪错峰休假：应休尽休](https://m.163.com/news/article/KP725R7M0514R9P4.html)
+[动车被困隧道内停车断电4个小时 乘客：有人紧张晕倒](https://m.163.com/news/article/KP7GA76U0514R9P4.html)
 
 ---end---
