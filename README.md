@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-29 20:01:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-29 21:19:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市第一中学校2026—2027年重点新建工程项目管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833302)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[70岁老伯"临危受命" 申请成为残疾侄女监护人2年未果](https://m.163.com/news/article/KP4RSN1L0514EGPO.html)
+[列车停电被困隧道3小时 乘客称小孩热哭了但不让砸窗](https://m.163.com/news/article/KP77I3JJ053469LG.html)
 
-[业主搭雨棚城管强拆被判违法 2000元判赔款5年未支付](https://m.163.com/news/article/KP4EPFPF05561G0D.html)
+[多艘新入列舰艇赴南海开展实战化训练](https://m.163.com/news/article/KP7854NC0514R9OJ.html)
 
-[27吨冻牛头牛蹄跨省运输后部分发霉变质 多部门已介入](https://m.163.com/news/article/KP4P28A7051492T3.html)
+[女子在周大生门店买到周大金戒指 涉事金店已退货赔款](https://m.163.com/news/article/KP73VBK8053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[猪价跌破5元创历史新低](https://m.163.com/news/article/KP4O30R505199NPP.html)
+[贵州发文落实带薪错峰休假：应休尽休](https://m.163.com/news/article/KP725R7M0514R9P4.html)
 
 ---end---
