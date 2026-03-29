@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-29 08:00:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-29 11:34:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆机电智能制造有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2832942)
+[数据标注线上众包项目兼职人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833286)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
