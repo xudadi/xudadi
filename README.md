@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-29 14:43:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-29 15:39:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[数据标注线上众包项目兼职人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833286)
+[重庆市第一中学校2026—2027年重点新建工程项目管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833302)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
