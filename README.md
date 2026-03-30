@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-30 15:01:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-30 16:48:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市轻工业学校2026年度教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2833873)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[万盛经济技术开发区消防救援大队公开招聘合同制消防文职人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2834336)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[蔡磊透露身体近况：四个人同时搀扶也无法迈步挪动了](https://m.163.com/news/article/KP7KVS2O053469LG.html)
 
 [韩国网友偷广州美景图配文"这就是首尔" 博文现已删除](https://m.163.com/news/article/KP6SJQIA053469M5.html)
 
 [广东公布首批25家国际医疗服务试点医院](https://m.163.com/news/article/KP7HLK350512B07B.html)
 
-[女子被羁押821天无罪释放申请国赔遭叫停 本人再发声](https://m.163.com/news/article/KP7441CH0550B6IS.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[动车被困隧道内停车断电4个小时 乘客：有人紧张晕倒](https://m.163.com/news/article/KP7GA76U0514R9P4.html)
+[女子被羁押821天无罪释放申请国赔遭叫停 本人再发声](https://m.163.com/news/article/KP7441CH0550B6IS.html)
 
 ---end---
