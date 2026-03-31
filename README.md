@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-31 08:05:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-31 11:29:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市卫生人才发展与对外交流中心见习生招募启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2835162)
+[重庆大学附属江津医院2026年医院自聘岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2835782)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
