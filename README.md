@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-31 14:49:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-31 16:08:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学附属江津医院2026年医院自聘岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2835782)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市某国有企业外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2836134)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[全红婵哽咽谈体重减不下来：饿到不行 希望不要再骂了](https://m.163.com/news/article/KP9F7PH30550A0OW.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多家电动两轮车酝酿涨价 经销商:4月起涨幅最高300元](https://m.163.com/news/article/KP9N6ADT051492T3.html)
+[虎跳峡落水男子遗体发现后 打捞难度太大家属同意放弃](https://m.163.com/news/article/KPAFEQO2051492T3.html)
 
-[猪价跌破10元关口、猪企深度亏损 底部反转预期升温](https://m.163.com/news/article/KP9JJADE0519DDQ2.html)
+[郑丽文将访大陆 徐巧芯示警民进党一定会“抹红”](https://m.163.com/news/article/KPBEPURV055080L4.html)
+
+[上海业主气到发抖 物业把全小区大便埋居民家厨房窗前](https://m.163.com/news/article/KPBIH2MU0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[约80层楼高的神女大扶梯 把巫山县城推向了台前](https://m.163.com/news/article/KP9J3M4G0512D3VJ.html)
+[老板卖出8块小天才手表要被罚5万多：感觉被"钓鱼"了](https://m.163.com/news/article/KPBI53NJ0001899O.html)
 
 ---end---
