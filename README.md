@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-03-31 20:40:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-03-31 22:15:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市某国有企业外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2836134)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至重庆市某国有企业高级市场营销经理(教育培训方向)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2836995)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[虎跳峡落水男子遗体发现后 打捞难度太大家属同意放弃](https://m.163.com/news/article/KPAFEQO2051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑丽文将访大陆 徐巧芯示警民进党一定会“抹红”](https://m.163.com/news/article/KPBEPURV055080L4.html)
+[恶犬擅闯鸡场咬死300多只鸡 养殖户：狗把这当游乐场](https://m.163.com/news/article/KPCGH4JT053469LG.html)
 
-[上海业主气到发抖 物业把全小区大便埋居民家厨房窗前](https://m.163.com/news/article/KPBIH2MU0001899O.html)
+[铜师傅上市首日破发股价跌近50% 曾获小米投资](https://m.163.com/news/article/KPCFGGRN051492T3.html)
+
+[28岁川大博士在意遇难 姐姐不敢将噩耗告知爷爷奶奶](https://m.163.com/news/article/KPCDFN96053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[老板卖出8块小天才手表要被罚5万多：感觉被"钓鱼"了](https://m.163.com/news/article/KPBI53NJ0001899O.html)
+[耐克大中华区董事长兼CEO董炜卸任 官宣加盟红杉中国](https://m.163.com/news/article/KPCA1M4R0512B07B.html)
 
 ---end---
