@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-01 13:47:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-01 15:22:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至重庆市某国有企业高级市场营销经理(教育培训方向)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2836995)
+[重庆红岩革命历史博物馆公开招聘劳务派遣人员公告（讲解员） (重庆市公考雷达)](https://www.gongkaoleida.com/article/2837815)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
