@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-01 19:55:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-01 21:25:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆红岩革命历史博物馆公开招聘劳务派遣人员公告（讲解员） (重庆市公考雷达)](https://www.gongkaoleida.com/article/2837815)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[找工作看过来,两江新区多岗位招聘! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2838741)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[恶犬擅闯鸡场咬死300多只鸡 养殖户：狗把这当游乐场](https://m.163.com/news/article/KPCGH4JT053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[铜师傅上市首日破发股价跌近50% 曾获小米投资](https://m.163.com/news/article/KPCFGGRN051492T3.html)
+[复星国际的退与进：年亏234亿 郭广昌致歉](https://m.163.com/news/article/KPEVM14T051492T3.html)
 
-[28岁川大博士在意遇难 姐姐不敢将噩耗告知爷爷奶奶](https://m.163.com/news/article/KPCDFN96053469LG.html)
+[奇瑞00后女员工实名举报高管性骚扰 公司回应](https://m.163.com/news/article/KPERS8S6051492T3.html)
+
+[内存条价格跳水 手机回收价回跌](https://m.163.com/news/article/KPE29FGG0519DDQ2.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[耐克大中华区董事长兼CEO董炜卸任 官宣加盟红杉中国](https://m.163.com/news/article/KPCA1M4R0512B07B.html)
+[骑张雪机车夺冠的"边缘人" 告别主流摩托赛事长达10年](https://m.163.com/news/article/KPCH5BUO053469LG.html)
 
 ---end---
