@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-02 19:57:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-02 21:44:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026天地人和街小学招募令 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2839582)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市铜梁区教育事业单位2026年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2840200)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[凯越机车疑内涵张雪机车夺冠:在你来之前我们就是冠军](https://m.163.com/news/article/KPF4CGAQ053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[复星国际的退与进：年亏234亿 郭广昌致歉](https://m.163.com/news/article/KPEVM14T051492T3.html)
+[车主临时占道停车301次 累计欠12052元停车费拒不缴纳](https://m.163.com/news/article/KPHIO5C6051492T3.html)
 
-[奇瑞00后女员工实名举报高管性骚扰 公司回应](https://m.163.com/news/article/KPERS8S6051492T3.html)
+[00后女孩未婚先孕 坐月子期间男方提出"奶粉AA"并拉黑](https://m.163.com/news/article/KPHBF39P05561G0D.html)
+
+[河南一高校浴室热水按升计费 学生洗10分钟要花3到7元](https://m.163.com/news/article/KPHBF1F805561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[内存条价格跳水 手机回收价回跌](https://m.163.com/news/article/KPE29FGG0519DDQ2.html)
+[驾驶张雪机车夺冠的"流浪车手"：张雪一句话打动了我](https://m.163.com/news/article/KPH7VDUR0512B07B.html)
 
 ---end---
