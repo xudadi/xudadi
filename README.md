@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-02 14:48:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-02 16:06:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学经济与工商管理学院(重庆人才发展研究院)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2838909)
+[2026天地人和街小学招募令 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2839582)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
