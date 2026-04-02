@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-02 08:02:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-02 11:25:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[找工作看过来,两江新区多岗位招聘! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2838741)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学经济与工商管理学院(重庆人才发展研究院)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2838909)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[凯越机车疑内涵张雪机车夺冠:在你来之前我们就是冠军](https://m.163.com/news/article/KPF4CGAQ053469LG.html)
 
 [复星国际的退与进：年亏234亿 郭广昌致歉](https://m.163.com/news/article/KPEVM14T051492T3.html)
 
 [奇瑞00后女员工实名举报高管性骚扰 公司回应](https://m.163.com/news/article/KPERS8S6051492T3.html)
 
-[内存条价格跳水 手机回收价回跌](https://m.163.com/news/article/KPE29FGG0519DDQ2.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[骑张雪机车夺冠的"边缘人" 告别主流摩托赛事长达10年](https://m.163.com/news/article/KPCH5BUO053469LG.html)
+[内存条价格跳水 手机回收价回跌](https://m.163.com/news/article/KPE29FGG0519DDQ2.html)
 
 ---end---
