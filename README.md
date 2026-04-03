@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-03 19:54:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-03 21:06:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆幼儿师范高等专科学校2026年第一批编制外工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2841196)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[招商局检测认证(重庆)有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842083)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[小鹏澳洲经销商资金链断裂被接管 拒绝履行454辆订单](https://m.163.com/news/article/KPHRSJ9O0512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女孩一只脚已跨过栏杆 老兵司机10秒钟抢回年轻生命](https://m.163.com/news/article/KPHNLS1K053469LG.html)
+["张雪追车"当事记者易军:张雪的贵人不是我而是他自己](https://m.163.com/news/article/KPK8EVH3053469LG.html)
 
-[网友通过主播带货购买优思益可否"退一赔三" 律师解读](https://m.163.com/news/article/KPHLV287051492T3.html)
+[南京警方：一起发生在1994年的抢劫杀人案告破](https://m.163.com/news/article/KPK0IM7I00019SNS.html)
+
+[吉林下大雪致珲乌高速发生事故 目击者：多车连环追尾](https://m.163.com/news/article/KPK54QLB051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[张雪妻子：近两年才还清所有私人欠款 我不是好命的人](https://m.163.com/news/article/KPHL67N605561G0D.html)
+[涉嫌严重违纪违法 中央政治局委员马兴瑞被查](https://m.163.com/news/article/KPK1085S0001899O.html)
 
 ---end---
