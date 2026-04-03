@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-03 07:50:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-03 10:28:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铜梁区教育事业单位2026年面向应届高校毕业生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2840200)
+[重庆大学输变电装备技术全国重点实验室劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2840363)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
