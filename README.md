@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-05 02:02:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-05 03:01:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人工智能学院2026年非事业编工作人员招聘启事(第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842192)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子买低价"统筹车险"理赔时被拉黑 近2万车损无人赔](https://m.163.com/news/article/KPKD4SO205345ARG.html)
+["全网最不想火"的店因一句"劝退"走红 老板感慨真辛苦](https://m.163.com/news/article/KPK837DQ0514Q3T9.html)
 
-[重庆一固定三角翼飞行器坠落致2人受伤 官方通报](https://m.163.com/news/article/KPMIM25L000189PS.html)
+[陈群获任联合国教科文组织教育助理总干事](https://m.163.com/news/article/KPMTHBR50512D3VJ.html)
 
-[上线5天后 "中国孔子学院对外交流中心"被打假](https://m.163.com/news/article/KPMH5UVC0534P59R.html)
+[广东顺德莫氏鸡煲爆火:老板劝退 有人驱车2千公里来吃](https://m.163.com/news/article/KPMT9SSE05199NPP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[游客在内蒙古按导航自驾遇沙堆堵路 有人称可收费拖车](https://m.163.com/news/article/KPMFPUAP053469LG.html)
+[华谊兄弟实控人王忠磊1130万股股票将被拍卖](https://m.163.com/news/article/KPMERRT4051492T3.html)
 
 ---end---
