@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-05 21:00:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-05 21:58:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆人工智能学院2026年非事业编工作人员招聘启事(第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842192)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["全网最不想火"的店因一句"劝退"走红 老板感慨真辛苦](https://m.163.com/news/article/KPK837DQ0514Q3T9.html)
+[地震学副教授讲炒股引热议 十多年前就是北大热门课程](https://m.163.com/news/article/KPP0UTTF0514R9P4.html)
 
-[陈群获任联合国教科文组织教育助理总干事](https://m.163.com/news/article/KPMTHBR50512D3VJ.html)
+[00后女生跨行成"代祭师"：月薪4000元 最担心喊错名字](https://m.163.com/news/article/KPP8R8O0053469LG.html)
 
-[广东顺德莫氏鸡煲爆火:老板劝退 有人驱车2千公里来吃](https://m.163.com/news/article/KPMT9SSE05199NPP.html)
+[17岁小伙胸腔内有根5cm缝衣针 父母回忆或是1岁时扎入](https://m.163.com/news/article/KPP38OB80514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[华谊兄弟实控人王忠磊1130万股股票将被拍卖](https://m.163.com/news/article/KPMERRT4051492T3.html)
+[00后在国企食堂当点心厨师拍视频走红:领导都看了采访](https://m.163.com/news/article/KPOSJ73S055040N3.html)
 
 ---end---
