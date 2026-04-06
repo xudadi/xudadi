@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-07 02:12:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-07 03:30:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆川仪自动化股份有限公司2026届春季校园招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842816)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[1个承诺坚守800多年 宋氏14代人为南宋丞相虞允文守墓](https://m.163.com/news/article/KPR5A9F20514D3UH.html)
+[安徽6岁失联女童确认遇害 嫌犯已被抓获归案](https://m.163.com/news/article/KPS6GPVV0001899O.html)
 
-[被指花5万赞助张雪博得值5000万的曝光 东鹏特饮回应](https://m.163.com/news/article/KPRLDCIC0514BE2Q.html)
+[上海二手房市场现卖家大幅跳价 买家：一夜直接涨50万](https://m.163.com/news/article/KPS6EKCH055040N3.html)
 
-[男子诈骗近百万后潜逃26年 隐姓埋名成"本分"猪肉摊主](https://m.163.com/news/article/KPRNOFG40514R9OJ.html)
+[中东战火纷飞 150多件伊朗国宝正在中国巡展](https://m.163.com/news/article/KPS4LOCS0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[当地文旅否认施压爆火鸡煲店开门营业:已提供支持措施](https://m.163.com/news/article/KPRK608300019K82.html)
+[陈光标称已向嫣然医院捐赠1000万元 张雪：标哥真男人](https://m.163.com/news/article/KPS2M4P4053469LG.html)
 
 ---end---
