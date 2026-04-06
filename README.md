@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-06 19:59:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-06 21:40:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区总商会公开招聘秘书处工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842651)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆川仪自动化股份有限公司2026届春季校园招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842816)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[外媒：中方非常清楚 永远别在对手犯错时打断他](https://m.163.com/news/article/KPQK29TN00019B3E.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑丽文明天启程访问大陆 台学者：是反转"战场"的机会](https://m.163.com/news/article/KPR2M9FH055080L4.html)
+[1个承诺坚守800多年 宋氏14代人为南宋丞相虞允文守墓](https://m.163.com/news/article/KPR5A9F20514D3UH.html)
 
-[蒋万安争取连任台北市长 最新民调比上次还高4.4%](https://m.163.com/news/article/KPQVU5GR055080L4.html)
+[被指花5万赞助张雪博得值5000万的曝光 东鹏特饮回应](https://m.163.com/news/article/KPRLDCIC0514BE2Q.html)
+
+[男子诈骗近百万后潜逃26年 隐姓埋名成"本分"猪肉摊主](https://m.163.com/news/article/KPRNOFG40514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[江苏一小区楼栋加装电梯只到1个楼层 真相出人意料](https://m.163.com/news/article/KPMOQ8HK00019K82.html)
+[当地文旅否认施压爆火鸡煲店开门营业:已提供支持措施](https://m.163.com/news/article/KPRK608300019K82.html)
 
 ---end---
