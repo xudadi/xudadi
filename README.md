@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-06 13:51:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-06 15:45:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆人工智能学院2026年非事业编工作人员招聘启事(第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842192)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区总商会公开招聘秘书处工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842651)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王楚钦决赛击败松岛辉空 夺得生涯首个世界杯单打冠军](https://m.163.com/news/article/KPPK9POP0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[5人夜盗古墓 被无人机全程锁定现场抓获](https://m.163.com/news/article/KPPGLPV305561G0D.html)
+[外媒：中方非常清楚 永远别在对手犯错时打断他](https://m.163.com/news/article/KPQK29TN00019B3E.html)
 
-[湖南永州发生一起车辆侧翻事故 造成3死2伤](https://m.163.com/news/article/KPPJHCJ60514R9OJ.html)
+[郑丽文明天启程访问大陆 台学者：是反转"战场"的机会](https://m.163.com/news/article/KPR2M9FH055080L4.html)
+
+[蒋万安争取连任台北市长 最新民调比上次还高4.4%](https://m.163.com/news/article/KPQVU5GR055080L4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网友晒图称曹操墓前摆满了布洛芬 高陵遗址博物馆回应](https://m.163.com/news/article/KPP696T2053469LG.html)
+[江苏一小区楼栋加装电梯只到1个楼层 真相出人意料](https://m.163.com/news/article/KPMOQ8HK00019K82.html)
 
 ---end---
