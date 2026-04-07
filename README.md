@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-08 02:38:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-08 03:43:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [两江新区多岗位招聘,“职”等你来! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2844139)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[证监会新规今日实施 涉及大股东、董监高短线交易](https://m.163.com/news/article/KPTMSB4I053469LG.html)
+[女子购物后被报警要求核查付款记录 优衣库回应](https://m.163.com/news/article/KPUB3RK0053469M5.html)
 
-[陈丽华曾谈女性创业：要打破胆量 不拖欠工人一分钱](https://m.163.com/news/article/KPTM7MQT05345ARG.html)
+[男子将52岁女子骗至花生田性骚扰 遭反抗后将其杀害](https://m.163.com/news/article/KPUJ5VUN0514D3UH.html)
 
-[陈丽华白手起家 10年前已是中国女首富](https://m.163.com/news/article/KPTKDEMV053469LG.html)
+[安徽6岁女童遇害 嫌疑人与其同住一栋楼家中也有小孩](https://m.163.com/news/article/KPUH885Q051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[北京侨商会：沉痛悼念深切缅怀陈丽华会长](https://m.163.com/news/article/KPTJBLD00001899O.html)
+[17岁少年杀17岁少年 重审因"年龄核小1岁"死刑改无期](https://m.163.com/news/article/KPU9TQ1K05561G0D.html)
 
 ---end---
