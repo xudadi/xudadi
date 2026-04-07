@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-07 14:22:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-07 15:56:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆川仪自动化股份有限公司2026届春季校园招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2842816)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[华达(重庆)私募股权投资基金管理有限公司工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2843039)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浙江渔民捕获2条"巨无霸"金枪鱼 船老大:30多年头回见](https://m.163.com/news/article/KPTBAA9K053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[6岁失联女童遇害嫌犯归案 女童父亲不愿多言:看通报吧](https://m.163.com/news/article/KPTBSV0S053469LG.html)
+[证监会新规今日实施 涉及大股东、董监高短线交易](https://m.163.com/news/article/KPTMSB4I053469LG.html)
 
-[台军退役中将：郑丽文不去大陆 台湾就是死水一潭](https://m.163.com/news/article/KPT4I1KL0514R9OJ.html)
+[陈丽华曾谈女性创业：要打破胆量 不拖欠工人一分钱](https://m.163.com/news/article/KPTM7MQT05345ARG.html)
+
+[陈丽华白手起家 10年前已是中国女首富](https://m.163.com/news/article/KPTKDEMV053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[张雪师父"牙哥"：收徒分文未取 张雪脾气1:1复刻自我](https://m.163.com/news/article/KPS7CVFG05345ARG.html)
+[北京侨商会：沉痛悼念深切缅怀陈丽华会长](https://m.163.com/news/article/KPTJBLD00001899O.html)
 
 ---end---
