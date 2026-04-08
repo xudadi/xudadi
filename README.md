@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-08 07:48:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-08 10:32:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区多岗位招聘,“职”等你来! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2844139)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学工业母机创新研究院劳务派遣工程师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2844593)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[男子从北京跑步1300公里去武汉 当事人回应"假跑"质疑](https://m.163.com/news/article/KPVTBD5G053469LG.html)
+
+[开车致女友胸部以下高位截瘫后失联 男子首发声](https://m.163.com/news/article/KPU2BKJ00550B6IS.html)
 
 [女子购物后被报警要求核查付款记录 优衣库回应](https://m.163.com/news/article/KPUB3RK0053469M5.html)
 
-[男子将52岁女子骗至花生田性骚扰 遭反抗后将其杀害](https://m.163.com/news/article/KPUJ5VUN0514D3UH.html)
-
-[安徽6岁女童遇害 嫌疑人与其同住一栋楼家中也有小孩](https://m.163.com/news/article/KPUH885Q051492T3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[17岁少年杀17岁少年 重审因"年龄核小1岁"死刑改无期](https://m.163.com/news/article/KPU9TQ1K05561G0D.html)
+[男子将52岁女子骗至花生田性骚扰 遭反抗后将其杀害](https://m.163.com/news/article/KPUJ5VUN0514D3UH.html)
 
 ---end---
