@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-08 14:49:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-08 16:12:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学工业母机创新研究院劳务派遣工程师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2844593)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某事业单位土壤肥料检测岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2845103)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子从北京跑步1300公里去武汉 当事人回应"假跑"质疑](https://m.163.com/news/article/KPVTBD5G053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[开车致女友胸部以下高位截瘫后失联 男子首发声](https://m.163.com/news/article/KPU2BKJ00550B6IS.html)
+[超50城调整优化公积金政策：不再局限“购房专用”](https://m.163.com/news/article/KPVLESR9055040N3.html)
 
-[女子购物后被报警要求核查付款记录 优衣库回应](https://m.163.com/news/article/KPUB3RK0053469M5.html)
+[女子自助餐一次吃12个汉堡 第三次光顾被老板拒绝接待](https://m.163.com/news/article/KQ076E8R053469LG.html)
+
+[郑丽文率团来大陆参访 国台办回应](https://m.163.com/news/article/KQ02879V0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子将52岁女子骗至花生田性骚扰 遭反抗后将其杀害](https://m.163.com/news/article/KPUJ5VUN0514D3UH.html)
+[直播间被指涉黄 中华老字号海河乳品道歉](https://m.163.com/news/article/KPVVFB4Q0534A4SC.html)
 
 ---end---
