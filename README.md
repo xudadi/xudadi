@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-08 20:43:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-08 22:19:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往某事业单位土壤肥料检测岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2845103)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆嘉旦微电子有限公司关于招聘市场总监等岗位的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2845447)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[超50城调整优化公积金政策：不再局限“购房专用”](https://m.163.com/news/article/KPVLESR9055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子自助餐一次吃12个汉堡 第三次光顾被老板拒绝接待](https://m.163.com/news/article/KQ076E8R053469LG.html)
+[56岁客运司机突发疾病身亡 最后5秒将车稳稳刹住](https://m.163.com/news/article/KQ1671IH051492T3.html)
 
-[郑丽文率团来大陆参访 国台办回应](https://m.163.com/news/article/KQ02879V0534A4SC.html)
+[67岁男子钓7尾鱼获利50元 被当地法院判处拘役两个月](https://m.163.com/news/article/KQ14LBDD0514D3UH.html)
+
+["汉堡自助吃太多被店家拒接待"当事人：已向12315投诉](https://m.163.com/news/article/KQ13BKPN051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[直播间被指涉黄 中华老字号海河乳品道歉](https://m.163.com/news/article/KPVVFB4Q0534A4SC.html)
+[大桥垮塌致13死3失联 事故调查报告公布](https://m.163.com/news/article/KQ116GG00001899N.html)
 
 ---end---
