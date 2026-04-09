@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-09 19:55:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-09 21:42:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[​重庆物流集团数字科技有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2846693)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆五一职业技术学院关于赴云南大学、贵州大学开展校园招聘的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2847332)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[英国74岁奶奶独自到中国旅游 各地网友接力抢着当导游](https://m.163.com/news/article/KQ0T6KVP0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张雪机车LOGO被指抄袭 设计公司回应](https://m.163.com/news/article/KQ18P6340514D3UH.html)
+[美宜佳通报假烟事件进展:与606家加盟商解除合作关系](https://m.163.com/news/article/KQ38LGM00534A4SC.html)
 
-[央视披露：78亿变1亿 河南三地现巨额数据造假](https://m.163.com/news/article/KQ1AVKNU0001899O.html)
+[国防部：中方在伊朗问题上坦坦荡荡](https://m.163.com/news/article/KQ37BA4M0534A4SC.html)
+
+[解放军"反航母利器"首飞成功 国防部回应](https://m.163.com/news/article/KQ35MRG90001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子低价网购卡萨帝冰箱 仅收到赠品保温杯店铺已关闭](https://m.163.com/news/article/KQ0VGOK605561G0D.html)
+[杭州20楼江景房业主破防：每晚耳边都是广场舞立体声](https://m.163.com/news/article/KQ2MI74A0514R9OJ.html)
 
 ---end---
