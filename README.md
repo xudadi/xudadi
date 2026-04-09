@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-09 14:22:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-09 16:01:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学自动化学院智慧系统团队劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2846260)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[​重庆物流集团数字科技有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2846693)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[英国74岁奶奶独自到中国旅游 各地网友接力抢着当导游](https://m.163.com/news/article/KQ0T6KVP0534P59R.html)
 
 [张雪机车LOGO被指抄袭 设计公司回应](https://m.163.com/news/article/KQ18P6340514D3UH.html)
 
 [央视披露：78亿变1亿 河南三地现巨额数据造假](https://m.163.com/news/article/KQ1AVKNU0001899O.html)
 
-[男子低价网购卡萨帝冰箱 仅收到赠品保温杯店铺已关闭](https://m.163.com/news/article/KQ0VGOK605561G0D.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中国乒协公布伦敦世乒赛团体阵容 樊振东自愿放弃参赛](https://m.163.com/news/article/KQ16E9RH055040N3.html)
+[男子低价网购卡萨帝冰箱 仅收到赠品保温杯店铺已关闭](https://m.163.com/news/article/KQ0VGOK605561G0D.html)
 
 ---end---
