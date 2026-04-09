@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-09 07:52:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-09 10:27:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆嘉旦微电子有限公司关于招聘市场总监等岗位的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2845447)
+[重庆大学自动化学院智慧系统团队劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2846260)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
