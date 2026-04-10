@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-10 14:15:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-10 16:01:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至某机关事业单位从事相关辅助性工作招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2847947)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆市粮油批发市场有限责任公司市场拓展部业务拓展岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2848520)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[无牌路虎加近500元油后逃单 加油站：已报警 没抓到人](https://m.163.com/news/article/KQ3DEE2M05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张雪师傅"牙哥"受访称已收徒7名 将沿用张雪培养模式](https://m.163.com/news/article/KQ3RPJUG053469LG.html)
+[中介带看1900万大平层后等着30万佣金 不料开发商不认](https://m.163.com/news/article/KQ5FF3UL0001899O.html)
 
-[市民买饮料过期 商家发白岩松视频：过期不代表不能吃](https://m.163.com/news/article/KQ2QBOAG0534P59R.html)
+[山西一局长在办公室突发疾病 抢救无效去世](https://m.163.com/news/article/KQ5B6H3J05561G0D.html)
+
+[贾浅浅论文被指抄袭屡陷争议从未回应 这次不一样了](https://m.163.com/news/article/KQ3HDMRL0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["蛋饼姐"在菜市场跳舞走红:10平米把3个孩子供上大学](https://m.163.com/news/article/KQ3EUE6E0514R9OJ.html)
+[媒体："云南的女儿"郑丽文访陆 传递出一个清晰的信号](https://m.163.com/news/article/KQ53HUVB053469M5.html)
 
 ---end---
