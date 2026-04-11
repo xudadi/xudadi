@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-11 08:04:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-11 11:19:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆对外建设(集团)有限公司专职安全员及项目施工管理人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2849623)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[景区7万购游船8年后涨价至55万 村民拿"便条"要补差价](https://m.163.com/news/article/KQ68EHMP051492T3.html)
+[道士给弟子教针灸被认定非法行医收10万罚单 官方回应](https://m.163.com/news/article/KQ66SCH605561G0D.html)
 
-[张雪夺冠车复刻版1分钟500万拍出 随后张雪连线李亚鹏](https://m.163.com/news/article/KQ6BTG5C053469LG.html)
+[无牌路虎加近500元油后逃单 江西高速交警通报](https://m.163.com/news/article/KQ7HD4470514R9OJ.html)
 
-[大学生因室友电瓶燃爆全身90%烧伤 父母:我们已经麻木](https://m.163.com/news/article/KQ5VRF1Q0534P59R.html)
+[三星中国区大调整：黑白电、显示器淡出市场](https://m.163.com/news/article/KQ76G50I0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[97岁老人将棺材放屋里曾称"不想活" 半年后"舍不得死"](https://m.163.com/news/article/KQ6CFNIM053469LG.html)
+[73岁骑友抄近路摔倒身亡 女儿：赔偿问题无法达成共识](https://m.163.com/news/article/KQ6009270001899O.html)
 
 ---end---
