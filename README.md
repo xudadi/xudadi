@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-12 07:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-12 10:41:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆对外建设(集团)有限公司专职安全员及项目施工管理人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2849623)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[给父亲办80大寿 企业家花50万请家乡村民免费看戏6天](https://m.163.com/news/article/KQ847NUU053469LG.html)
+[中央台办受权发布十项促进两岸交流合作的政策措施](https://m.163.com/news/article/KQAB6E5N0001899O.html)
 
-[被指打算租月租万元小区房源作校外宿舍 深圳大学回应](https://m.163.com/news/article/KQ8186610512B07B.html)
+[母婴品牌Babycare回应"被检出重金属锑"：传言不实](https://m.163.com/news/article/KQ8BPQT5051492T3.html)
 
-["迟重瑞与陈丽华年轻时合影"热传 当事女子：张冠李戴](https://m.163.com/news/article/KQ7L10F8053469LG.html)
+[理想称遭某品牌恶意拉踩将追究法律责任 东风日产回应](https://m.163.com/news/article/KQ9P4NQ20514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[手写利率承诺成"空头支票" 市民百万保险到期收益缩水](https://m.163.com/news/article/KQ7QEBM40514R9P4.html)
+[中国否决安理会涉霍尔木兹海峡决议草案 背后细节披露](https://m.163.com/news/article/KQ862HVV0514R9OJ.html)
 
 ---end---
