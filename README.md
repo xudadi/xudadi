@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-13 19:50:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-13 21:28:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区人才发展集团外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2851386)
+[两江新区多岗位招聘,最高月薪2万元! (重庆市公考雷达)](https://www.gongkaoleida.com/article/2852176)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
