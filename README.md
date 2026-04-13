@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-13 08:00:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-13 11:52:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆对外建设(集团)有限公司专职安全员及项目施工管理人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2849623)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学电气工程学院科研团队劳务派遣工程师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2850469)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[郑丽文一行圆满结束大陆参访 离京返台](https://m.163.com/news/article/KQAPKIFF0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网民称反映路灯不亮等问题被威胁恐吓 湖南桂东县通报](https://m.163.com/news/article/KQAII6AV0514R9OJ.html)
+[香港将从4月30日起禁止在公众场所持有另类吸烟产品](https://m.163.com/news/article/KQCR1IN40534A4SC.html)
 
-[采煤致山体开裂崩塌山下400多名村民搬迁难 官方通报](https://m.163.com/news/article/KQ9270PL051492T3.html)
+[张雪回应"张雪机车新手禁令"：我认为做得很棒](https://m.163.com/news/article/KQCNLBIS00019K82.html)
+
+[面对面丨专访张雪：20年，让世界看见中国制造](https://m.163.com/news/article/KQCKU67B0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[崔东树：建议购车支出纳入个税专项抵扣](https://m.163.com/news/article/KQADMERF05198CJN.html)
+[5月1日起医疗回扣入刑](https://m.163.com/news/article/KQAV33BT0553Q1S1.html)
 
 ---end---
