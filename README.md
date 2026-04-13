@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-13 14:15:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-13 16:27:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学电气工程学院科研团队劳务派遣工程师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2850469)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江新区人才发展集团外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2851386)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[香港将从4月30日起禁止在公众场所持有另类吸烟产品](https://m.163.com/news/article/KQCR1IN40534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[张雪回应"张雪机车新手禁令"：我认为做得很棒](https://m.163.com/news/article/KQCNLBIS00019K82.html)
+[女子做牵引双腿被吊1个多小时无人管 医院:计时器没响](https://m.163.com/news/article/KQD6ASL4053469M5.html)
 
-[面对面丨专访张雪：20年，让世界看见中国制造](https://m.163.com/news/article/KQCKU67B0514R9OJ.html)
+[男子尾随并盗走取款人车内40万 撞开警车拒捕潜入深山](https://m.163.com/news/article/KQD151RN05345ARG.html)
+
+[中纪委连打三"虎"：一人被指搞权色、钱色交易](https://m.163.com/news/article/KQD1G3A705345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[5月1日起医疗回扣入刑](https://m.163.com/news/article/KQAV33BT0553Q1S1.html)
+[中国象棋协会：对洪智等人终身禁赛](https://m.163.com/news/article/KQD1FRVG0001899O.html)
 
 ---end---
