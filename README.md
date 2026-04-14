@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-15 02:47:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-15 04:04:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆江津枢纽港产业园运营集团有限公司公开选聘总工程师工作简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2854039)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[动植物园狮子被饿成"纸片" 园方：其丧偶后食量减少](https://m.163.com/news/article/KQFSPU4U053469LG.html)
+[男子21万注射临床试验干细胞：注射10多分钟即感不适](https://m.163.com/news/article/KQGGUKRT0514R9P4.html)
 
-[哈啰拒不改正将被处罚](https://m.163.com/news/article/KQFNCHC30534A4SC.html)
+[男子被发小当胸刺两刀身亡：案发前还一起聚餐喝酒](https://m.163.com/news/article/KQGGDNQM053469M5.html)
 
-[女子买10瓶五粮液8瓶假 商家:你是"职业打假"人 不赔](https://m.163.com/news/article/KQFH08PT05561G0D.html)
+[男子开车撞死大伯：大伯将1200平土地借他后欲收回](https://m.163.com/news/article/KQFLPH9A05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[比亚迪回应立体车库火情：火势已扑灭 无人员伤亡](https://m.163.com/news/article/KQFE8JHH05198CJN.html)
+[举债3.68亿建的"农业实训基地" 只有酒店、棋牌室等](https://m.163.com/news/article/KQGONBLM055040N3.html)
 
 ---end---
