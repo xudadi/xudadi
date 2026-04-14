@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-14 15:47:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-14 17:19:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆三峡科技大学马克思主义学院招聘博士简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2852451)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学土木工程学院FluxLab团队劳务派遣秘书招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2852943)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[孙卫东被免去外交部副部长职务](https://m.163.com/news/article/KQFDKVSL0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海女子2个月内结2次婚 生下的孩子却是第3个男人的](https://m.163.com/news/article/KQE4JOQM0514R9OJ.html)
+[动植物园狮子被饿成"纸片" 园方：其丧偶后食量减少](https://m.163.com/news/article/KQFSPU4U053469LG.html)
 
-[观众看豫剧哭成"憋泪哥" 豫剧团：有时演员也出不了戏](https://m.163.com/news/article/KQDUSKPH0534P59R.html)
+[哈啰拒不改正将被处罚](https://m.163.com/news/article/KQFNCHC30534A4SC.html)
+
+[女子买10瓶五粮液8瓶假 商家:你是"职业打假"人 不赔](https://m.163.com/news/article/KQFH08PT05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[外墙渗水致居室霉变 陕西一业主全家客厅打地铺睡一年](https://m.163.com/news/article/KQDSVT5005561G0D.html)
+[比亚迪回应立体车库火情：火势已扑灭 无人员伤亡](https://m.163.com/news/article/KQFE8JHH05198CJN.html)
 
 ---end---
