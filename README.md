@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-15 13:50:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-15 15:48:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆江津枢纽港产业园运营集团有限公司公开选聘总工程师工作简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2854039)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市九龙坡区事业单位2026年“绿色通道”引进高层次人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2855225)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[24岁准新娘诊所输液休克事发近3个月仍昏迷 丈夫发声](https://m.163.com/news/article/KQGVGEN8053469LG.html)
 
 [辽宁车牌号带8888奔驰疑作为陪葬品下葬 当地再发声](https://m.163.com/news/article/KQHPGJH60514BE2Q.html)
 
 ["保安喷辣椒水赶人"后续：售楼处冷清 内部无安保人员](https://m.163.com/news/article/KQGTJ6NJ053469LG.html)
 
-[结束大陆参访行程、返抵台湾后 郑丽文最新表态](https://m.163.com/news/article/KQHNLJOQ055040N3.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子被丈夫闺蜜背叛一夜白头:在车内发现闺蜜流产资料](https://m.163.com/news/article/KQFKQ8RS05149E7M.html)
+[结束大陆参访行程、返抵台湾后 郑丽文最新表态](https://m.163.com/news/article/KQHNLJOQ055040N3.html)
 
 ---end---
