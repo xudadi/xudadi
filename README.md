@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-16 14:02:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-16 16:02:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[酉阳土家族苗族自治县消防救援局财会文员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2856716)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学电气工程学院氢基清洁能源装备和新技术团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2856971)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[24岁准新娘诊所输液休克事发近3个月仍昏迷 丈夫发声](https://m.163.com/news/article/KQGVGEN8053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[辽宁车牌号带8888奔驰疑作为陪葬品下葬 当地再发声](https://m.163.com/news/article/KQHPGJH60514BE2Q.html)
+[杭州女子买5份海鲜3份仅退款 商家气愤跨省赶来质问](https://m.163.com/news/article/KQL4ASKA0001899O.html)
 
-["保安喷辣椒水赶人"后续：售楼处冷清 内部无安保人员](https://m.163.com/news/article/KQGTJ6NJ053469LG.html)
+[贩子花500元从农村买走柿子树十几万卖到别墅区：暴利](https://m.163.com/news/article/KQKDVCVD0512D3VJ.html)
+
+[小伙80万开店倒闭又投40万开店：宁睡地板也要当老板](https://m.163.com/news/article/KQKNTRI60550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[结束大陆参访行程、返抵台湾后 郑丽文最新表态](https://m.163.com/news/article/KQHNLJOQ055040N3.html)
+[24岁抗癌博主去世妈妈和姐姐也病逝 一家五口只剩两人](https://m.163.com/news/article/KQKLIEBI053469LG.html)
 
 ---end---
