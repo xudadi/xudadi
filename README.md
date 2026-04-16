@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-16 20:08:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-16 22:13:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学电气工程学院氢基清洁能源装备和新技术团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2856971)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆信息与智慧医学研究院面向全球招聘高层次人才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2857922)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[杭州女子买5份海鲜3份仅退款 商家气愤跨省赶来质问](https://m.163.com/news/article/KQL4ASKA0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[贩子花500元从农村买走柿子树十几万卖到别墅区：暴利](https://m.163.com/news/article/KQKDVCVD0512D3VJ.html)
+[小伙80万开面馆倒闭亏60万后再投40万开店 当事人发声](https://m.163.com/news/article/KQLGTIS305561G0D.html)
 
-[小伙80万开店倒闭又投40万开店：宁睡地板也要当老板](https://m.163.com/news/article/KQKNTRI60550B6IS.html)
+[心梗老人在医院等死 医院宣传有"急诊PCI"实际却没有](https://m.163.com/news/article/KQLKF57E05561G0D.html)
+
+[高三学生学习困难在医院测出自己是智障 当事人发声](https://m.163.com/news/article/KQLARKV005561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[24岁抗癌博主去世妈妈和姐姐也病逝 一家五口只剩两人](https://m.163.com/news/article/KQKLIEBI053469LG.html)
+[男子投诉公交提前发车丢了工作 单位被施压后将其解雇](https://m.163.com/news/article/KQL9KVV305561G0D.html)
 
 ---end---
