@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-18 02:11:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-18 03:32:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国隆农业科技产业发展集团有限公司公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2859819)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
+[首个L2级辅助驾驶强制性国标报批稿公示：明年1月实施](https://m.163.com/news/article/KQOIA3F30512B07B.html)
+
+[射击国家级教练被判走私武器罪 上诉后检察院补充侦查](https://m.163.com/news/article/KQO2H7RJ051492T3.html)
+
 [与被告同名同姓 女子称被异地法院错判存款遭司法扣划](https://m.163.com/news/article/KQOA2SHF0514D3UH.html)
-
-[1个蛋糕引出7大平台35.97亿元罚单 细节披露](https://m.163.com/news/article/KQO8MNG50001899O.html)
-
-[杭州通报诊所"用一个针头给多人采血":涉事人员被解聘](https://m.163.com/news/article/KQO9JRNV0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网帖称少林寺组织集中观看NBA支持文班亚马 官方辟谣](https://m.163.com/news/article/KQO6L2A3053469LG.html)
+[1个蛋糕引出7大平台35.97亿元罚单 细节披露](https://m.163.com/news/article/KQO8MNG50001899O.html)
 
 ---end---
