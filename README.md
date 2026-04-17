@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-17 20:43:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-17 22:08:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区武陵山镇人民政府关于公开选聘本土人才的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2858974)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆国隆农业科技产业发展集团有限公司公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2859819)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[78岁画家每天画800张1场直播卖100万元：不共情普通人](https://m.163.com/news/article/KQNA4MPB0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[居民反对安电梯养200只猫报复邻居 在墙上写侮辱文字](https://m.163.com/news/article/KQNJVMGQ053469LG.html)
+[与被告同名同姓 女子称被异地法院错判存款遭司法扣划](https://m.163.com/news/article/KQOA2SHF0514D3UH.html)
 
-[24岁博主确诊黑色素瘤仅一年去世 曾多次复盘身体信号](https://m.163.com/news/article/KQNIPTB5053469LG.html)
+[1个蛋糕引出7大平台35.97亿元罚单 细节披露](https://m.163.com/news/article/KQO8MNG50001899O.html)
+
+[杭州通报诊所"用一个针头给多人采血":涉事人员被解聘](https://m.163.com/news/article/KQO9JRNV0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[疑因举报虐猫遭"开盒"造黄谣 上海女子被气到住进ICU](https://m.163.com/news/article/KQNGRENH0534P59R.html)
+[网帖称少林寺组织集中观看NBA支持文班亚马 官方辟谣](https://m.163.com/news/article/KQO6L2A3053469LG.html)
 
 ---end---
