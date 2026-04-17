@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-17 13:52:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-17 15:48:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院面向全球招聘高层次人才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2857922)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市涪陵区武陵山镇人民政府关于公开选聘本土人才的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2858974)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[文保私宅房屋墙体开裂靠钢管支撑房主没权修 当地回应](https://m.163.com/news/article/KQLVOJOH053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[抖音集团副总裁：近期没有招聘到什么近亿元年薪员工](https://m.163.com/news/article/KQLOU2EG0534A4SC.html)
+[78岁画家每天画800张1场直播卖100万元：不共情普通人](https://m.163.com/news/article/KQNA4MPB0514R9P4.html)
 
-[小伙80万开面馆倒闭亏60万后再投40万开店 当事人发声](https://m.163.com/news/article/KQLGTIS305561G0D.html)
+[居民反对安电梯养200只猫报复邻居 在墙上写侮辱文字](https://m.163.com/news/article/KQNJVMGQ053469LG.html)
+
+[24岁博主确诊黑色素瘤仅一年去世 曾多次复盘身体信号](https://m.163.com/news/article/KQNIPTB5053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[心梗老人在医院等死 医院宣传有"急诊PCI"实际却没有](https://m.163.com/news/article/KQLKF57E05561G0D.html)
+[疑因举报虐猫遭"开盒"造黄谣 上海女子被气到住进ICU](https://m.163.com/news/article/KQNGRENH0534P59R.html)
 
 ---end---
