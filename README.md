@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-18 14:14:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-18 15:36:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国隆农业科技产业发展集团有限公司公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2859819)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[首个L2级辅助驾驶强制性国标报批稿公示：明年1月实施](https://m.163.com/news/article/KQOIA3F30512B07B.html)
+[男子吐血抢救后死亡7.5小时用100余支止血针 家属质疑](https://m.163.com/news/article/KQOI8CTR051492T3.html)
 
-[射击国家级教练被判走私武器罪 上诉后检察院补充侦查](https://m.163.com/news/article/KQO2H7RJ051492T3.html)
+[四川一家商户在公厕冲洗冷冻肉 官方通报：停业整顿](https://m.163.com/news/article/KQQ7ST5205345ARG.html)
 
-[与被告同名同姓 女子称被异地法院错判存款遭司法扣划](https://m.163.com/news/article/KQOA2SHF0514D3UH.html)
+[快递员失手摔坏价值2.4万元蓝宝石 快递公司:全额赔付](https://m.163.com/news/article/KQQ2FR230514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[1个蛋糕引出7大平台35.97亿元罚单 细节披露](https://m.163.com/news/article/KQO8MNG50001899O.html)
+[郑丽文称访陆后"心都定了" 陈吉宁帮她想"台湾怎么办"](https://m.163.com/news/article/KQPOM9AJ0512DU6N.html)
 
 ---end---
