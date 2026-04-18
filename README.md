@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-18 21:04:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-18 22:05:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国隆农业科技产业发展集团有限公司公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2859819)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子吐血抢救后死亡7.5小时用100余支止血针 家属质疑](https://m.163.com/news/article/KQOI8CTR051492T3.html)
+[俄罗斯发生大巴翻车事故 已造成2名中国公民遇难](https://m.163.com/news/article/KQQQINOQ0512D3VJ.html)
 
-[四川一家商户在公厕冲洗冷冻肉 官方通报：停业整顿](https://m.163.com/news/article/KQQ7ST5205345ARG.html)
+[媒体：日本选在《马关条约》签订日再闯台海 绝非偶然](https://m.163.com/news/article/KQQK4KM20519DBFP.html)
 
-[快递员失手摔坏价值2.4万元蓝宝石 快递公司:全额赔付](https://m.163.com/news/article/KQQ2FR230514D3UH.html)
+[业主查账发现小区公共收益负债:两改造项目耗费近百万](https://m.163.com/news/article/KQQGMOCK0512DU6N.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[郑丽文称访陆后"心都定了" 陈吉宁帮她想"台湾怎么办"](https://m.163.com/news/article/KQPOM9AJ0512DU6N.html)
+[女子在飞猪旅行买4张机票 实际支付金额均高于出票价](https://m.163.com/news/article/KQQGRD5R05561G0D.html)
 
 ---end---
