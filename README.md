@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-20 20:08:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-20 22:12:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学微电子与通信工程学院合成孔径雷达技术研究团队科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2861787)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市2025年度退出消防员安置市级考试考核选岗简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2862076)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[公园水域两名小孩和救人者均溺水 男子连救三人](https://m.163.com/news/article/KQSI1E890534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子攀岩受伤倒挂悬崖昏迷 路过大学生上演"生死救援"](https://m.163.com/news/article/KQT3E2KU051492T3.html)
+[央企高管醉酒被拒登机 董事长施压致航班延误68分钟](https://m.163.com/news/article/KQVTOUI7000189PS.html)
 
-[万达电影20日改名 "王健林"时代落幕](https://m.163.com/news/article/KQTDQ71K0512DU6N.html)
+[合肥警方通报"民宿内有针孔摄像头"：涉案人员被刑拘](https://m.163.com/news/article/KQVUB2MO0534A4SC.html)
+
+[19岁女孩挪用自家1700万当"榜一大姐" 亲爹带女儿自首](https://m.163.com/news/article/KQVP152L0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子称高中生弟弟因"操行分"不合格等被劝退 校方回应](https://m.163.com/news/article/KQT93DO50534P59R.html)
+[男子参加减肥训练营后死亡 妹妹：他的手机仍无法解锁](https://m.163.com/news/article/KQVK7PHI051492T3.html)
 
 ---end---
