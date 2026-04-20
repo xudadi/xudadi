@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-20 09:09:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-20 12:29:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆国隆农业科技产业发展集团有限公司公开招聘工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2859819)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业重庆人才服务股份有限公司招聘派往某物业公司餐厅经理岗位人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2860839)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[男子攀岩受伤倒挂悬崖昏迷 路过大学生上演"生死救援"](https://m.163.com/news/article/KQT3E2KU051492T3.html)
 
 [万达电影20日改名 "王健林"时代落幕](https://m.163.com/news/article/KQTDQ71K0512DU6N.html)
 
 [男子称高中生弟弟因"操行分"不合格等被劝退 校方回应](https://m.163.com/news/article/KQT93DO50534P59R.html)
 
-[东部战区舰艇编队过航横当水道 赴西太平洋海域演训](https://m.163.com/news/article/KQT8KI2R000189PS.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[贺娇龙账号时隔100天更新 官方已开通新账号进行迁移](https://m.163.com/news/article/KQT7VE4A053469LG.html)
+[东部战区舰艇编队过航横当水道 赴西太平洋海域演训](https://m.163.com/news/article/KQT8KI2R000189PS.html)
 
 ---end---
