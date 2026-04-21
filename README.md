@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-21 13:52:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-21 15:52:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巴南区人民政府李家沱街道办事处公开招聘应急救援大队专职人员和公益性岗位工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2862889)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆南开嘉陵实验小学公开招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2863903)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子被邻居诈骗3200万：5处房产被拍卖 租房借钱度日](https://m.163.com/news/article/KR07ALQ5055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[保价2000元机盖运输中损坏 德邦仅愿以1300元回购](https://m.163.com/news/article/KQVTQLHM05561G0D.html)
+[女子21万全款购车 意外翻到车机相册发现该车为"展车"](https://m.163.com/news/article/KR21B0E6051492T3.html)
 
-[央企高管醉酒被拒登机 董事长施压致航班延误68分钟](https://m.163.com/news/article/KQVTOUI7000189PS.html)
+[17岁机车少年打热线邀请记者观赛：张雪是张雪 我是我](https://m.163.com/news/article/KR1VT5S20534P59R.html)
+
+[法院干警配偶低价拍得银行6000万债权引质疑 多方回应](https://m.163.com/news/article/KR21M7500514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[合肥警方通报"民宿内有针孔摄像头"：涉案人员被刑拘](https://m.163.com/news/article/KQVUB2MO0534A4SC.html)
+[32岁小伙玩游戏上瘾充值500万倾家荡产 平台极为惊讶](https://m.163.com/news/article/KR1TG33D053469LG.html)
 
 ---end---
