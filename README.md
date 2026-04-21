@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-21 07:58:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-21 11:36:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市2025年度退出消防员安置市级考试考核选岗简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2862076)
+[重庆市巴南区人民政府李家沱街道办事处公开招聘应急救援大队专职人员和公益性岗位工作人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2862889)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
