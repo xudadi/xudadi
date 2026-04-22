@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-22 14:18:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-22 16:15:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至某国有企业智慧运维专组人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2865028)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆信息与智慧医学研究院聘用人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2865836)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[地方为招商违规搞补贴竞赛 结果几十亿投资"打了水漂"](https://m.163.com/news/article/KR2R7F6H0512D3VJ.html)
 
 [商家网售"宣威火腿"被诉侵权:我就是宣威人为何不能卖](https://m.163.com/news/article/KR2CUU7R0514D3UH.html)
 
 [男子在通风管里藏10小时盗走约150万黄金 当晚就被抓](https://m.163.com/news/article/KR2MCUJI053469LG.html)
 
-[19岁女生挪用1700万当"榜一大姐" 当事人自称"戒不掉"](https://m.163.com/news/article/KR2L51CU0514D3UH.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[六层楼高大树"偷"走家里光线 女子起诉隔壁小区业委会](https://m.163.com/news/article/KR00F1QJ055040N3.html)
+[19岁女生挪用1700万当"榜一大姐" 当事人自称"戒不掉"](https://m.163.com/news/article/KR2L51CU0514D3UH.html)
 
 ---end---
