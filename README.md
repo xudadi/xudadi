@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-22 20:09:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-22 22:09:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院聘用人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2865836)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆广播电视集团(总台)重庆广播新闻中心政务服务团队人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2866371)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[地方为招商违规搞补贴竞赛 结果几十亿投资"打了水漂"](https://m.163.com/news/article/KR2R7F6H0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[商家网售"宣威火腿"被诉侵权:我就是宣威人为何不能卖](https://m.163.com/news/article/KR2CUU7R0514D3UH.html)
+[腾讯与阿里被指洽谈投资DeepSeek 估值超过200亿美元](https://m.163.com/news/article/KR53B1A005198CJN.html)
 
-[男子在通风管里藏10小时盗走约150万黄金 当晚就被抓](https://m.163.com/news/article/KR2MCUJI053469LG.html)
+["5月1日起医生不24小时值班"系谣言](https://m.163.com/news/article/KR52ASUR05346RC6.html)
+
+[男子四进戒毒所出来只有42公斤 最大心愿是开上网约车](https://m.163.com/news/article/KR4MEHLQ051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19岁女生挪用1700万当"榜一大姐" 当事人自称"戒不掉"](https://m.163.com/news/article/KR2L51CU0514D3UH.html)
+[武汉大学杨某媛被传考上公务员 山西辟谣](https://m.163.com/news/article/KR4QHSIL0514R9OJ.html)
 
 ---end---
