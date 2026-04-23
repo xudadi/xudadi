@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-23 08:01:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-23 11:47:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆广播电视集团(总台)重庆广播新闻中心政务服务团队人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2866371)
+[中电科芯片技术股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2867078)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
