@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-24 08:03:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-24 11:50:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国科学院重庆绿色智能技术研究院2026年综合分析测试中心设备管理员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2867585)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区保安服务有限公司派往重庆市公安局沙坪坝区分局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2869030)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["职场性侵案"当事人回应索赔250万：毁我17年职业生涯](https://m.163.com/news/article/KR7NQIGF053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[以"美艳毒枭"、"捆绑"为噱头 爱奇艺广告被指低俗猎奇](https://m.163.com/news/article/KR7LU8FR0514D3UH.html)
+[一审被判死刑 武汉"黑老大"黄大发提起上诉](https://m.163.com/news/article/KR8465LQ0519DDQ2.html)
 
-["比利时男子在哈巴雪山失联"追踪:家属仍在哈巴村等待](https://m.163.com/news/article/KR7E9I25051492T3.html)
+[女子网购1450单又退货1450单 老板娘盘点后称损失12万](https://m.163.com/news/article/KR7KEQRR00019K82.html)
+
+[用了16年的学位证"失效"男子举报自己 高校最新通报](https://m.163.com/news/article/KR8T5OC00534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[村民反映百亩稻田被淹质疑排涝站无人值守 乡政府回应](https://m.163.com/news/article/KR7DPVME051492T3.html)
+[华谊兄弟被申请破产案获法院受理 7年亏超80亿](https://m.163.com/news/article/KR7SPSPM05199NPP.html)
 
 ---end---
