@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-25 01:54:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-25 02:54:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招聘启事|西南铝2026年春季校园招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870154)
+[重庆科瑞制药(集团)有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870445)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
