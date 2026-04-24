@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-24 14:08:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-24 16:22:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区保安服务有限公司派往重庆市公安局沙坪坝区分局辅警岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2869030)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[某公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2869721)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[一审被判死刑 武汉"黑老大"黄大发提起上诉](https://m.163.com/news/article/KR8465LQ0519DDQ2.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子网购1450单又退货1450单 老板娘盘点后称损失12万](https://m.163.com/news/article/KR7KEQRR00019K82.html)
+[高校食堂的巧克力香蕉被指颜值抽象 店员：5元一根](https://m.163.com/news/article/KR9QUA0B05561G0D.html)
 
-[用了16年的学位证"失效"男子举报自己 高校最新通报](https://m.163.com/news/article/KR8T5OC00534A4SC.html)
+[男子拍下蒋介石故居对面别墅区两厕所 两年来无法使用](https://m.163.com/news/article/KR9PO05F05561G0D.html)
+
+[多名烈士资料放烈士陵园的废旧档案室 连门锁都损坏了](https://m.163.com/news/article/KR9QA8H505561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[华谊兄弟被申请破产案获法院受理 7年亏超80亿](https://m.163.com/news/article/KR7SPSPM05199NPP.html)
+[青年演员陈丽君晋升副主任](https://m.163.com/news/article/KR9O2TKS0514EGPO.html)
 
 ---end---
