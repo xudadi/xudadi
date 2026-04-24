@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-24 20:43:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-24 22:20:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[某公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2869721)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[招聘启事|西南铝2026年春季校园招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870154)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[高校食堂的巧克力香蕉被指颜值抽象 店员：5元一根](https://m.163.com/news/article/KR9QUA0B05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子拍下蒋介石故居对面别墅区两厕所 两年来无法使用](https://m.163.com/news/article/KR9PO05F05561G0D.html)
+[证监会:中国粮投未按规定擅自境外上市](https://m.163.com/news/article/KRA5GP2O000189PS.html)
 
-[多名烈士资料放烈士陵园的废旧档案室 连门锁都损坏了](https://m.163.com/news/article/KR9QA8H505561G0D.html)
+[福建女司机脚踹保安反被扇耳光耳膜穿孔 保安摊上大事](https://m.163.com/news/article/KRA83T2V0550A0OW.html)
+
+[严重受损的小鹏汽车被36800元拍下 车主在车祸中身亡](https://m.163.com/news/article/KRA2M0UJ053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[青年演员陈丽君晋升副主任](https://m.163.com/news/article/KR9O2TKS0514EGPO.html)
+[男子酒店入住后爬窗坠亡7天后才被发现 法院判了](https://m.163.com/news/article/KR9T8G18051492T3.html)
 
 ---end---
