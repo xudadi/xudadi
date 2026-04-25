@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-25 14:57:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-25 16:07:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆科瑞制药(集团)有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870445)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[00后实习律师起诉上海迪士尼霸王条款：拒绝补偿和解](https://m.163.com/news/article/KRBMI8DR0514D3UH.html)
+[女子6万余元的金器不翼而飞 一番排查后真凶让人意外](https://m.163.com/news/article/KRC6FM070514R9OJ.html)
 
-[三大交易所新规重磅出炉 交易、监管、治理全面升级](https://m.163.com/news/article/KRBKI6TB0514R9KQ.html)
+[入列20年 泰州舰换装"中国心"首次"回家"](https://m.163.com/news/article/KRC16HDH051492T3.html)
 
-["0糖"实为注册商标 东鹏特饮被骂上热搜](https://m.163.com/news/article/KRBEUSHB0530WJIN.html)
+["举报自己"男子的学位或撤销 称愿配合校方做司法鉴定](https://m.163.com/news/article/KRC2D8GH0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男孩身体异常 医生一查惊了："双胞胎兄弟"留在咽喉](https://m.163.com/news/article/KRA5C0JO0514R9OJ.html)
+[家长带孩子买高铁票结果相隔14个车厢 12306客服回应](https://m.163.com/news/article/KRANFQ7A051494GR.html)
 
 ---end---
