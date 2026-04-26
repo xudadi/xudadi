@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-26 15:11:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-26 16:37:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆科瑞制药(集团)有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870445)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女老板摊位被挡后获全网撑腰 顾客排长队销售额涨三倍](https://m.163.com/news/article/KRD044EN0534P59R.html)
+[南方多省电价突然飙升 专家：与霍尔木兹海峡局势有关](https://m.163.com/news/article/KRCU993B0512B07B.html)
 
-[小伙被困隧道给母亲留遗言：我救了个人可能出不去了](https://m.163.com/news/article/KRDC665A051492LM.html)
+[颜宁：我本人曾经至少两篇CNS论文被审稿人偷信息抢发](https://m.163.com/news/article/KREH3NQG0514R9P4.html)
 
-[女子被二婚丈夫杀害后抛尸 儿子痛哭：宁愿死的人是我](https://m.163.com/news/article/KRCUBL7J0534P59R.html)
+[东方甄选四大主播集体离职 俞敏洪致歉：是平台的损失](https://m.163.com/news/article/KREFTVKS051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男童被当脑瘫治疗7年 父母欠巨债意外发现"外伤"线索](https://m.163.com/news/article/KRBRE3A60550B6IS.html)
+[雷军被造谣"遭围堵维权" 知情人士：造谣者被行拘十日](https://m.163.com/news/article/KRDC9N8J0512B07B.html)
 
 ---end---
