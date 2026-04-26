@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-26 07:45:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-26 10:49:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆科瑞制药(集团)有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870445)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[19岁女孩豪掷1700万公款打赏 打印出的流水厚得像本书](https://m.163.com/news/article/KRAJ3RBC0534P59R.html)
+[女老板摊位被挡后获全网撑腰 顾客排长队销售额涨三倍](https://m.163.com/news/article/KRD044EN0534P59R.html)
 
-[女子6万余元的金器不翼而飞 一番排查后真凶让人意外](https://m.163.com/news/article/KRC6FM070514R9OJ.html)
+[小伙被困隧道给母亲留遗言：我救了个人可能出不去了](https://m.163.com/news/article/KRDC665A051492LM.html)
 
-[入列20年 泰州舰换装"中国心"首次"回家"](https://m.163.com/news/article/KRC16HDH051492T3.html)
+[女子被二婚丈夫杀害后抛尸 儿子痛哭：宁愿死的人是我](https://m.163.com/news/article/KRCUBL7J0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["举报自己"男子的学位或撤销 称愿配合校方做司法鉴定](https://m.163.com/news/article/KRC2D8GH0514BE2Q.html)
+[男童被当脑瘫治疗7年 父母欠巨债意外发现"外伤"线索](https://m.163.com/news/article/KRBRE3A60550B6IS.html)
 
 ---end---
