@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-27 07:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-27 10:52:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆科瑞制药(集团)有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2870445)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学化学化工学院劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2871219)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[南方多省电价突然飙升 专家：与霍尔木兹海峡局势有关](https://m.163.com/news/article/KRCU993B0512B07B.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[颜宁：我本人曾经至少两篇CNS论文被审稿人偷信息抢发](https://m.163.com/news/article/KREH3NQG0514R9P4.html)
+[国家铁路局原局长费东斌被公诉：大搞权钱交易](https://m.163.com/news/article/KRGVLEGV0534A4SC.html)
 
-[东方甄选四大主播集体离职 俞敏洪致歉：是平台的损失](https://m.163.com/news/article/KREFTVKS051492LM.html)
+[四位人气主播宣布离职 大批用户申请退出东方甄选会员](https://m.163.com/news/article/KRGTBH970001899O.html)
+
+[男子花38万买了107箱茅台 经鉴定全为假酒](https://m.163.com/news/article/KRFN9ADT051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[雷军被造谣"遭围堵维权" 知情人士：造谣者被行拘十日](https://m.163.com/news/article/KRDC9N8J0512B07B.html)
+[被指"混不下去回国了" 颜宁：说这话的人多崇洋媚外啊](https://m.163.com/news/article/KRFN76RM0514R9P4.html)
 
 ---end---
