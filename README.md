@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-28 02:56:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-28 04:10:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司酒店项目外包服务人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873198)
+[国网重庆市电力公司2026年高校毕业生招聘公告(第三批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873327)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
