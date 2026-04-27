@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-27 20:10:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-27 22:26:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国铝业集团高端制造股份有限公司本部部门9个业务经理岗位竞聘上岗公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2872466)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆两江新区人才发展集团有限公司酒店项目外包服务人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873198)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[黄杨钿甜首次回应耳环风波：认真地和大家道歉](https://m.163.com/news/article/KRHEI92R0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子吐槽二手平台买机场贵宾室不能用：又尴尬又生气](https://m.163.com/news/article/KRGPQCTI055040N3.html)
+[水库放水21人被困下游河滩 有人让家人踩肩头爬树避险](https://m.163.com/news/article/KRHPKOTD053469LG.html)
 
-[吉林伊通35座超200万豪华"祠堂墓"已停售 官方表态](https://m.163.com/news/article/KRHD1MP4053469LG.html)
+[知名女星称陷遗产争夺风波 父亲去世保姆卷走一半遗产](https://m.163.com/news/article/KRHL9A9105149PH8.html)
+
+[女子自称外卖中吃出电池 涉事餐馆：外卖流转环节复杂](https://m.163.com/news/article/KRHIVN1V051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[游客调侃湖州南浔古镇有艘"核动力观光船" 景区回应](https://m.163.com/news/article/KRH9CVI2053469M5.html)
+[空载列车撞上保洁员致3死 绍兴轨道交通集团被罚115万](https://m.163.com/news/article/KRHEMNTO05561G0D.html)
 
 ---end---
