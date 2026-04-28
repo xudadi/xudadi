@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-28 15:19:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-28 17:40:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司外派至成渝高速(永川站)兼职收费员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873817)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆两江新区人才发展集团有限公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2874347)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["探店"网红白冰偷税超900万被查 官方公布案件细节](https://m.163.com/news/article/KRJHK75E053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中方代表：霍尔木兹受阻根源在美以](https://m.163.com/news/article/KRJBIVSA0519DDQ2.html)
+[骗了75万元会费就跑路 上海首例“职业闭店人”获刑](https://m.163.com/news/article/KRK4HAGT05561G0D.html)
 
-[地铁上两位老人因抢座踢一女生还抢手机 沈阳地铁通报](https://m.163.com/news/article/KRJGDEOA0534P59R.html)
+[14岁少年强奸、杀害同班女同学 被判处无期徒刑](https://m.163.com/news/article/KRK0UKDE000189PS.html)
+
+[辞任杭州市市长后 姚高员已任浙江省政府党组成员](https://m.163.com/news/article/KRK073ML0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[70岁老人与歹徒搏斗被咬掉鼻子 当地：将申报见义勇为](https://m.163.com/news/article/KRHV3ACS0534P59R.html)
+[雨中向毛泽东同志铜像敬献花篮 巴基斯坦总统到访韶山](https://m.163.com/news/article/KRJOGRFG0514R9P4.html)
 
 ---end---
