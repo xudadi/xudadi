@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-28 09:14:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-28 12:44:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国网重庆市电力公司2026年高校毕业生招聘公告(第三批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873327)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司大足分公司外派至成渝高速(永川站)兼职收费员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2873817)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[水库放水21人被困下游河滩 有人让家人踩肩头爬树避险](https://m.163.com/news/article/KRHPKOTD053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[知名女星称陷遗产争夺风波 父亲去世保姆卷走一半遗产](https://m.163.com/news/article/KRHL9A9105149PH8.html)
+["探店"网红白冰偷税超900万被查 官方公布案件细节](https://m.163.com/news/article/KRJHK75E053469LG.html)
 
-[女子自称外卖中吃出电池 涉事餐馆：外卖流转环节复杂](https://m.163.com/news/article/KRHIVN1V051492T3.html)
+[中方代表：霍尔木兹受阻根源在美以](https://m.163.com/news/article/KRJBIVSA0519DDQ2.html)
+
+[地铁上两位老人因抢座踢一女生还抢手机 沈阳地铁通报](https://m.163.com/news/article/KRJGDEOA0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[空载列车撞上保洁员致3死 绍兴轨道交通集团被罚115万](https://m.163.com/news/article/KRHEMNTO05561G0D.html)
+[70岁老人与歹徒搏斗被咬掉鼻子 当地：将申报见义勇为](https://m.163.com/news/article/KRHV3ACS0534P59R.html)
 
 ---end---
