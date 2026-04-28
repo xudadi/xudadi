@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-28 21:14:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-28 23:38:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区人才发展集团有限公司外包岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2874347)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆开放大学重庆工商职业学院2026年考核招聘事业单位工作人员公告(第一批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2874710)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[骗了75万元会费就跑路 上海首例“职业闭店人”获刑](https://m.163.com/news/article/KRK4HAGT05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[14岁少年强奸、杀害同班女同学 被判处无期徒刑](https://m.163.com/news/article/KRK0UKDE000189PS.html)
+[卖枣救母的女大学生陪母亲会诊 摊位无人仍有市民捐款](https://m.163.com/news/article/KRI6FMQ8053469LG.html)
 
-[辞任杭州市市长后 姚高员已任浙江省政府党组成员](https://m.163.com/news/article/KRK073ML0001899O.html)
+[男子称被违规取保候审10余年撤案后记录仍在 当地回应](https://m.163.com/news/article/KRKAGK6O051492T3.html)
+
+[山西"订婚强奸案"男子将出狱 母亲买新衣计划亲自去接](https://m.163.com/news/article/KRKAFNBI05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[雨中向毛泽东同志铜像敬献花篮 巴基斯坦总统到访韶山](https://m.163.com/news/article/KRJOGRFG0514R9P4.html)
+[14岁少年强奸杀害女同学 被害人父母:不要赔偿 要公道](https://m.163.com/news/article/KRK82BMK051492T3.html)
 
 ---end---
