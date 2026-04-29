@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-29 21:11:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-29 23:27:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往国家粮食和物资储备局四川局一五七处消防员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2876166)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学附属第一医院“癌症、心脑血管、呼吸和代谢性疾病防治研究”国家科技重大专项课题组科研助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2876944)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国务院：任命刘浩凌为证监会副主席](https://m.163.com/news/article/KRMOFBJM0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[博主使用"给跪了"表情包11年后被索赔1万 协商后赔300](https://m.163.com/news/article/KRMKSMN50514R9P4.html)
+[高端楼盘被指超1500名电诈人员聚集 主犯已被引渡回国](https://m.163.com/news/article/KRN0CDC2051492T3.html)
 
-[收评：沪指涨0.71%重回4100点 全市场超百股涨停](https://m.163.com/news/article/KRML5IUF0001899O.html)
+[霸王茶姬奶茶中喝出水银 官方通报：购买人投放](https://m.163.com/news/article/KRMU7TO10534A4SC.html)
+
+[老人卖房投数百万元 涉事公司被立案前半个月她仍在投](https://m.163.com/news/article/KRMQTMV5051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[储户1800万存款离奇失踪 银行女员工监守自盗喝药轻生](https://m.163.com/news/article/KRMJT31G05561G0D.html)
+[上海一男子以"包养"之名与4名女子发生关系 法院判了](https://m.163.com/news/article/KRMQDJA605561G0D.html)
 
 ---end---
