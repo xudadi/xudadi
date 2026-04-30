@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-04-30 21:05:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-04-30 23:22:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学工业母机创新研究院劳务派遣仿真工程师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2878433)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆机电控股集团动力科技有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879469)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[高端楼盘被指超1500名电诈人员聚集 主犯已被引渡回国](https://m.163.com/news/article/KRN0CDC2051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[霸王茶姬奶茶中喝出水银 官方通报：购买人投放](https://m.163.com/news/article/KRMU7TO10534A4SC.html)
+[小女孩拧摩托车油门后开心到蹦起 当事人发声](https://m.163.com/news/article/KRPNNT84053469LG.html)
 
-[老人卖房投数百万元 涉事公司被立案前半个月她仍在投](https://m.163.com/news/article/KRMQTMV5051492T3.html)
+[揭秘“网红通便茶”：12元100包 实为强刺激泻药](https://m.163.com/news/article/KRPL29E605561G0D.html)
+
+[女子过马路时踩空施工孔洞摔骨折 管理方：不至于摔伤](https://m.163.com/news/article/KRPCJ3G305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海一男子以"包养"之名与4名女子发生关系 法院判了](https://m.163.com/news/article/KRMQDJA605561G0D.html)
+[辛杰不再担任深铁集团董事长](https://m.163.com/news/article/KRNAT04B0534A4SC.html)
 
 ---end---
