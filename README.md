@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-02 02:46:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-02 04:04:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[小女孩拧摩托车油门后开心到蹦起 当事人发声](https://m.163.com/news/article/KRPNNT84053469LG.html)
+[钦州特大暴雨千辆汽车被泡 车主挪车担心要死在电梯里](https://m.163.com/news/article/KRSEULM0053469LG.html)
 
-[揭秘“网红通便茶”：12元100包 实为强刺激泻药](https://m.163.com/news/article/KRPL29E605561G0D.html)
+[8岁女孩跟随邻居长江游泳溺亡 邻居曾抓住她又脱手](https://m.163.com/news/article/KRS60UUE05561G0D.html)
 
-[女子过马路时踩空施工孔洞摔骨折 管理方：不至于摔伤](https://m.163.com/news/article/KRPCJ3G305561G0D.html)
+[一院长被博主举报涉嫌学术造假 南开大学成立调查组](https://m.163.com/news/article/KRSAEL1K0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[辛杰不再担任深铁集团董事长](https://m.163.com/news/article/KRNAT04B0534A4SC.html)
+[74岁老人邮轮旅行登船次日突发急症离世 家属索赔90万](https://m.163.com/news/article/KRPH6TEK0512D3VJ.html)
 
 ---end---
