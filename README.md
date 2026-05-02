@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-02 08:05:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-02 11:50:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[钦州特大暴雨千辆汽车被泡 车主挪车担心要死在电梯里](https://m.163.com/news/article/KRSEULM0053469LG.html)
+[山西吕梁中院法官被指在办公室猥亵女当事人 已被免职](https://m.163.com/news/article/KRTSC0KK0534A4SC.html)
 
-[8岁女孩跟随邻居长江游泳溺亡 邻居曾抓住她又脱手](https://m.163.com/news/article/KRS60UUE05561G0D.html)
+[媒体：中国划定红线 叫停企业"洗澡式出海"](https://m.163.com/news/article/KRTM4R770514DG98.html)
 
-[一院长被博主举报涉嫌学术造假 南开大学成立调查组](https://m.163.com/news/article/KRSAEL1K0550A0OW.html)
+[iPhone 17现严重充电Bug：没电关机后插电无法开机](https://m.163.com/news/article/KRTN66H00514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[74岁老人邮轮旅行登船次日突发急症离世 家属索赔90万](https://m.163.com/news/article/KRPH6TEK0512D3VJ.html)
+[3名小女生雨中轮流背走失男童 徒步2公里到派出所求助](https://m.163.com/news/article/KRS4NP4G051492T3.html)
 
 ---end---
