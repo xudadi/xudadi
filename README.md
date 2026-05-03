@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-03 09:21:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-03 12:58:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[东航就一航班飞机与廊桥发生局部碰擦致歉](https://m.163.com/news/article/KRU7HV8K0534A4SC.html)
+[王楚钦轮休 中国男团在世乒赛小组赛中1比3不敌韩国队](https://m.163.com/news/article/KS0A8NU30530JPVV.html)
 
-[护士夫妻在海南度假遇溺水者 默契协作4分钟救回一命](https://m.163.com/news/article/KRTUQ0A50512D3VJ.html)
+[中国台北队女乒运动员安检时疑遭性骚扰 国际乒联发声](https://m.163.com/news/article/KS03S1LE053469LG.html)
 
-[小区门头字体"多处写反" 居委会：建成20多年一直这样](https://m.163.com/news/article/KRU1MR2V05561G0D.html)
+[父母正相互拍照6岁孩子坠崖 掉进离江面仅50公分夹缝](https://m.163.com/news/article/KS05OJ8600019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[著名汉学家宇文所安逝世 享年79岁](https://m.163.com/news/article/KRU1EEHG0514R9P4.html)
+[连扳3局逆转 "00后"吴宜泽首次晋级斯诺克世锦赛决赛](https://m.163.com/news/article/KS01Q15F0514R9OJ.html)
 
 ---end---
