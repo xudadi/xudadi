@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-03 15:22:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-03 17:03:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王楚钦轮休 中国男团在世乒赛小组赛中1比3不敌韩国队](https://m.163.com/news/article/KS0A8NU30530JPVV.html)
+[收益率正式跌破1% 余额宝每万元每日收益仅2毛多](https://m.163.com/news/article/KS0L2KL305199NPP.html)
 
-[中国台北队女乒运动员安检时疑遭性骚扰 国际乒联发声](https://m.163.com/news/article/KS03S1LE053469LG.html)
+[环保博主发现河水莫名变红 取样检测后有人半夜来敲门](https://m.163.com/news/article/KS0TFP4N05561G0D.html)
 
-[父母正相互拍照6岁孩子坠崖 掉进离江面仅50公分夹缝](https://m.163.com/news/article/KS05OJ8600019K82.html)
+[河南一家足浴店起火致6死 事发时消防控制室无人值守](https://m.163.com/news/article/KS0SR3CH0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[连扳3局逆转 "00后"吴宜泽首次晋级斯诺克世锦赛决赛](https://m.163.com/news/article/KS01Q15F0514R9OJ.html)
+[高校回应"学生因走路看手机被劝退"：实际未执行](https://m.163.com/news/article/KS0QBLSJ053469LG.html)
 
 ---end---
