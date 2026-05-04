@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-04 15:23:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-04 17:36:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[收益率正式跌破1% 余额宝每万元每日收益仅2毛多](https://m.163.com/news/article/KS0L2KL305199NPP.html)
+[男子结婚11年养了3个孩子 发现2个儿子都不是亲生的](https://m.163.com/news/article/KS3FLTSJ0001899O.html)
 
-[环保博主发现河水莫名变红 取样检测后有人半夜来敲门](https://m.163.com/news/article/KS0TFP4N05561G0D.html)
+[花1000万装修的足浴店被强行上了锁 内部被拆成废墟](https://m.163.com/news/article/KS3FHV790001899O.html)
 
-[河南一家足浴店起火致6死 事发时消防控制室无人值守](https://m.163.com/news/article/KS0SR3CH0512D3VJ.html)
+[刘国正谈国乒男团两连败：王楚钦正常 林诗栋起伏太大](https://m.163.com/news/article/KS3076V20534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高校回应"学生因走路看手机被劝退"：实际未执行](https://m.163.com/news/article/KS0QBLSJ053469LG.html)
+[哥哥借房产给儿子办理入学后占用 弟弟要求分房被拒](https://m.163.com/news/article/KS1CBG9A0512EFR8.html)
 
 ---end---
