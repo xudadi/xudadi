@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-05 20:09:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-05 22:24:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆义渡人力资源服务有限责任公司警务辅助人员工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2880202)
+[重庆八中宏帆中学校财务会计招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2880381)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
