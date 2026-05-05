@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-05 15:05:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-05 17:19:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆水务环境集团所属渝东自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2879494)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆义渡人力资源服务有限责任公司警务辅助人员工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2880202)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子结婚11年养了3个孩子 发现2个儿子都不是亲生的](https://m.163.com/news/article/KS3FLTSJ0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[花1000万装修的足浴店被强行上了锁 内部被拆成废墟](https://m.163.com/news/article/KS3FHV790001899O.html)
+[吴宜泽东莞"闭关特训"视频披露:青涩面庞已有王者之气](https://m.163.com/news/article/KS60RSCT051492T3.html)
 
-[刘国正谈国乒男团两连败：王楚钦正常 林诗栋起伏太大](https://m.163.com/news/article/KS3076V20534P59R.html)
+[浏阳全市所有烟花爆竹生产企业全面停产整顿](https://m.163.com/news/article/KS60DI6L0001899O.html)
+
+[百年老宅清晨起火 租户背着爷爷逃命后索赔遇困难](https://m.163.com/news/article/KS60BD040001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[哥哥借房产给儿子办理入学后占用 弟弟要求分房被拒](https://m.163.com/news/article/KS1CBG9A0512EFR8.html)
+[长沙市委市政府：对烟花厂爆炸极为痛心、无比自责](https://m.163.com/news/article/KS5VU8RN05346RC6.html)
 
 ---end---
