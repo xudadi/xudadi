@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-06 20:05:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-06 22:45:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市铜梁区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2881077)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[武隆区法院2026年度公开招聘聘用制书记员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2881803)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[丢失的魅族手机靠定位7年后重新找回 网友:时代的眼泪](https://m.163.com/news/article/KS8DQE3I053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[投资8千万的"智慧城市"项目7个停了6个：最短仅用半年](https://m.163.com/news/article/KS8CUMFS0514R9P4.html)
+[吴宜泽再谈世锦赛决赛:奥沙利文在比赛时曾给我发消息](https://m.163.com/news/article/KS8SBB16053469LG.html)
 
-[48小时内"拔管"可获百万赔偿 儿子坚持救父"人财两失"](https://m.163.com/news/article/KS886RT50512D3VJ.html)
+[“台独”顽固分子刘世芳亲属已被在大陆台企解职](https://m.163.com/news/article/KS9AF7F80534A4SC.html)
+
+[深圳239亿"地王"易主 曾计划建约700米"中国第一高楼"](https://m.163.com/news/article/KS96I64V0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大学生在宿舍当老板：有人月入4000 有人跟室友闹掰](https://m.163.com/news/article/KS8LF4TC0001899O.html)
+[黑龙江涉重大刑案54岁男子已落网 警方曾悬赏5万缉拿](https://m.163.com/news/article/KS99ICBV0550B6IS.html)
 
 ---end---
