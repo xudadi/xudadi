@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-06 15:34:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-06 18:02:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆八中宏帆中学校财务会计招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2880381)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市铜梁区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2881077)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[吴宜泽东莞"闭关特训"视频披露:青涩面庞已有王者之气](https://m.163.com/news/article/KS60RSCT051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浏阳全市所有烟花爆竹生产企业全面停产整顿](https://m.163.com/news/article/KS60DI6L0001899O.html)
+[丢失的魅族手机靠定位7年后重新找回 网友:时代的眼泪](https://m.163.com/news/article/KS8DQE3I053469LG.html)
 
-[百年老宅清晨起火 租户背着爷爷逃命后索赔遇困难](https://m.163.com/news/article/KS60BD040001899O.html)
+[投资8千万的"智慧城市"项目7个停了6个：最短仅用半年](https://m.163.com/news/article/KS8CUMFS0514R9P4.html)
+
+[48小时内"拔管"可获百万赔偿 儿子坚持救父"人财两失"](https://m.163.com/news/article/KS886RT50512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[长沙市委市政府：对烟花厂爆炸极为痛心、无比自责](https://m.163.com/news/article/KS5VU8RN05346RC6.html)
+[大学生在宿舍当老板：有人月入4000 有人跟室友闹掰](https://m.163.com/news/article/KS8LF4TC0001899O.html)
 
 ---end---
