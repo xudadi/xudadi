@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-07 15:42:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-07 18:08:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司云阳分公司外派至重庆云开高速公路有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2882442)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆工程职业技术学院党委教师工作部、2026年劳动合同制员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2883403)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[一代枭雄李克用容貌复原：系混血儿 被指喝酒就"上脸"](https://m.163.com/news/article/KS9A0V3O055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[吴宜泽再谈世锦赛决赛:奥沙利文在比赛时曾给我发消息](https://m.163.com/news/article/KS8SBB16053469LG.html)
+[中国央行连续18个月扩大黄金储备](https://m.163.com/news/article/KSBBSENG05198CJN.html)
 
-[“台独”顽固分子刘世芳亲属已被在大陆台企解职](https://m.163.com/news/article/KS9AF7F80534A4SC.html)
+[费高云落马：任市委书记仅一年多 曾因爆炸事故被问责](https://m.163.com/news/article/KSBAPU8F0514BE2Q.html)
+
+["新疆虎"金之镇被双开：接受"管家式"服务 搞权色交易](https://m.163.com/news/article/KSAP72RH0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[深圳239亿"地王"易主 曾计划建约700米"中国第一高楼"](https://m.163.com/news/article/KS96I64V0534A4SC.html)
+[世界杯转播对中国开价3亿美元遭央视拒绝 FIFA回应](https://m.163.com/news/article/KSAHGT4K05149SCF.html)
 
 ---end---
