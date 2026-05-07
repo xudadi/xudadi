@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-07 09:23:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-07 12:55:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[武隆区法院2026年度公开招聘聘用制书记员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2881803)
+[重庆飞驶特人力资源管理有限公司云阳分公司外派至重庆云开高速公路有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2882442)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
