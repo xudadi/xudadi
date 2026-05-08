@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-08 14:21:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-08 16:07:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆电力高等专科学校2026年合同制专任教师A类岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2884570)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[四川美术学院2026年上半年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2885134)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[白酒寄售平台长城易趣爆雷：实为假国企 有人60万被套](https://m.163.com/news/article/KSBUP02S051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[干部受邀钓鱼溺亡 家属称其手机里有大量领导违纪证据](https://m.163.com/news/article/KSBVGKU8053469LG.html)
+[父亲脑血栓瘫痪儿子正叛逆 母亲又气又痛告知儿子身世](https://m.163.com/news/article/KSDM994I051492T3.html)
 
-[湖南浏阳烟花厂爆炸致26死61伤 最高检挂牌督办](https://m.163.com/news/article/KSBUA1MM0534A4SC.html)
+["4只皮皮虾1035元"店主事发次日病逝 家属：不再开业](https://m.163.com/news/article/KSDIPO1105345ARG.html)
+
+[网红小狗靠捡瓶子攒了10万元 疑被"毒狗团伙"盯上](https://m.163.com/news/article/KSDG5VBP05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[房客退租被扣600元押金：房东指天花板说有霉斑污渍](https://m.163.com/news/article/KSBG5GC3051492T3.html)
+[歼-35"0001编号"战机亮相 喷涂英文缩写或量产出口](https://m.163.com/news/article/KSD22D3R000189PS.html)
 
 ---end---
