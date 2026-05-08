@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-08 20:52:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-08 22:51:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川美术学院2026年上半年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2885134)
+[释放285个事业编明天开始报名重庆两江新区启动考核招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2885999)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
