@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-10 03:03:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-10 04:01:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆五一职业技术学院2026年第二季度劳动合同制工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2888078)
+[重庆市汽车运输(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2888180)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -33,6 +33,6 @@
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[恒大原总裁夏海钧豪宅被拍卖 年薪2亿被誉"打工皇帝"](https://m.163.com/news/article/KSG4EQ70053469LG.html)
+[女教师被丈夫杀害抛尸 被造谣"跟人跑了"遭弟弟怨恨](https://m.163.com/news/article/KSG77O1005561G0D.html)
 
 ---end---
