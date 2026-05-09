@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-09 09:22:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-09 12:48:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[释放285个事业编明天开始报名重庆两江新区启动考核招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2885999)
+[重庆水务集团股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2886615)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
