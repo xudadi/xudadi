@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-09 15:07:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-09 16:51:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆水务集团股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2886615)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业飞驶特公司招聘派往仙桃数据谷人工智能训练师、内容审核专员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2887220)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[父亲脑血栓瘫痪儿子正叛逆 母亲又气又痛告知儿子身世](https://m.163.com/news/article/KSDM994I051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["4只皮皮虾1035元"店主事发次日病逝 家属：不再开业](https://m.163.com/news/article/KSDIPO1105345ARG.html)
+[年轻女子190元买榴莲仅退款被拘留 代收点离家3公里](https://m.163.com/news/article/KSFRPKTB05561G0D.html)
 
-[网红小狗靠捡瓶子攒了10万元 疑被"毒狗团伙"盯上](https://m.163.com/news/article/KSDG5VBP05345ARG.html)
+["4只皮皮虾1035元"当事人注销账号 隔壁海鲜店发声](https://m.163.com/news/article/KSFRM172055040N3.html)
+
+[邻居阿姨闯进家中求助 男子为保护儿子婉拒后收道歉信](https://m.163.com/news/article/KSE9D1P40534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[歼-35"0001编号"战机亮相 喷涂英文缩写或量产出口](https://m.163.com/news/article/KSD22D3R000189PS.html)
+[恒大原总裁夏海钧豪宅被拍卖 年薪2亿被誉"打工皇帝"](https://m.163.com/news/article/KSG4EQ70053469LG.html)
 
 ---end---
