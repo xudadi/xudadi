@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-09 20:01:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-09 21:52:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘派往仙桃数据谷人工智能训练师、内容审核专员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2887220)
+[重庆五一职业技术学院2026年第二季度劳动合同制工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2888078)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
