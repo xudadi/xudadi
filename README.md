@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-11 19:41:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-12 00:47:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川美术学院考核招聘31名事业编制工作人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2890359)
+[中煤科工重庆设计研究院(集团)有限公司新能电力事业部招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2890199)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
