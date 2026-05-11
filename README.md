@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-11 16:16:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-11 19:41:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[哈尔滨工业大学重庆研究院2026年公开招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2888856)
+[四川美术学院考核招聘31名事业编制工作人员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2890359)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
