@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-12 02:58:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-12 04:48:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [中煤科工重庆设计研究院(集团)有限公司新能电力事业部招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2890199)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[孙颖莎独得2分 中国女团3-2逆转日本队世乒赛七连冠](https://m.163.com/news/article/KSJM52MV0514R9P4.html)
+[母女二人一年用水量高达400多吨 警方发现背后隐情](https://m.163.com/news/article/KSM0K6A30514R9OJ.html)
 
-[儿子车祸受伤生存希望不足0.1% 母亲请中医熬"还魂汤"](https://m.163.com/news/article/KSJHLHAR05345ARG.html)
+["县交警队长被举报工作日KTV饮酒"事件有新进展](https://m.163.com/news/article/KSM00AEO05561G0D.html)
 
-[县交警队长被举报工作日KTV饮酒 当地：其事先已请假](https://m.163.com/news/article/KSIVOLBD05561G0D.html)
+[小伙花90元租了两天车 还车一时"没注意"被扣了1600多](https://m.163.com/news/article/KSLTR4MK0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子新提宝马发现引擎盖下藏4只猫 4S店:交付前无异常](https://m.163.com/news/article/KSHB7L5D00019K82.html)
+[一汽修店主只修特斯拉：其他新能源车三电不修 怕被告](https://m.163.com/news/article/KSLO5JUK0519DDQ2.html)
 
 ---end---
