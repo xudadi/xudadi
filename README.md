@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-12 21:25:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-13 00:00:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲星熠导航设备有限公司关于招聘运作支持岗的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2892592)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[两江新区多岗位招聘,找工作看过来→ (重庆市公考雷达)](https://www.gongkaoleida.com/article/2893053)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[京沪动车二等座最高或涨至近800元](https://m.163.com/news/article/KSO9CHQF05149N8T.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中美禁毒合作细节披露：美方提供线索 中方完成抓捕](https://m.163.com/news/article/KSO8BN100514R9P4.html)
+[多名车主感叹"停车位缩水"：停车像在参加"极限挑战"](https://m.163.com/news/article/KSO5LJKU051492LM.html)
 
-[男子被23楼"天降钢管"砸伤缝8针 肇事者已被警方带走](https://m.163.com/news/article/KSNK4B920514D3UH.html)
+[男子自带挖掘机为社区修路坠崖身亡 社区不认可系工亡](https://m.163.com/news/article/KSON4SFC0514D3UH.html)
+
+[万科A：深铁集团向公司提供25亿元股东借款额度](https://m.163.com/news/article/KSON5LC105198CJN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[15岁男孩在街头故意撞人 被撞女子将起诉：他或是惯犯](https://m.163.com/news/article/KSO5MSPI0514R9OJ.html)
+[企业胜诉后强执4年未果 法警曾称打九折每月可付200万](https://m.163.com/news/article/KSOK7IGJ05561G0D.html)
 
 ---end---
