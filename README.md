@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-12 14:49:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-12 17:40:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆旅游资产管理有限公司统景景区管理分公司策划岗人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2891377)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆九洲星熠导航设备有限公司关于招聘运作支持岗的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2892592)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[榴莲商家遭买家恶意"仅退款" 最新进展来了](https://m.163.com/news/article/KSNIKOSE0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王暖暖回应与无忧传媒解约：协商达成一致 现已回医院](https://m.163.com/news/article/KSNIDJA10552RUAA.html)
+[京沪动车二等座最高或涨至近800元](https://m.163.com/news/article/KSO9CHQF05149N8T.html)
 
-[湖南一居民楼发生火灾致5死2伤](https://m.163.com/news/article/KSNEMDRL0001899O.html)
+[中美禁毒合作细节披露：美方提供线索 中方完成抓捕](https://m.163.com/news/article/KSO8BN100514R9P4.html)
+
+[男子被23楼"天降钢管"砸伤缝8针 肇事者已被警方带走](https://m.163.com/news/article/KSNK4B920514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[90后夫妻同患罕见病瘫痪 两人容貌大变孩子出生夭折](https://m.163.com/news/article/KSN92T0I05345ARG.html)
+[15岁男孩在街头故意撞人 被撞女子将起诉：他或是惯犯](https://m.163.com/news/article/KSO5MSPI0514R9OJ.html)
 
 ---end---
