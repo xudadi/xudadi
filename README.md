@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-13 07:59:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-13 12:07:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[两江新区多岗位招聘,找工作看过来→ (重庆市公考雷达)](https://www.gongkaoleida.com/article/2893053)
+[重庆大学生物工程学院常年诚聘海内外英才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2893618)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
