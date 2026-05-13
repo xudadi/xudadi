@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-13 20:23:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-13 23:23:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至德遂高速运营人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2894543)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市渝中区事业单位面向2026年应届毕业教育部直属师范大学公费师范生及订单定向培养公费医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2894819)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["老鳳詳"售足金戒指被指"金包银"拒3倍赔偿 店铺被关](https://m.163.com/news/article/KSPVIBJM0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[媒体：世界期待中美携手多办大事实事好事](https://m.163.com/news/article/KSP5D9LC0514R9OJ.html)
+[客户上亿贷款被银行行长借走：行长获刑 钱却追不回来](https://m.163.com/news/article/KSRDF0PK051492T3.html)
 
-[新电动车到手不足一月频繁自动锁死 老人被摔伤五六次](https://m.163.com/news/article/KSOKGORH0550B6IS.html)
+[小米SU7 Ultra挖孔机盖案宣判：夸大宣传但不构成欺诈](https://m.163.com/news/article/KSRAGQUP051492T3.html)
+
+[声称"以钓代捕" 企业在淡水湖水域推出4000元钓鱼年卡](https://m.163.com/news/article/KSRAEU3V0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[多名车主感叹"停车位缩水"：停车像在参加"极限挑战"](https://m.163.com/news/article/KSO5LJKU051492LM.html)
+[美国总统时隔9年再次访华 特朗普抵达北京](https://m.163.com/news/article/KSR90BB80001899O.html)
 
 ---end---
