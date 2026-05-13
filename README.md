@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-13 15:26:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-13 18:03:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学生物工程学院常年诚聘海内外英才 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2893618)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至德遂高速运营人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2894543)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多名车主感叹"停车位缩水"：停车像在参加"极限挑战"](https://m.163.com/news/article/KSO5LJKU051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子自带挖掘机为社区修路坠崖身亡 社区不认可系工亡](https://m.163.com/news/article/KSON4SFC0514D3UH.html)
+["老鳳詳"售足金戒指被指"金包银"拒3倍赔偿 店铺被关](https://m.163.com/news/article/KSPVIBJM0514R9P4.html)
 
-[万科A：深铁集团向公司提供25亿元股东借款额度](https://m.163.com/news/article/KSON5LC105198CJN.html)
+[媒体：世界期待中美携手多办大事实事好事](https://m.163.com/news/article/KSP5D9LC0514R9OJ.html)
+
+[新电动车到手不足一月频繁自动锁死 老人被摔伤五六次](https://m.163.com/news/article/KSOKGORH0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[企业胜诉后强执4年未果 法警曾称打九折每月可付200万](https://m.163.com/news/article/KSOK7IGJ05561G0D.html)
+[多名车主感叹"停车位缩水"：停车像在参加"极限挑战"](https://m.163.com/news/article/KSO5LJKU051492LM.html)
 
 ---end---
