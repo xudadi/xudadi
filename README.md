@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-14 20:18:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-14 23:05:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆数字资源集团智算科技分公司2026年市场化招聘专业人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2896102)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至合璧津高速、渝遂复线高速收费员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2896890)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[外交部：维护台海和平稳定是中美双方最大公约数](https://m.163.com/news/article/KSTBKV2M053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[美国国务卿鲁比奥：中美关系非常有建设性](https://m.163.com/news/article/KSTB7D7B000189PS.html)
+[90后夫妻同患罕见病瘫痪 医生：可能是感染同一病原体](https://m.163.com/news/article/KSTTMU9R051492T3.html)
 
-[相识近十年朋友"借用"征信后失联 男子背上60多万债务](https://m.163.com/news/article/KSR80N5V05561G0D.html)
+[雷军宴会上"追星"马斯克 曾到美国参观特斯拉总部工厂](https://m.163.com/news/article/KSTV508H0512B07B.html)
+
+[重庆"萌感"佛头意外走红 雕刻者：不是文物且尚未完工](https://m.163.com/news/article/KSTMUBC40514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小米SU7 Ultra挖孔机盖案宣判：夸大宣传但不构成欺诈](https://m.163.com/news/article/KSRAGQUP051492T3.html)
+[男子读硕博期间套取1426万科研经费 犯诈骗罪被判8年](https://m.163.com/news/article/KST2SQM5051492T3.html)
 
 ---end---
