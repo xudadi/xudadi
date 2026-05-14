@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-15 03:08:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-15 04:45:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [外派至合璧津高速、渝遂复线高速收费员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2896890)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[90后夫妻同患罕见病瘫痪 医生：可能是感染同一病原体](https://m.163.com/news/article/KSTTMU9R051492T3.html)
+[女子称关闭支付宝支付功能被扣款捐赠184万 多方回应](https://m.163.com/news/article/KSTK4JQ405561G0D.html)
 
-[雷军宴会上"追星"马斯克 曾到美国参观特斯拉总部工厂](https://m.163.com/news/article/KSTV508H0512B07B.html)
+[男子买奥迪A8遇"多重套路"：交付的还是18个月库存车](https://m.163.com/news/article/KSU1S7PK05345ARG.html)
 
-[重庆"萌感"佛头意外走红 雕刻者：不是文物且尚未完工](https://m.163.com/news/article/KSTMUBC40514D3UH.html)
+[中国银行董事长会见美国大豆出口协会主席](https://m.163.com/news/article/KSU0CB5S0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子读硕博期间套取1426万科研经费 犯诈骗罪被判8年](https://m.163.com/news/article/KST2SQM5051492T3.html)
+[店名带"标榜"、"东尼" 多地理发店被英国公司起诉侵权](https://m.163.com/news/article/KSTJA92S051492T3.html)
 
 ---end---
