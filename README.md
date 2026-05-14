@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-14 09:32:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-14 13:33:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝中区事业单位面向2026年应届毕业教育部直属师范大学公费师范生及订单定向培养公费医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2894819)
+[重庆市畜牧科学院家禽研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2895519)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
