@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-14 16:17:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-14 18:42:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市畜牧科学院家禽研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2895519)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆数字资源集团智算科技分公司2026年市场化招聘专业人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2896102)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[客户上亿贷款被银行行长借走：行长获刑 钱却追不回来](https://m.163.com/news/article/KSRDF0PK051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[小米SU7 Ultra挖孔机盖案宣判：夸大宣传但不构成欺诈](https://m.163.com/news/article/KSRAGQUP051492T3.html)
+[外交部：维护台海和平稳定是中美双方最大公约数](https://m.163.com/news/article/KSTBKV2M053469LG.html)
 
-[声称"以钓代捕" 企业在淡水湖水域推出4000元钓鱼年卡](https://m.163.com/news/article/KSRAEU3V0514D3UH.html)
+[美国国务卿鲁比奥：中美关系非常有建设性](https://m.163.com/news/article/KSTB7D7B000189PS.html)
+
+[相识近十年朋友"借用"征信后失联 男子背上60多万债务](https://m.163.com/news/article/KSR80N5V05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[美国总统时隔9年再次访华 特朗普抵达北京](https://m.163.com/news/article/KSR90BB80001899O.html)
+[小米SU7 Ultra挖孔机盖案宣判：夸大宣传但不构成欺诈](https://m.163.com/news/article/KSRAGQUP051492T3.html)
 
 ---end---
