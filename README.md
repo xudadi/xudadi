@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-15 20:11:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-15 22:35:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司公开招聘派遣制工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2898507)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆水务环境集团所属渝东北自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899215)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[央视拿下2026年美加墨世界杯版权 韩乔生喊话"妥了"](https://m.163.com/news/article/KSVTTPQ10512DU6N.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[特朗普称中方同意购买200架波音飞机 外交部回应](https://m.163.com/news/article/KSVTJG1900018AOR.html)
+[村民自组草根"西游团队"走红 发起人自费七八十万圆梦](https://m.163.com/news/article/KT04UPVE0514D3UH.html)
 
-[外媒询问中方"是否同意未来购买美国石油" 外交部回应](https://m.163.com/news/article/KSVT2TTS0514R9P4.html)
+[2025年平均工资出炉 城镇非私营单位年平均工资近13万](https://m.163.com/news/article/KT020DE90534A4SC.html)
+
+[黄仁勋在北京吃38元炸酱面 店员：面是我们请他品尝的](https://m.163.com/news/article/KT01GKTR053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[杨威1家6口住香港40平出租屋将到期：夫妻睡1米2小床](https://m.163.com/news/article/KSVC9KK305561G0D.html)
+[男子供职国企18年不愿异地调岗被辞退 起诉获判赔36万](https://m.163.com/news/article/KT01F81E05149E7M.html)
 
 ---end---
