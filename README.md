@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-15 15:40:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-15 18:05:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市畜牧科学院2026年诚聘海内外优秀博士公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2897583)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司大足分公司公开招聘派遣制工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2898507)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子称关闭支付宝支付功能被扣款捐赠184万 多方回应](https://m.163.com/news/article/KSTK4JQ405561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子买奥迪A8遇"多重套路"：交付的还是18个月库存车](https://m.163.com/news/article/KSU1S7PK05345ARG.html)
+[央视拿下2026年美加墨世界杯版权 韩乔生喊话"妥了"](https://m.163.com/news/article/KSVTTPQ10512DU6N.html)
 
-[中国银行董事长会见美国大豆出口协会主席](https://m.163.com/news/article/KSU0CB5S0534A4SC.html)
+[特朗普称中方同意购买200架波音飞机 外交部回应](https://m.163.com/news/article/KSVTJG1900018AOR.html)
+
+[外媒询问中方"是否同意未来购买美国石油" 外交部回应](https://m.163.com/news/article/KSVT2TTS0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[店名带"标榜"、"东尼" 多地理发店被英国公司起诉侵权](https://m.163.com/news/article/KSTJA92S051492T3.html)
+[杨威1家6口住香港40平出租屋将到期：夫妻睡1米2小床](https://m.163.com/news/article/KSVC9KK305561G0D.html)
 
 ---end---
