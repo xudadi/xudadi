@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-15 08:10:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-15 12:18:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至合璧津高速、渝遂复线高速收费员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2896890)
+[重庆市畜牧科学院2026年诚聘海内外优秀博士公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2897583)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
