@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-17 02:08:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-17 03:32:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2026重庆新华文化产业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899971)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[护士下班途中偶遇车祸冒雨跪地救人 同事为她撑伞遮雨](https://m.163.com/news/article/KT30QL8Q051492T3.html)
+[今年大范围降雨即将上线 多地提醒市民非必要不外出](https://m.163.com/news/article/KT2JFN6A0514R9P4.html)
 
-[商务部新闻发言人就中美经贸磋商初步成果答记者问](https://m.163.com/news/article/KT2VNPGD0001899O.html)
+[国内首批103号高标号赛级汽油正式投用](https://m.163.com/news/article/KT36OUE7000189PS.html)
 
-[男子骑车险遭一横跨马路风筝线割脸 当事人发声](https://m.163.com/news/article/KT28OCRQ0550HXM1.html)
+[团伙"送游戏装备"专骗未成年人：18岁头目曾去过缅北](https://m.163.com/news/article/KT35AIVG0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[WSBK捷克站正赛首回合 张雪机车车手斩获赛季第四冠](https://m.163.com/news/article/KT2RJMEV0514R9P4.html)
+[山西一车辆侧翻致2名学生遇难 当地称或与降雨有关](https://m.163.com/news/article/KT34O0NU0514BE2Q.html)
 
 ---end---
