@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-16 14:34:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-16 16:27:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市科学技术研究院面向海内外诚聘优秀博士人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899480)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王毅向媒体介绍中美元首会晤情况和共识](https://m.163.com/news/article/KT0JHNPK05346RC6.html)
+[江西赣州上犹县遭遇暴雨 有居民称街道上积水淹到车顶](https://m.163.com/news/article/KT2CA8ED053469LG.html)
 
-["兰州瓜农刺死城管案"终审维持原判 当事人：考虑申诉](https://m.163.com/news/article/KT0D3B1O0512D3VJ.html)
+[央视世界杯谈判最后24小时:国际足联官员一度非常沮丧](https://m.163.com/news/article/KT0N95170519DDQ2.html)
 
-[村民自组草根"西游团队"走红 发起人自费七八十万圆梦](https://m.163.com/news/article/KT04UPVE0514D3UH.html)
+[男子出租宅基地安光伏 拉闸被拘10天又遭起诉支付18万](https://m.163.com/news/article/KT24NQD900019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[2025年平均工资出炉 城镇非私营单位年平均工资近13万](https://m.163.com/news/article/KT020DE90534A4SC.html)
+["武汉史上票价最贵火车"发车：20999元起 全部为卧铺](https://m.163.com/news/article/KT26ACU3053469LG.html)
 
 ---end---
