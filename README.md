@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-16 08:07:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-16 12:02:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆水务环境集团所属渝东北自来水有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899215)
+[重庆市科学技术研究院面向海内外诚聘优秀博士人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899480)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
