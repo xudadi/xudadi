@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-16 20:05:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-16 21:59:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市科学技术研究院面向海内外诚聘优秀博士人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899480)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[2026重庆新华文化产业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899971)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[江西赣州上犹县遭遇暴雨 有居民称街道上积水淹到车顶](https://m.163.com/news/article/KT2CA8ED053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[央视世界杯谈判最后24小时:国际足联官员一度非常沮丧](https://m.163.com/news/article/KT0N95170519DDQ2.html)
+[护士下班途中偶遇车祸冒雨跪地救人 同事为她撑伞遮雨](https://m.163.com/news/article/KT30QL8Q051492T3.html)
 
-[男子出租宅基地安光伏 拉闸被拘10天又遭起诉支付18万](https://m.163.com/news/article/KT24NQD900019K82.html)
+[商务部新闻发言人就中美经贸磋商初步成果答记者问](https://m.163.com/news/article/KT2VNPGD0001899O.html)
+
+[男子骑车险遭一横跨马路风筝线割脸 当事人发声](https://m.163.com/news/article/KT28OCRQ0550HXM1.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["武汉史上票价最贵火车"发车：20999元起 全部为卧铺](https://m.163.com/news/article/KT26ACU3053469LG.html)
+[WSBK捷克站正赛首回合 张雪机车车手斩获赛季第四冠](https://m.163.com/news/article/KT2RJMEV0514R9P4.html)
 
 ---end---
