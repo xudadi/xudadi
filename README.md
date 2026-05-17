@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-17 15:44:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-17 17:24:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2026重庆新华文化产业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899971)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[今年大范围降雨即将上线 多地提醒市民非必要不外出](https://m.163.com/news/article/KT2JFN6A0514R9P4.html)
+[张雪喊话德比斯：培养比你更强的中国车手 我给你养老](https://m.163.com/news/article/KT4CJ2N30514R9OJ.html)
 
-[国内首批103号高标号赛级汽油正式投用](https://m.163.com/news/article/KT36OUE7000189PS.html)
+[男子花1700多元带86岁爷爷坐飞机游长城 当事人发声](https://m.163.com/news/article/KT514A6O0534P59R.html)
 
-[团伙"送游戏装备"专骗未成年人：18岁头目曾去过缅北](https://m.163.com/news/article/KT35AIVG0001899O.html)
+[上海男子公交车上闭眼"休息"实则已死亡 家属索赔11万](https://m.163.com/news/article/KT4L6RA905561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山西一车辆侧翻致2名学生遇难 当地称或与降雨有关](https://m.163.com/news/article/KT34O0NU0514BE2Q.html)
+[福克斯主播在北京非机动车道出镜 美网友：简直是耻辱](https://m.163.com/news/article/KT4KAM8V053469LG.html)
 
 ---end---
