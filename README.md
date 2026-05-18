@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-18 14:14:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-18 18:42:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026重庆新华文化产业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2899971)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国核电力规划设计研究院重庆有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2902334)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[大三男生泰国失联超60天 母亲以泪洗面：已办好护照](https://m.163.com/news/article/KT5BJKEC053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[十四届全国政协常委王晓东被查](https://m.163.com/news/article/KT58PE0Q0001899O.html)
+[天津一高空跳伞项目发生事故：一名女员工和教练遇难](https://m.163.com/news/article/KT7PPHKJ053469LG.html)
 
-[夫妻回酒店遇陌生醉汉躺客房 贴身衣物被乱翻妻子崩溃](https://m.163.com/news/article/KT4C3TKR053469M5.html)
+[江苏税务：偷拍女生裙底男生并不是已被录用 正在处理](https://m.163.com/news/article/KT7PB7RN05561G0D.html)
+
+[拆迁公告中产权人的姓名为"黄三"和"李四" 多部门发声](https://m.163.com/news/article/KT7FMF910514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[张雪喊话德比斯：培养比你更强的中国车手 我给你养老](https://m.163.com/news/article/KT4CJ2N30514R9OJ.html)
+[微商卖含违禁成分减肥咖啡获刑十年后上诉 辩称不明知](https://m.163.com/news/article/KT7NTMC20512D3VJ.html)
 
 ---end---
