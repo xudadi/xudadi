@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-18 22:18:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-19 01:16:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [国核电力规划设计研究院重庆有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2902334)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[天津一高空跳伞项目发生事故：一名女员工和教练遇难](https://m.163.com/news/article/KT7PPHKJ053469LG.html)
+[27年前捐5000美元治沙造林 全网寻找的"赛考斯"找到了](https://m.163.com/news/article/KT803N4C0514R9OJ.html)
 
-[江苏税务：偷拍女生裙底男生并不是已被录用 正在处理](https://m.163.com/news/article/KT7PB7RN05561G0D.html)
+[手机品牌集体大降价 郑州线下门店苹果销量暴涨六七倍](https://m.163.com/news/article/KT8BTF0E053469LG.html)
 
-[拆迁公告中产权人的姓名为"黄三"和"李四" 多部门发声](https://m.163.com/news/article/KT7FMF910514R9P4.html)
+["清华博士造火箭已融资10亿"上热搜 背后公司详情披露](https://m.163.com/news/article/KT8BAHLN0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[微商卖含违禁成分减肥咖啡获刑十年后上诉 辩称不明知](https://m.163.com/news/article/KT7NTMC20512D3VJ.html)
+[57岁高校教师跳恰恰舞走红：刘亦菲沙溢都是他的学生](https://m.163.com/news/article/KT8A82BK0001899O.html)
 
 ---end---
