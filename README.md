@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-19 09:28:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-19 13:43:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国核电力规划设计研究院重庆有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2902334)
+[重庆九洲智造科技有限公司关于招聘安全技术员等岗位的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2902953)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
