@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-19 16:47:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-19 20:11:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲智造科技有限公司关于招聘安全技术员等岗位的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2902953)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市涪陵区焦石镇人民政府关于公开选聘本土人才的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2903488)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[27年前捐5000美元治沙造林 全网寻找的"赛考斯"找到了](https://m.163.com/news/article/KT803N4C0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[手机品牌集体大降价 郑州线下门店苹果销量暴涨六七倍](https://m.163.com/news/article/KT8BTF0E053469LG.html)
+[男子五一期间通过平台打车10公里花了418元 携程回应](https://m.163.com/news/article/KTACSV82053469M5.html)
 
-["清华博士造火箭已融资10亿"上热搜 背后公司详情披露](https://m.163.com/news/article/KT8BAHLN0512B07B.html)
+[国产存储巨头长江存储宣布IPO 估值1600亿元](https://m.163.com/news/article/KTACCU1505199NPP.html)
+
+[贵州省贵定县遭遇暴雨洪灾 已致4人死亡5人失联](https://m.163.com/news/article/KTAC68BO0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[57岁高校教师跳恰恰舞走红：刘亦菲沙溢都是他的学生](https://m.163.com/news/article/KT8A82BK0001899O.html)
+[海军罕见官宣辽宁舰携实弹奔赴西太训练 专家解析亮点](https://m.163.com/news/article/KTABIQDU0514R9OJ.html)
 
 ---end---
