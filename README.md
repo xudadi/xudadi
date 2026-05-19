@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-19 20:11:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-19 23:49:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市涪陵区焦石镇人民政府关于公开选聘本土人才的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2903488)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市合川区民政局公开招聘非在编人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2904819)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子五一期间通过平台打车10公里花了418元 携程回应](https://m.163.com/news/article/KTACSV82053469M5.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国产存储巨头长江存储宣布IPO 估值1600亿元](https://m.163.com/news/article/KTACCU1505199NPP.html)
+[25岁研究生抗癌两年离世：出身农家 生前经历27次化疗](https://m.163.com/news/article/KTAL3O8A053469LG.html)
 
-[贵州省贵定县遭遇暴雨洪灾 已致4人死亡5人失联](https://m.163.com/news/article/KTAC68BO0534A4SC.html)
+[网友称买机票发现多了个"民航发展基金" 业内人士回应](https://m.163.com/news/article/KTANB70O051492T3.html)
+
+[女子连续碰瓷3家同品牌炸鸡店 自称作案手法咨询了AI](https://m.163.com/news/article/KTA8JJAU0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[海军罕见官宣辽宁舰携实弹奔赴西太训练 专家解析亮点](https://m.163.com/news/article/KTABIQDU0514R9OJ.html)
+[男子花20多万买到洗白"试验车" 结果被强制注销成废铁](https://m.163.com/news/article/KTAGE3GR05561G0D.html)
 
 ---end---
