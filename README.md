@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-20 16:25:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-20 19:26:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某央企外包类岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2905645)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市消防救援总队直属单位2026年度上半年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2906595)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[洪水最高没过2楼楼顶 女子红了眼眶：家里东西全没了](https://m.163.com/news/article/KTC6UE8705561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女教师劝架被6年级女生用镊子戳伤眼球 最新进展来了](https://m.163.com/news/article/KTC65HEJ05561G0D.html)
+[杨梅被"一刀切"禁入 福建杨梅协会会长恳求给果农生路](https://m.163.com/news/article/KTCQQHP3053469LG.html)
 
-[“585人村庄62人患癌”追踪：有人起诉化工厂败诉](https://m.163.com/news/article/KTBSAPTN0530WJIN.html)
+[华谊兄弟成"老赖" 涉案金额60.84万元](https://m.163.com/news/article/KTCGQ71V0550B6IS.html)
+
+[电影《监狱来的妈妈》深陷争议 国家电影局回应](https://m.163.com/news/article/KTCDFMGM053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[5月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/KTC2Q4M10001899O.html)
+[国台办回应赖清德“5·20”讲话：充斥谎言与欺骗](https://m.163.com/news/article/KTCLT14V0534A4SC.html)
 
 ---end---
