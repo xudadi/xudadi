@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-20 08:17:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-20 12:46:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市合川区民政局公开招聘非在编人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2904819)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某央企外包类岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2905645)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[25岁研究生抗癌两年离世：出身农家 生前经历27次化疗](https://m.163.com/news/article/KTAL3O8A053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[网友称买机票发现多了个"民航发展基金" 业内人士回应](https://m.163.com/news/article/KTANB70O051492T3.html)
+[洪水最高没过2楼楼顶 女子红了眼眶：家里东西全没了](https://m.163.com/news/article/KTC6UE8705561G0D.html)
 
-[女子连续碰瓷3家同品牌炸鸡店 自称作案手法咨询了AI](https://m.163.com/news/article/KTA8JJAU0514D3UH.html)
+[女教师劝架被6年级女生用镊子戳伤眼球 最新进展来了](https://m.163.com/news/article/KTC65HEJ05561G0D.html)
+
+[“585人村庄62人患癌”追踪：有人起诉化工厂败诉](https://m.163.com/news/article/KTBSAPTN0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子花20多万买到洗白"试验车" 结果被强制注销成废铁](https://m.163.com/news/article/KTAGE3GR05561G0D.html)
+[5月LPR报价出炉：5年期和1年期利率均维持不变](https://m.163.com/news/article/KTC2Q4M10001899O.html)
 
 ---end---
