@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-21 09:27:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-21 13:48:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学电气工程学院刘坤教授团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2906947)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[奉节县青少年校外活动中心长期招聘兼职教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2907791)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[媒体：赖清德发表的讲话 说明"台独"就是中美共同敌人](https://m.163.com/news/article/KTD3OBR40514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[普京与26年前抱过的中国男孩彭湃再相见 两人互赠礼物](https://m.163.com/news/article/KTDDI18K053469LG.html)
+[特斯拉官宣监督版FSD登陆中国](https://m.163.com/news/article/KTEMSL0S0001899O.html)
 
-[官方通报福建漳州"泡药杨梅"事件 5人被刑拘](https://m.163.com/news/article/KTDFGJVE05198CJN.html)
+[郑氏杉杉落幕倒计时 董事长周婷最后一次出席股东会](https://m.163.com/news/article/KTELBE720534A4SC.html)
+
+[河南多所学校学生呕吐腹泻 官方通报](https://m.163.com/news/article/KTEKVHQQ0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[受"泡药杨梅"风波影响 有温州商户称一天亏三十几万元](https://m.163.com/news/article/KTCGD9TV0512B07B.html)
+[泡药杨梅被曝光协会会长恳求不要一棍子打死 果农发声](https://m.163.com/news/article/KTEK595405561G0D.html)
 
 ---end---
