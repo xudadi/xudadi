@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-22 08:15:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-22 12:38:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[奉节县青少年校外活动中心长期招聘兼职教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2907791)
+[重庆市大足区国衡商贸有限责任公司招聘派遣制编外工作人员的招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2909892)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
