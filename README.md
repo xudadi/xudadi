@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-23 02:15:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-23 04:19:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市綦江区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2911479)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海保姆因打孩子被炒 雇主:每月给你1万还要看你脸色](https://m.163.com/news/article/KTHM0JMG05561G0D.html)
+[国企退休职工与董事长争执后猝死 董事长建议去起诉](https://m.163.com/news/article/KTHS180R0514R9P4.html)
 
-[24岁女子和跳伞教练双双遇难 留给家人最后一句话公开](https://m.163.com/news/article/KTHEFO47051492LM.html)
+[男子8年前开的银行卡中有25年前的房贷 银行最新回应](https://m.163.com/news/article/KTINAIUM0001899O.html)
 
-["被学生戳伤眼球"女教师最新发声：希望处分涉事女生](https://m.163.com/news/article/KTG73QRK00019K82.html)
+[2匹受惊马闯小区 5岁女童被缰绳绕颈拖拽近2000米身亡](https://m.163.com/news/article/KTIN22DL0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[85岁"核武老人"发声：智障儿子有糖尿病 请网友别投喂](https://m.163.com/news/article/KTF59J4L0550B6IS.html)
+[女员工跳伞身亡 弟弟:有游客来玩 老板让她凑人数去跳](https://m.163.com/news/article/KTIGFV0N051492T3.html)
 
 ---end---
