@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-22 21:52:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-23 00:26:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学艺术学院劳务派遣教务秘书招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2911085)
+[重庆市綦江区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2911479)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
