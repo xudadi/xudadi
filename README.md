@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-24 15:36:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-24 17:31:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市綦江区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2911479)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[因瞬时强降雨 重庆永川17人失联1人死亡](https://m.163.com/news/article/KTMHHE6N000189PS.html)
+[山西煤矿爆炸造成重大伤亡 企业曾被列入高瓦斯"预警"](https://m.163.com/news/article/KTL34R3L0512D3VJ.html)
 
-[5次挂拍后 恒大海上城堡酒店以6949万底价成交](https://m.163.com/news/article/KTKRRNJN0512B07B.html)
+[适老化改造变敛财工程:425元的轮椅政府采购价1450元](https://m.163.com/news/article/KTKM1UTU00019K82.html)
 
-[媒体：山西矿难涉事企业去年2次被罚 5万金额低"成本"](https://m.163.com/news/article/KTMFA2IH0534A4SC.html)
+[主干道上现"三角钉"致多车破胎 两名修车店主被刑拘](https://m.163.com/news/article/KTMRT8LT0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[新疆24岁产妇成功分娩五胞胎 定制烤全羊感谢接生医生](https://m.163.com/news/article/KTL7P9SO051494GR.html)
+[特斯拉中国将FSD更名为特斯拉辅助驾驶](https://m.163.com/news/article/KTMQ1VUJ0512B07B.html)
 
 ---end---
