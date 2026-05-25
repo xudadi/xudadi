@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-25 20:44:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-25 23:42:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[璧山区御湖小学2026年秋期临聘教师招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2914100)
+[重庆大学《ManufacturingScienceforSustainability》劳务派遣专职编辑招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2915031)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
