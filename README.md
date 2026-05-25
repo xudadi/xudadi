@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-25 08:15:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-25 13:04:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市綦江区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2911479)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市健康资源创新研究院2026年招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2912666)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[68岁丈夫出轨90后女子生双胞胎转账4800万 妻子怒告2人](https://m.163.com/news/article/KTN66L48051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[花670多万买的中式小院是"弯的" 业主崩溃：很难看](https://m.163.com/news/article/KTN5516K0001899O.html)
+[约2万公里收费高速公路将到期 到期后会否免费受关注](https://m.163.com/news/article/KTOJ735N055040N3.html)
 
-["空军一号"前屹立的礼兵发声：发动机的热浪拍打后背](https://m.163.com/news/article/KTNKKP2605504DOQ.html)
+[男子收到16年前的停车欠费通知 比他买车的时间还要早](https://m.163.com/news/article/KTP675RD051492LM.html)
+
+[华为：基于韬(τ)定律已设计并量产381款芯片](https://m.163.com/news/article/KTP5ACVH0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[华农22岁大学生和同学摆摊卖菜：菜是课程实习的成果](https://m.163.com/news/article/KTNQGUV3053469LG.html)
+[山西留神峪煤矿爆炸瞬间画面公布](https://m.163.com/news/article/KTP4QLES000189PS.html)
 
 ---end---
