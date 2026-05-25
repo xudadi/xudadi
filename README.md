@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-25 13:04:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-25 20:44:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市健康资源创新研究院2026年招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2912666)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[璧山区御湖小学2026年秋期临聘教师招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2914100)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[约2万公里收费高速公路将到期 到期后会否免费受关注](https://m.163.com/news/article/KTOJ735N055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子收到16年前的停车欠费通知 比他买车的时间还要早](https://m.163.com/news/article/KTP675RD051492LM.html)
+[男子将父母和丈母娘救出被洪水卷走 抱树撑12小时获救](https://m.163.com/news/article/KTPI49MI0534P59R.html)
 
-[华为：基于韬(τ)定律已设计并量产381款芯片](https://m.163.com/news/article/KTP5ACVH0512D3VJ.html)
+[湖南石门强降雨致7死14失联](https://m.163.com/news/article/KTPHOTMP0001899O.html)
+
+[中国暂停向日本出口部分稀土产品 外交部回应](https://m.163.com/news/article/KTPH99G80514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山西留神峪煤矿爆炸瞬间画面公布](https://m.163.com/news/article/KTP4QLES000189PS.html)
+[华为"韬(τ)定律"：没有先进光刻机也能造出高端芯片](https://m.163.com/news/article/KTPF31980512B07B.html)
 
 ---end---
