@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-26 03:01:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-26 04:43:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆大学《ManufacturingScienceforSustainability》劳务派遣专职编辑招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2915031)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子将父母和丈母娘救出被洪水卷走 抱树撑12小时获救](https://m.163.com/news/article/KTPI49MI0534P59R.html)
+[17岁女孩暴雨天疑欲轻生：爸爸不接电话 妈妈不让回家](https://m.163.com/news/article/KTPUVGQ5051492LM.html)
 
-[湖南石门强降雨致7死14失联](https://m.163.com/news/article/KTPHOTMP0001899O.html)
+[暴雨、山洪、泥石流袭击石门 村民发现青蛙都往山上逃](https://m.163.com/news/article/KTPRRGS1053469LG.html)
 
-[中国暂停向日本出口部分稀土产品 外交部回应](https://m.163.com/news/article/KTPH99G80514R9P4.html)
+[百栋别墅违建有人加盖两三层 不少业主"打不过便加入"](https://m.163.com/news/article/KTOVVI9K0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[华为"韬(τ)定律"：没有先进光刻机也能造出高端芯片](https://m.163.com/news/article/KTPF31980512B07B.html)
+[车子时速55公里监控抓拍时速却是121公里 记者发现疑点](https://m.163.com/news/article/KTQCUSN305561G0D.html)
 
 ---end---
