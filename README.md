@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-26 08:15:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-26 12:43:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学《ManufacturingScienceforSustainability》劳务派遣专职编辑招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2915031)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学未来教育研究院劳务派遣业务助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2915797)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[17岁女孩暴雨天疑欲轻生：爸爸不接电话 妈妈不让回家](https://m.163.com/news/article/KTPUVGQ5051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[暴雨、山洪、泥石流袭击石门 村民发现青蛙都往山上逃](https://m.163.com/news/article/KTPRRGS1053469LG.html)
+[多所高校学者被举报涉嫌学术不端：论文数据荒诞粗糙](https://m.163.com/news/article/KTRK1GE300019K82.html)
 
-[百栋别墅违建有人加盖两三层 不少业主"打不过便加入"](https://m.163.com/news/article/KTOVVI9K0550B6IS.html)
+[男子25年前被多人殴打致死 家属：3人获刑4人未被批捕](https://m.163.com/news/article/KTRD0OQQ0514R9P4.html)
+
+[猪肉被检出抗生素超标37.5倍 双汇控股子公司被通报](https://m.163.com/news/article/KTRIG1LS0514R9KQ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[车子时速55公里监控抓拍时速却是121公里 记者发现疑点](https://m.163.com/news/article/KTQCUSN305561G0D.html)
+[投毒致1人死亡4人中毒 三体公司原CEO许垚被执行死刑](https://m.163.com/news/article/KTRK38F005199DKK.html)
 
 ---end---
