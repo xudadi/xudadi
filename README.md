@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-27 08:10:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-27 12:48:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[人事招聘】医院物业人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2917328)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆三峡学院科技大学2026年非事业编制工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2918257)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山西矿难幸存者拒绝家人"不再下矿"要求：债还没还完](https://m.163.com/news/article/KTSFBE5905561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[留神峪煤矿"暗面"矿工发声：遇检查时矿上就提前封堵](https://m.163.com/news/article/KTSQ8QVU0514BE2Q.html)
+[女子夜骑被细线勒住脖颈：根本反应不过来 线越勒越紧](https://m.163.com/news/article/KTTTSPQC00019SNS.html)
 
-[失独母亲举报律师：刻意美化凶手 拿我丧子之痛当噱头](https://m.163.com/news/article/KTSE15PQ0550B6IS.html)
+[258亩荠菜地遭数百人哄抢造成损失约70万 种植户发声](https://m.163.com/news/article/KTSOV5IF0556E0BP.html)
+
+[男子在离婚冷静期打晕妻子扔下土崖 亲属多次劝其送医](https://m.163.com/news/article/KTU39CQK053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子超市买牙膏抽中世界杯门票欲转让 超市：票是真的](https://m.163.com/news/article/KTSRO9F10530WJIN.html)
+[男子早餐买4个包子付款21365元 老板等20天未果报警](https://m.163.com/news/article/KTTTGRB50514R9OJ.html)
 
 ---end---
