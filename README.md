@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-27 16:38:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-27 19:59:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆三峡学院科技大学2026年非事业编制工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2918257)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往大足区某机关事业单位工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2919238)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子夜骑被细线勒住脖颈：根本反应不过来 线越勒越紧](https://m.163.com/news/article/KTTTSPQC00019SNS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[258亩荠菜地遭数百人哄抢造成损失约70万 种植户发声](https://m.163.com/news/article/KTSOV5IF0556E0BP.html)
+[男子用儿子15000压岁钱炒股亏了：真不知道怎么交代](https://m.163.com/news/article/KTUSVFDC05561G0D.html)
 
-[男子在离婚冷静期打晕妻子扔下土崖 亲属多次劝其送医](https://m.163.com/news/article/KTU39CQK053469LG.html)
+[白鹿原网红"孤独树"被砍掉枝叶变"秃头" 村委会回应](https://m.163.com/news/article/KTUSD4UB05561G0D.html)
+
+[离婚官司尚未宣判男子被离婚 妻子持假文书再婚迁户](https://m.163.com/news/article/KTUADA8J053469M5.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子早餐买4个包子付款21365元 老板等20天未果报警](https://m.163.com/news/article/KTTTGRB50514R9OJ.html)
+[情侣住网红酒店遭偷拍隐私画面还被发网上 4人被刑拘](https://m.163.com/news/article/KTTVABR705345ARG.html)
 
 ---end---
