@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-28 07:47:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-28 11:41:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆商务职业学院2026年考核招聘非在编博士人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2919591)
+[“重庆人力”所属企业飞驶特公司招聘外派至招商局检测车辆技术研究院有限公司公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2920212)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
