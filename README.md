@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-29 22:12:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-30 01:44:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医药高等专科学校2026年第二季度考核招聘高层次和紧缺人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2923430)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市人力资源开发服务中心2026年公开招聘非在编工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2923833)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[母亲记录5岁脑瘫女儿学步：3岁独立迈步 今能走百余步](https://m.163.com/news/article/KU41JN9U0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[幼儿园饭菜烧熟到食用不得超2小时](https://m.163.com/news/article/KU40M3B4000189PS.html)
+["最年轻的航天员"出舱 面带微笑称回到祖国特别踏实](https://m.163.com/news/article/KU4KI8L2053469LG.html)
 
-[中医当患者面剪脚指甲 疑让助手把脉开药致孕妇流产](https://m.163.com/news/article/KU3SV6NO05561G0D.html)
+[武汉2万余只鸭子洪水中集体“出逃” 长江巡护员发声](https://m.163.com/news/article/KU4JCLCK053469LG.html)
+
+[疑第三方帮拉客宣传"存1万返100还报销路费" 银行回应](https://m.163.com/news/article/KU4CU55P051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子乘网约车在车内排泄 全程很清醒还和男友打电话](https://m.163.com/news/article/KU3OF0L90514R9OJ.html)
+[幼师疑用热熔枪烫小女孩嘴唇 连烫娃2次后还推搡捶打](https://m.163.com/news/article/KU4DPH150514BE2Q.html)
 
 ---end---
