@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-30 16:03:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-30 18:17:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆江北国际机场T3B消防维保岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2924108)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆科技大学2026年劳务派遣人员招聘简章（应用开发岗） (重庆市公考雷达)](https://www.gongkaoleida.com/article/2924451)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[轿车追尾货车致3死：司机激活智驾并双手脱离方向盘](https://m.163.com/news/article/KU60AD4005129QAF.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广告灯箱"公益黑灯、商业通明" 郑州地铁方回应](https://m.163.com/news/article/KU5RMO2R05561G0D.html)
+[男孩踩到井盖坠入化粪池身亡 家属：孩子泡了半个小时](https://m.163.com/news/article/KU6D1RQA051492T3.html)
 
-[6月1日起，我国将全面进入汛期](https://m.163.com/news/article/KU601S1I0512D3VJ.html)
+[情侣相约自杀男方身亡 女方被以故意杀人罪提起公诉](https://m.163.com/news/article/KU5TST4700019K82.html)
+
+[湖北省召开全省领导干部会议 王忠林主持、关志鸥讲话](https://m.163.com/news/article/KU6963AA0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南严厉打击烟花爆竹非法生产 举报查实最高奖30万元](https://m.163.com/news/article/KU5TIEDA0514R9OJ.html)
+[列车因受电弓遭异物击打被困隧道内超2小时 乘客发声](https://m.163.com/news/article/KU6996L4053469LG.html)
 
 ---end---
