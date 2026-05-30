@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-05-30 09:27:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-05-30 13:28:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市人力资源开发服务中心2026年公开招聘非在编工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2923833)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆江北国际机场T3B消防维保岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2924108)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["最年轻的航天员"出舱 面带微笑称回到祖国特别踏实](https://m.163.com/news/article/KU4KI8L2053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[武汉2万余只鸭子洪水中集体“出逃” 长江巡护员发声](https://m.163.com/news/article/KU4JCLCK053469LG.html)
+[轿车追尾货车致3死：司机激活智驾并双手脱离方向盘](https://m.163.com/news/article/KU60AD4005129QAF.html)
 
-[疑第三方帮拉客宣传"存1万返100还报销路费" 银行回应](https://m.163.com/news/article/KU4CU55P051492T3.html)
+[广告灯箱"公益黑灯、商业通明" 郑州地铁方回应](https://m.163.com/news/article/KU5RMO2R05561G0D.html)
+
+[6月1日起，我国将全面进入汛期](https://m.163.com/news/article/KU601S1I0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[幼师疑用热熔枪烫小女孩嘴唇 连烫娃2次后还推搡捶打](https://m.163.com/news/article/KU4DPH150514BE2Q.html)
+[湖南严厉打击烟花爆竹非法生产 举报查实最高奖30万元](https://m.163.com/news/article/KU5TIEDA0514R9OJ.html)
 
 ---end---
