@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-01 07:45:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-01 12:10:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中国华电集团有限公司重庆分公司2026年校园招聘公告(第三批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2924807)
+[重庆市两江新区莺花巷幼儿园公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2925686)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
