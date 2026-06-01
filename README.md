@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-01 23:42:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-02 04:04:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [派往某国有物业公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2927148)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[00后班主任首届学生要高考了：只大8岁 班级成绩第一](https://m.163.com/news/article/KUB8BJR105561G0D.html)
+[稻城亚丁"省道"设卡"38公里收费120元" 车票年入超1亿](https://m.163.com/news/article/KUC5PBRG0514BE2Q.html)
 
-[山西矿难致82死 实控人花几个亿修庙行善对矿工苛刻](https://m.163.com/news/article/KU97EP840534A4SC.html)
+[浙江一600年古树迁移后死亡 镇领导被指给60万封口费](https://m.163.com/news/article/KUBSCKI20001899O.html)
 
-[媒体:郑丽文今日展开为期两周访美行 重头戏在华盛顿](https://m.163.com/news/article/KUAP6PRC055080L4.html)
+[37岁"中登"遭遇"崩老头":200元换来女孩5张自拍2条语音](https://m.163.com/news/article/KUBQLL9S0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[赖清德偷渡窜访非洲国家代价高达250亿 或"全归王室"](https://m.163.com/news/article/KUAN8MBB0514R9OJ.html)
+[19岁医学生从实习单位5楼厕所窗户坠亡 家属索赔145万](https://m.163.com/news/article/KUBPHEVH05561G0D.html)
 
 ---end---
