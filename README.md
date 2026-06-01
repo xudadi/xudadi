@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-01 17:35:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-01 23:42:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区莺花巷幼儿园公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2925686)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某国有物业公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2927148)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["南天门计划"最新进展披露 多款空天装备细节公开](https://m.163.com/news/article/KU8O3RA1053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[煤矿投产后村社14户房屋开裂：墙体裂缝可放成人拳头](https://m.163.com/news/article/KU8L5R6N053469LG.html)
+[00后班主任首届学生要高考了：只大8岁 班级成绩第一](https://m.163.com/news/article/KUB8BJR105561G0D.html)
 
-[社区干部巡查时多看一眼发现裂缝正在扩大 救下128人](https://m.163.com/news/article/KU89LVL50550B6IS.html)
+[山西矿难致82死 实控人花几个亿修庙行善对矿工苛刻](https://m.163.com/news/article/KU97EP840534A4SC.html)
+
+[媒体:郑丽文今日展开为期两周访美行 重头戏在华盛顿](https://m.163.com/news/article/KUAP6PRC055080L4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[胡小刚在官渡镇督导调度事故善后工作](https://m.163.com/news/article/KU8O44CE0001899O.html)
+[赖清德偷渡窜访非洲国家代价高达250亿 或"全归王室"](https://m.163.com/news/article/KUAN8MBB0514R9OJ.html)
 
 ---end---
