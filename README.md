@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-02 17:06:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-02 20:51:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[开放星湖 | 星湖纳新・诚聘英才——重庆两江新区星湖学校在编教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2928547)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[梁平区中医院视频号运营工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2929137)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[稻城亚丁"省道"设卡"38公里收费120元" 车票年入超1亿](https://m.163.com/news/article/KUC5PBRG0514BE2Q.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[浙江一600年古树迁移后死亡 镇领导被指给60万封口费](https://m.163.com/news/article/KUBSCKI20001899O.html)
+[男子称用国补买手机后被以地址问题劝退 抖音客服回应](https://m.163.com/news/article/KUEGBOIL0514R9P4.html)
 
-[37岁"中登"遭遇"崩老头":200元换来女孩5张自拍2条语音](https://m.163.com/news/article/KUBQLL9S0550B6IS.html)
+[18岁女生离家后失联 广西河池警方：已找到遗体](https://m.163.com/news/article/KUEERM7J0534A4SC.html)
+
+[商标被宣告无效 "壹号土猪"创始人：已向法院提起诉讼](https://m.163.com/news/article/KUEBR6VM05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[19岁医学生从实习单位5楼厕所窗户坠亡 家属索赔145万](https://m.163.com/news/article/KUBPHEVH05561G0D.html)
+[幼儿园开放监控：有家长半小时看十几次 老师不敢皱眉](https://m.163.com/news/article/KUBBBBQA0530WJIN.html)
 
 ---end---
