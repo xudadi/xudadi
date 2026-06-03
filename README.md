@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-03 18:19:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-03 23:15:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市畜牧科学院家禽研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2930955)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆贝思特人力资源开发有限公司公开招聘派往重庆市公安局巴南区分局辅警岗位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2932274)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[准新小区数百户业主自筹1750万改造外立面 系杭州首例](https://m.163.com/news/article/KUC2B2V0051492LM.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山西长治市沁源县委书记赵永进接受审查调查](https://m.163.com/news/article/KUESAC580001899O.html)
+[神农架一景区被指"圈路收费" 涉事公司最新公告](https://m.163.com/news/article/KUH12ARQ051492T3.html)
 
-[男子自驾青海已失联9个月 车辆被找到时车内财物完好](https://m.163.com/news/article/KUEFM7OD051492T3.html)
+[抗癌博主获张雪邀请将出国观赛：拒绝带家人同行建议](https://m.163.com/news/article/KUGU7HOL0534P59R.html)
+
+[31条中日航线5月取消全部航班](https://m.163.com/news/article/KUGS9L4P0519DDQ2.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小区6户业主家玻璃窗被弹珠击穿 警方正排查可疑人员](https://m.163.com/news/article/KUERLMA80514D3UH.html)
+[浙江杨梅即将大规模上市 多地给杨梅投放保险](https://m.163.com/news/article/KUE14KNA0519DDQ2.html)
 
 ---end---
