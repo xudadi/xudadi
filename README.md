@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-03 23:15:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-04 03:00:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆贝思特人力资源开发有限公司公开招聘派往重庆市公安局巴南区分局辅警岗位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2932274)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[神农架一景区被指"圈路收费" 涉事公司最新公告](https://m.163.com/news/article/KUH12ARQ051492T3.html)
+[航铁集团回应"退役波音飞机壳特价售卖":可拆解包运输](https://m.163.com/news/article/KUHJ3FCQ0514D3UH.html)
 
-[抗癌博主获张雪邀请将出国观赛：拒绝带家人同行建议](https://m.163.com/news/article/KUGU7HOL0534P59R.html)
+[汤普森护肝片被海关质疑"含量虚标" 公司仍未正面回应](https://m.163.com/news/article/KUHHVUN10514D3UH.html)
 
-[31条中日航线5月取消全部航班](https://m.163.com/news/article/KUGS9L4P0519DDQ2.html)
+[车市冰火两重天：部分燃油车半价也难卖](https://m.163.com/news/article/KUHGG1UM055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[浙江杨梅即将大规模上市 多地给杨梅投放保险](https://m.163.com/news/article/KUE14KNA0519DDQ2.html)
+[A股登上新闻联播：长线外资看好中国 持续加码硬科技](https://m.163.com/news/article/KUHEA02T053469RG.html)
 
 ---end---
