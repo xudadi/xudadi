@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-04 16:59:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-04 20:09:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市渝中职业教育中心综合高中2026年教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2933140)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[北碚区2026年公开遴选教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2934366)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[航铁集团回应"退役波音飞机壳特价售卖":可拆解包运输](https://m.163.com/news/article/KUHJ3FCQ0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[汤普森护肝片被海关质疑"含量虚标" 公司仍未正面回应](https://m.163.com/news/article/KUHHVUN10514D3UH.html)
+[通信基站遭附近小区居民投诉面临被拆 官方：将不拆除](https://m.163.com/news/article/KUJKKTIR0512D3VJ.html)
 
-[车市冰火两重天：部分燃油车半价也难卖](https://m.163.com/news/article/KUHGG1UM055040N3.html)
+[女子花27万买的车4年后突然被扣押 交管部门:是"假车"](https://m.163.com/news/article/KUJGHA070550B6IS.html)
+
+[因论文致谢刷屏 凉山学子苏正民考上选调生将回乡工作](https://m.163.com/news/article/KUJB1EHP051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[A股登上新闻联播：长线外资看好中国 持续加码硬科技](https://m.163.com/news/article/KUHEA02T053469RG.html)
+[线下一家门店员工教唆顾客偷开无证车 张雪：立即关店](https://m.163.com/news/article/KUJF2MAK055040N3.html)
 
 ---end---
