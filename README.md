@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-04 08:00:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-04 13:04:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆贝思特人力资源开发有限公司公开招聘派往重庆市公安局巴南区分局辅警岗位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2932274)
+[重庆市渝中职业教育中心综合高中2026年教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2933140)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
