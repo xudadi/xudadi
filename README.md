@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-05 02:00:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-05 04:24:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[北碚区2026年公开遴选教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2934366)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[2026年重庆市投资咨询有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2934091)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[通信基站遭附近小区居民投诉面临被拆 官方：将不拆除](https://m.163.com/news/article/KUJKKTIR0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子花27万买的车4年后突然被扣押 交管部门:是"假车"](https://m.163.com/news/article/KUJGHA070550B6IS.html)
+[少年改装电动车后飙车身亡 家属向改装店等索赔110万](https://m.163.com/news/article/KUJVEN9U0550B6IS.html)
 
-[因论文致谢刷屏 凉山学子苏正民考上选调生将回乡工作](https://m.163.com/news/article/KUJB1EHP051492T3.html)
+[农户38.93亩确权耕地8年未获惠农补贴 多方回应](https://m.163.com/news/article/KUJOK68605561G0D.html)
+
+[媒体：面对日菲越线挑衅 民进党当局先叫好后又"改口"](https://m.163.com/news/article/KUK0BGIQ0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[线下一家门店员工教唆顾客偷开无证车 张雪：立即关店](https://m.163.com/news/article/KUJF2MAK055040N3.html)
+[3岁宝宝不知妈妈去世每天要出去找 爸爸发声](https://m.163.com/news/article/KUJMOO9P0534P59R.html)
 
 ---end---
