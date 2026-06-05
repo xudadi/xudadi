@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-05 09:53:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-05 14:23:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2026年重庆市投资咨询有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2934091)
+[重庆市大足区国衡商贸有限责任公司派往某机关工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2935387)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
