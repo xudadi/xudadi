@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-05 21:42:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-06 00:17:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市南开中学校教育发展共同体招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2936690)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆国际投资咨询集团有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2937049)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国内航线燃油附加费，今起下调！](https://m.163.com/news/article/KULSMQ0G0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[52岁女教师称被要求提前退休 与学校谈僵后打官司败诉](https://m.163.com/news/article/KUL6NV1505561G0D.html)
+[理想发L9与蔚来ES9对比视频后下架 双方高管隔空回应](https://m.163.com/news/article/KUMLIT2E0534A4SC.html)
 
-[双汇子公司猪肉抗生素超标 国务院食安办调查](https://m.163.com/news/article/KUM17VP30001899O.html)
+[儿子训斥"碰瓷"货车的患癌母亲引热议 六旬老人已去世](https://m.163.com/news/article/KUMKSSPE051492T3.html)
+
+[误把"蒙汗药"植物当菠菜吃 一家三口食用后昏迷险丧命](https://m.163.com/news/article/KUMLI8DC05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中学生篡改同学志愿致其错失心仪公立学校 法院判了](https://m.163.com/news/article/KUM0M17N05561G0D.html)
+[写小说、"设计"肥料 高校迎来不交论文拿学位的毕业生](https://m.163.com/news/article/KUMKSSPH051492T3.html)
 
 ---end---
