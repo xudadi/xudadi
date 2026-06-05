@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-05 14:23:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-05 18:31:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市大足区国衡商贸有限责任公司派往某机关工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2935387)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市南开中学校教育发展共同体招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2936690)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[少年改装电动车后飙车身亡 家属向改装店等索赔110万](https://m.163.com/news/article/KUJVEN9U0550B6IS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[农户38.93亩确权耕地8年未获惠农补贴 多方回应](https://m.163.com/news/article/KUJOK68605561G0D.html)
+[国内航线燃油附加费，今起下调！](https://m.163.com/news/article/KULSMQ0G0514R9OJ.html)
 
-[媒体：面对日菲越线挑衅 民进党当局先叫好后又"改口"](https://m.163.com/news/article/KUK0BGIQ0514R9OJ.html)
+[52岁女教师称被要求提前退休 与学校谈僵后打官司败诉](https://m.163.com/news/article/KUL6NV1505561G0D.html)
+
+[双汇子公司猪肉抗生素超标 国务院食安办调查](https://m.163.com/news/article/KUM17VP30001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[3岁宝宝不知妈妈去世每天要出去找 爸爸发声](https://m.163.com/news/article/KUJMOO9P0534P59R.html)
+[中学生篡改同学志愿致其错失心仪公立学校 法院判了](https://m.163.com/news/article/KUM0M17N05561G0D.html)
 
 ---end---
