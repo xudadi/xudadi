@@ -13,7 +13,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-06 16:07:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-06 18:21:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国际投资咨询集团有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2937049)
 
@@ -25,14 +25,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[醉酒男骑摩托被电缆绊倒坠沟死亡 4家公司被判赔97万](https://m.163.com/news/article/KUMCBBJG051492T3.html)
+[女子称熟睡中银行卡被转走52万元 后又退回10万元](https://m.163.com/news/article/KUMSP27300019K82.html)
 
-[理想发L9与蔚来ES9对比视频后下架 双方高管隔空回应](https://m.163.com/news/article/KUMLIT2E0534A4SC.html)
+[男子当街杀人被改判死缓 曾在法庭上称"出来还要杀人"](https://m.163.com/news/article/KUOBC4MF051492T3.html)
 
-[儿子训斥"碰瓷"货车的患癌母亲引热议 六旬老人已去世](https://m.163.com/news/article/KUMKSSPE051492T3.html)
+[35岁男子遭妻子家暴后坠亡 妻子多次言语刺激：你跳啊](https://m.163.com/news/article/KUOA6CSA051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[误把"蒙汗药"植物当菠菜吃 一家三口食用后昏迷险丧命](https://m.163.com/news/article/KUMLI8DC05561G0D.html)
+[游客在海上漂流7天6夜获救 救人渔民承认在禁渔期出海](https://m.163.com/news/article/KUMJ2AHD0550A0OW.html)
 
 ---end---
