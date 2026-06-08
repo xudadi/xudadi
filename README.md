@@ -13,9 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-08 10:03:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-08 15:03:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆国际投资咨询集团有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2937049)
+[重庆三峡医药高等专科学校2026年非事业编博士人才招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2938866)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
