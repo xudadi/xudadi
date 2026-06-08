@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-08 15:03:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-08 20:08:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆三峡医药高等专科学校2026年非事业编博士人才招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2938866)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆低空经济产业发展有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2940683)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子称熟睡中银行卡被转走52万元 后又退回10万元](https://m.163.com/news/article/KUMSP27300019K82.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子当街杀人被改判死缓 曾在法庭上称"出来还要杀人"](https://m.163.com/news/article/KUOBC4MF051492T3.html)
+[重庆女子向精神医生诉苦 2次"被精神病"收治累计161天](https://m.163.com/news/article/KUTJKIHD05561G0D.html)
 
-[35岁男子遭妻子家暴后坠亡 妻子多次言语刺激：你跳啊](https://m.163.com/news/article/KUOA6CSA051492T3.html)
+[在酒店待4天奖35万汽车 男子花1万参加不到2小时失败](https://m.163.com/news/article/KUTAPFQG0001899O.html)
+
+[网约车司机听到"吱"声回头崩溃:乘客把裤子全脱了小便](https://m.163.com/news/article/KUT0P23K0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[游客在海上漂流7天6夜获救 救人渔民承认在禁渔期出海](https://m.163.com/news/article/KUMJ2AHD0550A0OW.html)
+[67岁农妇怒砍网红"孤独树" 家人警告：省上都知道了](https://m.163.com/news/article/KUSU9E280512D3VJ.html)
 
 ---end---
