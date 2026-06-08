@@ -13,26 +13,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-08 20:08:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-09 00:20:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆低空经济产业发展有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2940683)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆两江新区云锦小学校附属园公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2941153)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[胜宏科技董事长陷"电梯门" 其夫妇身家一年暴涨560亿](https://m.163.com/news/article/KUU0M6AA051492T3.html)
+
+[干部收商人好处承诺的上千万元项目却黄了 当事人发声](https://m.163.com/news/article/KUTQSQQA05561G0D.html)
 
 [重庆女子向精神医生诉苦 2次"被精神病"收治累计161天](https://m.163.com/news/article/KUTJKIHD05561G0D.html)
 
-[在酒店待4天奖35万汽车 男子花1万参加不到2小时失败](https://m.163.com/news/article/KUTAPFQG0001899O.html)
-
-[网约车司机听到"吱"声回头崩溃:乘客把裤子全脱了小便](https://m.163.com/news/article/KUT0P23K0001899O.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[67岁农妇怒砍网红"孤独树" 家人警告：省上都知道了](https://m.163.com/news/article/KUSU9E280512D3VJ.html)
+[在酒店待4天奖35万汽车 男子花1万参加不到2小时失败](https://m.163.com/news/article/KUTAPFQG0001899O.html)
 
 ---end---
