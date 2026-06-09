@@ -13,11 +13,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-09 08:06:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-09 12:34:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江新区云锦小学校附属园公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2941153)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆飞驶特人力资源管理有限公司派往某国企招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2941752)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -25,14 +23,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[胜宏科技董事长陷"电梯门" 其夫妇身家一年暴涨560亿](https://m.163.com/news/article/KUU0M6AA051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[干部收商人好处承诺的上千万元项目却黄了 当事人发声](https://m.163.com/news/article/KUTQSQQA05561G0D.html)
+[4所公办幼儿园招生要家长提供工资流水 云南祥云回应](https://m.163.com/news/article/KUVNCQ2H0514R9P4.html)
 
-[重庆女子向精神医生诉苦 2次"被精神病"收治累计161天](https://m.163.com/news/article/KUTJKIHD05561G0D.html)
+[大搞权钱交易，西安市人大常委会原主任韩松涉受贿罪被公诉](https://m.163.com/news/article/KUVN5APM0534A4SC.html)
+
+[运营商被指针对老用户"杀熟"：有更优惠套餐却用不了](https://m.163.com/news/article/KUVD37TU0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[在酒店待4天奖35万汽车 男子花1万参加不到2小时失败](https://m.163.com/news/article/KUTAPFQG0001899O.html)
+[曾导致3人失明 膳魔师在中美召回近千万件保温食物罐](https://m.163.com/news/article/KUVHI20A0519C6T9.html)
 
 ---end---
