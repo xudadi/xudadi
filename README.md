@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-10 08:14:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-10 12:51:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[四川外国语大学2026年上半年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2943489)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆五一职业技术学院2026年第二季度劳动合同制工作人员(智慧康养学院专业教师)招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2944147)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[黄百鸣内幕交易罪成立 被判监禁5个月](https://m.163.com/news/article/KV03AUEL0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中触媒创始人刘颐静逝世 市值近5亿股份或由其女继承](https://m.163.com/news/article/KUUGKPK70512B07B.html)
+[2026年5月份居民消费价格同比上涨1.2%](https://m.163.com/news/article/KV26TFAP000189PS.html)
 
-[河南安阳为《奔跑吧》节目组录制支付80万？官方辟谣](https://m.163.com/news/article/KV03LNJP0001899O.html)
+[农妇因麦田多次遭游客踩踏怒砍网红树 村委会：不追责](https://m.163.com/news/article/KV12DECS05129QAF.html)
+
+[小伙退役复学后变成"宗门独苗"：一人成一班 无法逃课](https://m.163.com/news/article/KV0M3EVM0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[媒体：新能源车越来越重、越来越"胖" 正制造三重风险](https://m.163.com/news/article/KUVQ0K4M0512DU6N.html)
+[现货黄金失守4200美元 创近3个月新低](https://m.163.com/news/article/KV249BOB05198CJN.html)
 
 ---end---
