@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-11 22:54:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-12 02:13:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市沙坪坝区某大型教学三甲医院招聘人力资源薪酬岗人员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2947668)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子被前东家竞业索赔180多万：至少是之前年薪的3倍](https://m.163.com/news/article/KV5IR80S0514BE2Q.html)
+[21车冻货均"偏航"河南泌阳被查扣 涉事公职人员被立案](https://m.163.com/news/article/KV63OLGF0514D3UH.html)
 
-[携程、美团等7家涉火车票销售第三方平台被约谈](https://m.163.com/news/article/KV5J0B26000189PS.html)
+[男子不同意离婚杀害妻子 庭上辩称"是被病魔捆绑的人"](https://m.163.com/news/article/KV6440AI051492T3.html)
 
-[二手大额存单爆火：有人日夜蹲守 黄牛代抢一次上百元](https://m.163.com/news/article/KV5F8QG805199NPP.html)
+[鸡蛋涨价潮下山姆、盒马部分产品限购 客服回应](https://m.163.com/news/article/KV64MCCA0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子白天扫码下载APP领卷纸 半夜账户里2万多存款消失](https://m.163.com/news/article/KV5824V20550B6IS.html)
+[同济大学今年本科扩招100人 新增"未来机器人"等专业](https://m.163.com/news/article/KV647V2H0514R9P4.html)
 
 ---end---
