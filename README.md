@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-11 09:39:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-11 14:25:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘派往至某国企物业商务（市场）专员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2945947)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[西政幼儿园招聘优秀教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2946729)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["鹅腿阿姨"承认材料是鸭腿 丈夫回应：16元买不到鹅腿](https://m.163.com/news/article/KV31D23M0550B6IS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[10次申诉9次失败 山东有商家半数订单遭"用完就退"](https://m.163.com/news/article/KV09UH9T0530WJIN.html)
+[17岁男孩两次被校友殴打受伤 对方家长：小孩打架正常](https://m.163.com/news/article/KV4HN58505345ARG.html)
 
-[16岁女孩前往医院堕胎 医护人员怀疑其遭性侵强制报告](https://m.163.com/news/article/KV2H4O8O05345ARG.html)
+[女子不满退租被索赔近万元 房东：她养了三四十只猫](https://m.163.com/news/article/KV4JO4C5053469LG.html)
+
+[女子每月花3000雇佣夫妻看管祖宅 对方霸占：干嘛要走](https://m.163.com/news/article/KV3I68K70514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[霍尊前女友陈露发无犯罪证明：忍了几年 只为一个清白](https://m.163.com/news/article/KV2LNGUK0550B6IS.html)
+[49岁厨师在货船上离奇失踪多日 公司：第一次遇到](https://m.163.com/news/article/KV39E10P05561G0D.html)
 
 ---end---
