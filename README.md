@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-11 14:25:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-11 19:09:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西政幼儿园招聘优秀教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2946729)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区某大型教学三甲医院招聘人力资源薪酬岗人员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2947668)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[17岁男孩两次被校友殴打受伤 对方家长：小孩打架正常](https://m.163.com/news/article/KV4HN58505345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子不满退租被索赔近万元 房东：她养了三四十只猫](https://m.163.com/news/article/KV4JO4C5053469LG.html)
+[男子被前东家竞业索赔180多万：至少是之前年薪的3倍](https://m.163.com/news/article/KV5IR80S0514BE2Q.html)
 
-[女子每月花3000雇佣夫妻看管祖宅 对方霸占：干嘛要走](https://m.163.com/news/article/KV3I68K70514R9OJ.html)
+[携程、美团等7家涉火车票销售第三方平台被约谈](https://m.163.com/news/article/KV5J0B26000189PS.html)
+
+[二手大额存单爆火：有人日夜蹲守 黄牛代抢一次上百元](https://m.163.com/news/article/KV5F8QG805199NPP.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[49岁厨师在货船上离奇失踪多日 公司：第一次遇到](https://m.163.com/news/article/KV39E10P05561G0D.html)
+[女子白天扫码下载APP领卷纸 半夜账户里2万多存款消失](https://m.163.com/news/article/KV5824V20550B6IS.html)
 
 ---end---
