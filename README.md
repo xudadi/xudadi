@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-12 17:12:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-12 20:31:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[​2026重庆低空经济产业发展有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2948930)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆渝富控股集团有限公司所属企业数字化管理岗招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2950308)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[被质疑"车企不好好造车 不务正业" 李想回应](https://m.163.com/news/article/KV790MQT0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[金价持续下跌女子连买1个月均抄底失败：已经看不懂了](https://m.163.com/news/article/KV70Q8GD055040N3.html)
+[武汉一村庄62人患癌症 官方：与化工厂排污无因果关系](https://m.163.com/news/article/KV876N3H0534A4SC.html)
 
-[多人称帮朋友挂名买宝马奥迪背贷近千万 结果对方失联](https://m.163.com/news/article/KV5R9L9905561G0D.html)
+[男子造谣女生因高考迟到跳河 四川乐山警方：行政处罚](https://m.163.com/news/article/KV827QLS0514R9OJ.html)
+
+[国内最大黄金盗窃案告破：价值2700万 两主犯身份披露](https://m.163.com/news/article/KV7RLS40053469KC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[21车冻货均"偏航"河南泌阳被查扣 涉事公职人员被立案](https://m.163.com/news/article/KV63OLGF0514D3UH.html)
+[7万字离职长文引发钉钉管理层地震 作者再发长文](https://m.163.com/news/article/KV7JDK140534A4SC.html)
 
 ---end---
