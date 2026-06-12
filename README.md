@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-12 20:31:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-12 23:55:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆渝富控股集团有限公司所属企业数字化管理岗招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2950308)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市飞驶特人力资源管理有限公司招聘派遣制人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2950829)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[武汉一村庄62人患癌症 官方：与化工厂排污无因果关系](https://m.163.com/news/article/KV876N3H0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子造谣女生因高考迟到跳河 四川乐山警方：行政处罚](https://m.163.com/news/article/KV827QLS0514R9OJ.html)
+[居民存款连续两个月减少 合计缩水超2万亿元](https://m.163.com/news/article/KV8HMGT605129QAF.html)
 
-[国内最大黄金盗窃案告破：价值2700万 两主犯身份披露](https://m.163.com/news/article/KV7RLS40053469KC.html)
+[32万奥迪纯电SUV刚提车故障频发 车主7个月报修10次](https://m.163.com/news/article/KV8DMKA40512DU6N.html)
+
+[男子毕业16年后学位证"无法认证" 高校最新通报](https://m.163.com/news/article/KV8HBMOE0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[7万字离职长文引发钉钉管理层地震 作者再发长文](https://m.163.com/news/article/KV7JDK140534A4SC.html)
+[女子包"急救车"转运病重家人60公里花5300元 多方回应](https://m.163.com/news/article/KV8GAO7T00019K82.html)
 
 ---end---
