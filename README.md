@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-13 15:48:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-13 18:29:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区金石小学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2951264)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市两江新区礼嘉实验礼智学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2951815)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[居民存款连续两个月减少 合计缩水超2万亿元](https://m.163.com/news/article/KV8HMGT605129QAF.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[32万奥迪纯电SUV刚提车故障频发 车主7个月报修10次](https://m.163.com/news/article/KV8DMKA40512DU6N.html)
+[南博会商品现涉黄二维码 网友称扫码会跳转至色情网站](https://m.163.com/news/article/KVAHQ06Q0514R9P4.html)
 
-[男子毕业16年后学位证"无法认证" 高校最新通报](https://m.163.com/news/article/KV8HBMOE0534A4SC.html)
+[丈夫收女徒弟 妻子觉得不对:女方穿睡衣视频还一起出游](https://m.163.com/news/article/KV9QC10S0001899O.html)
+
+[石家庄突降暴雨天空一秒变黑 碗口粗行道树被连根拔起](https://m.163.com/news/article/KVAFOAI4053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子包"急救车"转运病重家人60公里花5300元 多方回应](https://m.163.com/news/article/KV8GAO7T00019K82.html)
+[入学前查出肺癌晚期的湖南姑娘毕业了 发言感动全网](https://m.163.com/news/article/KV9OK0V20534P59R.html)
 
 ---end---
