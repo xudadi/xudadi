@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-13 07:50:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-13 11:52:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市飞驶特人力资源管理有限公司招聘派遣制人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2950829)
+[重庆市两江新区金石小学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2951264)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
