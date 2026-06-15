@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-15 18:43:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-16 00:09:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆南开两江中学全球教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2952999)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学《JournalofEnergyInfrastructure》期刊劳务派遣期刊编辑招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2954706)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女生查出肺癌晚期 24次放化疗1次开颅后准备回乡创业](https://m.163.com/news/article/KVD4PSOC0550B6IS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男友花94500元买"全国仅两只"LV鸵鸟皮包 女友发现问题](https://m.163.com/news/article/KVCO4OPF0001899O.html)
+[被"遇见小面"起诉的商家:被索要数万赔偿 经调解付8千](https://m.163.com/news/article/KVFK66160534P59R.html)
 
-[陕西桥梁垮塌致25辆车坠河62人死亡失踪 官方公布细节](https://m.163.com/news/article/KVCGSHKO053469LG.html)
+[21车冻货均"偏航"河南泌阳被查扣 官方通报](https://m.163.com/news/article/KVFSDP4A0534A4SC.html)
+
+[中国最大安全套品牌要被卖 避孕套市场规模4年缩水25%](https://m.163.com/news/article/KVFNPA1E0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[2元"特供酒"卖599一箱 主播：做酒的是北京大院的哥哥](https://m.163.com/news/article/KVD3NVF60514R9OJ.html)
+[男主播江边唱歌严重跑调有人报警 市民:太难听 像鬼叫](https://m.163.com/news/article/KVFRT8HR05561G0D.html)
 
 ---end---
