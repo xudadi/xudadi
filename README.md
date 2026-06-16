@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-16 23:33:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-17 03:22:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆科技大学机械与智能制造学院关于面向院内选聘产学研合作办公室副主任的通知 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2957537)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[西湖边树上出现一排排"显眼包" 每包里有超3000只小虫](https://m.163.com/news/article/KVIJCFI90514R9OJ.html)
+[保底价1200万的画作参加拍卖 画主被安排举牌5折拍下](https://m.163.com/news/article/KVIHV0KV0514D3UH.html)
 
-["她冲进我家杀我女儿" 紫雅妈妈举着女儿照片一度哭晕](https://m.163.com/news/article/KVIF1R4K053469LG.html)
+[上海爷叔打开知名品牌牛奶惊呆 液体呈淡黄色有酸臭味](https://m.163.com/news/article/KVILRLD50001899O.html)
 
-[酒店4000元一桌婚宴带冰碴还提前驱赶宾客 新郎回应](https://m.163.com/news/article/KVI9LTTL05567I2C.html)
+[100万存一年 利息只有9500元了](https://m.163.com/news/article/KVIEDKRR051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[残障老人被水泥店老板奴役20年 亲哥哥最新发声](https://m.163.com/news/article/KVI7ASP20514BE2Q.html)
+[男子偷电缆时撞上民警 慌忙躲进草丛被蚊子咬崩溃窜出](https://m.163.com/news/article/KVIKEAPL05561G0D.html)
 
 ---end---
