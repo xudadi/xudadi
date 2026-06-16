@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-16 18:31:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-16 23:33:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[遵义市人民政府驻重庆(成都)办事处2026年面向社会公开招聘编外人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2955978)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆科技大学机械与智能制造学院关于面向院内选聘产学研合作办公室副主任的通知 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2957537)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[匹克被指拖欠赞助费及员工薪资 董事长许景南回应](https://m.163.com/news/article/KVHLJTD50534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[红旗-16F首次实弹打靶 现场画面公开](https://m.163.com/news/article/KVHL0EFA0514R9OJ.html)
+[西湖边树上出现一排排"显眼包" 每包里有超3000只小虫](https://m.163.com/news/article/KVIJCFI90514R9OJ.html)
 
-[媒体：燃油车大幅降价失效 销量已连续2个月暴跌近40%](https://m.163.com/news/article/KVG7BUGS05199DKK.html)
+["她冲进我家杀我女儿" 紫雅妈妈举着女儿照片一度哭晕](https://m.163.com/news/article/KVIF1R4K053469LG.html)
+
+[酒店4000元一桌婚宴带冰碴还提前驱赶宾客 新郎回应](https://m.163.com/news/article/KVI9LTTL05567I2C.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[东莞一"渝见小面"也被"遇见小面"起诉 门店已注销数月](https://m.163.com/news/article/KVHI021U0550EWRZ.html)
+[残障老人被水泥店老板奴役20年 亲哥哥最新发声](https://m.163.com/news/article/KVI7ASP20514BE2Q.html)
 
 ---end---
