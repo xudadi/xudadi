@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-17 10:06:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-17 15:27:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆科技大学机械与智能制造学院关于面向院内选聘产学研合作办公室副主任的通知 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2957537)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某国企外包员工招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2958874)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[保底价1200万的画作参加拍卖 画主被安排举牌5折拍下](https://m.163.com/news/article/KVIHV0KV0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海爷叔打开知名品牌牛奶惊呆 液体呈淡黄色有酸臭味](https://m.163.com/news/article/KVILRLD50001899O.html)
+[一家四口进野山迷路极限求生：自带饮用水1天就喝完了](https://m.163.com/news/article/KVITGMUE0512D3VJ.html)
 
-[100万存一年 利息只有9500元了](https://m.163.com/news/article/KVIEDKRR051492LM.html)
+[出生时确诊脑瘫被断言终身受限 27岁男子拿到硕士学位](https://m.163.com/news/article/KVK98S6B053469LG.html)
+
+[全国铁路7月1日起实行新的列车运行图](https://m.163.com/news/article/KVK6DCM30512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子偷电缆时撞上民警 慌忙躲进草丛被蚊子咬崩溃窜出](https://m.163.com/news/article/KVIKEAPL05561G0D.html)
+[汕头大学辟谣"李嘉诚不投资了"：实际投入不减反增](https://m.163.com/news/article/KVHVHA210534AAOK.html)
 
 ---end---
