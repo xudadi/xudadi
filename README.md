@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-17 20:05:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-18 00:04:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学钢结构工程研究中心风电团队劳务派遣科研秘书招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2960296)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某国企招聘产品经理、市场拓展及前端开发(外包)员工简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2960407)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[学校以"真情回馈母校"名义让毕业生交3元钱 校方回应](https://m.163.com/news/article/KVL0JTKT05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广西一家3口中毒死亡 妻子洗澡时紧闭门窗通风不畅](https://m.163.com/news/article/KVKT4H3L05561G0D.html)
+[大衣哥朱之文现身洛阳老君山：穿铠甲打卡“南天门”](https://m.163.com/news/article/KVLCCOHU053469LG.html)
 
-[众泰、猎豹等8家车企 整车生产资质被冻结并永久失效](https://m.163.com/news/article/KVKUORB305561G0D.html)
+[49岁女士坠入电梯井身亡 家属质疑保安违规打开电梯门](https://m.163.com/news/article/KVLCB6R3051492T3.html)
+
+[记者15元买数百万Token 仅仅一句“你好”就烧掉5万](https://m.163.com/news/article/KVL6V4790512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女生回家用爸妈公积金买房:不想到39岁才攒够上海首付](https://m.163.com/news/article/KVKP33U60519APGA.html)
+[官方：外卖平台不得强制经营者参加补贴](https://m.163.com/news/article/KVL1I22A0001899O.html)
 
 ---end---
