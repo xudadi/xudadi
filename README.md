@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-18 20:53:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-19 00:32:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆机电控股集团机电工程技术有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963148)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆通用工业(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963282)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女孩被父母花50万送非洲"邪教组织"上课 当事人发声](https://m.163.com/news/article/KVNE5UT7051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国主裁时隔24年再登世界杯 马宁40岁后红肉一口不碰](https://m.163.com/news/article/KVNKINB1055040N3.html)
+[上海一楼房加装电梯8年没进展 阿婆含泪:实在走不动了](https://m.163.com/news/article/KVNVHTH30514EGPO.html)
 
-[男子深夜拉车门盗走5万元 作案前后向AI"求教":判多久](https://m.163.com/news/article/KVNJ8NK0055040N3.html)
+[查封的"全季酒店"改成"金季酒店" 罚款30万也拒不停业](https://m.163.com/news/article/KVO0JK7B05561G0D.html)
+
+[浙江一官方单身交友活动"翻车" 男女失衡相亲似流水席](https://m.163.com/news/article/KVO0IGO7053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[宝马下调2026年业绩预期 将停产现有国产纯电车型](https://m.163.com/news/article/KVNIDBG1051492T3.html)
+[男子连续140天高强度工作后猝死 公司：周末不算工伤](https://m.163.com/news/article/KVNPEUUI05561G0D.html)
 
 ---end---
