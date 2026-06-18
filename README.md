@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-18 08:16:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-18 13:17:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某国企招聘产品经理、市场拓展及前端开发(外包)员工简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2960407)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学附属第三医人事招聘医院食堂管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2961263)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[大衣哥朱之文现身洛阳老君山：穿铠甲打卡“南天门”](https://m.163.com/news/article/KVLCCOHU053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[49岁女士坠入电梯井身亡 家属质疑保安违规打开电梯门](https://m.163.com/news/article/KVLCB6R3051492T3.html)
+[女儿因病去世 72岁老人选到女婿隔壁的公租房开心落泪](https://m.163.com/news/article/KVMT75NR05561G0D.html)
 
-[记者15元买数百万Token 仅仅一句“你好”就烧掉5万](https://m.163.com/news/article/KVL6V4790512B07B.html)
+[股价异常波动案例扎堆 超70家A股公司提示风险](https://m.163.com/news/article/KVMGFNBF0514R9P4.html)
+
+[向佐回应被父亲前妻丁佩带过2年 承认穿女装为了流量](https://m.163.com/news/article/KVLCT6U0053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方：外卖平台不得强制经营者参加补贴](https://m.163.com/news/article/KVL1I22A0001899O.html)
+[大衣哥朱之文现身洛阳老君山：穿铠甲打卡“南天门”](https://m.163.com/news/article/KVLCCOHU053469LG.html)
 
 ---end---
