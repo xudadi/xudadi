@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-18 17:53:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-18 20:53:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆医科大学附属第三医人事招聘医院食堂管理人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2961263)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆机电控股集团机电工程技术有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963148)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女儿因病去世 72岁老人选到女婿隔壁的公租房开心落泪](https://m.163.com/news/article/KVMT75NR05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[股价异常波动案例扎堆 超70家A股公司提示风险](https://m.163.com/news/article/KVMGFNBF0514R9P4.html)
+[女孩被父母花50万送非洲"邪教组织"上课 当事人发声](https://m.163.com/news/article/KVNE5UT7051492T3.html)
 
-[向佐回应被父亲前妻丁佩带过2年 承认穿女装为了流量](https://m.163.com/news/article/KVLCT6U0053469LG.html)
+[中国主裁时隔24年再登世界杯 马宁40岁后红肉一口不碰](https://m.163.com/news/article/KVNKINB1055040N3.html)
+
+[男子深夜拉车门盗走5万元 作案前后向AI"求教":判多久](https://m.163.com/news/article/KVNJ8NK0055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大衣哥朱之文现身洛阳老君山：穿铠甲打卡“南天门”](https://m.163.com/news/article/KVLCCOHU053469LG.html)
+[宝马下调2026年业绩预期 将停产现有国产纯电车型](https://m.163.com/news/article/KVNIDBG1051492T3.html)
 
 ---end---
