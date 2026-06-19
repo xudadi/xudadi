@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-19 19:53:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-19 23:19:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆通用工业(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963282)
+[重庆旅游职业学院2026年编制外全职工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963736)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
