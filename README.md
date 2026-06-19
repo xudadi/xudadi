@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-19 15:38:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-19 19:53:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆通用工业(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963282)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海一楼房加装电梯8年没进展 阿婆含泪:实在走不动了](https://m.163.com/news/article/KVNVHTH30514EGPO.html)
+[男子凌晨被关汽车后备箱身体扭曲 网友看笑了：人才](https://m.163.com/news/article/KVPO97HM0514R9OJ.html)
 
-[查封的"全季酒店"改成"金季酒店" 罚款30万也拒不停业](https://m.163.com/news/article/KVO0JK7B05561G0D.html)
+[20岁外卖小哥救落水父子牺牲 生前计划攒2万为父买车](https://m.163.com/news/article/KVPTPV36051492T3.html)
 
-[男子连续140天高强度工作后猝死 公司：周末不算工伤](https://m.163.com/news/article/KVNPEUUI05561G0D.html)
+[3名男子在天然溶洞盗采金矿死亡调查：一氧化碳中毒](https://m.163.com/news/article/KVO4Q8SE051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[记者网购7款口红检测 其中6款疑似仿品](https://m.163.com/news/article/KVNTJ3BD0514D3UH.html)
+[17岁男生被人冒充警察骗出施暴 2人被刑拘1人取保候审](https://m.163.com/news/article/KVPG1FJF0514D3UH.html)
 
 ---end---
