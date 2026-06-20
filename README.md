@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-20 14:03:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-20 17:42:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆旅游职业学院2026年编制外全职工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963736)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子凌晨被关汽车后备箱身体扭曲 网友看笑了：人才](https://m.163.com/news/article/KVPO97HM0514R9OJ.html)
+[东风-17实战演练细节公开 专家详解三大亮点](https://m.163.com/news/article/KVSG14F80514R9OJ.html)
 
-[20岁外卖小哥救落水父子牺牲 生前计划攒2万为父买车](https://m.163.com/news/article/KVPTPV36051492T3.html)
+[广州两家人闯入野瀑布 母亲落水骨折儿子紧随跳下施救](https://m.163.com/news/article/KVSBMC6D05561G0D.html)
 
-[3名男子在天然溶洞盗采金矿死亡调查：一氧化碳中毒](https://m.163.com/news/article/KVO4Q8SE051492T3.html)
+[酷炫跑车在杭州深山里趴窝近半年 车主现身披露原因](https://m.163.com/news/article/KVROO5O400019B3E.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[17岁男生被人冒充警察骗出施暴 2人被刑拘1人取保候审](https://m.163.com/news/article/KVPG1FJF0514D3UH.html)
+[杭州男子在家被五步蛇偷袭咬伤 与蛇对视后瞬间晕倒](https://m.163.com/news/article/KVS5035S053469LG.html)
 
 ---end---
