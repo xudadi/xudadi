@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-21 17:07:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-21 19:56:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆旅游职业学院2026年编制外全职工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2963736)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[东风-17实战演练细节公开 专家详解三大亮点](https://m.163.com/news/article/KVSG14F80514R9OJ.html)
+[两对夫妻海边拍照两位妻子被浪卷走溺亡 救人者：愧疚](https://m.163.com/news/article/KVTK76N70514D3UH.html)
 
-[广州两家人闯入野瀑布 母亲落水骨折儿子紧随跳下施救](https://m.163.com/news/article/KVSBMC6D05561G0D.html)
+[大学生实习日薪180元 结果弄丢客户6.5万元劳力士表](https://m.163.com/news/article/KVUN6H970514R9OJ.html)
 
-[酷炫跑车在杭州深山里趴窝近半年 车主现身披露原因](https://m.163.com/news/article/KVROO5O400019B3E.html)
+["被球员围攻"冲上热搜第一 两队不满判罚被马宁驱散](https://m.163.com/news/article/KVV3K7KK00019B3E.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[杭州男子在家被五步蛇偷袭咬伤 与蛇对视后瞬间晕倒](https://m.163.com/news/article/KVS5035S053469LG.html)
+["马宁1分钟2黄"热搜爆了 外国球迷赞其"大师级执法"](https://m.163.com/news/article/KVV2NM1O055040N3.html)
 
 ---end---
