@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-22 18:21:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-22 23:35:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司大足分公司派往大足区某机关事业单位行政辅助工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2964778)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业飞驶特公司招聘派往重庆市大渡口区某区属国有企业派遣制工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2966732)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海"单身霸总"患绝症临终前托付房产 搭讪上百名美女](https://m.163.com/news/article/KVUM0J93053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[两对夫妻海边拍照两位妻子被浪卷走溺亡 救人者：愧疚](https://m.163.com/news/article/KVTK76N70514D3UH.html)
+[专家：40天经受三大考验 辽宁舰战力达到新高度](https://m.163.com/news/article/L01VCL4G0514R9OJ.html)
 
-[大学生实习日薪180元 结果弄丢客户6.5万元劳力士表](https://m.163.com/news/article/KVUN6H970514R9OJ.html)
+[河南一"橘子宾馆"被"桔子酒店"起诉侵权:后者索赔10万](https://m.163.com/news/article/L01O9LGA05561G0D.html)
+
+[告别停车61分钟按2小时收费 全国多地推精准计时计费](https://m.163.com/news/article/L01R89BJ0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["被球员围攻"冲上热搜第一 两队不满判罚被马宁驱散](https://m.163.com/news/article/KVV3K7KK00019B3E.html)
+[多部门成立联合调查组 核查"婴幼儿纸尿裤甲酰胺问题"](https://m.163.com/news/article/L01Q1FR20001899O.html)
 
 ---end---
