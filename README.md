@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-23 09:23:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-23 13:40:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[人事招聘】医院二期项目人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2966875)
+[重庆市巴南教育发展有限公司外包项目招聘信息（巴南区清华小学校） (重庆市公考雷达)](https://www.gongkaoleida.com/article/2967560)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
