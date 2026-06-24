@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-24 20:08:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-24 23:08:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学环境与生态学院马华教授团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2969968)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆国隆农业科技产业发展集团有限公司公开招聘工作人员(第二批次)简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2971663)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多名北京网友称电视弹出"海淀地震"提示 区地震局回应](https://m.163.com/news/article/L05070RN0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男孩6岁时遭陌生女子挖眼失明 如今以721分被高校录取](https://m.163.com/news/article/L04V9A5N053469LG.html)
+[逃避税23.67亿元被审计署通报 中国银行：立行立改](https://m.163.com/news/article/L07I1GHD0514R9P4.html)
 
-["珠宝大王"非法吸存221亿 手下一司机3年就骗贷4978万](https://m.163.com/news/article/L04H33FT05561G0D.html)
+[十二年异乡求学 被挖去双眼的男孩考了个"全国第一"](https://m.163.com/news/article/L07IG2AA0550A0OW.html)
+
+[宇树宣布大降价 开放现货销售](https://m.163.com/news/article/L07HNV400512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[防治"近亲繁殖" 广西要建立辞去公职人员公开公示制度](https://m.163.com/news/article/L04MN78K051492T3.html)
+[乘客称打网约车28公里被收100元"跨城费" 平台方回应](https://m.163.com/news/article/L06LF9PO053469M5.html)
 
 ---end---
