@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-24 09:31:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-24 13:49:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招聘派往某国企法务岗招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2969349)
+[重庆大学环境与生态学院马华教授团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2969968)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
