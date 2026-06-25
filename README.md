@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-25 09:49:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-25 14:08:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆国隆农业科技产业发展集团有限公司公开招聘工作人员(第二批次)简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2971663)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[逃避税23.67亿元被审计署通报 中国银行：立行立改](https://m.163.com/news/article/L07I1GHD0514R9P4.html)
+[橘子宾馆店主：桔子酒店人员去年以顾客身份入住](https://m.163.com/news/article/L07QD9KK0514EGPO.html)
 
-[十二年异乡求学 被挖去双眼的男孩考了个"全国第一"](https://m.163.com/news/article/L07IG2AA0550A0OW.html)
+["挖眼案"男孩高考721分拿下全国第一 老师：他太难了](https://m.163.com/news/article/L08N6KNF0001899O.html)
 
-[宇树宣布大降价 开放现货销售](https://m.163.com/news/article/L07HNV400512B07B.html)
+["靠谱老王"卷入毒纸尿裤事件被指闭门不见人 本人回应](https://m.163.com/news/article/L08N5KDR05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[乘客称打网约车28公里被收100元"跨城费" 平台方回应](https://m.163.com/news/article/L06LF9PO053469M5.html)
+["纸尿裤风波"第一爆料人回应：原本是个医生 不能不管](https://m.163.com/news/article/L07F76CB05561G0D.html)
 
 ---end---
