@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-25 14:08:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-25 17:44:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆国隆农业科技产业发展集团有限公司公开招聘工作人员(第二批次)简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2971663)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市三峡生态渔业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2973583)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[橘子宾馆店主：桔子酒店人员去年以顾客身份入住](https://m.163.com/news/article/L07QD9KK0514EGPO.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["挖眼案"男孩高考721分拿下全国第一 老师：他太难了](https://m.163.com/news/article/L08N6KNF0001899O.html)
+[30省份已出 高考分数线最新汇总](https://m.163.com/news/article/L09G9MS70514R9OJ.html)
 
-["靠谱老王"卷入毒纸尿裤事件被指闭门不见人 本人回应](https://m.163.com/news/article/L08N5KDR05129QAF.html)
+[辅警私自扣留冰毒贩卖 原判3年经检方多次抗诉改判7年](https://m.163.com/news/article/L097MT0N0514R9P4.html)
+
+[投资600万的加油站建成即被"责令限期拆除" 官方通报](https://m.163.com/news/article/L09BE27I0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["纸尿裤风波"第一爆料人回应：原本是个医生 不能不管](https://m.163.com/news/article/L07F76CB05561G0D.html)
+[浙江省2026年高考各类各段分数线公布](https://m.163.com/news/article/L09CHEV10534A4SC.html)
 
 ---end---
