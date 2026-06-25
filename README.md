@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-25 20:07:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-25 23:12:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市三峡生态渔业有限公司招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2973583)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆某国企派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2974185)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[30省份已出 高考分数线最新汇总](https://m.163.com/news/article/L09G9MS70514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[辅警私自扣留冰毒贩卖 原判3年经检方多次抗诉改判7年](https://m.163.com/news/article/L097MT0N0514R9P4.html)
+[河北承德宽城突降冰雹 有市民自家仓库被淹损失数万元](https://m.163.com/news/article/L09NPHQC053469LG.html)
 
-[投资600万的加油站建成即被"责令限期拆除" 官方通报](https://m.163.com/news/article/L09BE27I0514R9OJ.html)
+[38岁清华毕业生四战高考 称今年有机会进北大医学部了](https://m.163.com/news/article/L0A4CN21053469LG.html)
+
+[男子徒手抓蛇被咬还淡定合影 结果历经4次抢救两进ICU](https://m.163.com/news/article/L0A34SC6053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[浙江省2026年高考各类各段分数线公布](https://m.163.com/news/article/L09CHEV10534A4SC.html)
+[15岁女孩在网红景点拍照时坠湖身亡 前一天刚考完中考](https://m.163.com/news/article/L0A1IJOK053469LG.html)
 
 ---end---
