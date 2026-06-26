@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-26 21:28:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-26 23:40:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆开放大学重庆工商职业学院2026年考核招聘非事业编制博士人才公告(第一批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2976279)
+[重庆飞驶特人力资源管理有限公司外派至某国企业自控运维岗(plc工程师)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2976951)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
