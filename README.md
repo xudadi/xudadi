@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-26 16:20:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-26 19:22:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某国企派遣岗位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2974185)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆开放大学重庆工商职业学院2026年考核招聘非事业编制博士人才公告(第一批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2976279)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[黄金回到"8"字头 有人直接买走14根金条](https://m.163.com/news/article/L09Q063E0519C6T9.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[河北承德宽城突降冰雹 有市民自家仓库被淹损失数万元](https://m.163.com/news/article/L09NPHQC053469LG.html)
+[13岁男孩失踪5天救援人员失去信心 妈妈坚持下找到了](https://m.163.com/news/article/L0BNQVNO0534P59R.html)
 
-[38岁清华毕业生四战高考 称今年有机会进北大医学部了](https://m.163.com/news/article/L0A4CN21053469LG.html)
+[8岁女孩在ICU抢救1天花1万元 39岁爸爸缺钱愁白头](https://m.163.com/news/article/L0BNA2PD0001899O.html)
+
+[单亲妈妈扛十几年钢管供女儿读书 女儿高考分数被屏蔽](https://m.163.com/news/article/L0AEFO1V0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子徒手抓蛇被咬还淡定合影 结果历经4次抢救两进ICU](https://m.163.com/news/article/L0A34SC6053469LG.html)
+[女子疑被"疯狗"男友踹下顶楼坠亡 姐姐遭持刀砍成重伤](https://m.163.com/news/article/L0A749N40534P59R.html)
 
 ---end---
