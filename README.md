@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-27 14:42:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-27 17:17:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区实验中学校（原渝北区实验中学校）公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2977461)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆北汽模塑科技有限公司招聘产品工程师、电控工程师等岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2977719)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中国"避暑神器"在欧洲卖爆 生产企业：正加班加点补货](https://m.163.com/news/article/L0DPGBLR0519DDQ2.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["钢铁院士"崔崑逝世 被紧急送医一周前他抓紧办两件事](https://m.163.com/news/article/L0DV33PS055040N3.html)
+[狄仁杰存世书法真迹在洛阳被发现 可视为狄公绝笔](https://m.163.com/news/article/L0EHDCB205345ARG.html)
 
-[14岁小球员遭张家界足球队殴打 广东足协通报](https://m.163.com/news/article/L0DMKNFB0530WJIN.html)
+[网约车司机凌晨接到"古怪订单" 他当场报警获奖5000元](https://m.163.com/news/article/L0EHBJQK0514R9OJ.html)
+
+[金店天花板被撬开大洞 价值81万余元金玉首饰深夜被盗](https://m.163.com/news/article/L0EGO6BE0514R9OJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[没有牛的牧场空转8年 130万"牧场主"碎了：涉案5.6亿](https://m.163.com/news/article/L0CLCT6U0514BE2Q.html)
+[小伙夜间赶海迷失方向 仅凭3个渔业浮漂8小时自救上岸](https://m.163.com/news/article/L0EFH2L00514R9OJ.html)
 
 ---end---
