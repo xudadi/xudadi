@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-27 07:47:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-27 11:32:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司外派至某国企业自控运维岗(plc工程师)招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2976951)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市两江新区实验中学校（原渝北区实验中学校）公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2977461)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[13岁男孩失踪5天救援人员失去信心 妈妈坚持下找到了](https://m.163.com/news/article/L0BNQVNO0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[8岁女孩在ICU抢救1天花1万元 39岁爸爸缺钱愁白头](https://m.163.com/news/article/L0BNA2PD0001899O.html)
+[中国"避暑神器"在欧洲卖爆 生产企业：正加班加点补货](https://m.163.com/news/article/L0DPGBLR0519DDQ2.html)
 
-[单亲妈妈扛十几年钢管供女儿读书 女儿高考分数被屏蔽](https://m.163.com/news/article/L0AEFO1V0514D3UH.html)
+["钢铁院士"崔崑逝世 被紧急送医一周前他抓紧办两件事](https://m.163.com/news/article/L0DV33PS055040N3.html)
+
+[14岁小球员遭张家界足球队殴打 广东足协通报](https://m.163.com/news/article/L0DMKNFB0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子疑被"疯狗"男友踹下顶楼坠亡 姐姐遭持刀砍成重伤](https://m.163.com/news/article/L0A749N40534P59R.html)
+[没有牛的牧场空转8年 130万"牧场主"碎了：涉案5.6亿](https://m.163.com/news/article/L0CLCT6U0514BE2Q.html)
 
 ---end---
