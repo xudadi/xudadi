@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-28 08:14:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-28 12:54:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆北汽模塑科技有限公司招聘产品工程师、电控工程师等岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2977719)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[狄仁杰存世书法真迹在洛阳被发现 可视为狄公绝笔](https://m.163.com/news/article/L0EHDCB205345ARG.html)
+[事关黄金 央行、海关总署联合发文](https://m.163.com/news/article/L0G9LHP8055040N3.html)
 
-[网约车司机凌晨接到"古怪订单" 他当场报警获奖5000元](https://m.163.com/news/article/L0EHBJQK0514R9OJ.html)
+[3人薅平台漏洞"0元购"3711件家电倒卖 库房里堆满家电](https://m.163.com/news/article/L0GLAD6B051492LM.html)
 
-[金店天花板被撬开大洞 价值81万余元金玉首饰深夜被盗](https://m.163.com/news/article/L0EGO6BE0514R9OJ.html)
+[博主诋毁袁隆平的"三系杂交技术" 中国食品报发文痛批](https://m.163.com/news/article/L0GI40OK05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[小伙夜间赶海迷失方向 仅凭3个渔业浮漂8小时自救上岸](https://m.163.com/news/article/L0EFH2L00514R9OJ.html)
+[热浪席卷欧洲 网友一家出游落地当天妈妈就脱水进医院](https://m.163.com/news/article/L0GH37Q30512DU6N.html)
 
 ---end---
