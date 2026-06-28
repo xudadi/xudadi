@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-06-28 16:21:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-06-28 18:39:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆北汽模塑科技有限公司招聘产品工程师、电控工程师等岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2977719)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[事关黄金 央行、海关总署联合发文](https://m.163.com/news/article/L0G9LHP8055040N3.html)
+[缉毒警被毒贩标价一颗人头200万 笑称没想到这么值钱](https://m.163.com/news/article/L0H2A9U705561G0D.html)
 
-[3人薅平台漏洞"0元购"3711件家电倒卖 库房里堆满家电](https://m.163.com/news/article/L0GLAD6B051492LM.html)
+[网红诋毁袁隆平成果 抖音：相关账号已无限期封禁](https://m.163.com/news/article/L0H0UV320534A4SC.html)
 
-[博主诋毁袁隆平的"三系杂交技术" 中国食品报发文痛批](https://m.163.com/news/article/L0GI40OK05561G0D.html)
+[宁夏律师到河南办案时突发疾病 当地86名律师献血救助](https://m.163.com/news/article/L0BD8GG400019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[热浪席卷欧洲 网友一家出游落地当天妈妈就脱水进医院](https://m.163.com/news/article/L0GH37Q30512DU6N.html)
+[多辆"百吨王"在京新高速强行冲卡离开 当地：正在处理](https://m.163.com/news/article/L0GPTG1V051492T3.html)
 
 ---end---
