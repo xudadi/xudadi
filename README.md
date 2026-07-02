@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-02 08:07:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-02 12:30:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至巫镇高速路收费员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2986382)
+[重庆市南华中学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2987309)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
