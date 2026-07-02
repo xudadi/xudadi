@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-02 20:32:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-02 22:58:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆建筑工程职业学院2026年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2988167)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆社会主义学院工程管理岗的招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2988869)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[两高三学生公交车智斗嫌犯救下学妹：当时吓得腿软了](https://m.163.com/news/article/L0QV6POS053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[老牌感冒药"白加黑"停产上热搜 去年全国医院销量腰斩](https://m.163.com/news/article/L0REQMP1051492T3.html)
+[26年前海口被盗佛像疑现身北京观复博物馆 观复发声明](https://m.163.com/news/article/L0S4UOK1051492T3.html)
 
-[何维将出席伊朗已故最高领袖哈梅内伊葬礼](https://m.163.com/news/article/L0RF1HRC0001899O.html)
+["两女子与狗被同关铁笼挂牌游街"系刻意摆拍 详情披露](https://m.163.com/news/article/L0S2LRS10550B6IS.html)
+
+[中央巡查组发现：南宁邕江水上运动已成重大安全隐患](https://m.163.com/news/article/L0RLDRRT00019K82.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[8旬老人体检次年去世 家属时隔8年发现CT报告诊断变了](https://m.163.com/news/article/L0R055KO0550B6IS.html)
+[茉莉奶白被LV告了判赔1030万 小程序界面logo已变色](https://m.163.com/news/article/L0S3730D05345ARG.html)
 
 ---end---
