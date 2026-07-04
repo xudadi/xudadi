@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-04 08:04:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-04 12:01:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市畜牧科学院食品加工研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2991449)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[初中学历男子自学化学制毒 获利后穿名牌对外说"高仿"](https://m.163.com/news/article/L0UBMV13051492T3.html)
+[西安一商户负责人坠亡 朋友追忆：他对员工很好](https://m.163.com/news/article/L0V383730514EGPO.html)
 
-[凌晨火灾致两姐妹死亡 装饰公司被判担主责但分文未付](https://m.163.com/news/article/L0UGO4PH0514R9P4.html)
+[男子立遗嘱把房产留给二婚妻女及继子 去世后母亲起诉](https://m.163.com/news/article/L0UQO9L00514R9OJ.html)
 
-[小区"屋顶水雾降温"获毛宁点赞 开发商：投入千万打造](https://m.163.com/news/article/L0UFLQQV053469LG.html)
+[女子抢在涨价前买MacBook 结果被山姆取消订单](https://m.163.com/news/article/L0UKPEH305561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[60岁老人猥亵8岁女童仅获刑一年三个月 法院决定再审](https://m.163.com/news/article/L0UIPF030512D3VJ.html)
+[外交部副部长苗得雨已任外交部机关党委书记](https://m.163.com/news/article/L0UPL6SS0534A4SC.html)
 
 ---end---
