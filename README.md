@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-05 20:16:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-05 22:15:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市畜牧科学院食品加工研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2991449)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[三部门调拨1.5万件中央救灾物资至广西、辽宁](https://m.163.com/news/article/L139LSPA0534A4SC.html)
+[内蒙古一地硝酸铵运输车起火爆炸 已致2死4伤](https://m.163.com/news/article/L13J57S20534A4SC.html)
 
-[女子签"非全日制"用工合同 工作16年被辞退后索赔失败](https://m.163.com/news/article/L132LDA80514R9P4.html)
+[《我不是药神》原型抗癌24年 曾吃药"一年吃掉一套房"](https://m.163.com/news/article/L12JQQIL053469LG.html)
 
-[国家一级文物上现TCL广告字样 中国工艺美术馆回应](https://m.163.com/news/article/L12VEGSK0534P59R.html)
+[有星巴克门店立"消费入座"提示牌 网友：建议全国推广](https://m.163.com/news/article/L13DM7ON0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[重庆博主打出租车去拉萨获赞超1800万 官方奖励50万元](https://m.163.com/news/article/L134DH93053469LG.html)
+[网红直播时被警方当场带走 涉案金额高达50余万](https://m.163.com/news/article/L118JQ6H00019K82.html)
 
 ---end---
