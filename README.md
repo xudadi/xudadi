@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-05 16:30:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-05 18:51:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市畜牧科学院食品加工研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2991449)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[电工突然被领导调去养猪 起诉公司法院判了](https://m.163.com/news/article/L11BD632051492LM.html)
+[三部门调拨1.5万件中央救灾物资至广西、辽宁](https://m.163.com/news/article/L139LSPA0534A4SC.html)
 
-[被盗佛像疑似现身观复博物馆 马未都发声](https://m.163.com/news/article/L11C2F9D0514R9P4.html)
+[女子签"非全日制"用工合同 工作16年被辞退后索赔失败](https://m.163.com/news/article/L132LDA80514R9P4.html)
 
-[民宿泳池未安装漏电保护装置 男子清洗时不幸触电身亡](https://m.163.com/news/article/L117AAF20534P59R.html)
+[国家一级文物上现TCL广告字样 中国工艺美术馆回应](https://m.163.com/news/article/L12VEGSK0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[7445万元 第三方支付再现巨额罚单](https://m.163.com/news/article/L11BIF7U0514R9P4.html)
+[重庆博主打出租车去拉萨获赞超1800万 官方奖励50万元](https://m.163.com/news/article/L134DH93053469LG.html)
 
 ---end---
