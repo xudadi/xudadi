@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-06 13:56:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-06 18:44:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市畜牧科学院食品加工研究所招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2991449)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆工业职业技术大学2026年考核招聘事业单位工作人员公告(第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2995037)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[未获明确同意民办社康给女患者打激素 处罚决定书披露](https://m.163.com/news/article/L13KRJSQ05129QAF.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[医院给老人一次拔12颗牙种10颗 官方：将顶格行政处罚](https://m.163.com/news/article/L13U3GBV05561G0D.html)
+[岳麓山景区保洁阿姨被拍到坐厕所地上吃饭 当事人回应](https://m.163.com/news/article/L159L73F0534P59R.html)
 
-[人大通报：未发现蒋方舟存在学术不端行为](https://m.163.com/news/article/L13TI0D60534A4SC.html)
+[受贿超22亿元 杨有林一审被判死刑](https://m.163.com/news/article/L15UV9UP000189PS.html)
+
+[老板在自家酒楼旁开"一元饭堂"：1荤2素仅需1元能续餐](https://m.163.com/news/article/L15DL8GN053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[湖南5家烟花爆竹生产企业有序复工复产](https://m.163.com/news/article/L13SS20K053469LG.html)
+[广西横州17万人面临泄洪威胁 多座水库漫顶](https://m.163.com/news/article/L15PUUTV0519DDQ2.html)
 
 ---end---
