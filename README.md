@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-06 22:16:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-07 01:20:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工业职业技术大学2026年考核招聘事业单位工作人员公告(第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/2995037)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆工信职业学院高层次人才长期招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2995685)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[岳麓山景区保洁阿姨被拍到坐厕所地上吃饭 当事人回应](https://m.163.com/news/article/L159L73F0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[受贿超22亿元 杨有林一审被判死刑](https://m.163.com/news/article/L15UV9UP000189PS.html)
+[广西洪涝灾害已致2人死亡 受灾人口约5.5万人](https://m.163.com/news/article/L16FNE53000189PS.html)
 
-[老板在自家酒楼旁开"一元饭堂"：1荤2素仅需1元能续餐](https://m.163.com/news/article/L15DL8GN053469LG.html)
+[广西洪水亲历者：家中断水断电 站在楼顶给记者打电话](https://m.163.com/news/article/L1673CF00550B6IS.html)
+
+[上海46岁独居女子离世 半年后遗产处置有新消息](https://m.163.com/news/article/L15UOO770550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广西横州17万人面临泄洪威胁 多座水库漫顶](https://m.163.com/news/article/L15PUUTV0519DDQ2.html)
+[广西横州六蓝水库出现险情 下游村庄仍有约60人被困](https://m.163.com/news/article/L168R4430514D3UH.html)
 
 ---end---
