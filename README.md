@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-07 15:01:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-07 18:31:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学高端装备机械传动全国重点实验室劳务派遣实验技术人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2996499)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆綦江保安服务股份有限公司招聘派往重庆市綦江区公安局辅警岗位工作人员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2998020)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广西洪涝灾害已致2人死亡 受灾人口约5.5万人](https://m.163.com/news/article/L16FNE53000189PS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广西洪水亲历者：家中断水断电 站在楼顶给记者打电话](https://m.163.com/news/article/L1673CF00550B6IS.html)
+[男子前脚打赏主播几十万后脚偷邻居旧电视 亲妈也崩溃](https://m.163.com/news/article/L18E6M4O0514R9OJ.html)
 
-[上海46岁独居女子离世 半年后遗产处置有新消息](https://m.163.com/news/article/L15UOO770550A0OW.html)
+[广西洪水致约800条到900条蛇逃出 疑有眼睛王蛇出没](https://m.163.com/news/article/L18CN2IE053469LG.html)
+
+["不到2分钟房顶就没了" 湖北强对流已11死亲历者发声](https://m.163.com/news/article/L188JVT8055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广西横州六蓝水库出现险情 下游村庄仍有约60人被困](https://m.163.com/news/article/L168R4430514D3UH.html)
+[广西溃坝水库下游村庄：断电断网 有村民在山顶过夜](https://m.163.com/news/article/L18C8JFG051492T3.html)
 
 ---end---
