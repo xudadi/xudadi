@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-07 07:45:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-07 11:27:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工信职业学院高层次人才长期招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2995685)
+[重庆大学高端装备机械传动全国重点实验室劳务派遣实验技术人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2996499)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
