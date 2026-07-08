@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-08 09:11:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-08 12:32:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至秀松高速、巫镇高速养护人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2998463)
+[重庆飞驶特人力资源管理有限公司渝北渝聚人分公司外派至秀松高速、巫镇高速养护人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/2998463)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
