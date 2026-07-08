@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-08 21:15:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-08 23:41:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆某国企招聘综合辅助岗实习生公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3000313)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆电力高等专科学校2026年第二批合同制员工C类岗位(辅导员及行政管理岗)招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3001130)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广西横州一被蛇咬伤女子离世 辗转多次送医时已无意识](https://m.163.com/news/article/L1ALP6SV05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[湖北一家三口被大风卷走坠楼身亡 从6楼坠落在3楼平台](https://m.163.com/news/article/L1ATEMQD05561G0D.html)
+[村民在养猪场附近挖出1400年前佛首 地方博物馆回应](https://m.163.com/news/article/L1BDV559053469LG.html)
 
-[广西决堤抢险现场主坝缺口长约100米 决堤前开始泄洪](https://m.163.com/news/article/L18VITLC0514D3UH.html)
+[父母因洪水失联 小伙买轮胎游4小时回村妈妈当场落泪](https://m.163.com/news/article/L1B87TNT05345ARG.html)
+
+[老君山景区回应月薪6万招"云海观察员":税前 仅招一人](https://m.163.com/news/article/L1B7VAO4051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高考699分女生遭网暴后又遇冒名账号带货 知情人发声](https://m.163.com/news/article/L18OBR2H051492T3.html)
+[2岁女童坐滑梯夹断小拇指连夜接指：爸爸我的手指没了](https://m.163.com/news/article/L1AV72LV05561G0D.html)
 
 ---end---
