@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-09 21:36:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-10 00:15:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[中智重庆公司招聘派往某央企公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3003026)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市沙坪坝区新丝路小学校招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3003354)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[中办、国办发通知：做好防汛抗旱工作](https://m.163.com/news/article/L1DI9JQP000189PS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[历史罕见龙卷风"横扫"黄冈 女子目睹父亲被卷飞好几圈](https://m.163.com/news/article/L1DG4KK905506O99.html)
+[900条蛇“越狱”背后的广西蛇产业：年产超3000万条](https://m.163.com/news/article/L1DRO9ET053469LG.html)
 
-[知名经济学家高善文因罕见病离世 仅一半患者活过3年](https://m.163.com/news/article/L1DGMDOQ0514BE2Q.html)
+[情侣火锅店接吻男生摔倒打翻火锅泼到女子 男生怪椅子](https://m.163.com/news/article/L1DRT61N0530JPVV.html)
+
+[广西老板划6小时浮板救工人 肩部肿了还被蜈蚣咬一口](https://m.163.com/news/article/L1DSA65L053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[宁波男子为防台风花一万给窗户装挡风板 曾亲历"桑美"](https://m.163.com/news/article/L1DETMKV053469LG.html)
+[广西洪灾致蛇出逃：蛇爬上独居老人窗户 有人抓上百斤](https://m.163.com/news/article/L1DIUIGA0514D3UH.html)
 
 ---end---
