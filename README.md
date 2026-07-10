@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-10 09:08:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-10 13:07:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区新丝路小学校招聘教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3003354)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学编外聘用人员招聘简章(2026年第13轮) (重庆市公考雷达)](https://www.gongkaoleida.com/article/3004474)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[900条蛇“越狱”背后的广西蛇产业：年产超3000万条](https://m.163.com/news/article/L1DRO9ET053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[情侣火锅店接吻男生摔倒打翻火锅泼到女子 男生怪椅子](https://m.163.com/news/article/L1DRT61N0530JPVV.html)
+[唐德智被公诉：公权私用 伙同亲属大搞权钱交易](https://m.163.com/news/article/L1FH3MCU0534A4SC.html)
 
-[广西老板划6小时浮板救工人 肩部肿了还被蜈蚣咬一口](https://m.163.com/news/article/L1DSA65L053469LG.html)
+[山东泰安：将泰山景区现有刀片式隔离网拆除或替代](https://m.163.com/news/article/L1E9SJ340550B6IS.html)
+
+[老人拿存折取款未果起诉银行索还存款17900元 法院判了](https://m.163.com/news/article/L1FDQ54E051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广西洪灾致蛇出逃：蛇爬上独居老人窗户 有人抓上百斤](https://m.163.com/news/article/L1DIUIGA0514D3UH.html)
+[夫妻俩开小饭馆硬核禁烟6年 老板服务员都被顾客骂过](https://m.163.com/news/article/L1FDGDP90512D3VJ.html)
 
 ---end---
