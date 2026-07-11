@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-11 08:56:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-11 12:14:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南证券股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3006508)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆登康口腔护理用品股份有限公司招聘工艺与现场管理、研发工程师等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3007061)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[200万粉丝博主称向广西捐款2万被网暴 当事人发声](https://m.163.com/news/article/L1GHIGJM05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[甘肃一桥墩底座现裂缝 市民猜测或与岷江水冲刷有关](https://m.163.com/news/article/L1G8SDBM0534P59R.html)
+[陈薇出任中国工程院党组成员、副院长](https://m.163.com/news/article/L1I3DQK90514R9P4.html)
 
-[两次被鉴定D级危楼后 60多岁天水市政府大楼“退休”](https://m.163.com/news/article/L1G206VO053469LG.html)
+[男子交百万施工保证金结果项目一年多不开工 警方介入](https://m.163.com/news/article/L1GHTP3K0534P59R.html)
+
+[福建晋江鞋厂火灾致28人遇难 国安委挂牌督办](https://m.163.com/news/article/L1I1QAUH0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[公职人员占用他人车位多日还报警不道歉 车位业主发声](https://m.163.com/news/article/L1FTSFSS051492T3.html)
+[民进党当局勾结境外政客"巡航" 国防部回应](https://m.163.com/news/article/L1HNPJ8S0514R9OJ.html)
 
 ---end---
