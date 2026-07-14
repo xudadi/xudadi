@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-14 20:53:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-14 22:51:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘派遣至某国有企业景观设计岗 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3012631)
+[招聘派往重庆质量认证检验检测助力“渝车出海”服务平台运营服务工作人员的招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3013602)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
