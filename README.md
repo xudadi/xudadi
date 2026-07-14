@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-14 08:08:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-14 11:33:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院公开招聘新能源汽车工程学院院长的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3010937)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆城市职业学院公开招聘马克思主义学院院长的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3011090)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子追女孩长期骚扰未果持刀威胁:我喜欢的一定是我的](https://m.163.com/news/article/L1NOI8QF05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子参加家政培训拿4个证书却查无此证 七年后欲退款](https://m.163.com/news/article/L1OFRF25053469LG.html)
+[前员工为泄愤偷老板鳄鱼被警方追回 与老板双双被处罚](https://m.163.com/news/article/L1PM6P1N053469LG.html)
 
-[男子出轨女邻居 婆婆为孙子儿媳上门硬刚怒斥第三者](https://m.163.com/news/article/L1O6S43T05561G0D.html)
+[电影人施南生离世享年75岁 成龙、甄子丹等发文悼念](https://m.163.com/news/article/L1OS2QEV053469LG.html)
+
+[官方通报女干部占车位被质疑"护彭贬闵" 当地再回应](https://m.163.com/news/article/L1OQVJN90514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[69岁老人为救人与歹徒搏斗 鼻子被歹徒咬掉吞入肚中](https://m.163.com/news/article/L1OCPPV5055040N3.html)
+[施南生与前夫徐克分分合合30年 被誉影坛"神雕侠侣"](https://m.163.com/news/article/L1PGKLBS0534A4SC.html)
 
 ---end---
