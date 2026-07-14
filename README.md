@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-14 13:56:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-14 16:14:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆城市职业学院公开招聘马克思主义学院院长的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3011090)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业飞驶特公司招聘派遣至某国有企业景观设计岗 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3012631)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[前员工为泄愤偷老板鳄鱼被警方追回 与老板双双被处罚](https://m.163.com/news/article/L1PM6P1N053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[电影人施南生离世享年75岁 成龙、甄子丹等发文悼念](https://m.163.com/news/article/L1OS2QEV053469LG.html)
+[媒体：蒋方舟20多年搭建的"天才少女"人设 一夜间全塌](https://m.163.com/news/article/L1PVFTNF0550B6IS.html)
 
-[官方通报女干部占车位被质疑"护彭贬闵" 当地再回应](https://m.163.com/news/article/L1OQVJN90514R9P4.html)
+[博主发布名创优品推广视频含偷窥剧情 公司致歉](https://m.163.com/news/article/L1PVALEH053469LG.html)
+
+[俞敏洪回应"孙东旭和2位前主播合伙创业" 大方送祝福](https://m.163.com/news/article/L1PV9FBA05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[施南生与前夫徐克分分合合30年 被誉影坛"神雕侠侣"](https://m.163.com/news/article/L1PGKLBS0534A4SC.html)
+[具俊晔被指准备与大S儿女争遗产 曾稀里糊涂签字放弃](https://m.163.com/news/article/L1O0DMRR0550A0OW.html)
 
 ---end---
