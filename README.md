@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-15 14:21:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-15 16:42:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[忠县2026年二季度公开招聘机关事业单位临时聘用人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3014105)
+[悦来街道某公立幼儿园教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3015078)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
