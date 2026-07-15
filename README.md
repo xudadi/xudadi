@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-16 02:37:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-16 03:51:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆飞驶特人力资源管理有限公司委托巫山县人民法院招聘派遣制司法警察公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3015884)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[3名男孩虐猫致死亡 疑家长发声:他不是十恶不赦的孩子](https://m.163.com/news/article/L1QKQTDG05561G0D.html)
+[男子花137万在杭州买房九年 如今连房在哪都不知道](https://m.163.com/news/article/L1T80JT20001899O.html)
 
-[男子酒驾被查后购置棺材"假死"潜逃 家人配合"下葬"](https://m.163.com/news/article/L1QF4S2U05345ARG.html)
+[女子呼吁给保洁放个椅子 保洁阿姨婉拒:网友过度解读了](https://m.163.com/news/article/L1TBV536051492LM.html)
 
-[医院装修验收合格 欠1600万4年后起诉施工方质量违约](https://m.163.com/news/article/L1Q32AGF051492T3.html)
+[张雪820RR"无人驾驶"车主骨折 目击者:自主滑行两公里](https://m.163.com/news/article/L1T7HLG80514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子无身份证漂泊17年 户籍信息被越南籍人员冒用多年](https://m.163.com/news/article/L1Q91G14051492T3.html)
+[男子10万余克白银租给金店挣利息想取回被拒:让我起诉](https://m.163.com/news/article/L1T6N2SI0512D3VJ.html)
 
 ---end---
