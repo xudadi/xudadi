@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-15 20:02:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-15 22:09:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[悦来街道某公立幼儿园教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3015078)
+[重庆飞驶特人力资源管理有限公司委托巫山县人民法院招聘派遣制司法警察公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3015884)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
