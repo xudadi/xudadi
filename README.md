@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-16 14:04:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-16 16:33:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学计算机学院智能系统安全课题组劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3016862)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往某机关事业单位招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3017749)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[岳父在芝麻酱下毒毒死女婿 所购剂量能毒死上千人](https://m.163.com/news/article/L1T01NRF05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子花137万在杭州买房九年 如今连房在哪都不知道](https://m.163.com/news/article/L1T80JT20001899O.html)
+[媒体：禁售燃油车 海南打响"第一枪"](https://m.163.com/news/article/L1VBKVB305506O99.html)
 
-[女子呼吁给保洁放个椅子 保洁阿姨婉拒:网友过度解读了](https://m.163.com/news/article/L1TBV536051492LM.html)
+[女子账户凭空走账千万元被冒签贷款 银行:可以去起诉](https://m.163.com/news/article/L1V7K1P105561G0D.html)
+
+[女子买电动摩托商家代上牌 没想到竟是"套牌"被扣18分](https://m.163.com/news/article/L1UMUTKC05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[张雪820RR"无人驾驶"车主骨折 目击者:自主滑行两公里](https://m.163.com/news/article/L1T7HLG80514D3UH.html)
+[四川一中巴车坠河致6人死亡11人伤](https://m.163.com/news/article/L1UO8EPG000189PS.html)
 
 ---end---
