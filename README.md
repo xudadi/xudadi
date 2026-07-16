@@ -9,26 +9,26 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-16 08:11:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-16 11:37:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司委托巫山县人民法院招聘派遣制司法警察公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3015884)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学计算机学院智能系统安全课题组劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3016862)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+
+[岳父在芝麻酱下毒毒死女婿 所购剂量能毒死上千人](https://m.163.com/news/article/L1T01NRF05561G0D.html)
 
 [男子花137万在杭州买房九年 如今连房在哪都不知道](https://m.163.com/news/article/L1T80JT20001899O.html)
 
 [女子呼吁给保洁放个椅子 保洁阿姨婉拒:网友过度解读了](https://m.163.com/news/article/L1TBV536051492LM.html)
 
-[张雪820RR"无人驾驶"车主骨折 目击者:自主滑行两公里](https://m.163.com/news/article/L1T7HLG80514D3UH.html)
-
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子10万余克白银租给金店挣利息想取回被拒:让我起诉](https://m.163.com/news/article/L1T6N2SI0512D3VJ.html)
+[张雪820RR"无人驾驶"车主骨折 目击者:自主滑行两公里](https://m.163.com/news/article/L1T7HLG80514D3UH.html)
 
 ---end---
