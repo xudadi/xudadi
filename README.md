@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-17 19:51:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-17 21:38:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区空港实验小学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3019755)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市北碚区消防救援支队2026年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3020542)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[美国皮尤最新民调结果：中国全球好感度超美国](https://m.163.com/news/article/L1VQBD4A0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广西一腌制酸菜场所发生疑似毒气中毒事件 致4人死亡](https://m.163.com/news/article/L208682B0512D3VJ.html)
+[由蔡磊"牵线"研发的国产渐冻症药物明年有望上市](https://m.163.com/news/article/L22AK3DD0550B6IS.html)
 
-["救援航母"屡立奇功：拥有三种形态 自带动力](https://m.163.com/news/article/L2078LU1053469LG.html)
+[重庆彭水街道突发山体垮塌 气象局：今晚预计有大暴雨](https://m.163.com/news/article/L226EDQQ053469LG.html)
+
+[重庆突发山体崩塌 男子弃车逃跑：车再快几十秒就被埋](https://m.163.com/news/article/L2213AEP05129QAF.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上海金茂集团起诉开20年乡镇宾馆商标侵权 索赔80余万](https://m.163.com/news/article/L2076NNV05345ARG.html)
+[男子做胃肠镜成植物人 家属：机器一直在响 没有抢救](https://m.163.com/news/article/L21N3P1405149E7M.html)
 
 ---end---
