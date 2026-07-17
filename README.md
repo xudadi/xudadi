@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-18 01:45:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-18 03:09:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市北碚区消防救援支队2026年政府专职消防员招录公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3020542)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆设计集团重庆市设计院有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3021960)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[由蔡磊"牵线"研发的国产渐冻症药物明年有望上市](https://m.163.com/news/article/L22AK3DD0550B6IS.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[重庆彭水街道突发山体垮塌 气象局：今晚预计有大暴雨](https://m.163.com/news/article/L226EDQQ053469LG.html)
+[一块巨石有两三层楼高 重庆山体崩塌救援面临三大困难](https://m.163.com/news/article/L22F1CSR053469LG.html)
 
-[重庆突发山体崩塌 男子弃车逃跑：车再快几十秒就被埋](https://m.163.com/news/article/L2213AEP05129QAF.html)
+[LV起诉宁波一家百货店 店主：所售商品进货来源合法](https://m.163.com/news/article/L22PB8QS051492T3.html)
+
+[贵州茅台：上调飞天茅台i茅台平台零售价及合同价](https://m.163.com/news/article/L22OSAH30512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子做胃肠镜成植物人 家属：机器一直在响 没有抢救](https://m.163.com/news/article/L21N3P1405149E7M.html)
+[台当局禁止张雪机车"入台"：若有陆资违规投资将罚款](https://m.163.com/news/article/L21GOFAO0550B6IS.html)
 
 ---end---
