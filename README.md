@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-17 08:12:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-17 11:39:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆交通大学2026年合同制工作人员招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3018736)
+[重庆市两江新区空港实验小学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3019755)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
