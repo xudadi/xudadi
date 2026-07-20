@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-20 16:05:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-20 19:12:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆市森林草原火灾预防预警监测中心招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3023191)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[沙区某国企招聘融资岗、话务岗！ (重庆市公考雷达)](https://www.gongkaoleida.com/article/3024623)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[月薪6万看云工作被疑内定 景区员工都议论是谁家亲戚](https://m.163.com/news/article/L26RK3JO0514BE2Q.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[重庆彭水山体崩塌34人失联 搜救犬在现场发现生命迹象](https://m.163.com/news/article/L26N2FR00514D3UH.html)
+[男子追求遭拒后泼硫酸捅刺女子致其重伤 已被执行死刑](https://m.163.com/news/article/L29RORSC0514R9P4.html)
 
-[女孩卧室摆50多个"谷子"后出现头晕 结果是甲醛中毒](https://m.163.com/news/article/L26MK425053469LG.html)
+[犯罪团伙盗采稀土矿50吨：设瞭望哨配对讲机通风报信](https://m.163.com/news/article/L298BMFK053469LG.html)
+
+[中纪委周末打“虎” 上周还有一原中候补被公诉](https://m.163.com/news/article/L29C32TM055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[官方辟谣："韩红基金会捐赠倾斜大医院"为不实信息](https://m.163.com/news/article/L26LB29M0514R9P4.html)
+[邹市明支持冉莹颖撕掉拳王妻子标签:曾系前央视主持人](https://m.163.com/news/article/L299KNJQ053469LG.html)
 
 ---end---
