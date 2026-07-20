@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-20 10:55:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-20 12:54:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团重庆市设计院有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3021960)
+[重庆飞驶特人力资源管理有限公司派往重庆市森林草原火灾预防预警监测中心招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3023191)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
