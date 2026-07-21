@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-21 14:17:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-21 17:08:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区悦港中学校公开招聘物理教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3025864)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆滨渝智能装备制造有限公司公开招聘派遣制仓库管理员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3027451)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[内衣商家被诉商标侵权索赔1800万判赔90万：网店已关](https://m.163.com/news/article/L2AIKDIU053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[LPR连续14个月未作调整](https://m.163.com/news/article/L2AJGA5K05199NPP.html)
+[杭州316平豪宅卖不掉 房东"自残式"拍卖"白菜价"成交](https://m.163.com/news/article/L2AOTPVF051492LM.html)
 
-[被冲走的上百只圈养动物未找回 广西贵港动物园急求助](https://m.163.com/news/article/L2AFLJ570514D3UH.html)
+[18岁男生用AI"手搓"APP 提醒爷爷安全、按时吃药](https://m.163.com/news/article/L2BOGQAE0512DU6N.html)
+
+[小女儿自称照顾母亲多年替男友争财产 母亲无奈](https://m.163.com/news/article/L2AH83LR0512EFR8.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[港星谢贤离世 周星驰、成龙发文悼念](https://m.163.com/news/article/L2AD81RT0001899O.html)
+[女生网恋奔现被骗背上网贷男方失联:他觉得我没价值了](https://m.163.com/news/article/L2C3QOAP05345ARG.html)
 
 ---end---
