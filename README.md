@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-22 14:28:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-22 17:11:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市城镇排水事务中心工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3029434)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆经典物业管理有限公司公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3030680)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[长鑫科技发行结果公布 网上投资者放弃认购658.62万股](https://m.163.com/news/article/L2CVLG0E05199NPP.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[王虹、邓煜将冲击菲尔兹奖 中国籍数学家有望首次登顶](https://m.163.com/news/article/L2CPC29Q0512B07B.html)
+[男子拍台球女助教屁股被报警猥亵：我"预告"过很多次](https://m.163.com/news/article/L2EICUVK0001899O.html)
 
-[云南普洱市墨江县发生5.0级地震 震源深度6千米](https://m.163.com/news/article/L2CSS9GK0001899O.html)
+[上海92岁老人离世留下500万遗产 被无来往的远亲继承](https://m.163.com/news/article/L2E6THTQ051492LM.html)
+
+[女子边充电边刷手机被严重烧伤 十个手指没一个完整的](https://m.163.com/news/article/L2ERKLBJ051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[工厂连续8年暑假免费帮员工带娃还管饭 老板回应](https://m.163.com/news/article/L2CRJJ7I053469LG.html)
+[厨师离职被老板要求交出配方才结工资：要精确到克重](https://m.163.com/news/article/L2CLGD8M053469LG.html)
 
 ---end---
