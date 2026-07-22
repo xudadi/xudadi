@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-22 20:57:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-22 23:07:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆经典物业管理有限公司公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3030680)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[国家电投集团重庆审计中心公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3031632)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子拍台球女助教屁股被报警猥亵：我"预告"过很多次](https://m.163.com/news/article/L2EICUVK0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海92岁老人离世留下500万遗产 被无来往的远亲继承](https://m.163.com/news/article/L2E6THTQ051492LM.html)
+[10岁"抗癌小王子"去世后被人网暴 家属报警并提起诉讼](https://m.163.com/news/article/L2FAD6Q9051492T3.html)
 
-[女子边充电边刷手机被严重烧伤 十个手指没一个完整的](https://m.163.com/news/article/L2ERKLBJ051492LM.html)
+[16岁高中生被刺死事发地疑为涉黄场所 内蒙古警方通报](https://m.163.com/news/article/L2FJ619H0534A4SC.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[女生高考后和妈妈"扛砖赚学费"被质疑摆拍 当事人发声](https://m.163.com/news/article/L2FFCHRH051492T3.html)
 
-[厨师离职被老板要求交出配方才结工资：要精确到克重](https://m.163.com/news/article/L2CLGD8M053469LG.html)
+[女子花16万买商铺签约返租10年仅3年就断供 多方发声](https://m.163.com/news/article/L2F5HVQC05561G0D.html)
+
+[还剩几小时就退休 女子差点要多等11年才能领到养老金](https://m.163.com/news/article/L2E9EB0V0512DU6N.html)
 
 ---end---
