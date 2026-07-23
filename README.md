@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-24 02:16:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-24 03:55:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市万州区退役军人事务局重庆市万州区人力资源和社会保障局关于重庆市万州区2026年度安排工作退役士兵择优安置到事业单位管理岗位工作的通知 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3034109)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[水利部提醒12省份做好水库安全度汛等工作](https://m.163.com/news/article/L2I376DA0514DG98.html)
+[博主在吐鲁番实测"高温烧烤" 地表87℃能烤熟鱼、虾](https://m.163.com/news/article/L2I9QRD40514D3UH.html)
 
-[流落海外87年 韩国赠还中国一对清代石狮](https://m.163.com/news/article/L2I2528A0514EGPO.html)
+[王虹、邓煜双双获奖 丘成桐：希望两人回国任教](https://m.163.com/news/article/L2I9I6UP051492T3.html)
 
-[媒体：危险的非洲大蜗牛正在全国扩张 北方也可能失守](https://m.163.com/news/article/L2HGC2GN05506O99.html)
+[王虹、邓煜获菲尔兹奖 中国数学实现历史性突破](https://m.163.com/news/article/L2I8KJ0O0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[老人被判替女儿还债百万痛哭：她冒充我给债主打电话](https://m.163.com/news/article/L2HMFVLP053469LG.html)
+[大学老师体验送外卖遇车祸 事后一年多未获外卖站赔付](https://m.163.com/news/article/L2I4M698051492T3.html)
 
 ---end---
