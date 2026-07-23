@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-23 08:15:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-23 11:48:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[国家电投集团重庆审计中心公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3031632)
+[重庆市两江新区洋河花园实验小学校公开招聘编外教辅人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3032262)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -27,8 +27,8 @@
 
 [10岁"抗癌小王子"去世后被人网暴 家属报警并提起诉讼](https://m.163.com/news/article/L2FAD6Q9051492T3.html)
 
-[16岁高中生被刺死事发地疑为涉黄场所 内蒙古警方通报](https://m.163.com/news/article/L2FJ619H0534A4SC.html)
+[3](https://m.163.com/touch/news/sub/domestic)
 
-[女生高考后和妈妈"扛砖赚学费"被质疑摆拍 当事人发声](https://m.163.com/news/article/L2FFCHRH051492T3.html)
+[16岁高中生被刺死事发地疑为涉黄场所 内蒙古警方通报](https://m.163.com/news/article/L2FJ619H0534A4SC.html)
 
 ---end---
