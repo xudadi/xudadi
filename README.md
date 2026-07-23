@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-23 14:30:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-23 17:11:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区洋河花园实验小学校公开招聘编外教辅人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3032262)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆科技馆管理有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3033102)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[长沙盲人老太问路被质疑拐骗女性 视频发布者公开道歉](https://m.163.com/news/article/L2FPEVPN0534P59R.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[自驾新能源汽车跨境突然遭远程锁车30多小时 车主发声](https://m.163.com/news/article/L2FM2AA10514D3UH.html)
+[填报志愿没看清楚本部和分校 山东644分考生或将复读](https://m.163.com/news/article/L2HHDODD053469LG.html)
 
-[10岁"抗癌小王子"去世后被人网暴 家属报警并提起诉讼](https://m.163.com/news/article/L2FAD6Q9051492T3.html)
+[A380客机在杭州滞留十几小时 乘客：空调关了有人中暑](https://m.163.com/news/article/L2HCHT63053469LG.html)
+
+[一家三口花2.5万从广州打车3000公里到西藏 司机回应](https://m.163.com/news/article/L2HAOH6C053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[16岁高中生被刺死事发地疑为涉黄场所 内蒙古警方通报](https://m.163.com/news/article/L2FJ619H0534A4SC.html)
+[贵州遵义"卖酒女"骗局被揭露 涉事公司内部群聊流出](https://m.163.com/news/article/L2HD5RHM0534P59R.html)
 
 ---end---
