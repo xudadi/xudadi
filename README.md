@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-24 14:26:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-24 17:03:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆两江育才中学2026年公开招聘编外教辅人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3034751)
+[重庆市中医药行业协会招聘办公室工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3035525)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -23,12 +23,12 @@
 
 [博主在吐鲁番实测"高温烧烤" 地表87℃能烤熟鱼、虾](https://m.163.com/news/article/L2I9QRD40514D3UH.html)
 
-[王虹、邓煜双双获奖 丘成桐：希望两人回国任教](https://m.163.com/news/article/L2I9I6UP051492T3.html)
-
 [王虹、邓煜获菲尔兹奖 中国数学实现历史性突破](https://m.163.com/news/article/L2I8KJ0O0001899O.html)
+
+[大学老师体验送外卖遇车祸 事后一年多未获外卖站赔付](https://m.163.com/news/article/L2I4M698051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[大学老师体验送外卖遇车祸 事后一年多未获外卖站赔付](https://m.163.com/news/article/L2I4M698051492T3.html)
+[水利部提醒12省份做好水库安全度汛等工作](https://m.163.com/news/article/L2I376DA0514DG98.html)
 
 ---end---
