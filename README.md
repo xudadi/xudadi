@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-24 08:12:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-24 11:45:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市万州区退役军人事务局重庆市万州区人力资源和社会保障局关于重庆市万州区2026年度安排工作退役士兵择优安置到事业单位管理岗位工作的通知 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3034109)
+[重庆两江育才中学2026年公开招聘编外教辅人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3034751)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
