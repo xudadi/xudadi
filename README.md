@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-25 20:46:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-25 22:37:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[筑梦杏坛，诚聘英才——重庆西藏中学校招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3037678)
+[重庆市礼嘉中学校招聘高中物理、化学教师、德育干事、校医等合同制岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3037774)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
