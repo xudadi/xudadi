@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-25 09:10:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-25 12:27:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团有限公司市政设计研究院招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3037076)
+[重庆设计集团有限公司市政设计研究院2026年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3037076)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
