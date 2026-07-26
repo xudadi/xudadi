@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-26 15:38:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-26 17:46:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学自动化学院系统智能与控制研究所劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3038066)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆科技大学计算机科学与工程学院(人工智能学院)重庆市高校智能汽车网联协同与安全重点实验室科研助理招聘信息 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3038114)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子进店就要买300克黄金价值近30万元 店主当即报警](https://m.163.com/news/article/L2NCGN0C0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[双胞胎兄弟被同一大学同专业录取 两人高考分数差1分](https://m.163.com/news/article/L2MPFQME051492LM.html)
+[广州一家服装厂意外走红：暑假可免费托管、带薪陪娃](https://m.163.com/news/article/L2P6J9JB0514R9OJ.html)
 
-[LV又起诉厦门一楼盘：小区四叶雕花装饰与其商标近似](https://m.163.com/news/article/L2NK0APM0550B6IS.html)
+[6岁女童被指接受基因编辑试验后死亡 院方：全面调查](https://m.163.com/news/article/L2P1KBC80534A4SC.html)
+
+[24岁女孩做正颌手术被做反：要恢复原样至少要花30万](https://m.163.com/news/article/L2OPMU3B05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子在饮品店匿名下单：每天30杯冰鲜柠檬水免费领取](https://m.163.com/news/article/L2NGO6UD051492T3.html)
+[男子16年前跳江救下2岁女童 获救女孩今年考上了北大](https://m.163.com/news/article/L2OHUKP60550A0OW.html)
 
 ---end---
