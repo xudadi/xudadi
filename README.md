@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-26 09:15:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-26 12:57:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市礼嘉中学校招聘高中物理、化学教师、德育干事、校医等合同制岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3037774)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学自动化学院系统智能与控制研究所劳务派遣工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3038066)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[吴新锋教授不幸去世年仅43岁 绝笔信公开令人动容](https://m.163.com/news/article/L2M5RSSH053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子用餐时肚子突然变大 饭店女员工三句话抢回一条命](https://m.163.com/news/article/L2M3CQ170514R9OJ.html)
+[女子进店就要买300克黄金价值近30万元 店主当即报警](https://m.163.com/news/article/L2NCGN0C0514R9OJ.html)
 
-[19岁少女中暑从大桥坠湖昏迷 靠泡沫凉鞋浮力漂浮获救](https://m.163.com/news/article/L2M013EK05345ARG.html)
+[双胞胎兄弟被同一大学同专业录取 两人高考分数差1分](https://m.163.com/news/article/L2MPFQME051492LM.html)
+
+[LV又起诉厦门一楼盘：小区四叶雕花装饰与其商标近似](https://m.163.com/news/article/L2NK0APM0550B6IS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[派出所副所长被指处置卖淫案徇私枉法 被判无罪遭抗诉](https://m.163.com/news/article/L2M6NVFO05561G0D.html)
+[男子在饮品店匿名下单：每天30杯冰鲜柠檬水免费领取](https://m.163.com/news/article/L2NGO6UD051492T3.html)
 
 ---end---
