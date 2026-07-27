@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-27 15:51:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-27 19:21:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招商车研工程技术研发中心招聘系统开发工程师、仿真工程师等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3038930)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市双桥经开区人民医院医共体 大足区通桥卫生院公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3039762)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[一家三口露营亲历景区山洪：刚上岸 车就被洪水冲走了](https://m.163.com/news/article/L2R3UALJ0512D3VJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[重庆山体崩塌救援现场发现人体残骸 正确认身份](https://m.163.com/news/article/L2R2T3R40530WJIN.html)
+[23岁男子海边游泳溺亡 沙滩管理方：有警示不适宜下海](https://m.163.com/news/article/L2RIKL660534P59R.html)
 
-[科创板最大IPO长鑫科技今上市 厂区周边酒店一房难求](https://m.163.com/news/article/L2PH7GO6053469RG.html)
+[57岁处级干部每天11点准时"消失" 全科室却视而不见](https://m.163.com/news/article/L2PJRTEK05149E7M.html)
+
+[6岁女童接受基因编辑治疗后死亡 卫健部门已介入调查](https://m.163.com/news/article/L2RFFKM605149E7M.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[重庆山体崩塌灾害救援现场发现失联客运中巴车残骸](https://m.163.com/news/article/L2QV8KQ50001899O.html)
+[中纪委一周两次"三连发" 六"虎"被处理](https://m.163.com/news/article/L2RH0KNH055040N3.html)
 
 ---end---
