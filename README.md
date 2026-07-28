@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-28 09:04:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-28 12:27:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆旅游资产管理有限公司金刀峡分公司酒店中控室值班员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3041167)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市巴南职业教育中心派遣员工招聘信息！（语文、数学、体育教师） (重庆市公考雷达)](https://www.gongkaoleida.com/article/3041724)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[新租客打扫卫生 卧室柜子上掉落4万现金和4个银行封条](https://m.163.com/news/article/L2SK43BJ0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[河南基层招录两场考试有考生13天提高近30分 官方调查](https://m.163.com/news/article/L2SDTBHU0514BE2Q.html)
+[LV集团首回应在华诉讼争议：会全力保护好我们的品牌](https://m.163.com/news/article/L2TLDAUE0512B07B.html)
 
-[上市首日即改写A股历史 长鑫科技打出三张"王牌"](https://m.163.com/news/article/L2SD0JB0055040N3.html)
+[公职人员被举报以2元买走价值8亿元股权 河北衡水通报](https://m.163.com/news/article/L2TICHP40514R9OJ.html)
+
+[王虹得奖后报告现场座无虚席 导师笑着在门外扒窗聆听](https://m.163.com/news/article/L2TF16MV051494GR.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高考699分女生被清华大学录取 被称"女版庞众望"](https://m.163.com/news/article/L2SFR64B051492T3.html)
+[860元1晚的酒店凌晨定时关闭中央空调 住客多次被热醒](https://m.163.com/news/article/L2RRT63905509IQZ.html)
 
 ---end---
