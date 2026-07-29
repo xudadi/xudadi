@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-29 21:23:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-29 23:28:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆信息与智慧医学研究院管理人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3045533)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆万州商贸中等专业学校2026年编外用工人员招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3045987)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[博主以发“罗大美”遗照为诱饵引流 罗大美妹妹发声](https://m.163.com/news/article/L30Q2J8Q053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[南京大屠杀亲历者:当时怀孕血流满地 日本人当我死了](https://m.163.com/news/article/L310E54O05129QAF.html)
+[湖北中考仅261分女孩今年高考考了611分 本人回应](https://m.163.com/news/article/L31HE2E7053469LG.html)
 
-[月租600的屋里 扛钢管的妈妈收到女儿的北大录取短信](https://m.163.com/news/article/L3108FGS0514D3UH.html)
+[莫氏鸡煲老板参加节目被淘汰 首次公开秘制汤底材料](https://m.163.com/news/article/L31FUC4F0514CRLH.html)
+
+[20岁女子18楼坠下生还 事后男友让还恋爱期1万元开销](https://m.163.com/news/article/L31E513V0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[18岁女儿被北大录取 单亲妈妈在工地上被扣件砸了鼻梁](https://m.163.com/news/article/L30LDTG60514D3UH.html)
+[孕妇疑饮用变质牛奶后突发急性肠胃炎 涉事企业回应](https://m.163.com/news/article/L31DBUUB0514R9P4.html)
 
 ---end---
