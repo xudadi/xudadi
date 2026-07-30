@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-30 09:02:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-30 12:20:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆万州商贸中等专业学校2026年编外用工人员招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3045987)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业飞驶特公司招聘派往某国有企业 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3046912)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[湖北中考仅261分女孩今年高考考了611分 本人回应](https://m.163.com/news/article/L31HE2E7053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[莫氏鸡煲老板参加节目被淘汰 首次公开秘制汤底材料](https://m.163.com/news/article/L31FUC4F0514CRLH.html)
+["1.5万机票退票仅退400多元"最新进展：票款全额退还](https://m.163.com/news/article/L321BNHB053469LG.html)
 
-[长鑫市值破3.5万亿 一项目上千套房源被员工批量买走](https://m.163.com/news/article/L31E9KIO0512B07B.html)
+[女子为救患癌女儿直播带货 女儿去世后粉丝数涨到43万](https://m.163.com/news/article/L32S0DE80512D3VJ.html)
+
+[女孩摆拍盲道被撞 警方公布调查细节](https://m.163.com/news/article/L32OCJJV05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[20岁女子18楼坠下生还 事后男友让还恋爱期1万元开销](https://m.163.com/news/article/L31E513V0514D3UH.html)
+[长鑫科技上市有人首日抛售赚15万 有人坚称"三年不卖"](https://m.163.com/news/article/L31KUUPN051492T3.html)
 
 ---end---
