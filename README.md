@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-30 21:14:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-30 23:25:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘外派至中铁建重庆石化销售有限公司加油员 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3046915)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[外派至某国有企业智慧运维专组人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3048679)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[博主"听泉赏宝"否认炒股亏光父母积蓄遭拉黑 本人回应](https://m.163.com/news/article/L33IQ3O80530JPVV.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[上海一女警撞脸女明星邱淑贞网友直言"神了" 本人回应](https://m.163.com/news/article/L33HS1JQ055040N3.html)
+[司机把商品车从河南开西藏 约定运费10300仅预付5000](https://m.163.com/news/article/L341M08L05561G0D.html)
 
-[西安一景点猫石像被游客摸到发亮 景区回应](https://m.163.com/news/article/L33FR42L053469M5.html)
+[男子醉酒后开"智驾"高速狂飙 行驶中睡着引发连环追尾](https://m.163.com/news/article/L341L1II05561G0D.html)
+
+[女店主洪水中开门救下6条人命 一百多万的家当全没了](https://m.163.com/news/article/L33K6CR1055280CT.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[山西长治原市长陈向阳被查 任上发生致82死矿难](https://m.163.com/news/article/L33E8RJG0534A4SC.html)
+[男子火车上弄丢白色行李箱：装有4件乾隆时期瓷器](https://m.163.com/news/article/L33RH1LH055040N3.html)
 
 ---end---
