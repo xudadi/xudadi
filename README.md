@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-31 08:01:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-31 11:49:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[外派至某国有企业智慧运维专组人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3048679)
+[重庆市健康资源创新研究院2026年度第二批非编人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3049097)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
