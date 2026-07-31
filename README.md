@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-07-31 19:48:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-07-31 22:07:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[陆海新通道运营重庆有限公司2026年第三季度招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3050300)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆长江轴承股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3051109)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女童站引擎盖拍照划伤他人汽车 车主：其家属置之不理](https://m.163.com/news/article/L341M84U0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[截至2025年末 中国60周岁及以上老年人口超3.23亿人](https://m.163.com/news/article/L367L4GT000189PS.html)
+[小区火灾被困4楼母女坠楼女童身亡 当地回应网友质疑](https://m.163.com/news/article/L36P442M053469KC.html)
 
-[男子恶意撞死邻居家高三学生 被维持死刑判决](https://m.163.com/news/article/L363F2RO05345ARG.html)
+[山西文水拟对采石企业资源整合 涉黑企业入选保留名单](https://m.163.com/news/article/L36EDR0C051492T3.html)
+
+[陈新武任重庆市代市长 曾任湖北省发改委主任](https://m.163.com/news/article/L36HAUE40530M570.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[15岁女孩凌晨和朋友在景区游玩 脚下木板裂开落水溺亡](https://m.163.com/news/article/L341VHG50534P59R.html)
+[敦煌：外籍主播古爱华已放弃聘任资格](https://m.163.com/news/article/L36N5M0I000189PS.html)
 
 ---end---
