@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-03 08:05:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-03 11:54:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长江轴承股份有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3051109)
+[西南政法大学宣传部劳务派遣人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3052424)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
