@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-03 21:40:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-04 00:07:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业飞驶特公司招聘派往重庆市南岸区某小学英语教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3054408)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆都梁城工高新科技集团有限公司2026年上半年员额内员工人才引进招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3054790)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女儿考上北大闪送员车上挂饮料请路人喝 平台方发声](https://m.163.com/news/article/L3DV4O7305345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["投资100万最少拿回400万"无法兑现 "投资者"当场昏倒](https://m.163.com/news/article/L3DQ9M8G0001899O.html)
+[男子酒店睡觉被虫子咬醒 开灯后发现床上散布多只床虱](https://m.163.com/news/article/L3D5RVPR05149PH8.html)
 
-[多个省级党委领导班子调整 中央委员担任省委书记](https://m.163.com/news/article/L3DGDES0055040N3.html)
+[男子被蚊子叮咬流血1小时止不住 反问医生"不会死吧"](https://m.163.com/news/article/L3EDESMO053469LG.html)
+
+["全世界最丑小狗"花花爆红后被新主人买走 农场方回应](https://m.163.com/news/article/L3EDESML053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[中纪委同日处理两"虎" 71岁的女官员被指退而不休](https://m.163.com/news/article/L3DCPV01055040N3.html)
+[贵州凯里4岁自闭症男童走失3天 街道办回应](https://m.163.com/news/article/L3EB2INH051492T3.html)
 
 ---end---
