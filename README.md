@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-03 15:26:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-03 18:54:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[西南政法大学宣传部劳务派遣人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3052424)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[“重庆人力”所属企业飞驶特公司招聘派往重庆市南岸区某小学英语教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3054408)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[乘客从拉萨回南京全程45小时 坐33小时到西安列车折返](https://m.163.com/news/article/L3B7DFSI053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[申请销毁丈夫婚外胚胎遭拒 妻子罕见笑了:女儿考上一本](https://m.163.com/news/article/L3AS1B4E053469LG.html)
+[女儿考上北大闪送员车上挂饮料请路人喝 平台方发声](https://m.163.com/news/article/L3DV4O7305345ARG.html)
 
-[杭州男子做代驾10分钟的路开了1小时 乘客却为他点赞](https://m.163.com/news/article/L3AG57PO0514R9OJ.html)
+["投资100万最少拿回400万"无法兑现 "投资者"当场昏倒](https://m.163.com/news/article/L3DQ9M8G0001899O.html)
+
+[多个省级党委领导班子调整 中央委员担任省委书记](https://m.163.com/news/article/L3DGDES0055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[亲人车祸出院次日离世 未尸检就被火化遭保险公司拒赔](https://m.163.com/news/article/L3B2VM4405345ARG.html)
+[中纪委同日处理两"虎" 71岁的女官员被指退而不休](https://m.163.com/news/article/L3DCPV01055040N3.html)
 
 ---end---
