@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-04 09:06:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-04 12:30:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆都梁城工高新科技集团有限公司2026年上半年员额内员工人才引进招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3054790)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市大足区事业单位面向2026年应届毕业公费师范生、公费医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3055528)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子酒店睡觉被虫子咬醒 开灯后发现床上散布多只床虱](https://m.163.com/news/article/L3D5RVPR05149PH8.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[银鹭与男子因兑奖发生纠纷后 转账1万元并附言"敲诈"](https://m.163.com/news/article/L3EF9BJU053469LG.html)
+[精神科医生"十级美颜"证件照已更换为素颜照 同事发声](https://m.163.com/news/article/L3EPJVLK053469LG.html)
 
-[男子被蚊子叮咬流血1小时止不住 反问医生"不会死吧"](https://m.163.com/news/article/L3EDESMO053469LG.html)
+[甘肃数百名村民出现饮水困难 只能靠背水拉水维持生计](https://m.163.com/news/article/L3E06H630514R9P4.html)
+
+[男生被人冒充警察骗出家门殴打 涉案多人移送审查起诉](https://m.163.com/news/article/L3EF0I2505345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["全世界最丑小狗"花花爆红后被新主人买走 农场方回应](https://m.163.com/news/article/L3EDESML053469LG.html)
+[加油站被指"提枪未加油、数值自动增长" 公安机关介入](https://m.163.com/news/article/L3EM8UKD0550AVKV.html)
 
 ---end---
