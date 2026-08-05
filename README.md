@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-05 14:11:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-05 17:06:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[​重庆飞驶特人力资源管理有限公司派往重庆仲裁委员会办公室工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3057315)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[奉节县人民法院2026年度公开招聘聘用制书记员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3057979)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子就餐时踩空台阶摔伤错失入职机会 索赔4万误工费](https://m.163.com/news/article/L3H9VTKF0514AM4I.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女孩被老师"妈妈"抚养8年后考上师范 曾在床头放菜刀](https://m.163.com/news/article/L3HALF990514D3UH.html)
+[女子被五步蛇咬伤手指家属划开伤口放血 手指彻底坏死](https://m.163.com/news/article/L3IN7EQN05345ARG.html)
 
-[乘客投诉绕路遭出租车司机持铁棍殴打 太原警方通报](https://m.163.com/news/article/L3HJ7NJ8051492LM.html)
+[男子因感情问题杀害女友曾获无罪 最高检抗诉凶手改判](https://m.163.com/news/article/L3ISG9SB051492T3.html)
 
-[教招笔试第一名遭"老师"传话：选其他地方 给你几万块](https://m.163.com/news/article/L3H8LU9805561G0D.html)
+[迅雷被广电总局纳入重点监测平台](https://m.163.com/news/article/L3J17J9P000189PS.html)
 
-[3岁罕见病女孩接受冻卵巢手术 妈妈:给她选择未来权利](https://m.163.com/news/article/L3H4K94205345ARG.html)
+[3](https://m.163.com/touch/news/sub/domestic)
+
+[西安赛格商户坠亡 调查结果公布](https://m.163.com/news/article/L3J0BMOI0001899O.html)
 
 ---end---
