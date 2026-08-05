@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-05 08:14:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-05 11:37:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆仲裁委员会办公室工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3057315)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[​重庆飞驶特人力资源管理有限公司派往重庆仲裁委员会办公室工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3057315)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[18岁小伙跳江救人错过求职面试：晚点过去 我在救人](https://m.163.com/news/article/L3H44LMK05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["婚外胚胎案"妻子:气得胃痉挛 不在乎他们要生几个](https://m.163.com/news/article/L3H19O0C053469LG.html)
+[女子就餐时踩空台阶摔伤错失入职机会 索赔4万误工费](https://m.163.com/news/article/L3H9VTKF0514AM4I.html)
 
-[国家邮政局依法对申通快递立案调查 申通回应](https://m.163.com/news/article/L3GTAONS0512B07B.html)
+[女孩被老师"妈妈"抚养8年后考上师范 曾在床头放菜刀](https://m.163.com/news/article/L3HALF990514D3UH.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[乘客投诉绕路遭出租车司机持铁棍殴打 太原警方通报](https://m.163.com/news/article/L3HJ7NJ8051492LM.html)
 
-[22岁女孩游南太行失联8天 监控全程未捕捉到女孩踪迹](https://m.163.com/news/article/L3GOH1IK05561G0D.html)
+[教招笔试第一名遭"老师"传话：选其他地方 给你几万块](https://m.163.com/news/article/L3H8LU9805561G0D.html)
+
+[3岁罕见病女孩接受冻卵巢手术 妈妈:给她选择未来权利](https://m.163.com/news/article/L3H4K94205345ARG.html)
 
 ---end---
