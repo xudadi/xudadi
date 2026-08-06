@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-06 14:14:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-06 17:09:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往派往重庆市南岸区某小学数学教师招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3060138)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆建筑工程职业学院招聘非事业编制(合同制)工作人员公告(2026年第二批) (重庆市公考雷达)](https://www.gongkaoleida.com/article/3060653)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[于东来：2030年后停止所有经营项目发展](https://m.163.com/news/article/L3J0BMBH05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[游客伊犁遭遇奇葩账单：睡车里被酒店收150元"住宿费"](https://m.163.com/news/article/L3J32IA80530RMGL.html)
+[36岁女子做抽脂手术身亡留下两娃 手术持续近9个小时](https://m.163.com/news/article/L3JDHRCK0530JPVV.html)
 
-[中传多个专业取消艺考 将按高考文化课成绩录取](https://m.163.com/news/article/L3JR2MPC051492LM.html)
+[人贩子"梅姨"审判时或超75岁 律师：不适用死刑](https://m.163.com/news/article/L3LE0VGC053469LG.html)
+
+[被梅姨拐卖儿童钟彬已被养父母拉黑:亲生的就是亲生的](https://m.163.com/news/article/L3LDDQC2053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[三台风会否影响中国 最新路径研判来了](https://m.163.com/news/article/L3KSKUMI0514R9KQ.html)
+[80后女柜员"逆袭"成4200亿银行副行长 该行行长才40岁](https://m.163.com/news/article/L3LBGV7E05561G0D.html)
 
 ---end---
