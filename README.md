@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-07 20:08:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-07 21:38:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市律师协会南岸区律师工作委员会工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3062830)
+[重庆新华海业印务有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3064010)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
