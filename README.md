@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-07 14:46:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-07 16:14:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市彭水自治县事业单位面向2026年应届毕业公费师范生、订单定向医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3062274)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆市律师协会南岸区律师工作委员会工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3062830)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子赴曼谷收"生意回款"失联超50天 姐姐孤身赴泰寻弟](https://m.163.com/news/article/L3NK4B8P051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子杀人后逃进深山21年活得像野人 语言功能严重退化](https://m.163.com/news/article/L3MDJK3R053469LG.html)
+[中学教师招聘笔试前13名被淘汰后5名进体检 官方通报](https://m.163.com/news/article/L3NUTG65053469LG.html)
 
-[医院2.33亿元工程串标案细节披露：四人在厕所内协商](https://m.163.com/news/article/L3ND9GTU0514R9P4.html)
+[自称有渠道 广州自媒体比官方提前公布中考录取分数线](https://m.163.com/news/article/L3NFRD3805129QAF.html)
+
+[四川宜宾市高县发生4.9级地震 震源深度6千米](https://m.163.com/news/article/L3NV19OT0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子花1万8千余元购买机票 退票至今仅收到420元退款](https://m.163.com/news/article/L3MG1KM90534P59R.html)
+[西贝提出"儿童餐5大安心承诺" 门店:不再用冷冻西蓝花](https://m.163.com/news/article/L3NTEDS6053469LG.html)
 
 ---end---
