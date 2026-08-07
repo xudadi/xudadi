@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-07 08:39:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-07 11:38:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市规划展览馆（重庆市规划研究中心）招聘文创研发设计领域工作人员（合同聘用制）公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3061147)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市彭水自治县事业单位面向2026年应届毕业公费师范生、订单定向医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3062274)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[楼顶石棉瓦坠落致人身亡23名房主成被告 3人被判担责](https://m.163.com/news/article/L3MEPLNQ05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["游客睡车上被收150元住宿费"疑反转 酒店方公开辟谣](https://m.163.com/news/article/L3N9D7HK0514CFC7.html)
+[男子赴曼谷收"生意回款"失联超50天 姐姐孤身赴泰寻弟](https://m.163.com/news/article/L3NK4B8P051492T3.html)
 
-[许家印买下的"恒大虹桥国际"将拍卖 起拍价高达78.4亿](https://m.163.com/news/article/L3MLD9K00512B07B.html)
+[男子杀人后逃进深山21年活得像野人 语言功能严重退化](https://m.163.com/news/article/L3MDJK3R053469LG.html)
+
+[医院2.33亿元工程串标案细节披露：四人在厕所内协商](https://m.163.com/news/article/L3ND9GTU0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[画"梅姨"7年专家想看看她真实模样：看看究竟有几分像](https://m.163.com/news/article/L3M1O56000019SNS.html)
+[男子花1万8千余元购买机票 退票至今仅收到420元退款](https://m.163.com/news/article/L3MG1KM90534P59R.html)
 
 ---end---
