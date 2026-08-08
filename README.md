@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-08 20:03:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-08 21:12:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市两江新区空港实验中学校2026年8月编外教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3064504)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[顺风车司机找到乘客手机后索要1888元:处理不好就拔卡](https://m.163.com/news/article/L3Q701CQ0530JPVV.html)
+[高考616分准大学生酷暑跑外卖：目标5000元 升级电脑](https://m.163.com/news/article/L3R25C86053469LG.html)
 
-[中国驻泰国使馆：希望中国公民在泰理性有序参与活动](https://m.163.com/news/article/L3QGGJJM0534A4SC.html)
+[情侣在酒店半夜熟睡遭陌生男闯入 当事人：伴侣被看光](https://m.163.com/news/article/L3NONARK05561G0D.html)
 
-[杉杉股份被起诉追债近20亿 郑永刚遗孀周婷及儿子卷入](https://m.163.com/news/article/L3QBA5OB051492T3.html)
+[广州女子健身房里因教练失手被踏板砸中 涉事门店回应](https://m.163.com/news/article/L3QOEPHE05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网约车司机充电时猝死遭险司拒赔 家属起诉获赔60万元](https://m.163.com/news/article/L3Q73FFT05345ARG.html)
+[南航一航班乘客食用飞机餐闹肚子 厕所外一度排长队](https://m.163.com/news/article/L3QFGSMR05561G0D.html)
 
 ---end---
