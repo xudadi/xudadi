@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-10 20:01:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-10 21:43:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆青年职业技术学院2026年考核招聘事业单位工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3066250)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市潼南区事业单位2026年面向服务期满且考核合格“特岗计划”教师、应届毕业公费师范生、农村订单定向医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3067407)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[商界名流花108万参加牛津项目:宿舍没矿泉水 床咯吱响](https://m.163.com/news/article/L3VS38HQ05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[独闯南太行失联14天的女生找到 遗体在悬崖附近被发现](https://m.163.com/news/article/L3VS1SHN053469LG.html)
+[道路积水倒灌上海一小区 3000多辆车“紧急转移”](https://m.163.com/news/article/L409H9MD055040N3.html)
 
-[相声演员李晓龙因病去世年仅38岁 搭档悼念](https://m.163.com/news/article/L3VS1SHM053469LG.html)
+["50人炒股群除自己全是托儿" 深圳女子差点被骗光积蓄](https://m.163.com/news/article/L405TQUO053469LG.html)
+
+[罗永浩谈费大厨口号争议：营销宣传不老实 活该挨收拾](https://m.163.com/news/article/L4058QD7053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["婚外胚胎案"当事人朱女士：担心会影响女儿的婚恋观](https://m.163.com/news/article/L3VOJILF0514D3UH.html)
+[独闯南太行女子身亡 村民：挖野菜在崖顶发现她背包](https://m.163.com/news/article/L400TA8O051492T3.html)
 
 ---end---
