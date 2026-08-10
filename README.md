@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-11 02:34:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-11 03:42:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区事业单位2026年面向服务期满且考核合格“特岗计划”教师、应届毕业公费师范生、农村订单定向医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3067407)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市专业应急救援云阳支队2026年公开招聘专职人员和炊事员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3067408)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[道路积水倒灌上海一小区 3000多辆车“紧急转移”](https://m.163.com/news/article/L409H9MD055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["50人炒股群除自己全是托儿" 深圳女子差点被骗光积蓄](https://m.163.com/news/article/L405TQUO053469LG.html)
+[豆包被指推荐酒店抽取12%佣金 多家酒店回应](https://m.163.com/news/article/L40IJVAQ0534A4SC.html)
 
-[罗永浩谈费大厨口号争议：营销宣传不老实 活该挨收拾](https://m.163.com/news/article/L4058QD7053469LG.html)
+[易烊千玺获百花奖最佳男主角 卫诗雅拿下最佳女主角奖](https://m.163.com/news/article/L40II0LG053469LG.html)
+
+[谢婷婷晒照怀念谢贤：生日快乐 谢谢你成为我的爸爸](https://m.163.com/news/article/L40EOURB0550A0OW.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[独闯南太行女子身亡 村民：挖野菜在崖顶发现她背包](https://m.163.com/news/article/L400TA8O051492T3.html)
+[上海129处积水点抢排中 苏州河水首次人工翻泄黄浦江](https://m.163.com/news/article/L409H9NQ055040N3.html)
 
 ---end---
