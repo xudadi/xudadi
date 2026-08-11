@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-11 19:56:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-11 21:11:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆长寿保安服务集团有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3068800)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市秀山自治县事业单位面向2026年应届毕业公费师范生、农村订单定向医学生、服务期满特岗教师考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3069821)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[2岁男童呕吐看急诊后去世 医生被羁押1年：认错不认罪](https://m.163.com/news/article/L4249GB1055040N3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[世界小姐已被撕票 嫌犯还有另一宗更广为人知绑架案](https://m.163.com/news/article/L41QV8LO0534A4SC.html)
+[男子朋友圈谈教体局长免职被拘 申请公开追责结果被驳](https://m.163.com/news/article/L42OV53905561G0D.html)
 
-["女子花3万买宝鸡40平米住房"上热搜：装修花费4万多](https://m.163.com/news/article/L40NTMTU051492T3.html)
+[台风过境之后的台州:被一米多深积水影响的商户正清扫](https://m.163.com/news/article/L42TUDS3053469LG.html)
+
+[父亲去世母亲离开后 8岁女孩遇见愿做她"妈妈"的老师](https://m.163.com/news/article/L41OJPBA0512D3VJ.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[不满房东暴力涨租 于东来宣布关掉老店自掏65亿建商场](https://m.163.com/news/article/L41L8IFS0530KP1K.html)
+[36岁网红为救父亲氨气中毒去世 姐姐：没能见最后一面](https://m.163.com/news/article/L42OR9OH053469LG.html)
 
 ---end---
