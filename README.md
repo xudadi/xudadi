@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-11 08:33:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-11 10:52:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市专业应急救援云阳支队2026年公开招聘专职人员和炊事员的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3067408)
+[重庆市潼南区事业单位2026年面向服务期满且考核合格“特岗计划”教师、应届毕业公费师范生、农村订单定向医学生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3067407)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
