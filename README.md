@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-12 19:58:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-12 21:34:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市沙坪坝区曙光幼儿园招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3071131)
+[重庆市第十一中学校高中教师招聘公告（非编制） (重庆市公考雷达)](https://www.gongkaoleida.com/article/3071977)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
