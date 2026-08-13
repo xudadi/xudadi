@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-13 13:58:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-13 15:45:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆三耐科技有限责任公司招聘质检员、制壳涂料工等岗位 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3072672)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆医科大学附属永川医院心血管病重点实验室科研助理招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3073447)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[17岁少年徒步失联两个多月 警方：事发区域有野兽出没](https://m.163.com/news/article/L45LUPA105561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[母亲称4岁三胞胎姐妹遭保姆婚外男友猥亵 警方回应](https://m.163.com/news/article/L45RDOCL0001899O.html)
+[河南郏县长桥镇北汝河段民堤溃口 暂无人员伤亡](https://m.163.com/news/article/L47HPMBN0001899O.html)
 
-[10个中国宝妈带娃坐火车去罗马:单程33天 每家约花8万](https://m.163.com/news/article/L45OBL8N053469LG.html)
+[山西五台一名4岁男童在家门口失踪超18小时 家属发声](https://m.163.com/news/article/L47F9ERS053469LG.html)
+
+[男子为侄女上学借房给弟弟 房子竟被其低价"偷卖"过户](https://m.163.com/news/article/L47B9MBF05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女外卖员台风天送单半路把娃托给超市 店主看娃4小时](https://m.163.com/news/article/L45N50O000019SNS.html)
+[广东20岁大学生在龙斗峰失联近3个月 父母悬赏3万寻人](https://m.163.com/news/article/L474544K05345ARG.html)
 
 ---end---
