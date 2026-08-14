@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-14 19:57:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-14 21:16:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市綦江区教育事业单位2026年面向应届毕业公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3073587)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市汽车运输（集团）有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3076148)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[顾客221元订酒店 商家仅获40.67元:订单底价高达1573元](https://m.163.com/news/article/L4840B9N05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[举报哥哥冒用身份上大学的弟弟再发声:从没想过报复他](https://m.163.com/news/article/L47J42AA05561G0D.html)
+[父亲来杭州养老走失14小时 女儿找了1夜哭着憋出3个字](https://m.163.com/news/article/L49IAM160514R9OJ.html)
 
-[烤猪蹄店自动回复引大量辱骂 店主晒完整记录后反转](https://m.163.com/news/article/L48078SU0514D3UH.html)
+[男子忘记挪车一觉醒来傻眼:四扇车门坑坑洼洼惨不忍睹](https://m.163.com/news/article/L49F7MGC053469LG.html)
+
+[数学天才"陨落"直播间卖课 曾获国际奥数金牌保送北大](https://m.163.com/news/article/L4812PIU053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子网贷遇"砍头息" 借2497到手1692年化利率高达580%](https://m.163.com/news/article/L482PLFE05561G0D.html)
+[追觅卖出首台手机售价超20万元 背面有创始人俞浩签名](https://m.163.com/news/article/L49UQQUG051492T3.html)
 
 ---end---
