@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-15 02:26:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-15 03:29:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市汽车运输（集团）有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3076148)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[父亲来杭州养老走失14小时 女儿找了1夜哭着憋出3个字](https://m.163.com/news/article/L49IAM160514R9OJ.html)
+[老人被撞身亡肇事车仅有交强险 司机当庭称没能力赔偿](https://m.163.com/news/article/L4A4A44805561G0D.html)
 
-[男子忘记挪车一觉醒来傻眼:四扇车门坑坑洼洼惨不忍睹](https://m.163.com/news/article/L49F7MGC053469LG.html)
+[外卖员台风天送货翻车弯腰3小时水中找手机 身世不幸](https://m.163.com/news/article/L4AFI03005345ARG.html)
 
-[数学天才"陨落"直播间卖课 曾获国际奥数金牌保送北大](https://m.163.com/news/article/L4812PIU053469LG.html)
+[胖东来许昌将闭店 附近摊贩：要是闭店了我们也歇着了](https://m.163.com/news/article/L4B0MA0B0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[追觅卖出首台手机售价超20万元 背面有创始人俞浩签名](https://m.163.com/news/article/L49UQQUG051492T3.html)
+[儿子去世后老人诉孙子非亲生被驳回 家属:一句话起疑心](https://m.163.com/news/article/L4B0HBMO0001899O.html)
 
 ---end---
