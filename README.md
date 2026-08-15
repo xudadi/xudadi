@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-16 01:49:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-16 02:29:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市汽车运输（集团）有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3076148)
+[重庆市沙坪坝区树人和平小学数学教师招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3077199)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
