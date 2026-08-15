@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-15 07:51:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-15 09:14:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市汽车运输（集团）有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3076148)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[老人被撞身亡肇事车仅有交强险 司机当庭称没能力赔偿](https://m.163.com/news/article/L4A4A44805561G0D.html)
+[深圳一酒吧多名女子穿近似海航空姐制服跳舞 海航发声](https://m.163.com/news/article/L4AUMBIU05561G0D.html)
 
-[外卖员台风天送货翻车弯腰3小时水中找手机 身世不幸](https://m.163.com/news/article/L4AFI03005345ARG.html)
+[老师教室被叫外号当众打错学生被行拘3天 当地回应](https://m.163.com/news/article/L4B1360E05561G0D.html)
 
-[胖东来许昌将闭店 附近摊贩：要是闭店了我们也歇着了](https://m.163.com/news/article/L4B0MA0B0001899O.html)
+[东北雨姐电商大楼拟挂牌出售 出让价3500万元](https://m.163.com/news/article/L4AREH7K053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[儿子去世后老人诉孙子非亲生被驳回 家属:一句话起疑心](https://m.163.com/news/article/L4B0HBMO0001899O.html)
+[99岁独居老人去世:曾称日子太苦不想活 后改口舍不得死](https://m.163.com/news/article/L4AD7JN905506O99.html)
 
 ---end---
