@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-17 19:59:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-17 20:59:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆通用工业（集团）有限责任公司招聘质量工程师、信息化技术员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3078844)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆设计集团有限公司城市建设策略研究院2026年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3080182)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[游戏主播家里电信千兆宽带被限速 电信上门确认未违规](https://m.163.com/news/article/L4F20EPJ05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[摩根大通：明年或爆发全球粮食危机](https://m.163.com/news/article/L4F7CJ9T05198CJN.html)
+[男子因阻拦违法开采涉寻衅滋事获刑 申诉获省高院受理](https://m.163.com/news/article/L4IDSP270514R9P4.html)
 
-[男子选择读研与中学解约 支付5万元违约金后起诉校方](https://m.163.com/news/article/L4F7EF6V0514BE2Q.html)
+[宇树科技：将于8月19日科创板上市](https://m.163.com/news/article/L4IET0AC0534A4SC.html)
+
+[男子办理失业保险发现自己07年已经"死亡" 派出所回应](https://m.163.com/news/article/L4ICJSPU0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["借道"中国转运70公斤毒品 2名外籍过境人员获刑](https://m.163.com/news/article/L4F4KUCT0514R9OJ.html)
+[李书福辞任吉利汽车董事会主席](https://m.163.com/news/article/L4I1P33B0001899O.html)
 
 ---end---
