@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-18 20:46:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-18 21:41:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[开放星湖 | 两江新区星湖学校招聘优秀教师简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3081688)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市蓝光小学校学科教师招聘启事（音乐  、体育教师） (重庆市公考雷达)](https://www.gongkaoleida.com/article/3082886)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[年销20亿元胖东来门店主动闭店 大批民众奔赴抢购囤货](https://m.163.com/news/article/L4IO1UTG0514D3UH.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["3孩非亲生案"妻子承认出轨 曾以为双胞胎是丈夫亲生](https://m.163.com/news/article/L4IN2BD305345ARG.html)
+["国宝"把蟹塘当食堂每天吃掉三四万块 塘主：扛不住了](https://m.163.com/news/article/L4KP6D8K0530WJIN.html)
 
-[老人放羊走失已近3个月 家属：失踪当天还和老伴通话](https://m.163.com/news/article/L4IE0BQV053469LG.html)
+[武汉教师招聘面试考场被指"泄题":候考室窗户对着考场](https://m.163.com/news/article/L4KQSOQF05561G0D.html)
+
+[蘑菇经AI识别为"无毒" 男子吃完后直接进ICU](https://m.163.com/news/article/L4J3F9I8051492LM.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[幼童弄脏网约车家长被索要清洁费 协商未果遭司机尾随](https://m.163.com/news/article/L4I65DO00534P59R.html)
+[小区保洁向外卖骑手收"过路费" 当地回应：属实已整改](https://m.163.com/news/article/L4KQE3F20514D3UH.html)
 
 ---end---
