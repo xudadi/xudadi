@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-19 06:51:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-19 07:21:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市蓝光小学校学科教师招聘启事（音乐  、体育教师） (重庆市公考雷达)](https://www.gongkaoleida.com/article/3082886)
 
@@ -20,15 +20,5 @@
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
-
-[卖黄金79万货款变"赃款" 商户账户30万被警方直接划走](https://m.163.com/news/article/L4L8M3P105561G0D.html)
-
-[同程机票标注"买新退旧" 女子831元买新机票旧票退0元](https://m.163.com/news/article/L4L1J8TK05561G0D.html)
-
-[河南"最爱发钱老板"出资150万资助380名学子 本人发声](https://m.163.com/news/article/L4KUSQOS053469LG.html)
-
-[3](https://m.163.com/touch/news/sub/domestic)
-
-[房子挂靠481家公司 男子求助撤销被指或影响营商环境](https://m.163.com/news/article/L4KJIHET0530JPVV.html)
 
 ---end---
