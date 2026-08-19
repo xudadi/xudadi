@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-19 19:52:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-19 20:46:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市两江新区金渝学校教育集团公开招聘编外教辅人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3083805)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆碳管家科技股份有限公司2026年第四批次人才派遣招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3085457)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[卖黄金79万货款变"赃款" 商户账户30万被警方直接划走](https://m.163.com/news/article/L4L8M3P105561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[同程机票标注"买新退旧" 女子831元买新机票旧票退0元](https://m.163.com/news/article/L4L1J8TK05561G0D.html)
+[女子在乐山大佛面前漂流自拍 景区管委会：已批评教育](https://m.163.com/news/article/L4NB611Q0514D3UH.html)
 
-[河南"最爱发钱老板"出资150万资助380名学子 本人发声](https://m.163.com/news/article/L4KUSQOS053469LG.html)
+[两尊唐代石狮被人夜间盗走十余年 公安部门悬赏100万](https://m.163.com/news/article/L4NEU8HH0514BE2Q.html)
+
+[多名网友称百度网盘未经授权私自代其报税 平台方回应](https://m.163.com/news/article/L4NEN78J05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[房子挂靠481家公司 男子求助撤销被指或影响营商环境](https://m.163.com/news/article/L4KJIHET0530JPVV.html)
+[看病过程中患者昏迷施救医生被起诉索赔22万 法院判了](https://m.163.com/news/article/L4N1IOG805345ARG.html)
 
 ---end---
