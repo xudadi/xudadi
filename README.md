@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-20 20:03:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-20 21:10:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[“重庆人力”所属企业重庆人才服务股份有限公司九龙坡公司招聘派往重庆市九龙坡区火炬小学校教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3086510)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[人才招聘|校园招聘 期待您的加入 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3087678)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女孩下海遭海蜇蜇伤进ICU 母亲：5米外的救生员未施救](https://m.163.com/news/article/L4NP87AE05345ARG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规](https://m.163.com/news/article/L4NO56QI0001899O.html)
+[网友称"升学宴致5死主家被警方带走" 相关部门回应](https://m.163.com/news/article/L4PR9C3C053469LG.html)
 
-[处长单位门口遭枪击高位截瘫7年后去世 案件25年未破](https://m.163.com/news/article/L4NK38AO05561G0D.html)
+[升学宴墙体倒塌致5死17伤 当地居民:不摆显得不合群](https://m.163.com/news/article/L4PKOTHI05129QAF.html)
+
+[男子酒店房门敞开8小时 全季：再追究下去 你我都不好](https://m.163.com/news/article/L4PLFKV2051494GR.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[广州一人行道树池泥土表面被水泥封死引热议 街道回应](https://m.163.com/news/article/L4NNMNIK05561G0D.html)
+[妇炎洁产品受质疑"私处洗液要闪亮效果干嘛" 客服回应](https://m.163.com/news/article/L4PJ25PR05561G0D.html)
 
 ---end---
