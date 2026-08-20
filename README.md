@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-20 13:59:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-20 14:58:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆交大建设工程质量检测中心有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3085813)
+[“重庆人力”所属企业重庆人才服务股份有限公司九龙坡公司招聘派往重庆市九龙坡区火炬小学校教师 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3086510)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
