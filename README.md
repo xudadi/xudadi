@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-20 07:47:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-20 09:14:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市望江中学校公开招聘编外教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3085600)
+[派往重庆交大建设工程质量检测中心有限公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3085813)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
