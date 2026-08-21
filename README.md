@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-21 20:47:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-21 21:44:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市农业学校关于公开招聘教师的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3088924)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市地质矿产勘查开发集团有限公司华地公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3090090)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[奥运冠军刘虹宣布退役：赛场内外均无遗憾](https://m.163.com/news/article/L4Q653KM0514R9KQ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[情侣礁石拍照坠落1死1伤 有摄影师称“浪越猛越好拍”](https://m.163.com/news/article/L4Q4LTHP053469LG.html)
+[升学宴主办方一家被政府接走 亲戚：厄运专挑苦命人](https://m.163.com/news/article/L4S1E12J05561G0D.html)
 
-[胖东来招刑释人员被骂：排除性侵等恶性犯罪前科人员](https://m.163.com/news/article/L4NR2SVR0550A0OW.html)
+[女子交30万现金买房烂尾 街办不退钱：哪来这么多现金](https://m.163.com/news/article/L4QC3LIT05561G0D.html)
+
+[女子在飞机座位上排泄 乘客：空姐拿纸去擦地上的大便](https://m.163.com/news/article/L4RN65AC05345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[网友称"升学宴致5死主家被警方带走" 相关部门回应](https://m.163.com/news/article/L4PR9C3C053469LG.html)
+[63岁男子误入太行山失联超百天 曾致电妻子称自己坠崖](https://m.163.com/news/article/L4RLCAOP05561G0D.html)
 
 ---end---
