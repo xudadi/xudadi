@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-24 01:45:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-24 02:29:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市蜀都中学校2026年公开招聘编外初中道德与法治教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091738)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[三部门指导地方处置"白菜收购环节蘸取甲醛溶液"问题](https://m.163.com/news/article/L51SADDJ000189PS.html)
+[国铁回应为何不能托管儿童：不具备条件](https://m.163.com/news/article/L524UJ0Q0001899O.html)
 
-[嫦娥七号任务不满足发射条件 不能在今年预定窗口实施](https://m.163.com/news/article/L51SAF6205346RC6.html)
+[海口警方通报：35岁醉酒男子持刀滋事被刑拘](https://m.163.com/news/article/L524O236053469LG.html)
 
-[专家回应"今年台风为何偏多":与厄尔尼诺状态密切相关](https://m.163.com/news/article/L51RFF0K0514R9P4.html)
+[男子把订婚五金调包成"金包银" 又用其典当套现208万](https://m.163.com/news/article/L51E0KMB05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[腋臭医院被指诱导消费 患者咨询称两三千实际收1.7万](https://m.163.com/news/article/L51HLO0C051494GR.html)
+["捂脸跑"机器人火出圈 研发团队：跑姿是它自己"想"的](https://m.163.com/news/article/L5230RF8051492T3.html)
 
 ---end---
