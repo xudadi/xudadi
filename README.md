@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-23 20:39:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-23 21:20:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招聘公告 || 重庆两江育才中学2026年公开招聘编外教辅人员（第二批） (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091446)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市蜀都中学校2026年公开招聘编外初中道德与法治教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091738)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女子放弃地方本科院校从军 8年后军士专升本](https://m.163.com/news/article/L4V1IKFO0514R9OJ.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-["高铁零食占座"女孩母亲：没请到假 儿童不能单独购票](https://m.163.com/news/article/L4VBCLDE051492LM.html)
+[三部门指导地方处置"白菜收购环节蘸取甲醛溶液"问题](https://m.163.com/news/article/L51SADDJ000189PS.html)
 
-[多地技校回击遭"抹黑"：不能靠恶意拉踩等来争抢生源](https://m.163.com/news/article/L4V42PCQ0514R9P4.html)
+[嫦娥七号任务不满足发射条件 不能在今年预定窗口实施](https://m.163.com/news/article/L51SAF6205346RC6.html)
+
+[专家回应"今年台风为何偏多":与厄尔尼诺状态密切相关](https://m.163.com/news/article/L51RFF0K0514R9P4.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[公务员碾死横卧车道醉汉获不起诉但被撤职 本人再申诉](https://m.163.com/news/article/L4V1SP9205129QAF.html)
+[腋臭医院被指诱导消费 患者咨询称两三千实际收1.7万](https://m.163.com/news/article/L51HLO0C051494GR.html)
 
 ---end---
