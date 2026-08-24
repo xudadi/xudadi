@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-24 19:56:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-24 20:55:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[陆海新通道运营重庆有限公司2026年第三季度招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3092454)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆设计集团工程检测科技有限公司2026年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3094464)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[国铁回应为何不能托管儿童：不具备条件](https://m.163.com/news/article/L524UJ0Q0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[海口警方通报：35岁醉酒男子持刀滋事被刑拘](https://m.163.com/news/article/L524O236053469LG.html)
+[女游客在青岛一公园拒搭讪后遭辱骂 涉事男子被拘十日](https://m.163.com/news/article/L54F9Q7O0001899O.html)
 
-[男子把订婚五金调包成"金包银" 又用其典当套现208万](https://m.163.com/news/article/L51E0KMB05561G0D.html)
+[涉四宗罪陕北"孙小果案"二审宣判：维持一审死刑判决](https://m.163.com/news/article/L548PC3P051492T3.html)
 
-["捂脸跑"机器人火出圈 研发团队：跑姿是它自己"想"的](https://m.163.com/news/article/L5230RF8051492T3.html)
+[歼轰7飞机总设计师陈一坚院士逝世 享年96岁](https://m.163.com/news/article/L547KK570534A4SC.html)
 
-[旅客突发疾病 俄罗斯SU645航班紧急备降武汉](https://m.163.com/news/article/L5213ECF053469LG.html)
+[3](https://m.163.com/touch/news/sub/domestic)
+
+[李运代理深圳市人民政府市长职务 曾在农行、建行任职](https://m.163.com/news/article/L548BU6O0514CDBK.html)
 
 ---end---
