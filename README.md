@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-24 07:45:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-24 09:17:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市蜀都中学校2026年公开招聘编外初中道德与法治教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091738)
+[重庆九洲隆瓴科技有限公司关于招聘信息化工程师的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091874)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
