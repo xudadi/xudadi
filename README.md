@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-25 02:03:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-25 02:59:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆设计集团工程检测科技有限公司2026年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3094464)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[女游客在青岛一公园拒搭讪后遭辱骂 涉事男子被拘十日](https://m.163.com/news/article/L54F9Q7O0001899O.html)
+[一家自驾3500公里送娃报到 "送子求学"淋成"逆子求学"](https://m.163.com/news/article/L54KUM9S0514D3UH.html)
 
-[涉四宗罪陕北"孙小果案"二审宣判：维持一审死刑判决](https://m.163.com/news/article/L548PC3P051492T3.html)
+[男子求复合遭拒捅数十刀致女子死亡获死缓 检方抗诉](https://m.163.com/news/article/L54MH73205345ARG.html)
 
-[歼轰7飞机总设计师陈一坚院士逝世 享年96岁](https://m.163.com/news/article/L547KK570534A4SC.html)
+["金季酒店"已与"全季"庭外和解 老板：会改名继续营业](https://m.163.com/news/article/L53J9SPB05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[李运代理深圳市人民政府市长职务 曾在农行、建行任职](https://m.163.com/news/article/L548BU6O0514CDBK.html)
+[3人在餐饮店用餐出现中毒症状 提出20万"一次性了结"](https://m.163.com/news/article/L54F7F6U0514D3UH.html)
 
 ---end---
