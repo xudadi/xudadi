@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-24 14:03:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-24 15:20:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆九洲隆瓴科技有限公司关于招聘信息化工程师的公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3091874)
+[陆海新通道运营重庆有限公司2026年第三季度招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3092454)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -27,8 +27,8 @@
 
 [男子把订婚五金调包成"金包银" 又用其典当套现208万](https://m.163.com/news/article/L51E0KMB05561G0D.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
-
 ["捂脸跑"机器人火出圈 研发团队：跑姿是它自己"想"的](https://m.163.com/news/article/L5230RF8051492T3.html)
+
+[旅客突发疾病 俄罗斯SU645航班紧急备降武汉](https://m.163.com/news/article/L5213ECF053469LG.html)
 
 ---end---
