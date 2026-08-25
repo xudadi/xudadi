@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-26 02:03:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-26 02:56:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市潼南区卫生健康委员会面向社会公开招聘事业单位编外工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3097038)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[马云出手增持阿里巴巴 连日买入超6亿港元](https://m.163.com/news/article/L56TKJF80514R9P4.html)
+[胖东来许昌新店已正式注册 与将关闭门店相隔仅4公里](https://m.163.com/news/article/L579DIK8053469LG.html)
 
-[关于征集火箭军部队违规采购问题的公告](https://m.163.com/news/article/L56S786H0001899O.html)
+[点外卖备注"孩子化疗不能吃辣"老板偷偷塞钱 家长发声](https://m.163.com/news/article/L53U07F9053469M5.html)
 
-[中国女子在泰国遭绑架四名嫌疑人已全部落网 详情披露](https://m.163.com/news/article/L56RED5F0514D3UH.html)
+[疑因提建议受上级打压 绿化工留下指向明确遗言后坠亡](https://m.163.com/news/article/L575RKRV05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[上市公司要求校招生"不辞职就打螺丝" 官方已介入调查](https://m.163.com/news/article/L56NAHUS0514D3UH.html)
+[“羞辱式”劝退应届生的上市公司致歉](https://m.163.com/news/article/L577R12V053469LG.html)
 
 ---end---
