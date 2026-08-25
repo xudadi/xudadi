@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-25 13:47:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-25 14:47:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆设计集团工程检测科技有限公司2026年招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3094464)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往大足区某机关事业单位工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3095892)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[北大原副校长任羽中受贿3195万被判8年](https://m.163.com/news/article/L545H6KK0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[一家自驾3500公里送娃报到 "送子求学"淋成"逆子求学"](https://m.163.com/news/article/L54KUM9S0514D3UH.html)
+[300多只东北虎再次延长“轻断食” 专家回应](https://m.163.com/news/article/L5672PGM053469LG.html)
 
-[男子求复合遭拒捅数十刀致女子死亡获死缓 检方抗诉](https://m.163.com/news/article/L54MH73205345ARG.html)
+[马斯克妈妈分享上海之行 马斯克：上海是座伟大的城市](https://m.163.com/news/article/L562GR6A053469LG.html)
+
+[宗馥莉人事新动作 宏胜集团人力资源部部长被免职](https://m.163.com/news/article/L565DUF6051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["金季酒店"已与"全季"庭外和解 老板：会改名继续营业](https://m.163.com/news/article/L53J9SPB05561G0D.html)
+[50岁大叔伪装少女隔空猥亵10岁女童 聊天让人不寒而栗](https://m.163.com/news/article/L55U2VM2055040N3.html)
 
 ---end---
