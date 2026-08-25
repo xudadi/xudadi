@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-25 20:15:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-25 21:27:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往大足区某机关事业单位工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3095892)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市潼南区卫生健康委员会面向社会公开招聘事业单位编外工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3097038)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[300多只东北虎再次延长“轻断食” 专家回应](https://m.163.com/news/article/L5672PGM053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[马斯克妈妈分享上海之行 马斯克：上海是座伟大的城市](https://m.163.com/news/article/L562GR6A053469LG.html)
+[马云出手增持阿里巴巴 连日买入超6亿港元](https://m.163.com/news/article/L56TKJF80514R9P4.html)
 
-[宗馥莉人事新动作 宏胜集团人力资源部部长被免职](https://m.163.com/news/article/L565DUF6051492T3.html)
+[关于征集火箭军部队违规采购问题的公告](https://m.163.com/news/article/L56S786H0001899O.html)
+
+[中国女子在泰国遭绑架四名嫌疑人已全部落网 详情披露](https://m.163.com/news/article/L56RED5F0514D3UH.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[50岁大叔伪装少女隔空猥亵10岁女童 聊天让人不寒而栗](https://m.163.com/news/article/L55U2VM2055040N3.html)
+[上市公司要求校招生"不辞职就打螺丝" 官方已介入调查](https://m.163.com/news/article/L56NAHUS0514D3UH.html)
 
 ---end---
