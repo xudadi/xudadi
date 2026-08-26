@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-26 13:59:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-26 15:01:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市潼南区卫生健康委员会面向社会公开招聘事业单位编外工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3097038)
+[重庆市辅仁中学校2026年面向社会公开招聘编外聘用人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3098337)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
