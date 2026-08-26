@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-26 20:17:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-26 21:33:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市辅仁中学校2026年面向社会公开招聘编外聘用人员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3098337)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市巴南区界石镇中心小学校招聘数学、语文教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3099182)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[胖东来许昌新店已正式注册 与将关闭门店相隔仅4公里](https://m.163.com/news/article/L579DIK8053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[点外卖备注"孩子化疗不能吃辣"老板偷偷塞钱 家长发声](https://m.163.com/news/article/L53U07F9053469M5.html)
+[罗永浩和朋友向"扶老人被索赔"店主捐10万元 发文回应](https://m.163.com/news/article/L58IG5RS051492LM.html)
 
-[疑因提建议受上级打压 绿化工留下指向明确遗言后坠亡](https://m.163.com/news/article/L575RKRV05561G0D.html)
+[男孩从大山考入中山大学一路读到博士 突然被死神选中](https://m.163.com/news/article/L579T8JG053469LG.html)
+
+[北京恭王府旁2.6亿四合院流拍 35户租户腾退难度极高](https://m.163.com/news/article/L56SA5BO0534A4SC.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[“羞辱式”劝退应届生的上市公司致歉](https://m.163.com/news/article/L577R12V053469LG.html)
+[男子常住大10岁小三家里 辩称因"她儿子电脑配置好"](https://m.163.com/news/article/L590RLS80514R9OJ.html)
 
 ---end---
