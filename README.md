@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-27 11:19:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-27 22:28:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巴南区界石镇中心小学校招聘数学、语文教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3099182)
+[派往某国有物业公司招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3100545)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
