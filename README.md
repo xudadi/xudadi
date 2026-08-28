@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-28 07:54:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-28 17:58:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市奉节县教育事业单位面向2026年应届毕业公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3101697)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市云阳县事业单位2026年面向服务期满且考核合格“三支一扶”人员、应届毕业农村订单定向医学生、应届毕业公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103124)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[17岁抗癌博主去世确诊白血病仅一年多 姐姐哽咽发声](https://m.163.com/news/article/L5C66FI8053469LG.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[90后"奶茶姐姐"当选香飘飘副董事长 系董事长之女](https://m.163.com/news/article/L5BTG1530530JPVV.html)
+[广州一社区开免费托管班 社区书记为8个孩子当5天大厨](https://m.163.com/news/article/L5DIHJFU05561G0D.html)
 
-[两兄妹遭蜂群蜇伤身亡:儿子被蜇300下 女儿被蜇700下](https://m.163.com/news/article/L5C1U7MS051492T3.html)
+[16岁女孩车祸离世 母亲急寻遗失手机：怕淡忘她的模样](https://m.163.com/news/article/L5EACRO70514D3UH.html)
+
+[西藏吉隆泥石流已致5人遇难558人失联](https://m.163.com/news/article/L5EAFAH3000189PS.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[不插管、不抢救 香港允许病人在最后一刻自己说了算](https://m.163.com/news/article/L5BHJ2MS05506O99.html)
+[国内成品油价今晚上调 加满一箱油多花14.5元](https://m.163.com/news/article/L5E722Q90534A4SC.html)
 
 ---end---
