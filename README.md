@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-29 18:04:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-29 23:04:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103843)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[多名教师被安排在"耻辱"背景板前合影 四川雷波县致歉](https://m.163.com/news/article/L5ETNPQ60514R9P4.html)
+[父亲自驾上万公里送娃上学：女儿去黑龙江 儿子去新疆](https://m.163.com/news/article/L5G7LRN605561G0D.html)
 
-[事关纳税人 地方附加税法公开征求意见](https://m.163.com/news/article/L5ETV08K0512B07B.html)
+[绿媒将尼泊尔山洪污蔑为中方造成的"人祸" 钧正平发声](https://m.163.com/news/article/L5GHOMKE051492LM.html)
 
-[女子称丈夫坠亡130万赔偿被公婆藏匿:法官电话被拉黑](https://m.163.com/news/article/L5EQVEGB053469LG.html)
+[导致近2000人失联 灾害或起源于吉隆口岸以东13公里处](https://m.163.com/news/article/L5F1J85O0514BE2Q.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[老人搬家遭遇"软暴力"强迫交易：极端时出动11名壮汉](https://m.163.com/news/article/L5ELT4JI0512DU6N.html)
+[12岁男孩送48岁爸爸上学：爸爸以第一名成绩考上博士](https://m.163.com/news/article/L5G38L6N051494GR.html)
 
 ---end---
