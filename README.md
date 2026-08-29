@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-29 05:09:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-29 11:10:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市云阳县事业单位2026年面向服务期满且考核合格“三支一扶”人员、应届毕业农村订单定向医学生、应届毕业公费师范生考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103124)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103843)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[广州一社区开免费托管班 社区书记为8个孩子当5天大厨](https://m.163.com/news/article/L5DIHJFU05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[16岁女孩车祸离世 母亲急寻遗失手机：怕淡忘她的模样](https://m.163.com/news/article/L5EACRO70514D3UH.html)
+[多名教师被安排在"耻辱"背景板前合影 四川雷波县致歉](https://m.163.com/news/article/L5ETNPQ60514R9P4.html)
 
-[西藏吉隆泥石流已致5人遇难558人失联](https://m.163.com/news/article/L5EAFAH3000189PS.html)
+[事关纳税人 地方附加税法公开征求意见](https://m.163.com/news/article/L5ETV08K0512B07B.html)
+
+[女子称丈夫坠亡130万赔偿被公婆藏匿:法官电话被拉黑](https://m.163.com/news/article/L5EQVEGB053469LG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[国内成品油价今晚上调 加满一箱油多花14.5元](https://m.163.com/news/article/L5E722Q90534A4SC.html)
+[老人搬家遭遇"软暴力"强迫交易：极端时出动11名壮汉](https://m.163.com/news/article/L5ELT4JI0512DU6N.html)
 
 ---end---
