@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-30 15:26:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-30 21:09:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103843)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[父亲自驾上万公里送娃上学：女儿去黑龙江 儿子去新疆](https://m.163.com/news/article/L5G7LRN605561G0D.html)
+[3亩稻田疑遭恶意喷药大面积枯死 男子：已报案近2个月](https://m.163.com/news/article/L5JD0U1Q05149E7M.html)
 
-[绿媒将尼泊尔山洪污蔑为中方造成的"人祸" 钧正平发声](https://m.163.com/news/article/L5GHOMKE051492LM.html)
+[诈骗男子给女友转账261万 受害者起诉其女友还钱被驳](https://m.163.com/news/article/L5HP3SSH051492LM.html)
 
-[导致近2000人失联 灾害或起源于吉隆口岸以东13公里处](https://m.163.com/news/article/L5F1J85O0514BE2Q.html)
+[家长拿起蛇标本给孩子玩闹致受损 国家动物博物馆回应](https://m.163.com/news/article/L5JE98AJ0534P59R.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[12岁男孩送48岁爸爸上学：爸爸以第一名成绩考上博士](https://m.163.com/news/article/L5G38L6N051494GR.html)
+[女警文燕在泥石流灾害中失联 父亲心痛：我就一个女儿](https://m.163.com/news/article/L5IOPQOI05149E7M.html)
 
 ---end---
