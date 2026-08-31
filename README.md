@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-31 22:27:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-01 04:18:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [陆军军医大学基础医学院招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3106937)
 
