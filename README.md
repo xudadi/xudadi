@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-31 14:43:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-31 22:27:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆机床(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3104709)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[陆军军医大学基础医学院招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3106937)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[被迫离职女子维权：被踢出845个工作群 一上午没踢完](https://m.163.com/news/article/L5K5RHJ805561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[南航一波音777客机在机场误放滑梯 经济损失或超10万](https://m.163.com/news/article/L5K4SFDQ0512D3VJ.html)
+[店铺墙体垮塌致2死：违法野蛮施工导致 5人被建议处理](https://m.163.com/news/article/L5MA07820514R9P4.html)
 
-[女子称在电梯内遭男邻居"猥亵" 因虚构事实被行政拘留](https://m.163.com/news/article/L5JV716A05561G0D.html)
+[华为上半年营收4678亿元 净利润234亿](https://m.163.com/news/article/L5M7I84B0001899O.html)
+
+[官方通报：中国羽协副主席夏煊泽、原副主席王伟被查](https://m.163.com/news/article/L5M6P9FU0001899O.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-["三桶油"上半年净赚超2100亿元](https://m.163.com/news/article/L5K3U4BI05199NPP.html)
+[水利部：尼泊尔错坚河冲击坑周边冰川仍有崩落可能](https://m.163.com/news/article/L5M5V0KQ0512D3VJ.html)
 
 ---end---
