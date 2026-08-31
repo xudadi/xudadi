@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-08-31 08:51:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-08-31 14:43:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆农投肉食品有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3103843)
+[重庆机床(集团)有限责任公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3104709)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
