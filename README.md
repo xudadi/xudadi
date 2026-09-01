@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-01 08:00:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-01 12:55:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[陆军军医大学基础医学院招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3106937)
+[重庆市铜梁区保安服务有限公司派往重庆市铜梁区公安局警务辅助岗位工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3108013)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
