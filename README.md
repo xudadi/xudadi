@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-01 22:34:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-02 01:58:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市巴南区巴渝小学校招聘音乐教师公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3109189)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[派往重庆市委党史研究室工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3109393)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山西一餐馆被指有两套菜单：本地人外地人同菜不同价](https://m.163.com/news/article/L5OK20BO051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[亚运会国足名单确定 张玉宁等三名超龄球员入选](https://m.163.com/news/article/L5OL0NS00514R9P4.html)
+[家长称因拒签"免责协议" 患抑郁初中生被拒返校](https://m.163.com/news/article/L5OL8CT6051492T3.html)
 
-[男子未经同意在鱼塘钓鱼触碰高压线身亡 家属索赔百万](https://m.163.com/news/article/L5OC6RQT051492T3.html)
+[女子横穿马路被判全责 反问交警"我被撞了就活该了吗"](https://m.163.com/news/article/L5OOHEB3055040N3.html)
+
+[广汽传祺车主全款购车拿不到合格证 临牌到期无法上路](https://m.163.com/news/article/L5P14TIF05561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子杀死肉铺合伙人3分钟后又杀2名顾客 杀人原因披露](https://m.163.com/news/article/L5O66E0305561G0D.html)
+[于东来晒胖东来今年前8个月业绩 年底关门的门店排第6](https://m.163.com/news/article/L5P26M7M053469LG.html)
 
 ---end---
