@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-01 04:18:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-01 08:00:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [陆军军医大学基础医学院招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3106937)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[店铺墙体垮塌致2死：违法野蛮施工导致 5人被建议处理](https://m.163.com/news/article/L5MA07820514R9P4.html)
+[游客新手机掉展馆夹层 5位工作人员高温作业2小时取出](https://m.163.com/news/article/L5MJ41MP05561G0D.html)
 
-[华为上半年营收4678亿元 净利润234亿](https://m.163.com/news/article/L5M7I84B0001899O.html)
+[江苏省委常委刘建洋被查 曾在江西、福建任职](https://m.163.com/news/article/L5MIFN1P0534A4SC.html)
 
-[官方通报：中国羽协副主席夏煊泽、原副主席王伟被查](https://m.163.com/news/article/L5M6P9FU0001899O.html)
+[吉隆口岸搜救现场披露：国门所在地仅剩地基](https://m.163.com/news/article/L5MGMGN105561G0D.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[水利部：尼泊尔错坚河冲击坑周边冰川仍有崩落可能](https://m.163.com/news/article/L5M5V0KQ0512D3VJ.html)
+[捐赠者谈珍贵蛇标本遭破坏：很心痛 问题出在大人身上](https://m.163.com/news/article/L5M7MC9B053469LG.html)
 
 ---end---
