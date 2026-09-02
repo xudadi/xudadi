@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-02 09:01:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-02 13:50:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[派往重庆市委党史研究室工作人员招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3109393)
+[重庆市万盛经开区事业单位2026年面向服务期满且考核合格“三支一扶”人员考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3109977)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
