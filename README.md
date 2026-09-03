@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-03 14:13:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-03 19:20:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆飞驶特人力资源管理有限公司派往重庆新华文化产业有限公司陆海文化产业园工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3112063)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市某酒店岗位招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3113396)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[家长花4500元报机器人编程 孩子才上11课时机构"跑路"](https://m.163.com/news/article/L5RGO9IT051492T3.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[星宇被指订单断崖下跌 董事长回应](https://m.163.com/news/article/L5R9LN420001899O.html)
+[山东2.6万平方米违建被举报至今未处理 涉事商人发声](https://m.163.com/news/article/L5TSM2UD051492T3.html)
 
-[功夫巨星陈观泰去世：凭《马永贞》成名 发掘了周星驰](https://m.163.com/news/article/L5R7BA260514BE2Q.html)
+[浙江75岁“葫芦娃爷爷”突然爆火 老伴谈经历哽咽落泪](https://m.163.com/news/article/L5TLE4SQ0514R9OJ.html)
+
+[星宇股份鼓励互相举报 员工之间可因工位灰尘互罚50元](https://m.163.com/news/article/L5TGP5HM05199DKK.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[男子陪情人流产签200万分手协议 转款49.9万被妻发现](https://m.163.com/news/article/L5R2D1HE051492T3.html)
+[商人特意买下AAA级景区低价租给如是书院：造福人类](https://m.163.com/news/article/L5TGPE080534P59R.html)
 
 ---end---
