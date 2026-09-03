@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-03 09:22:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-03 14:13:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市长寿区事业单位面向2026年服务期满且考核合格“三支一扶”人员考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3111373)
+[重庆飞驶特人力资源管理有限公司派往重庆新华文化产业有限公司陆海文化产业园工作人员招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3112063)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
