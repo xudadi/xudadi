@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-04 22:50:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-05 02:09:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市三峡生态渔业有限公司招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3115537)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆征信有限责任公司2026年市场化招聘专业人才公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3115641)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[山东45岁产妇心跳骤停抢救52天后身亡 家属最新发声](https://m.163.com/news/article/L60EMALC05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[博主追猎河北"甲醛白菜":瓶子印着甲醛 工人说不知道](https://m.163.com/news/article/L60DB9RI05506O99.html)
+[19岁女孩突患肝衰竭暴瘦20多斤 被大学录取仅一周](https://m.163.com/news/article/L60GPUAK053469LG.html)
 
-[重庆抗癌博主唐豆豆离世：确诊仅4个月 幼时父母双亡](https://m.163.com/news/article/L60CBLUU053469LG.html)
+[男子杀妻抛尸6年后警方DNA比对找到尸体 死者家属发声](https://m.163.com/news/article/L60KMV9V05561G0D.html)
+
+[南大老师PPT称"没Token的计算机专业学生应立即退学"](https://m.163.com/news/article/L60JIP26051492T3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[女子被前男友自制爆炸物炸成重伤：左手截肢 右眼失明](https://m.163.com/news/article/L60B67A20514BE2Q.html)
+[大三女生患病急需骨髓移植 母亲含泪公开身世：抱养的](https://m.163.com/news/article/L60FQRG5051492T3.html)
 
 ---end---
