@@ -9,9 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-04 09:10:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-04 13:54:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市某酒店岗位招聘 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3113396)
+[重庆某单位招聘管网巡查外包岗位公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3114232)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
