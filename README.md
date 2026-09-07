@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-07 18:45:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-08 00:05:55 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆大学大数据与软件学院编程语言与编译器团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3116965)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆发展资产经营有限公司2026年下半年员工公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3117722)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[钱穆之子钱行逝世](https://m.163.com/news/article/L67FH2LU0534A4SC.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[全场狂送29次失误 中国女篮凭借两大核心极限逆转捷克](https://m.163.com/news/article/L67959AB055040N3.html)
+[444分被殡葬专业录取男生入学：父母担心我找不到媳妇](https://m.163.com/news/article/L67SD026055040N3.html)
 
-[特斯拉：Model Y全系现金激励10000元](https://m.163.com/news/article/L679V5MQ0512B07B.html)
+[男子救4名落水儿童牺牲 当地启动见义勇为和烈士评定](https://m.163.com/news/article/L67SQP6J051492T3.html)
+
+[贵州失联3个女孩都已找到 其中2个孩子已经回家](https://m.163.com/news/article/L67MBFC505345ARG.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[两个女生同名同姓、同年同月同日生 考上同校同个专业](https://m.163.com/news/article/L66423HU0514D3UH.html)
+[中国幸存者在尼泊尔被发现瞬间披露 称附近还有一个人](https://m.163.com/news/article/L67QEBIH051492T3.html)
 
 ---end---
