@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-07 08:50:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-07 13:44:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[招商局检测车辆技术研究院社招岗位招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3116308)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆大学大数据与软件学院编程语言与编译器团队劳务派遣科研助理招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3116965)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[研二学生线下交易黄金收12.4万 钱刚到账账户就被冻结](https://m.163.com/news/article/L64SSQ9D051494GR.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[福建福鼎集中销毁近10吨"泡水茶"价值200万 茶农发声](https://m.163.com/news/article/L653AK0D05561G0D.html)
+[钱穆之子钱行逝世](https://m.163.com/news/article/L67FH2LU0534A4SC.html)
 
-[佛山70余企业联名质疑园区"电费加价" 市监部门已立案](https://m.163.com/news/article/L654FK2D0512D3VJ.html)
+[全场狂送29次失误 中国女篮凭借两大核心极限逆转捷克](https://m.163.com/news/article/L67959AB055040N3.html)
+
+[特斯拉：Model Y全系现金激励10000元](https://m.163.com/news/article/L679V5MQ0512B07B.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[5架退役民航客机被打包拍卖 起拍价500万元](https://m.163.com/news/article/L6538VDB053469LG.html)
+[两个女生同名同姓、同年同月同日生 考上同校同个专业](https://m.163.com/news/article/L66423HU0514D3UH.html)
 
 ---end---
