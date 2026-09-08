@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-08 08:43:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-08 13:19:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆发展资产经营有限公司2026年下半年员工公开招聘公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3117722)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆市巴南区圣灯山镇人民政府公开招聘专职消防员简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3118786)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[吴彦祖谈CHINA GT事故:赛会方36小时后发声明是可耻的](https://m.163.com/news/article/L6832FEM05561G0D.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[男子网拍一套二手房 过了一年才知"被做了个局"崩溃](https://m.163.com/news/article/L68Q06RM0001899O.html)
+[媒体：日本先把战犯神社、镇魂妖塔拆了 再谈"伤感情"](https://m.163.com/news/article/L68PREUQ053469LG.html)
 
-[央媒报道企业私设码头4年关不掉后 苏州提级调查](https://m.163.com/news/article/L682A97Q0514R9P4.html)
+[再次"让五追七" 郑钦文：很久没战胜世界前十的选手了](https://m.163.com/news/article/L69ARH59055040N3.html)
+
+[20分大胜意大利队 中国女篮打出新周期最佳一战](https://m.163.com/news/article/L69T3BTK055040N3.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[星宇股份劝退应届生风波发酵15天 HR总监停职变免职](https://m.163.com/news/article/L68LSKGL051492T3.html)
+["梅姨"案进审判阶段 申军良：想亲口问她晚上睡得着吗](https://m.163.com/news/article/L69UQ1MV0534P59R.html)
 
 ---end---
