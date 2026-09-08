@@ -9,7 +9,7 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-08 22:20:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-09 02:00:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [重庆市彭水自治县事业单位面向2026年服务期满且考核合格“三支一扶”人员考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3120500)
 
@@ -21,14 +21,14 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[福建莆田千年"八卦村"洪灾中被冲毁 1000余栋民居垮塌](https://m.163.com/news/article/L6ABLM3B05129QAF.html)
+[杭州小区交付1年多16台电梯15台出问题 业主直呼离谱](https://m.163.com/news/article/L6BBPCVI0001899O.html)
 
-[媒体：指控4岁男童摸屁股？“纠缠式维权”该停了](https://m.163.com/news/article/L6A3PDEK0514R9P4.html)
+[车企工人钻车底拆螺栓 车辆前桥脱落下坠致其被压身亡](https://m.163.com/news/article/L6B072EJ05129QAF.html)
 
-[女孩身中30余刀死亡凶手被改判死缓 家属申诉有新进展](https://m.163.com/news/article/L6AAK6200550AVKV.html)
+[三"虎"同日被处理：原正部级老虎被"双开" 一虎获死缓](https://m.163.com/news/article/L6AVN0HL055040N3.html)
 
-[江西遂川泥石流灾害已致5人遇难7人失联](https://m.163.com/news/article/L6AD68T50512D3VJ.html)
+[3](https://m.163.com/touch/news/sub/domestic)
 
-[网红晒图称捐款百万结果被证实实际只捐1元 多方回应](https://m.163.com/news/article/L68TBAVO051492LM.html)
+[高一女生在"军训"中遭强制猥亵：他掀我衣服说想亲我](https://m.163.com/news/article/L6B3E7GI0514R9P4.html)
 
 ---end---
