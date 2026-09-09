@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-09-09 09:23:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-09-09 14:25:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆市彭水自治县事业单位面向2026年服务期满且考核合格“三支一扶”人员考核招聘工作人员公告 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3120500)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆工商大学党委网络工作部学生助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3121238)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[杭州小区交付1年多16台电梯15台出问题 业主直呼离谱](https://m.163.com/news/article/L6BBPCVI0001899O.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[车企工人钻车底拆螺栓 车辆前桥脱落下坠致其被压身亡](https://m.163.com/news/article/L6B072EJ05129QAF.html)
+[清华大学杨振宁高等研究院揭牌 翁帆出席仪式并发言](https://m.163.com/news/article/L6CGT6IC0514R9P4.html)
 
-[三"虎"同日被处理：原正部级老虎被"双开" 一虎获死缓](https://m.163.com/news/article/L6AVN0HL055040N3.html)
+[学生质疑学校收空调使用维护费不缴费就上锁 校方回应](https://m.163.com/news/article/L6CG77RV0514D3UH.html)
+
+[女子偷拍亲密视频要挟局长牵出受贿案 两人双双入狱](https://m.163.com/news/article/L6CBKT2P0530WJIN.html)
 
 [3](https://m.163.com/touch/news/sub/domestic)
 
-[高一女生在"军训"中遭强制猥亵：他掀我衣服说想亲我](https://m.163.com/news/article/L6B3E7GI0514R9P4.html)
+[男子16岁时放弃重点高中去学烹饪 父亲爷爷都是企业家](https://m.163.com/news/article/L6C89PBV0514R9P4.html)
 
 ---end---
