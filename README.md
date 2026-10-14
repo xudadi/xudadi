@@ -9,11 +9,9 @@
 
 ---start---
 
-## Xudadi的每日更新(更新时间:2026-10-14 18:27:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## Xudadi的每日更新(更新时间:2026-10-14 23:22:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[重庆工商大学党委网络工作部学生助理招聘启事 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3121238)
-
-[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
+[重庆融合文化旅游发展有限公司传媒分公司2026年第四季度公开招聘简章 (重庆市公考雷达)](https://www.gongkaoleida.com/article/3161420)
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
@@ -21,14 +19,16 @@
 
 [undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[清华大学杨振宁高等研究院揭牌 翁帆出席仪式并发言](https://m.163.com/news/article/L6CGT6IC0514R9P4.html)
+[undefined (重庆市国有资产监督管理委员会)](https://dadilab.github.io/feeds/all.xml)
 
-[学生质疑学校收空调使用维护费不缴费就上锁 校方回应](https://m.163.com/news/article/L6CG77RV0514D3UH.html)
+[绿城中国前主席张亚东被指控受贿2000万港元 细节披露](https://m.163.com/news/article/L97F8CPD0512B07B.html)
 
-[女子偷拍亲密视频要挟局长牵出受贿案 两人双双入狱](https://m.163.com/news/article/L6CBKT2P0530WJIN.html)
+[成都警方通报"女子用U型锁打人"：打人女子被当场控制](https://m.163.com/news/article/L97ST7FR0001899O.html)
 
-[3](https://m.163.com/touch/news/sub/domestic)
+[女副部包惠被开除党籍：违规决策造成重大金融风险](https://m.163.com/news/article/L97GIJNG0534A4SC.html)
 
-[男子16岁时放弃重点高中去学烹饪 父亲爷爷都是企业家](https://m.163.com/news/article/L6C89PBV0514R9P4.html)
+[翻垃圾找回顾客婚戒 海底捞三员工每人获奖一枚金戒指](https://m.163.com/news/article/L97R9AIF05345ARG.html)
+
+[女子公园内遭游览车撞击受重伤 司机垫付2.5万后停付](https://m.163.com/news/article/L97JJT1G051492T3.html)
 
 ---end---
